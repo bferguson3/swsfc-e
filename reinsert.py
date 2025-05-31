@@ -1,12 +1,3 @@
-#caps are 30h to 49h
-
-#50-bf and
-#d0-ff to be filled with most common
-
-#$2992B
-#名前を入力してください < 16 bytes
-#E.nt.er. y.ou.r .na.me.: < 9 bytes 
-
 import numpy,sys,os 
 from PIL import Image, ImageDraw
 
@@ -48,8 +39,14 @@ class TLWord():
 # test 
 print("Populating translations... ", end="")
 words=[]
-words.append(TLWord(0x1bd79, 1, "Wa"))
-words.append(TLWord(0x1b1e0, 2, "Enmy"))
+
+
+words.append(TLWord(0x8cbc, 11, "Item        Status"))
+words.append(TLWord(0x8cc8, 12, "Magic       System"))
+words.append(TLWord(0x8cd5, 16, "Equipment   Options"))
+words.append(TLWord(0x2cb40, 2, "Pt"))
+words.append(TLWord(0x1b1e0, 2, "Enm"))
+
 words.append(TLWord(0x5f07c, 29, "Oran is the largest city \x01on all of Alecrast."))
 words.append(TLWord(0x2993b, 16, "Choose a race:"))
 words.append(TLWord(0x15932, 10, "Adventure on"))
@@ -63,6 +60,8 @@ words.append(TLWord(0x16420, 10, "New character"))
 words.append(TLWord(0x1642b, 13, "Erase adventure"))
 words.append(TLWord(0x15d38, 17, "Erase save?     Yes   No"))
 words.append(TLWord(0x15d4a, 13, "Erase adventure"))
+words.append(TLWord(0x153b7, 41, "Save game   Formatn.Message history \x01Toss item "))
+
 
 words.append(TLWord(0x165d0, 7, "Empty"))
 words.append(TLWord(0x2994e, 3, "Hum."))
@@ -76,14 +75,13 @@ words.append(TLWord(0x299b4, 7, "MaleFem"))
 
 words.append(TLWord(0x299ca, 18, "Is this OK?         Yes     No"))
 
-words.append(TLWord(0x299e7, 4, " Birth"))
+words.append(TLWord(0x299e7, 4, " Born"))
 words.append(TLWord(0x299eb, 6, " Exp."))
 words.append(TLWord(0x299f0, 6, "Gamel"))
 
-
 words.append(TLWord(0x29a46, 15, "Raise which skills?"))
 words.append(TLWord(0xb52f, 6, "Exp. "))
-words.append(TLWord(0x29cc6, 4, "Wildling"))
+words.append(TLWord(0x29cc6, 4, "Wild"))
 words.append(TLWord(0x29cef, 7, "Civilian"))
 words.append(TLWord(0x29cce, 7, "Magician"))
 words.append(TLWord(0x29cd9, 4, "Thug"))
@@ -91,16 +89,11 @@ words.append(TLWord(0x29d06, 4, "Merc."))
 words.append(TLWord(0x29a34, 17, "Choose a deity :"))
 words.append(TLWord(0x29a56, 18, "Is this OK?          Yes    No"))
 
-words.append(TLWord(0x8cbc, 11, "Item        Status"))
-words.append(TLWord(0x8cc8, 12, "Magic       System"))
-words.append(TLWord(0x8cd5, 16, "Equipment   Options"))
-
-
 words.append(TLWord(0x16415, 10, "Adventure on"))
 words.append(TLWord(0x1f10d, 12, "Who will search?"))
 words.append(TLWord(0x1f11a, 10, " cannot search."))
 words.append(TLWord(0x1ef96, 24, "There's nothing there.\x0f"))
-words.append(TLWord(0x19f06, 21,  "No spellsongs for outside \x01battle"))
+words.append(TLWord(0x19f06, 21,  "No spellsongs for out of \x01btl"))
 words.append(TLWord(0x19c5e, 8,  "Spirit Mgc"))
 words.append(TLWord(0x19c53, 10, "Ancient Mg"))
 words.append(TLWord(0x19c67, 8,  "Holy Magic"))
@@ -127,7 +120,6 @@ words.append(TLWord(0x1601b, 14, "Copy adventure"))
 words.append(TLWord(0x15ff8, 17, "Select destination"))
 words.append(TLWord(0x1600a, 16, "Data already exists."))
 words.append(TLWord(0x15aea, 16, "Data already exists."))
-
 #bard:
 words.append(TLWord(0x1a1b8, 26, "Awaken bravery, \x01improving strength"))
 words.append(TLWord(0x1a1d3, 27, "Weakens will, \x01lowering attack power"))
@@ -138,20 +130,57 @@ words.append(TLWord(0x1abfd, 25, "Checks active spirits \x01in the area."))
 # 1ae70 : holy magic descs 
 words.append(TLWord(0x1ae6e, 6, "Heals."))
 
-
 words.append(TLWord(0x1b1d6, 4, "Self"))
 words.append(TLWord(0x1b1db, 4, "Ally"))
 words.append(TLWord(0x1b1e3, 6, "Any"))
 words.append(TLWord(0x1b1ea, 4, "Other"))
-words.append(TLWord(0x153b7, 41, "Save game   Formatn.Message history \x01Toss item "))
 words.append(TLWord(0xec2c, 14, "Save the game?"))
 words.append(TLWord(0xedaa, 13, "Game saved."))
 words.append(TLWord(0xedf6, 17, "Couldn't save data!"))
 words.append(TLWord(0x1bd55, 11, " \x01spirits are here."))
 words.append(TLWord(0x1bd75, 3, "Ea"))
-words.append(TLWord(0x1bd7b, 2, "Fi"))
+words.append(TLWord(0x1bd7b, 2, "F"))
 words.append(TLWord(0x1bd95, 4, "other"))
 
+words.append(TLWord(0x2ce3f, 7, "Leave Oran"))
+words.append(TLWord(0x2ce83, 8, "Back to Oran"))
+words.append(TLWord(0x2cad5, 14, "Gate to Anc.Kg Inn"))
+words.append(TLWord(0x2cae4, 13, "Brilliant Home Inn"))
+words.append(TLWord(0x2cb5d, 11, "Sorcerers Guild"))
+words.append(TLWord(0x2caf8, 9, "Thief Guild"))
+words.append(TLWord(0x2cb02, 8, "Pharis Tpl"))
+words.append(TLWord(0x2cb0b, 8, "Marfa Tpl"))
+words.append(TLWord(0x2cb14, 8, "Myrii Tpl"))
+words.append(TLWord(0x2cb1d, 8, "Rahda Tpl"))
+words.append(TLWord(0x2cb26, 9, "Cha-Za Tpl"))
+words.append(TLWord(0x2cb30, 7, "Wpn Shop"))
+words.append(TLWord(0x2cb38, 7, "Mir Shop"))
+
+words.append(TLWord(0xd802, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xd855, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xdc29, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xdc89, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xdcd0, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xdd17, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xdd9f, 17, "Welcome. \x01How can I help?"))
+words.append(TLWord(0xddde, 17, "Welcome. \x01How can I help?"))
+
+words.append(TLWord(0xaa38, 24, "Find  Work\x01Rest \x01Level Up"))
+words.append(TLWord(0xaac8, 48, "First gather some allies. \x01I can't entrust work to less\x01than five companions."))
+words.append(TLWord(0xab3d, 14, "No real work for now."))
+words.append(TLWord(0xa806, 9, "Rest? "))
+words.append(TLWord(0xa810, 10, "Another night?"))
+words.append(TLWord(0xa942, 8, "'s HP \x0f"))
+words.append(TLWord(0xa95d, 11, " fully healed."))
+words.append(TLWord(0xa94b, 7, " MP \x0f'"))
+words.append(TLWord(0xa953, 8, "pts healed."))
+words.append(TLWord(0xa96a, 9, " not healed."))
+words.append(TLWord(0xa975, 1, "'s"))
+words.append(TLWord(0x18276, 23, "Both    Right   Left    Body    Other"))
+words.append(TLWord(0x18455, 23, "Both    Right   Left    Body    Other"))
+words.append(TLWord(0x1bd79, 1, "\x46"))
+
+words.append(TLWord(0xadbc, 17, "Who will level up?\x0f"))
 
 print(" OK.")
 
@@ -329,23 +358,25 @@ def getcmb(s):
 print("Replacing / compressing text ... ", end="")
 for word in words:
     i = 0
+    word.original = word.translation
+    newword = ''
     while i < len(word.translation)-1:
-        #if (word.translation[i] >= 'A') and (word.translation[i] <= 'Z'):
-        #    word.translation = word.translation[:i] + chr(ord(word.translation[i]) - 0x11) + word.translation[i+1:]
-        #elif(word.translation[i] >= 'a'):
         if(word.translation[i] >= ' ') and (word.translation[i+1] >= ' '):
             if(i == len(word.translation)-1):
                 s = word.translation[i]+' '
             else:
                 s = word.translation[i]+word.translation[i+1]
             j = 0
+            found = False
             while j < len(all_cmb):
                 if all_cmb[j].txt == s: 
+                    print(s)
                     if all_cmb[j].index < 0x100:
                         word.translation = word.translation[:i] + chr(all_cmb[j].index) + word.translation[i+2:]
                     else:
                         word.translation = word.translation[:i] + chr((all_cmb[j].index & 0xff00) >> 8) + chr((all_cmb[j].index & 0xff)) + word.translation[i+2:]
-                    #print(word.translation)
+                        i += 1
+                    print(bytes(word.translation.encode("raw_unicode_escape")))
                     break
                 j += 1
         i += 1
@@ -380,7 +411,7 @@ for word in words:
     s = word.translation.encode("raw_unicode_escape")
     if len(s) > word.len:
         print("too long! truncated")
-        print(s, len(s), word.len)
+        print(word.original, len(s), word.len)
         s = s[:s]
     while len(s) < word.len:
         s += b'\x20'
