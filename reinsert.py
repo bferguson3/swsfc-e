@@ -41,7 +41,7 @@ print("Populating translations... ", end="")
 words=[]
 
 
-words.append(TLWord(0x8cbc, 11, "Item        Status"))
+words.append(TLWord(0x8cbc, 11, "Item        Stats"))
 words.append(TLWord(0x8cc8, 12, "Magic       System"))
 words.append(TLWord(0x8cd5, 16, "Equipment   Options"))
 words.append(TLWord(0x2cb40, 2, "Pt"))
@@ -64,8 +64,8 @@ words.append(TLWord(0x153b7, 41, "Save game   Formatn.Message history \x01Toss i
 
 
 words.append(TLWord(0x165d0, 7, "Empty"))
-words.append(TLWord(0x2994e, 3, "Hum."))
-words.append(TLWord(0x29950, 3, "Elf   "))
+words.append(TLWord(0x2994e, 3, "Hum"))
+words.append(TLWord(0x29950, 3, "Elf"))
 words.append(TLWord(0x29954, 6, "Dwarf"))
 words.append(TLWord(0x29958, 8, "Grassrunner"))
 words.append(TLWord(0x29965, 13, "Half Elf   -    Human"))
@@ -81,12 +81,21 @@ words.append(TLWord(0x299f0, 6, "Gamel"))
 
 words.append(TLWord(0x29a46, 15, "Raise which skills?"))
 words.append(TLWord(0xb52f, 6, "Exp. "))
+
 words.append(TLWord(0x29cc6, 4, "Wild"))
-words.append(TLWord(0x29cef, 7, "Civilian"))
 words.append(TLWord(0x29cce, 7, "Magician"))
 words.append(TLWord(0x29cd9, 4, "Thug"))
+words.append(TLWord(0x29ce1, 3, "Trav"))
+words.append(TLWord(0x29ce8, 3, "Hunt"))
+words.append(TLWord(0x29cef, 7, "Civilian"))
+words.append(TLWord(0x29cfa, 8, "Gentry"))
 words.append(TLWord(0x29d06, 4, "Merc."))
-words.append(TLWord(0x29a34, 17, "Choose a deity :"))
+words.append(TLWord(0x29d0e, 4, "Minister"))
+words.append(TLWord(0x29d16, 5, "Enchanter"))
+words.append(TLWord(0x29d1f, 8, "Nobility"))
+
+words.append(TLWord(0x29a34, 17, "Choose a deity:"))
+words.append(TLWord(0x29a24, 15, "Select spellsong(s):"))
 words.append(TLWord(0x29a56, 18, "Is this OK?          Yes    No"))
 
 words.append(TLWord(0x16415, 10, "Adventure on"))
@@ -137,11 +146,11 @@ words.append(TLWord(0x1b1ea, 4, "Other"))
 words.append(TLWord(0xec2c, 14, "Save the game?"))
 words.append(TLWord(0xedaa, 13, "Game saved."))
 words.append(TLWord(0xedf6, 17, "Couldn't save data!"))
-words.append(TLWord(0x1bd55, 11, " \x01spirits are here."))
+words.append(TLWord(0x1bd55, 11, "\x01spirits are here"))
 words.append(TLWord(0x1bd75, 3, "Ea"))
 words.append(TLWord(0x1bd7b, 2, "F"))
 words.append(TLWord(0x1bd95, 4, "other"))
-
+words.append(TLWord(0xa975, 1, "s"))
 words.append(TLWord(0x2ce3f, 7, "Leave Oran"))
 words.append(TLWord(0x2ce83, 8, "Back to Oran"))
 words.append(TLWord(0x2cad5, 14, "Gate to Anc.Kg Inn"))
@@ -166,8 +175,8 @@ words.append(TLWord(0xdd9f, 17, "Welcome. \x01How can I help?"))
 words.append(TLWord(0xddde, 17, "Welcome. \x01How can I help?"))
 
 words.append(TLWord(0xaa38, 24, "Find  Work\x01Rest \x01Level Up"))
-words.append(TLWord(0xaac8, 48, "First gather some allies. \x01I can't entrust work to less\x01than five companions."))
-words.append(TLWord(0xab3d, 14, "No real work for now."))
+words.append(TLWord(0xaac8, 48, "First gather some allies. \x01I can't give work to less \x01than 5 companions."))
+words.append(TLWord(0xab3d, 14, "No work for now."))
 words.append(TLWord(0xa806, 9, "Rest? "))
 words.append(TLWord(0xa810, 10, "Another night?"))
 words.append(TLWord(0xa942, 8, "'s HP \x0f"))
@@ -175,12 +184,39 @@ words.append(TLWord(0xa95d, 11, " fully healed."))
 words.append(TLWord(0xa94b, 7, " MP \x0f'"))
 words.append(TLWord(0xa953, 8, "pts healed."))
 words.append(TLWord(0xa96a, 9, " not healed."))
-words.append(TLWord(0xa975, 1, "'s"))
+
 words.append(TLWord(0x18276, 23, "Both    Right   Left    Body    Other"))
 words.append(TLWord(0x18455, 23, "Both    Right   Left    Body    Other"))
-words.append(TLWord(0x1bd79, 1, "\x46"))
+words.append(TLWord(0x1bd79, 1, " "))
 
 words.append(TLWord(0xadbc, 17, "Who will level up?\x0f"))
+words.append(TLWord(0xaedf, 25, "Level up skill\x01Raise ability score "))
+words.append(TLWord(0xb030, 19, "Level which skill?\x0f"))
+words.append(TLWord(0xb405, 6, " Fgtr\x0f"))
+words.append(TLWord(0xb40c, 4, " Thief"))
+words.append(TLWord(0xb411, 7, " Ranger\x0f"))
+words.append(TLWord(0xb419, 5, " Sage\x0f"))
+words.append(TLWord(0xb41f, 6, " Bard\x0f"))
+words.append(TLWord(0xb426, 6, " Sorcerer"))
+words.append(TLWord(0xb42d, 6, " Shaman\x0f"))
+words.append(TLWord(0xb434, 7, " Priest\x0f"))
+words.append(TLWord(0xb43c, 19, " will level to\x01\x0f. Is this OK?"))
+words.append(TLWord(0xb4ed, 12, "Skill is maxed."))
+words.append(TLWord(0xb52d, 15, " not enough \x01experience"))
+words.append(TLWord(0xb643, 15, "Raise which ability?"))
+words.append(TLWord(0x8f59, 20, "Cant change formation alone."))
+words.append(TLWord(0x8f4a, 12, "Swap who?"))
+# 95a0 : magic items , 9800 - descriptions, a110 - heal stone stuff
+words.append(TLWord(0xd150, 8, "History"))
+words.append(TLWord(0xd195, 20, "No message history!"))
+# 6060h - char names
+words.append(TLWord(0x1302b, 37, "Wait    Item \x01Attack   Status \x01Magic   Formtn."))
+# 13230 - battle text
+words.append(TLWord(0x3b5e5, 17, "Toss item \x01Toss equipment"))
+words.append(TLWord(0x3b79a, 16, "\x01destroyed. \x01Is this OK?"))
+words.append(TLWord(0x3b7ab, 23, " pieces of equip. \x01Toss which one?"))
+words.append(TLWord(0x3b7c5, 10, "No equipment."))
+words.append(TLWord(0x4dd2, 11, ": Add to party?"))
 
 print(" OK.")
 
@@ -346,7 +382,7 @@ while i < len(all_cmb):
     _img.bytes = char
     output_chr.append(_img)
     i += 2
-print(len(output_chr),"images created OK (~850 max).")
+print(len(output_chr),"images created OK (~720 max).")
 
 def getcmb(s):
     for p in all_cmb:
@@ -370,13 +406,13 @@ for word in words:
             found = False
             while j < len(all_cmb):
                 if all_cmb[j].txt == s: 
-                    print(s)
+                    #print(s)
                     if all_cmb[j].index < 0x100:
                         word.translation = word.translation[:i] + chr(all_cmb[j].index) + word.translation[i+2:]
                     else:
                         word.translation = word.translation[:i] + chr((all_cmb[j].index & 0xff00) >> 8) + chr((all_cmb[j].index & 0xff)) + word.translation[i+2:]
                         i += 1
-                    print(bytes(word.translation.encode("raw_unicode_escape")))
+                    #print(bytes(word.translation.encode("raw_unicode_escape")))
                     break
                 j += 1
         i += 1
