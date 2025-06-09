@@ -339,16 +339,6 @@ f.close()
 
 flist = []
 
-'''
-f = open("swsfc.map", "r")
-line = f.readline()
-i = 0x1000
-while line != "":
-    print(hex(i)[2:] + "=" + line, end="")
-    i += 1
-    line = f.readline()
-f.close()
-'''
 
 class SWFile:
     def __init__(self):
@@ -357,7 +347,7 @@ class SWFile:
         self.bytes = []
         self.decoded = ""
 
-'''
+
 # populate dictionary
 jdict = []
 f = open("swsfc2.tbl", "r")
@@ -370,7 +360,7 @@ while line != "":
         l[1] = "  "
     jdict.append([l[0], l[1]])
     line = f.readline()
-'''
+
 
 def getjis(m):
     no = hex(m[0] << 8 | m[1])[2:]
@@ -419,7 +409,7 @@ while i < len(filelist):
         while j < num:
             sf = SWFile()
             _ofs = (rom[bc + 1] << 8) | rom[bc]
-            sf.romloc = _ofs + filelist[i] + 1 
+            sf.romloc = _ofs + filelist[i] 
             b = sf.romloc
             while rom[b] != 0xf:
                 sf.bytes.append(rom[b])
@@ -431,7 +421,7 @@ while i < len(filelist):
         flist.append(file)
     i += 1
 
-'''
+
 ## now convert them, using .tbl 
 for fi in flist:
     for w in fi:
@@ -456,21 +446,26 @@ for fi in flist:
                 a = a + bytes([w.bytes[b+1]])
                 s += getjis(a)
                 b+=1
+            elif(w.bytes[b] == 0x13):
+                a = b''
+                a = a + bytes([w.bytes[b]])
+                a = a + bytes([w.bytes[b+1]])
+                s += getjis(a)
+                b+=1
             else:
                 s += getlowjis(w.bytes[b])
             b +=1
-        #print(s)
         w.decoded = s
-'''
+
 ## now write them as files 
 i = 0
 while i < len(flist):
     j = 0
     f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
     while j < len(flist[i]):
-        f.write(bytes(flist[i][j].bytes))
-        #f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
-        f.write(b'\n')
+        #f.write(bytes(flist[i][j].bytes))
+        f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
+        #f.write(b'\n')
         j += 1
     f.close()
     i += 1

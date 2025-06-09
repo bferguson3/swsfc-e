@@ -74,6 +74,7 @@ words.append(TLWord(0x29973, 7, "Elven"))
 words.append(TLWord(0x299b4, 7, "MaleFem"))
 
 words.append(TLWord(0x299ca, 18, "Is this OK?         Yes     No"))
+words.append(TLWord(0x19c70, 4,  "Songs"))
 
 words.append(TLWord(0x299e7, 4, " Born"))
 words.append(TLWord(0x299eb, 6, " Exp."))
@@ -90,7 +91,7 @@ words.append(TLWord(0x29ce8, 3, "Hunt"))
 words.append(TLWord(0x29cef, 7, "Civilian"))
 words.append(TLWord(0x29cfa, 8, "Gentry"))
 words.append(TLWord(0x29d06, 4, "Merc."))
-words.append(TLWord(0x29d0e, 4, "Minister"))
+words.append(TLWord(0x29d0e, 4, "Priest"))
 words.append(TLWord(0x29d16, 5, "Enchanter"))
 words.append(TLWord(0x29d1f, 8, "Nobility"))
 
@@ -106,7 +107,6 @@ words.append(TLWord(0x19f06, 21,  "No spellsongs for out of \x01btl"))
 words.append(TLWord(0x19c5e, 8,  "Spirit Mgc"))
 words.append(TLWord(0x19c53, 10, "Ancient Mg"))
 words.append(TLWord(0x19c67, 8,  "Holy Magic"))
-words.append(TLWord(0x19c70, 4,  "Spellsng"))
 words.append(TLWord(0x19dd8, 15,  "Not wielding a staff!"))
 words.append(TLWord(0x19ef1, 15,  "Need an instrument!"))
 
@@ -119,8 +119,8 @@ words.append(TLWord(0x678e, 5,  "Dwarf"))
 words.append(TLWord(0x6794, 8,  "Grassrunner"))
 words.append(TLWord(0x6771, 4, "Male"))#\x0fFem"))
 words.append(TLWord(0x6776, 3, "Fem"))
-words.append(TLWord(0x67a8, 10, "Half-Elf (Elven)")) # 10 spaces
-words.append(TLWord(0x679d, 10, "Half-Elf (Human)")) # 10 spaces
+words.append(TLWord(0x67a8, 10, "Half-Elf (Elf)")) # 10 spaces
+words.append(TLWord(0x679d, 10, "Half-Elf (Hum)")) # 10 spaces
 words.append(TLWord(0x67b3, 4, "Level")) # 10 spaces
 words.append(TLWord(0x299a1, 16, "Choose a gender:"))
 words.append(TLWord(0x15ea8, 16, "No save data!"))
@@ -130,7 +130,7 @@ words.append(TLWord(0x15ff8, 17, "Select destination"))
 words.append(TLWord(0x1600a, 16, "Data already exists."))
 words.append(TLWord(0x15aea, 16, "Data already exists."))
 #bard:
-words.append(TLWord(0x1a1b8, 26, "Awaken bravery, \x01improving strength"))
+words.append(TLWord(0x1a1b8, 26, "Awaken bravery, \x01improve strength"))
 words.append(TLWord(0x1a1d3, 27, "Weakens will, \x01lowering attack power"))
 words.append(TLWord(0x15e19, 38, "Also erase cleared \x01scenario data?\x02\x02\x02Yes      No "))
 words.append(TLWord(0x1abfd, 25, "Checks active spirits \x01in the area."))
@@ -213,10 +213,44 @@ words.append(TLWord(0xd195, 20, "No message history!"))
 words.append(TLWord(0x1302b, 37, "Wait    Item \x01Attack   Status \x01Magic   Formtn."))
 # 13230 - battle text
 words.append(TLWord(0x3b5e5, 17, "Toss item \x01Toss equipment"))
-words.append(TLWord(0x3b79a, 16, "\x01destroyed. \x01Is this OK?"))
+words.append(TLWord(0x3b79a, 16, "\x01tossed. \x01Is this OK?"))
 words.append(TLWord(0x3b7ab, 23, " pieces of equip. \x01Toss which one?"))
 words.append(TLWord(0x3b7c5, 10, "No equipment."))
 words.append(TLWord(0x4dd2, 11, ": Add to party?"))
+
+#words.append(TLWord(0x605f, 4, "Bart"))
+#words.append(TLWord(0x6064, 4, "Loox"))
+
+words.append(TLWord(0x1553f, 4, "Talk"))
+
+words.append(TLWord(0x15543, 12, "MessageSpd  "))
+words.append(TLWord(0x15550, 4, "Batt"))
+words.append(TLWord(0x15554, 7, "Music"))
+words.append(TLWord(0x1555c, 11, "Swap Buttons"))
+words.append(TLWord(0x15567, 4, "  Back"))
+words.append(TLWord(0x1556b, 4, "OK"))
+words.append(TLWord(0x1556f, 4, "Stereo"))
+words.append(TLWord(0x15573, 4, "Mono"))
+
+words.append(TLWord(0x18f29, 46, "Attack Adj.  1H     2H \x01Strike Adj.  1H     2H \x01Critical num"))
+words.append(TLWord(0x18f58, 8, "Throwable"))
+words.append(TLWord(0x18fa8, 19, "Attack Adj. \x01Evade Adj."))
+words.append(TLWord(0x19017, 29, "Evade Adj. \x01DFP Adj. \x01Damage Red."))
+words.append(TLWord(0x18e42, 9, "Unequipped"))
+words.append(TLWord(0x19d19, 22, "No known \x01non-combat magic."))
+words.append(TLWord(0x19ca6, 12, " is unconscious!"))
+words.append(TLWord(0x19c97, 12, " can't use magic"))
+words.append(TLWord(0x19e64, 14, "Both hands occupied"))
+words.append(TLWord(0x19e78, 17, "Wearing metal armor!"))
+words.append(TLWord(0x1c51e, 6, "    MP"))
+words.append(TLWord(0x1c527, 13, "Not enough MP!"))
+words.append(TLWord(0x1c56c, 8, "Expand tgt"))
+words.append(TLWord(0x1c576, 10, "Expand dmg"))
+words.append(TLWord(0x1c582, 12, "Expand dur"))
+words.append(TLWord(0x1c590, 10, "Inc. success"))
+words.append(TLWord(0x1c59c, 10, "MP Given"))
+
+
 
 print(" OK.")
 
@@ -308,23 +342,26 @@ for word in words:
             i += 1
             if(findincmb(s)==False):
                 c = Combo(s)
-                all_cmb.append(c)
+                all_cmb.append(c)                
         i += 1
 
 ind = 0x50
 # sort all_cmb here!!!
 all_cmb.sort(key=lambda x: x.count, reverse=True)
 i = 0
+ct = 0
 multi = 0
 while i < len(all_cmb):
     all_cmb[i].index = ind 
+    #print(all_cmb[i].txt, ind, all_cmb[i].count)
+    ct += 1
     ind += 1
     if(ind > 0xff)and(ind < 0x1000):
         ind = 0x1000
     if(all_cmb[i].count > 1):
         multi += 1
     i += 1
-print(" OK.\nMax index: ", hex(ind), "/ duplicated",multi,"combinations")
+print(" OK.\nMax index: ", hex(ind), "of",ct,"(max 960)/ duplicated",multi,"combinations")
 
 # convert all combinations to tile data format 
 # interleave every two!
@@ -382,7 +419,7 @@ while i < len(all_cmb):
     _img.bytes = char
     output_chr.append(_img)
     i += 2
-print(len(output_chr),"images created OK (~720 max).")
+print(len(output_chr),"images created OK (~425 max).")
 
 def getcmb(s):
     for p in all_cmb:
@@ -391,7 +428,7 @@ def getcmb(s):
     return -1
 
 # now replace the texts in every tlword
-print("Replacing / compressing text ... ", end="")
+print("Replacing / compressing",str(len(words)),"lines of text ... ", end="")
 for word in words:
     i = 0
     word.original = word.translation
