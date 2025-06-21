@@ -1,6 +1,8 @@
 import numpy,sys,os 
 from PIL import Image, ImageDraw
 
+#NOTE : 01h is newline
+
 # get the dictionary 
 print("Loading dictionary... ", end="")
 jdict = []

@@ -1,4 +1,4 @@
-import os,sys
+import os,sys,json
 
 filelist = [0x40600-1,
 0x41fa0,
@@ -241,16 +241,6 @@ filelist = [0x40600-1,
 f = open("swsfc-e.sfc", "rb")
 rom = f.read()
 f.close()
-'''
-f = open("swsfc.map", "r")
-line = f.readline()
-i = 0x1000
-while line != "":
-    print(hex(i)[2:] + "=" + line, end="")
-    i += 1
-    line = f.readline()
-f.close()
-'''
 
 jdict = []
 
@@ -263,15 +253,25 @@ while line != "":
     if(l[0] == "20"):
         l[1] = "  "
     jdict.append([l[0], l[1]])
-    #print(l)
     line = f.readline()
 
 class SWFile:
     def __init__(self):
-        self.romloc = 0
-        self.len = 0
+        self.address = 0
+        self.size = 0
         self.bytes = []
-        self.decoded = ""
+        self.text = ""
+        self.translation = ""
+    ###
+    def toJSON(self):
+        return json.dumps(
+            self,
+            default=lambda o: o.__dict__, 
+            sort_keys=True,
+            indent=4,
+            ensure_ascii=False)
+    ###
+###
 
 flist = []
 
@@ -288,19 +288,25 @@ def getjis(m):
 def getlowjis(m):
     no = hex(m)[2:]
     if m == 0xf:
-        return "[f]\n"
+        return "{f}" #0fh is END
     if m == 0x1:
-        return "\n"
+        return "\n" # 01h is NEWLINE
     for p in jdict:
         if(p[0] == no):
             return p[1]
             break
-    return "["+hex(m)[2:]+"]"
+    return "{"+hex(m)[2:]+"}"
 
+# 03: blue color?
+# 0300: reset color
+# 06: next page
+# 060F: end dialogue
 # 08: begin mf sequence
 # 0B: male
 # 0A: female
 # 07: end mf sequence
+# 0C/0C00: hero name?
+
 
 i = 0
 while i < len(filelist):
@@ -322,12 +328,13 @@ while i < len(filelist):
             sf = SWFile()
             _ofs = (rom[bc + 1] << 8) | rom[bc]
             #print(hex(filelist[i] + 1 + _ofs))
-            sf.romloc = _ofs + filelist[i] + 1 
-            b = sf.romloc
+            sf.address = _ofs + filelist[i] + 1 
+            b = sf.address
             while rom[b] != 0xf:
                 sf.bytes.append(rom[b])
                 b += 1
             sf.bytes.append(0xf)
+            sf.size = len(sf.bytes)
             file.append(sf) 
             bc += 2
             j += 1
@@ -362,17 +369,22 @@ for fi in flist:
                 s += getlowjis(w.bytes[b])
             b +=1
         #print(s)
-        w.decoded = s
+        w.text = s
 
 ## now write them as files 
+outstr = "{\n\"words\":["
 i = 0
 while i < len(flist):
     j = 0
-    f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
+    #f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
     while j < len(flist[i]):
-        #f.write(bytes(flist[i][j].bytes))
-        f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
-        f.write(b'\n')
+        del flist[i][j].bytes 
+        flist[i][j].address = hex(flist[i][j].address)
+        outstr += flist[i][j].toJSON()+",\n"
+        #f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
         j += 1
-    f.close()
+    #f.close()
     i += 1
+outstr = outstr[:len(outstr)-2]
+outstr += "\n]\n}"
+print(outstr)

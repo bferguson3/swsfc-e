@@ -1,4 +1,4 @@
-import os,sys
+import os,sys,json
 
 filelist = [
 0x80c00, 
@@ -339,14 +339,23 @@ f.close()
 
 flist = []
 
-
 class SWFile:
     def __init__(self):
-        self.romloc = 0
-        self.len = 0
+        self.address = 0
+        self.size = 0
         self.bytes = []
-        self.decoded = ""
-
+        self.text = ""
+        self.translation = ""
+    ###
+    def toJSON(self):
+        return json.dumps(
+            self,
+            default=lambda o: o.__dict__, 
+            sort_keys=True,
+            indent=4,
+            ensure_ascii=False)
+    ###
+###
 
 # populate dictionary
 jdict = []
@@ -375,16 +384,16 @@ def getjis(m):
 def getlowjis(m):
     no = hex(m)[2:]
     if m == 0xf:
-        return "[f]\n"
-    if m == 0x1:
-        return "\n"
+        return "{f}" # 060fh is END 
+    if m == 0x4:
+        return "\n" # 04h is NEWLINE
     for p in jdict:
         #print(no, p[0])
         if(p[0] == no):
             #print("found", p[1])
             return p[1]
             break
-    return "["+hex(m)[2:]+"]"
+    return "{"+hex(m)[2:]+"}"
 
 # 
 # 0F endline
@@ -409,12 +418,13 @@ while i < len(filelist):
         while j < num:
             sf = SWFile()
             _ofs = (rom[bc + 1] << 8) | rom[bc]
-            sf.romloc = _ofs + filelist[i] 
-            b = sf.romloc
+            sf.address = _ofs + filelist[i] 
+            b = sf.address
             while rom[b] != 0xf:
                 sf.bytes.append(rom[b])
                 b += 1
             sf.bytes.append(0xf)
+            sf.size = len(sf.bytes)
             file.append(sf) 
             bc += 2
             j += 1
@@ -455,17 +465,22 @@ for fi in flist:
             else:
                 s += getlowjis(w.bytes[b])
             b +=1
-        w.decoded = s
+        w.text = s
 
 ## now write them as files 
+outstr = "{\n\"words\":["
 i = 0
 while i < len(flist):
     j = 0
-    f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
+    #f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
     while j < len(flist[i]):
-        #f.write(bytes(flist[i][j].bytes))
-        f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
-        #f.write(b'\n')
+        del flist[i][j].bytes 
+        flist[i][j].address = hex(flist[i][j].address)
+        outstr += flist[i][j].toJSON()+",\n"
+        #f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
         j += 1
-    f.close()
+    #f.close()
     i += 1
+outstr = outstr[:len(outstr)-2]
+outstr += "\n]\n}"
+print(outstr)

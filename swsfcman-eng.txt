@@ -1,0 +1,238 @@
+-1 (front cover)
+
+Super Famicom
+
+Sword World SFC
+
+Instruction Booklet
+
+
+-----------------------------------------
+0 (inside cover)
+
+Thank you so much for purchasing T&E Soft Corp.'s Super Famicom exclusive software, "Sword World SFC". Before playing, please carefully read the instruction booklet and take care to use the product as intended. Please place the instruction booklet somewhere safe. Please be aware it will not be possible to replace it. 
+
+-Before Using-
+1) After playing, remove the AC adapter from the outlet.
+2) Play games as far as possible from the television screen.
+3) When playing games for a long period, take 10-15 minutes of rest for every 1-2 hours of play. 
+4) This is a fragile piece of hardware. Do not store it in abnormal temperatures or deliver strong shocks.
+5) Do not touch the contacts or submerse in water. This will damage the hardware. 
+6) Do not apply thinner, benzyne or alcoholic substances.
+7) When ejecting the cassette, always ensure the Super Famicom switch is off.
+8) This cassette is only for use with the Super Famicom. It cannot be used with the Family Computer System.
+9) Using the Super Famicom with projection televisions can cause burn-in, so don't connect to a projection TV.
+
+-Health and Safety Warning-
+Please do not play for extended periods or while tired, as this can be bad for your health. Also, in extremely rare cases some people have experienced temporary muscle spasms or loss of consciousness when viewing flashing or strong lights coming from a television screen. People with these experiences should consult with a doctor before playing video games. If this occurs when playing the game, please turn off the game and consult with a doctor. 
+
+
+---------------------------------------
+1 - TOC
+Sword World SFC 
+
+Table of Contents
+
+The Legend of Forcelia and its History .. 2
+1. Controls .. 4
+2. Start screen .. 6
+3. Status window .. 14
+4. Command menu .. 15
+5. In town .. 20
+6. Shops .. 22
+7. Battle .. 30 
+8. Auto success and auto fail .. 31
+9. Magic .. 32
+10 Items .. 38
+11 Advice for a better adventure .. 40
+
+Original work : Yasuda ? / Mizuno Ryo
+Scenario : Shitamura Iechiko (??)
+Original work : "Island of the Dead God" (Parts 1 and 2)
+Fujimi Fantasia Bunko-kei
+
+
+---------------------------------------
+2
+
+The world of Forcelia was birthed from the death of a great giant called the "Origin of all Things". All of Forcelia was created out of the body of this giant. 
+ The first to appear were the gods. Of note were the prime god Pharis, the god of darkness Phalaris, the Earth Mother Marfa, the god of knowledge Rahda, the god of battle Myrii, and the god of wealth and luck Cha-Za, the six of which comprised the Great Six, and they took over the creation of the world. Several hundred other gods were born of the giant's body this way. 
+ From the giant's scales came dragons, and from its golden hairs were born the ancient trees. The creatures born in this first age were called the "ancient race", and were said to have power close to that of the gods. 
+ The gods gave law to the chaos-filled world, and formed the formless energies into the spiritual power of flame, water, wind and earth. From thus the "spirit realm", origin of all spirits was created, and an unlimited number of spirits came to dwell there. 
+ Next, the gods created the "physical realm" from their bodies. They created numerous beings to live on the land, as their servants. Among them, the humans, created in the image of the gods themselves, were given the right to rule over the lands.
+ Lastly, they created the "fae realm" to connect the spirit and physical realms. Faeries were the ones to reside there, and they were ordered to forever transfer spirit energy from the spirit realm to the physical realm.
+ Thus the world appeared to have successfully been given law and order. But just before it was completed, a rift had appeared between the creator gods. The prime god Pharis and the god of darkness Phalaris' violence had begun to split Forcelia in two with a great war.
+ There was no emergent victor. The gods bodies had
+
+--------------------------------------
+3
+
+completely burnt up in the conflict, allowing the main players in the war to emerge as the kings of the ancient dragons, who had split themselves into two camps just like the gods. The gods' souls are immortal, but their bodies destroyed, they couldn't re-enter the physical realm. Thus the age of the gods, the age of legends came to a close. 
+ 
+Then the age of gods ended, the world was once again ruled by strife in a long coming "age of darkness". It was like an endless winter for the powerless humans. They slowly expanded the magical power they received from the gods, and eventually created the kingdom of Kastuul. 
+ The Kastuul Kingdom expanded its area and influence and eventually grew to a grand empire ruled by a great magic king. However, those that had excellent ability in magic were able to obtain great power, and those that did not, or those that could not use magic, were made slaves or driven out and forced to live in the wilds.
+ The magic kingdom's reign was not eternal. Eventually the monster Aton, controller of all four elemental powers, appeared. The people of Kastuul managed to gather their essence of magic into a single sword swing and defeat the monster, but the cost was too great. Their source of power, the Magic Tower, was destroyed, and caused a large explosion. The kingdom of Kastuul had lost its once-unlimited source of magical energy, fell prey to the raids of wildlings, and was eventually destroyed.
+ After the destruction of the magic kingdom, the next people to reign over the world were those with little magic ability left over among the slaves and wild tribes. Instead of an age of magic, an age of military might had begun, an "age of the sword". An age where warring states sought the strength of the blade...
+
+
+-------------------------------------
+4
+1. Controls
+
+D-Pad
+-Move character
+Moves the party N/S/E/W on the field map. 
+-Cursor select
+Moves the cursor in command mode. 
+
+B Button (Cancel Button)
+-Cancels command selected by the A button.
+-When a window is open, returns to the previous window.
+
+
+--------------------------------------
+5
+
+Y Button
+Displays the auto mapping screen.
+
+Start/Select/L Button/R Button
+Not used in this game.
+
+X Button
+Displays the command menu. 
+
+A Button (Confirm Button)
+-Command confirmation
+In command mode, confirms the cursor selection. 
+
+-Dialogue
+If you press the A button when facing a person in the field map, you can start a dialogue. 
+
+-Treasure chests, etc
+If you press the A button when facing a treasure chest or door, you will investigate it. 
+
+
+-------------------------------------
+6
+2. Start Screen
+
+Upon inserting the cassette into your Super Famicom and powering it on, the title screen will be displayed. The start button or A button will move to the start screen. The command explanations are below. 
+
+- Adventure On 
+Starts the game from recorded data. Use the cursor to select the data area and press A to confirm. 
+
+- Create Character
+When playing for the first time, you must create a player character as your avatar to adventure within the game. You can register up to 3 characters.
+ First, use the A button to confirm with the cursor which data area you wish to record the character into. You cannot select a data area that is already registered. If all three are already registered, then try again after erasing data using the "Erase Adventure" command (defined later). Once you select your data area you will be moved to the base character status creation screen. You will make choices in the below order. However, you may not need to perform (6) and (7) depending on your abilities. 
+
+
+----------------------------------------
+7
+1. Determine Name
+Determine your character's name. Names can be up to 5 characters. Select the character on-screen with the cursor, and use the A button to select. If you wish to erase a character, press the B button. Once you have decided on a name, select END with the cursor and press the A button. 
+
+2. Choose a Race
+Player characters can choose from among the following 6 race types. Use the cursor to select the race you want and press the A button to confirm.
+
+-Human: Humans just like us. They have average ability scores and no restrictions. Depending on their birth their known skills and pre-adventure experience points will vary. 
+
+-Elf: A fae race that lives in the forests. Their dexterity, agility and intelligence are exceptional, but they are fairly weak and unsuited for close combat. They have 1 level of the Shaman skill. They do not believe in the gods, so they cannot learn the Priest skill. 
+
+	Human Elf Dwarf Grassrunner Half-Elf
+Male
+Female
+
+
+----------------------------------------
+8
+
+-Dwarf: At one point was one of the fae races, but now completely immersed in the human world. They far exceed the other races in strength, life power and mental power, but lack in agility. They cannot learn the Shaman or Sorcerer skills. 
+
+-Grassrunner: A fae race that lives in the plains. Their agility and dexterity is high, as is their life points and spirit power, but they have virtually no strength. They have 1 level of the Ranger and Thief skills, and can communicate with plants and insects. They cannot learn the Shaman, Sorcerer, or Priest skills. 
+
+-Half-Elf (Human or Elven-raised): Elves, being the closest race to Humans, can create children born from both of them. These people are called Half-Elves. What skills they know and what restrictions they have depend on how they were raised. As an Elf, they are mainly same as Elves. As a human, they are identical to humans'. 
+
+3) Select a Gender
+
+Select your character's gender. Ability scores do not change between genders, but certain spirit magic can only be used by one or the other gender. Use the cursor to select and the A button to confirm. 
+
+4) Determine Ability Scores
+
+After selecting race and gender, the character's ability scores will be displayed. If the race is Human or Human-raised Half-Elf, their birth will also be displayed.
+ These ability scores represent your character's basic ability. There are 6 different ability scores, and the larger the better. 
+
+-Dexterity: Manual dexterity. Affects removing traps and accuracy of weapons. 
+
+
+-----------------------------------------
+9
+
+-Agility: Nimbleness of body. Used when dodging enemy attacks and for turn order in combat. 
+
+-Intelligence: How smart you are. Affects magic strength and ability to detect traps. 
+
+-Strength: Your raw power. Affects weight of usable weapons and armor, and additional damage when swinging weapons. 
+
+-Life Power (HP): Determines how much physical damage you can take. 
+
+-Mental Power (MP): Strength of will. Affects how much magic you can use and your resistance to magic. 
+
+Ability Bonus
+ In-game it is not the ability score itself, but the ability bonus that is utilized for calculations. The ability bonus is one sixth of your ability score, rounded down. On-screen, the number before the "/" is your ability score, and the number after is the ability bonus. 
+
+-Birth: Displayed if the race is Human or Human-raised Half-Elf. Known skills and pre-adventure experience points are given as below. 
+
+Birth			Known Skills		EXP
+
+Wildling		Fighter 1, Thief 1	2000
+Magician		Sorcerer 1		2000
+Villain			Thief 1			2500
+Traveler		Bard 1			3000
+Hunter			Ranger 1		3000
+Civilian		None			3000
+Merchant/Scholar	Sage 1			3000
+Mercenary		Fighter 1		2500
+Chaplain		Priest 1		2500
+Fortune-teller		Shaman 1		2000
+Knight/Noble		Fighter 1, Sage 1	2000
+
+If the ability scores are acceptable, select "Y", or if you don't like your ability scores or birth, select "N" and then A to confirm. You can do this as many times as you like.
+
+----------------------------------------
+10
+5)Choosing Skills
+ Skills are nurtured abilities gained through training and study. Each character's skills, moreso than ability scores, will have an effect on that character's actions. 
+ Before character's go on an adventure, they have "pre-adventure experience points" gained from living thus far. These experience points can be used to "buy" skills, leveling them up. 
+ You do not have to use up all pre-adventure experience. The remaining pre-adventure experience will be carried over into the game. 
+ Skills are selected using up and down on the d-pad, leveled up with right on the d-pad, and leveled down with left on the d-pad. You cannot gain levels you do not have the experience for, nor can you reduce a skill you start with to 0. 
+ Once finished dividing pre-adventure experience, press the A button. 
+ There are the 8 following skills:
+
+- Sorcerer: Skill for utilizing ancient magic. You must obey the following restrictions in order to properly cast spells:
+ -You must equip a mage staff for mental concentration.
+ -Because of various fine movements, you are limited to soft leather armor.
+
+- Shaman: Skill to utilize spirit magic. You must obey the following restrictions in order to borrow the power of the spirits:
+ -Spirits dislike metals, so you cannot wear metal armor. Silver armors are the exception.
+ -Casting spells requires one-handed motions, so both hands cannot be burdened.
+ Also, they have the ability "Sense Aura", which tells them what spirits exist in that area, and it can be used anywhere without restriction. 
+
+(image)
+Skill name
+	Current skill level
+		EXP needed to level up
+
+------------------------------------------
+11
+
+- Fighter: Skill for taking up weapons and fighting the enemy. Fighters can use weapons and armor up to their strength score. 
+
+- Thief: Skill for opening locks and disarming traps. To use this skill you need a nimbleness of body, so it has the following restrictions:
+ -Armor must not be metal, and is restricted to half of the thief's strength.
+ -To use this skill in battle, the weapon is also restricted to half the thief's strength. When doing so critical hits are easier to get.
+
+- Priest: Skill to use holy magic. No restrictions on weapons or armor. 
+
+- Ranger: Skill to survive in the wilderness. Like Thief, Ranger requires a light body, so armor cannot be metal and is restricted to half the Ranger's strength. 
+ Thrown weapons are also used 
