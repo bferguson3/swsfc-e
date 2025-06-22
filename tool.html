@@ -44,11 +44,11 @@
     var curFilename = "";
     var fileList = null;
 
+    // Update char count only 
     function RecountChars() {
         const tl = document.getElementById("translation");
         const sz = document.getElementById("lblSize");
         sz.innerHTML = "Size: " + database.words[currentWord].size + "b (" + tl.value.length + ")";
-        
     }
 
     // Load word from memory 
@@ -143,23 +143,24 @@
     // Setup buttons 
     const inputElement = document.getElementById("filePicker");
     const translationTxt = document.getElementById("translation");
+    const nextBtn = document.getElementById("nextWord");
+    const prevBtn = document.getElementById("prevWord");
+    const commitBtn = document.getElementById("commitBtn");
+    const gotoBtn = document.getElementById("pickStrBtn");
+    const searchBtn = document.getElementById("searchBtn");
+    
     translationTxt.addEventListener("input", RecountChars, false);
     inputElement.addEventListener("change", handleFiles, false);
 
-    const nextBtn = document.getElementById("nextWord");
-    const prevBtn = document.getElementById("prevWord");
     nextBtn.addEventListener("click", nextWord, false);
     prevBtn.addEventListener("click", prevWord, false);
 
-    const commitBtn = document.getElementById("commitBtn");
     commitBtn.addEventListener("click", CommitChanges, false);
 
-    const gotoBtn = document.getElementById("pickStrBtn");
-    const searchoBtn = document.getElementById("searchBtn");
     gotoBtn.addEventListener("click", GoTo, false);
     searchBtn.addEventListener("click", Search, false);
 
-    
+    // end bent script
 
 /*
  * FileSaver.js (MINIFIED)
@@ -227,24 +228,25 @@ module.exports=saveAs);
     }
 
     .buttonStyle { 
-    border: 0;
-    line-height: 2.5;
-    padding: 0 20px;
-    font-size: 1rem;
-    text-align: center;
-    color: #fff;
-    text-shadow: 1px 1px 1px #000;
-    border-radius: 10px;
-    background-color: rgba(100, 100, 200, 1);
-    background-image: linear-gradient(
-        to top left,
-        rgba(0, 0, 0, 0.2),
-        rgba(0, 0, 0, 0.2) 30%,
-        rgba(0, 0, 0, 0)
-    );
-    box-shadow:
-        inset 2px 2px 3px rgba(255, 255, 255, 0.6),
-        inset -2px -2px 3px rgba(0, 0, 0, 0.6);
+        /* taken from geekswhocode */
+        border: 0;
+        line-height: 2.5;
+        padding: 0 20px;
+        font-size: 1rem;
+        text-align: center;
+        color: #fff;
+        text-shadow: 1px 1px 1px #000;
+        border-radius: 10px;
+        background-color: rgba(100, 100, 200, 1);
+        background-image: linear-gradient(
+            to top left,
+            rgba(0, 0, 0, 0.2),
+            rgba(0, 0, 0, 0.2) 30%,
+            rgba(0, 0, 0, 0)
+        );
+        box-shadow:
+            inset 2px 2px 3px rgba(255, 255, 255, 0.6),
+            inset -2px -2px 3px rgba(0, 0, 0, 0.6);
     }
 
     .smallButtonStyle {
@@ -256,13 +258,13 @@ module.exports=saveAs);
     }
 
     .buttonStyle:hover {
-    background-color: rgba(255, 0, 0, 1);
+        background-color: rgba(255, 0, 0, 1);
     }
 
     .buttonStyle:active {
-    box-shadow:
-        inset -2px -2px 3px rgba(255, 255, 255, 0.6),
-        inset 2px 2px 3px rgba(0, 0, 0, 0.6);
+        box-shadow:
+            inset -2px -2px 3px rgba(255, 255, 255, 0.6),
+            inset 2px 2px 3px rgba(0, 0, 0, 0.6);
     }
 
 </style>

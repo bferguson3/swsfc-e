@@ -31,13 +31,10 @@ class TLWord():
     ###
 ###
 
-
 # test 
 print("Populating translations... ", end="")
 
 words = []
-
-
 
 ##
 
@@ -52,6 +49,10 @@ def U8ToSWSFC(s):
                     s = s[:i] + bytes([n]) + s[i+3:]
                     i -= 1 # to pretend like the byte was always there
                 elif(s[i+3] == ord('}')):
+                    c = chr(s[i+1]) + chr(s[i+2])
+                    n = int(c, 16)
+                    s = s[:i] + bytes([n]) + s[i+4:]
+                    i -= 1 # testing
                     print("error")
         elif s[i] == ord('\n'):
             s = s[:i] + b'\x01' + s[i+1:]
@@ -60,19 +61,19 @@ def U8ToSWSFC(s):
 ###
 
 # now load in the json file 
+print("Loading script from JSON...", end="")
 f = open("swsfc_dump.json", "r")
 js = f.read()
 f.close()
 js = json.loads(js)
 for w in js['words']:
-    if(w['translation'] != ''):# if we have a translation to insert,
-        # convert it to SWSFC format,
-        s = U8ToSWSFC(w['translation'])
-        # and make a TLWord
-        words.append(TLWord(int(w['address'], 16), int(w['size']), s, False))
-        #b = bytes(words[len(words)-1].translation,"sjis")
-##
-
+    if(w['translation'] != ''):             # if we have a translation to insert,
+        s = U8ToSWSFC(w['translation'])         # convert it to SWSFC format,
+        words.append(TLWord(int(w['address'], 16),  # and make a TLWord
+                    int(w['size']), 
+                    s, 
+                    False)) 
+    ###
 ##
 
 words.append(TLWord(0x8cbc, 11, "Item        Stats"))
@@ -95,7 +96,6 @@ words.append(TLWord(0x1642b, 13, "Erase adventure"))
 words.append(TLWord(0x15d38, 17, "Erase save?     Yes   No"))
 words.append(TLWord(0x15d4a, 13, "Erase adventure"))
 words.append(TLWord(0x153b7, 41, "Save game   Formatn.Message history \x01Toss item "))
-
 
 words.append(TLWord(0x165d0, 7, "Empty"))
 words.append(TLWord(0x2994e, 3, "Hum"))
@@ -284,8 +284,6 @@ words.append(TLWord(0x1c582, 12, "Expand dur"))
 words.append(TLWord(0x1c590, 10, "Inc. success"))
 words.append(TLWord(0x1c59c, 10, "MP Given"))
 
-
-
 print(" OK.")
 
 # convert char table to Image object list
@@ -312,7 +310,6 @@ while h < img.size[1]:
         w += 6
     h += 16
 print(" OK.")
-#print(roma_img[ord('a')].show()) # 0x61
 
 # scan the input script and later organize by priority
 # combine any non-capitals
@@ -320,7 +317,6 @@ print(" OK.")
 def findincmb(c):
     for a in all_cmb:
         if c == a.txt:
-            #print(c, a.txt)
             a.count += 1
             return True
     return False
@@ -363,10 +359,6 @@ print("Creating combination chars... ", end="")
 for word in words:
     i = 0
     while i < len(word.translation)-1:
-        #if (word.translation[i] < 'a'):
-        #    i += 1
-        #    continue 
-        #else:
         if(word.translation[i] >= ' ') and (word.translation[i+1] >= ' '):
             if(i == len(word.translation)-1):
                 s = word.translation[i] + ' '
@@ -387,7 +379,6 @@ ct = 0
 multi = 0
 while i < len(all_cmb):
     all_cmb[i].index = ind 
-    #print(all_cmb[i].txt, ind, all_cmb[i].count)
     ct += 1
     ind += 1
     if(ind > 0xff)and(ind < 0x1000):
@@ -407,9 +398,6 @@ class OutputImg():
 print("Creating image set... ", end="")
 i = 0
 while i < len(all_cmb):
-    #print(all_cmb[i].txt, hex(all_cmb[i].index), all_cmb[i].count)
-    #if(i != len(all_cmb)-1):
-    #    print(all_cmb[i+1].txt, hex(all_cmb[i+1].index), all_cmb[i].count)
     _img = OutputImg()
     char = []
     h = 0
@@ -456,8 +444,7 @@ while i < len(all_cmb):
 lenofimg = 0
 for k in output_chr:
     lenofimg += len(k.bytes)
-print(len(output_chr),"images created OK (~425 max).")
-print(lenofimg, " bytes")
+print(len(output_chr),"images created OK.")
 
 def getcmb(s):
     for p in all_cmb:
@@ -466,7 +453,7 @@ def getcmb(s):
     return -1
 
 # now replace the texts in every tlword
-print("Replacing / compressing",str(len(words)),"lines of text ... ", end="")
+print("Converting / compressing",str(len(words)),"lines to SFC format... ", end="")
 for word in words:
     i = 0
     word.original = word.translation
@@ -513,11 +500,11 @@ while i < len(output_chr):
     rom = rom[:addr] + bytes(output_chr[i].bytes) + rom[addr+l:]
     addr += 0x30
     i += 1
-#print(len(rom)) # < 2x check
+
+print(hex(addr - 0xfa000),"of max",hex(0x100000 - 0xfa000))
 print("New charmap inserted.")
 
 print("Writing new script...", end="")
-#print(len(rom))
 for word in words:
     s = word.translation.encode("raw_unicode_escape")
     if len(s) > word.len:
@@ -528,7 +515,6 @@ for word in words:
         s += b'\x20'
     rom = rom[:word.loc] + s + rom[word.loc+word.len:]
 print(" OK.")
-#print(len(rom))
 
 # finally, replace the character map
 print("Writing new tile bitmap...", end="")
@@ -590,13 +576,8 @@ for b in by:
 by = bytes(nby)
 # insert at F8000
 sz = len(by)
-#print(len(rom))
 rom = rom[:0xf8000] + by + rom[0xf8000 + sz:]
-#print(len(rom))
 print(" OK.")
-
-
-
 
 f = open("swsfc-e_out.sfc", "wb")
 f.write(rom)
