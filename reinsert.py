@@ -1,4 +1,4 @@
-import numpy,sys,os 
+import numpy,sys,os,json
 from PIL import Image, ImageDraw
 
 #NOTE : 01h is newline
@@ -19,29 +19,61 @@ while line != "":
 print(" OK.")
 
 class TLWord():
-    def __init__(self):
-        self.loc = 0
-        self.len = 0
-        self.original = []
-        self.translation = []
-        #self.count = 1
-
-    def __init__(self, _loc, _len, _tl):
+    def __init__(self, _loc, _len, _tl, buff=True):
         self.loc = _loc 
         self.len = _len 
         self.original = []
         self.translation = _tl
         #self.count = 1
-        if (len(self.translation))%2!=0:
-            self.translation+=" "
+        if(buff == True):
+            if (len(self.translation)) % 2 != 0:
+                self.translation += " "
     ###
 ###
 
 
 # test 
 print("Populating translations... ", end="")
-words=[]
 
+words = []
+
+
+
+##
+
+def U8ToSWSFC(s):
+    s = s.encode("sjis") # TODO FIXME: change from SJIS to actual TBL 
+    i = 0
+    while i < len(s):
+        if s[i] == ord('{'):
+            if i < len(s) - 2:
+                if(s[i+2] == ord('}')):
+                    n = int(chr(s[i+1]), 16)
+                    s = s[:i] + bytes([n]) + s[i+3:]
+                    i -= 1 # to pretend like the byte was always there
+                elif(s[i+3] == ord('}')):
+                    print("error")
+        elif s[i] == ord('\n'):
+            s = s[:i] + b'\x01' + s[i+1:]
+        i += 1
+    return bytes(s).decode("sjis")
+###
+
+# now load in the json file 
+f = open("swsfc_dump.json", "r")
+js = f.read()
+f.close()
+js = json.loads(js)
+for w in js['words']:
+    if(w['translation'] != ''):# if we have a translation to insert,
+        # convert it to SWSFC format,
+        s = U8ToSWSFC(w['translation'])
+        # and make a TLWord
+        words.append(TLWord(int(w['address'], 16), int(w['size']), s, False))
+        #b = bytes(words[len(words)-1].translation,"sjis")
+##
+
+##
 
 words.append(TLWord(0x8cbc, 11, "Item        Stats"))
 words.append(TLWord(0x8cc8, 12, "Magic       System"))
@@ -421,7 +453,11 @@ while i < len(all_cmb):
     _img.bytes = char
     output_chr.append(_img)
     i += 2
+lenofimg = 0
+for k in output_chr:
+    lenofimg += len(k.bytes)
 print(len(output_chr),"images created OK (~425 max).")
+print(lenofimg, " bytes")
 
 def getcmb(s):
     for p in all_cmb:
@@ -558,6 +594,8 @@ sz = len(by)
 rom = rom[:0xf8000] + by + rom[0xf8000 + sz:]
 #print(len(rom))
 print(" OK.")
+
+
 
 
 f = open("swsfc-e_out.sfc", "wb")

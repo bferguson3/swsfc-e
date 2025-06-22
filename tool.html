@@ -12,7 +12,7 @@
         <textarea id="originalText" class="originalTextStyle" readonly="true"></textarea>
         <br>
         <label class="stdLabel">Translation:</label><br>
-        <textarea id="translation" class="originalTextStyle"></textarea><br>
+        <textarea id="translation" class="originalTextStyle" onchange="RecountChars();"></textarea><br>
         <label class="sizeLabel" id="lblSize">Size: 0 b</label>
         <p>
         <button class="buttonStyle" id="prevWord">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,6 +31,9 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <button class="buttonStyle commit" id="commitBtn">&nbsp;&nbsp;&nbsp;Save JSON&nbsp;&nbsp;</button>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <button class="buttonStyle smallButtonStyle" id="searchBtn">Find...</button>
     </body>
 </html>
 
@@ -40,6 +43,13 @@
     var currentWord = 0;
     var curFilename = "";
     var fileList = null;
+
+    function RecountChars() {
+        const tl = document.getElementById("translation");
+        const sz = document.getElementById("lblSize");
+        sz.innerHTML = "Size: " + database.words[currentWord].size + "b (" + tl.value.length + ")";
+        
+    }
 
     // Load word from memory 
     function UpdateCurrentWord() {
@@ -71,7 +81,7 @@
     function CommitChanges() { 
         ApplyTranslation();
         const jsonstr = JSON.stringify(database, null, 4);
-        var f = new Blob([jsonstr], {type: "application/json"});
+        let f = new Blob([jsonstr], {type: "application/json"});
         saveAs(f, fileList[0].name, null);
     }
 
@@ -91,6 +101,18 @@
             currentWord = database.words.length - 1;
         }
         UpdateCurrentWord();
+    }
+
+    function Search() {
+        let searchStr = prompt("Search string:", "");
+        let outputStr = "Found on strings: \n";
+        for(let i = 0; i < database.words.length; i++) {
+            if(database.words[i].text.indexOf(searchStr) != -1) {
+                //window.alert("Found on string: " + (i + 1));
+                outputStr += (i + 1) + "\n";
+            }
+        }
+        window.alert(outputStr);
     }
 
     // Load in json file 
@@ -120,6 +142,8 @@
 
     // Setup buttons 
     const inputElement = document.getElementById("filePicker");
+    const translationTxt = document.getElementById("translation");
+    translationTxt.addEventListener("input", RecountChars, false);
     inputElement.addEventListener("change", handleFiles, false);
 
     const nextBtn = document.getElementById("nextWord");
@@ -131,7 +155,10 @@
     commitBtn.addEventListener("click", CommitChanges, false);
 
     const gotoBtn = document.getElementById("pickStrBtn");
+    const searchoBtn = document.getElementById("searchBtn");
     gotoBtn.addEventListener("click", GoTo, false);
+    searchBtn.addEventListener("click", Search, false);
+
     
 
 /*
