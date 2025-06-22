@@ -76,11 +76,13 @@ for w in js['words']:
     ###
 ##
 
+words.append(TLWord(0x67a8, 10, "Half-Elf (Elf)")) # 10 spaces
+words.append(TLWord(0x679d, 10, "Half-Elf (Hum)")) # 10 spaces
 words.append(TLWord(0x8cbc, 11, "Item        Stats"))
 words.append(TLWord(0x8cc8, 12, "Magic       System"))
 words.append(TLWord(0x8cd5, 16, "Equipment   Options"))
 words.append(TLWord(0x2cb40, 2, "Pt"))
-words.append(TLWord(0x1b1e0, 2, "Enm"))
+words.append(TLWord(0x1b1e0, 2, "En"))
 
 words.append(TLWord(0x5f07c, 29, "Oran is the largest city \x01on all of Alecrast."))
 words.append(TLWord(0x2993b, 16, "Choose a race:"))
@@ -124,9 +126,9 @@ words.append(TLWord(0x29ce1, 3, "Trav"))
 words.append(TLWord(0x29ce8, 3, "Hunt"))
 words.append(TLWord(0x29cef, 7, "Civilian"))
 words.append(TLWord(0x29cfa, 8, "Gentry"))
-words.append(TLWord(0x29d06, 4, "Merc."))
+words.append(TLWord(0x29d06, 4, "Merc"))
 words.append(TLWord(0x29d0e, 4, "Priest"))
-words.append(TLWord(0x29d16, 5, "Enchanter"))
+words.append(TLWord(0x29d16, 5, "Tarot"))
 words.append(TLWord(0x29d1f, 8, "Nobility"))
 
 words.append(TLWord(0x29a34, 17, "Choose a deity:"))
@@ -153,8 +155,6 @@ words.append(TLWord(0x678e, 5,  "Dwarf"))
 words.append(TLWord(0x6794, 8,  "Grassrunner"))
 words.append(TLWord(0x6771, 4, "Male"))#\x0fFem"))
 words.append(TLWord(0x6776, 3, "Fem"))
-words.append(TLWord(0x67a8, 10, "Half-Elf (Elf)")) # 10 spaces
-words.append(TLWord(0x679d, 10, "Half-Elf (Hum)")) # 10 spaces
 words.append(TLWord(0x67b3, 4, "Level")) # 10 spaces
 words.append(TLWord(0x299a1, 16, "Choose a gender:"))
 words.append(TLWord(0x15ea8, 16, "No save data!"))

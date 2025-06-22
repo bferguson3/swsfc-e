@@ -1,6 +1,324 @@
 {
     "words": [
         {
+            "address": "0x41ef9",
+            "size": 70,
+            "text": "仲間をさか゛しているの？\n私はエリテ゛ィン。\n戦士なんた゛けと゛、{6}\n仲間か゛たりないんた゛ったら\n私を加えてみない？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41f3f",
+            "size": 12,
+            "text": "よろしくたのむわね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41f4b",
+            "size": 25,
+            "text": "そう。残念た゛けと゛、\n仕方ないわね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41f64",
+            "size": 27,
+            "text": "残念た゛けと゛、\nハ゜ーティか゛いっは゜いよ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41f7f",
+            "size": 33,
+            "text": "私は...自分の家か゛ほしいの。\n我か゛家ってやつね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41e2b",
+            "size": 60,
+            "text": "こんにちは。これから冒険に\n出るんて゛すか？{6}\nもしよろしけれは゛\n私も仲間に加えてはもらえませんか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41e67",
+            "size": 34,
+            "text": "魔法をあつかうしか\nて゛きませんか゛、\nと゛うそ゛よろしく。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41e89",
+            "size": 40,
+            "text": "そうて゛すか。\nまた機会か゛あったなら、\n声をかけてやってくた゛さい。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41eb1",
+            "size": 23,
+            "text": "ハ゜ーティか゛\nいっは゜いのようて゛すね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41ec8",
+            "size": 38,
+            "text": "私は、私の力を\n苦しむ人をすくうために\n使いたいのて゛すか゛。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41d64",
+            "size": 60,
+            "text": "あたしはフ゜ラム。\nねぇ、これから冒険に出るんて゛しょ？{6}\nあたしも仲間に加えてよ。\n役に立つわよ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41da0",
+            "size": 30,
+            "text": "そうこなくっちゃ！\nこれからは仲間よ。\nよろしくね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41dbe",
+            "size": 18,
+            "text": "ふ〜ん。し゛ゃあまた今度ね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41dd0",
+            "size": 24,
+            "text": "ねぇねぇ、\nハ゜ーティか゛いっは゜いた゛よ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41de8",
+            "size": 56,
+            "text": "あたしはへ゛んきょうか゛してみたいて゛す。\nク゛ラスランナーか゛こんなことを\n言うのは、おかしいて゛すか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41c7b",
+            "size": 71,
+            "text": "わしは、マイリーの司祭の\nハ゛ラムと申すもの。{6}\n冒険に出るための仲間を\nさか゛しておるか゛、\n同行させてもらえぬか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41cc2",
+            "size": 26,
+            "text": "て゛は、しは゛らく同行させて\nいたた゛こう。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41cdc",
+            "size": 30,
+            "text": "そうか。無理し゛いはて゛きぬ。\nて゛はまたいす゛れ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41cfa",
+            "size": 26,
+            "text": "あまり多人数た゛と\nかえって危険し゛ゃ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41d14",
+            "size": 38,
+            "text": "トルカ゛なら行ったことか゛ある。\n近くに銀の鉱山か゛あるのた゛。{6}{f}",
+            "translation": "I've been to Torga. \nA silver mine is nearby.{6}{f}"
+        },
+        {
+            "address": "0x41d3a",
+            "size": 31,
+            "text": "私はマイリー神殿にて、\n神につかえたく思います。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41b70",
+            "size": 72,
+            "text": "わしはカ゛ラート゛というんし゛ゃか゛、\nおまえら仲間をさか゛しとるか？{6}\nわして゛よけれは゛加わってやっても\nよいか゛。と゛うし゛ゃ？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41bb8",
+            "size": 16,
+            "text": "戦いはわしにまかせておけ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41bc8",
+            "size": 27,
+            "text": "そうか。気か゛むいたら、\nまた声をかけてくれ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41be3",
+            "size": 27,
+            "text": "ハ゜ーティの人数か゛\n多すき゛るようし゛ゃな。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41bfe",
+            "size": 21,
+            "text": "トルカ゛た゛と？  わしの故郷た゛。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41c13",
+            "size": 53,
+            "text": "そうた゛。たしか、村長のヘ゛インは\n小さなオノを神様のオノた゛と言って、\n大切にしていた。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41c48",
+            "size": 38,
+            "text": "私は村へもと゛り、村の剣士として\nはたらくと決めております。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41aab",
+            "size": 45,
+            "text": "私に何かこ゛用？\n仲間になる人をさか゛しているなら、\n私はいかか゛かしら？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41ad8",
+            "size": 29,
+            "text": "ありか゛とう。\nお役にたてると\nいいのた゛けれと゛。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41af5",
+            "size": 34,
+            "text": "残念た゛けと゛、仕方ないわね。\n気をつけて行ってね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41b17",
+            "size": 35,
+            "text": "残念た゛けと゛、\nハ゜ーティの人数か゛\n多すき゛るみたい。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41b3a",
+            "size": 39,
+            "text": "私は、今度は知織を得るための\n旅に出ようと思っています。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x419d0",
+            "size": 77,
+            "text": "やあ、仲間をさか゛しているんて゛すか？\n私はシラルムっていう\n精霊使いなんて゛すけと゛、{6}\nよかったら\n仲間に加えてもらえませんか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41a1d",
+            "size": 22,
+            "text": "ありか゛とう。\nか゛んは゛りましょうね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41a33",
+            "size": 34,
+            "text": "残念て゛すね。\n気か゛むいたら\n声をかけてくた゛さいね。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41a55",
+            "size": 23,
+            "text": "ちょっと、\n人数か゛多すき゛ませんか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41a6c",
+            "size": 52,
+            "text": "私はまた゛旅を続けようと思います。\nまた゛何も見つけていないような\n気か゛しますから。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41905",
+            "size": 101,
+            "text": "こんにちは。私はリサ゛ンといいます。\n仲間をさか゛しているのて゛したら\n私も加えていたた゛けませんか？{6}\n戦いは苦手て゛すか゛、魔法なら\n多少あつかえます。\nと゛うて゛しょう。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x4196a",
+            "size": 19,
+            "text": "ありか゛とう。\nこれからよろしく。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x4197d",
+            "size": 19,
+            "text": "そうて゛すか。\nて゛はまたいつか。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41990",
+            "size": 19,
+            "text": "ハ゜ーティか゛いっは゜いて゛すよ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x419a3",
+            "size": 34,
+            "text": "私はこの魔法使いキ゛ルト゛に\n入門したく思います。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41848",
+            "size": 84,
+            "text": "おれはルークスってんた゛、\n何か用か？{6}\n冒険の仲間をさか゛してるってんなら、\n仲間になってやってもいいか゛\nおれは、戦いには自信はないせ゛。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x4189c",
+            "size": 40,
+            "text": "まあ仲間になったからには\nそれなりの事はするさ。\nよろしくたのむせ゛。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x418c4",
+            "size": 12,
+            "text": "そうか、し゛ゃあな。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x418d0",
+            "size": 23,
+            "text": "ちょいと人数か゛\n多すき゛やしないか。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x418e7",
+            "size": 19,
+            "text": "おれは今のままて゛かまわないさ。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x41784",
+            "size": 70,
+            "text": "よう、おれの名はハ゛ート。\n見てのとおり戦士た゛。{6}\n冒険する仲間をさか゛しているところた゛。\nいっしょに組まないか？{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x417ca",
+            "size": 15,
+            "text": "よし、これからよろしくな。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x417d9",
+            "size": 18,
+            "text": "そうか、し゛ゃあまた今度な。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x417eb",
+            "size": 36,
+            "text": "おれか゛入ると、\nハ゜ーティの人数か゛\n多すき゛るようた゛な。{6}{f}",
+            "translation": ""
+        },
+        {
+            "address": "0x4180f",
+            "size": 46,
+            "text": "おれ...私は剣のうて゛をみか゛き、\nこの街と国のために\nはたらきたいと思います。{6}{f}",
+            "translation": ""
+        },
+        {
             "address": "0x40740",
             "size": 33,
             "text": "セ゛ムを誰から買ったのか\n教えて{8}{b}くれ{a}くた゛さい{7}。{6}{f}",
@@ -5926,7 +6244,7 @@
             "address": "0x4b351",
             "size": 50,
             "text": "仕事なら奇跡の店のおやし゛か゛\n何かたのみたいらしいから\n行ってみたらと゛うた゛？{6}{f}",
-            "translation": ""
+            "translation": "If you want work, the \nold man at the Miracle\nShop needs some help. {6}{f}"
         },
         {
             "address": "0x4b383",
@@ -6652,7 +6970,7 @@
             "address": "0x4d03c",
             "size": 193,
             "text": "おまえさんら、ヒマなら\nちょっと仕事を\n引き受けてくれんか？{6}\nこのあいた゛、きみょうな神像を\n手に入れたのた゛か゛、それにくっついて\nいたはす゛の武器をさか゛してほしいんた゛。{6}\n北西のエストン山脈に住む\nト゛ワーフの村に「神像のオノ」という\n品物か゛あるらしい。{6}\nそれをもらってきてくれんか。\n礼として６００カ゛メルた゛すか゛\nと゛うかね。{f}",
-            "translation": ""
+            "translation": "If ya'll got the time, I\ngot a small favor.{6}\nI found this strange idol,\nbut it's missing its weapon.{6}\nThe Dwarves in the Eston Mts. \nto the northwest have something \ncalled an \"Idol's Axe\". {6}\nI'll give you 600 gamel \nif you bring it to me.{f}"
         },
         {
             "address": "0x4d0fd",
@@ -6670,7 +6988,7 @@
             "address": "0x4d118",
             "size": 63,
             "text": "そうとも。\nこんなおいしい仕事は他て゛はないそ゛。{6}\n場所はエストン山脈の中ほと゛にある、\nトルカ゛村た゛。{6}{f}",
-            "translation": ""
+            "translation": "Thought so. \nI pay well. {6}\nIt's at Torga Village, middle \nof the Eston range. {6}{f}"
         },
         {
             "address": "0x4d157",
@@ -15526,7 +15844,7 @@
             "address": "0x5f09b",
             "size": 30,
             "text": "オランの街か゛て゛きて、\n２００年以上たつんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Oran is over\n200 years old.{6}{f}"
         },
         {
             "address": "0x5f0b9",
@@ -15562,13 +15880,13 @@
             "address": "0x5f186",
             "size": 68,
             "text": "この街の魔術師キ゛ルト゛は、\n三角塔と呼は゛れ、全アレクラストの\n魔術師キ゛ルト゛の中心となっているんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Our mage's guild is called\nthe Triangle Tower. It's the central\nmage's guild of all Alecrast. {6}{f}"
         },
         {
             "address": "0x5f1ca",
             "size": 40,
             "text": "このオランの街は\n古代王国の遭跡の上に\n建ってるんた゛って。{6}{f}",
-            "translation": ""
+            "translation": "It's said that\nOran was built atop \nancient ruins.{6}{f}"
         },
         {
             "address": "0x5f1f2",
@@ -15598,7 +15916,7 @@
             "address": "0x5f275",
             "size": 110,
             "text": "盗賊キ゛ルト゛て゛は\nいろんな裏の情報を教えてくれるせ゛。{6}\nたた゛し、シーフ技能を持った者か゛\nいないと入れてもらえないそ゛。{6}\n冒険するならシーフ技能は\n必要た゛と思うか゛な。{6}{f}",
-            "translation": ""
+            "translation": "You can get a lot of\ninfo from the Thieves Guild.{6}\nThey won't let you in without \nthe Thief skill, though.{6}\nEveryone knows the Thief skill\nis indispensable. {6}{f}"
         },
         {
             "address": "0x5f2e3",
@@ -15610,7 +15928,7 @@
             "address": "0x5f305",
             "size": 128,
             "text": "おれは、ハ゜タ゛から来たんた゛けと゛、\n「シーカンスの地下迷宮」って\nおもしろい所か゛あったよ。{6}\nくわしくは、ハ゜タ゛の\n遭跡の番人亭て゛聞けは゛わかるよ。{6}\nたた゛し、何か他の仕事を\n引き受けてるときはた゛めた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "I just came from Pada. There's\na place there called\nthe \"Seacans Labyrinth\".{6}\nAsk Pada's ruins guard to \nknow more,{6}\nonly when you're free,\nthat is.{6}{f}"
         },
         {
             "address": "0x5f385",
@@ -15622,7 +15940,7 @@
             "address": "0x5f3c3",
             "size": 30,
             "text": "あなた誰よ？\n勝手に人の部屋に入らないて゛よ。{6}{f}",
-            "translation": ""
+            "translation": "Who are you?\nGet out of my room. {6}{f}"
         },
         {
             "address": "0x5f3e1",
@@ -15682,7 +16000,7 @@
             "address": "0x5f574",
             "size": 50,
             "text": "神殿には行った？\nケカ゛をなおしてくれたり、\n死んた゛人まて゛生き返らせてくれるのよ。{6}{f}",
-            "translation": ""
+            "translation": "Temples can heal your wounds\nand even resurrect the dead.{6}{f}"
         },
         {
             "address": "0x5f5a6",
