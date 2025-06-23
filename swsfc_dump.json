@@ -70,7 +70,7 @@
             "address": "0x41da0",
             "size": 30,
             "text": "そうこなくっちゃ！\nこれからは仲間よ。\nよろしくね。{6}{f}",
-            "translation": "Sweet! \nNow we're friends. \nNice to meetcha! {6}{f}"
+            "translation": "Sweet! \nNow we're friends. \nLet's go!{6}{f}"
         },
         {
             "address": "0x41dbe",
@@ -16042,73 +16042,73 @@
             "address": "0x5f77b",
             "size": 90,
             "text": "女の冒険者た゛からって、\nハ゛カにするんし゛ゃないよ。{6}\nとは言ったものの、\nなんた゛かこわいわ。{6}\nもう冒険者なんかやめて、\nふつうの女の子にもと゛ろうかしら。{6}{f}",
-            "translation": ""
+            "translation": "Don't mock me just \nbecause I'm a woman. {6}\nThough adventuring is\npretty scary... {6}\nMaybe I'll quit and become \na normal girl again...{6}{f}"
         },
         {
             "address": "0x5f7da",
             "size": 120,
             "text": "シーフ技能を持つ者か゛いないと、\n盗賊キ゛ルト゛に入れることはて゛きねぇな。\nさっさと帰んな。{6}\n冒険者の店て゛シーフ技能を\n上け゛てもらうか、シーフ技能を持った\n奴をハ゜ーティに入れることた゛な。{6}{f}",
-            "translation": ""
+            "translation": "Can't let you into the guild \nwithout the Thief skill. \nGo on, then. {6}\nLearn Thief at an adventurer \nshop, or recruit a Thief, \nthen come back. {6}{f}"
         },
         {
             "address": "0x5f852",
             "size": 21,
             "text": "よう相棒、景気はと゛うた゛い？{6}{f}",
-            "translation": ""
+            "translation": "Hey, buddy. Doing well?{6}{f}"
         },
         {
             "address": "0x5f86c",
             "size": 46,
             "text": "ファリス信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "You may not enter\nthe Pharis temple if \nyou are not a believer. {6}{f}"
         },
         {
             "address": "0x5f89a",
             "size": 13,
             "text": "ファリスは偉大なり。{6}{f}",
-            "translation": ""
+            "translation": "Pharis over all. {6}{f}"
         },
         {
             "address": "0x5f8ac",
             "size": 46,
             "text": "マイリー信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "You may not enter the\nMyrii temple if you are\nnot a believer. {6}{f}"
         },
         {
             "address": "0x5f8da",
             "size": 15,
             "text": "マイリーの正義を共に。{6}{f}",
-            "translation": ""
+            "translation": "Myrii is justice.{6}{f}"
         },
         {
             "address": "0x5f8ee",
             "size": 46,
             "text": "ラータ゛信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "You may not enter the\ntemple unless you are a \nbeliever of Rahda. {6}{f}"
         },
         {
             "address": "0x5f91c",
             "size": 17,
             "text": "ラータ゛の知恵をあなたに。{6}{f}",
-            "translation": ""
+            "translation": "With His wisdom.{6}{f}"
         },
         {
             "address": "0x5f932",
             "size": 47,
             "text": "チャ・サ゛信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "You may not enter the\ntemple unless you are a \nbeliever of Cha-Za.{6}{f}"
         },
         {
             "address": "0x5f961",
             "size": 24,
             "text": "チャ・サ゛のこ゛加護か゛ありますように。{6}{f}",
-            "translation": ""
+            "translation": "May Cha-Za be with you.{6}{f}"
         },
         {
             "address": "0x5f97c",
             "size": 21,
             "text": "マーファのお恵みか゛ありますように。{6}{f}",
-            "translation": ""
+            "translation": "Go with Marfa's blessings. {6}{f}"
         }
     ]
 }
