@@ -108,8 +108,10 @@
         let outputStr = "Found on strings: \n";
         for(let i = 0; i < database.words.length; i++) {
             if(database.words[i].text.indexOf(searchStr) != -1) {
-                //window.alert("Found on string: " + (i + 1));
-                outputStr += (i + 1) + "\n";
+                outputStr += (i + 1) + ", ";
+            }
+            if(database.words[i].translation.indexOf(searchStr) != -1) {
+                outputStr += (i + 1) + ", "
             }
         }
         window.alert(outputStr);
