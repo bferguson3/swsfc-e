@@ -13,6 +13,7 @@
         <br>
         <label class="stdLabel">Translation:</label><br>
         <textarea id="translation" class="originalTextStyle" onchange="RecountChars();"></textarea><br>
+        <label class="selLabel" id="lblSel">Ct: 0</label>
         <label class="sizeLabel" id="lblSize">Size: 0 b</label>
         <p>
         <button class="buttonStyle" id="prevWord">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -142,6 +143,12 @@
         }
     }
 
+    function countSel() {
+        const sel_ = window.getSelection().toString().length;
+        const sl = document.getElementById("lblSel");
+        sl.innerHTML = "Ct: " + sel_;
+    }
+
     // Setup buttons 
     const inputElement = document.getElementById("filePicker");
     const translationTxt = document.getElementById("translation");
@@ -161,6 +168,8 @@
 
     gotoBtn.addEventListener("click", GoTo, false);
     searchBtn.addEventListener("click", Search, false);
+
+    document.addEventListener('keyup', countSel, false);
 
     // end bent script
 
@@ -216,6 +225,10 @@ module.exports=saveAs);
 
     .sizeLabel {
         padding-left: 400px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .selLabel { 
         font-family: Arial, Helvetica, sans-serif;
     }
 
