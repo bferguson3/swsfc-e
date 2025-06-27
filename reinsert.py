@@ -482,7 +482,7 @@ words.append(TLWord(0x1d24e, 7, " damage \x0f"))
 words.append(TLWord(0x1e135, 16, "The def stone shattered"))
 words.append(TLWord(0x1e147, 13, "\x01completely healed!"))
 
-words.append(TLWord(0x3800c, 12, "Heal    Destone\x01"))
+words.append(TLWord(0x3800c, 14, "Heal    Destone        \x01"))
 words.append(TLWord(0x3801a, 14, "Resrct  Buy item "))
 words.append(TLWord(0x38029, 13, "Sanctify \x0f"))
 
@@ -511,10 +511,10 @@ words.append(TLWord(0x6106, 4, "Shop \x0f"))
 words.append(TLWord(0x610b, 10, "Salty Dog\x0f"))
 words.append(TLWord(0x6116, 7, "Bluod"))
 words.append(TLWord(0x611e, 4, "OldMan"))
-words.append(TLWord(0x6123, 8, "Pharis Pr "))
-words.append(TLWord(0x612c, 8, "Myrii Pr "))
+words.append(TLWord(0x6123, 8, "Pharis Pr \x0f"))
+words.append(TLWord(0x612c, 8, "Myrii Pr \x0f"))
 words.append(TLWord(0x6135, 8, "Rahda Pr "))
-words.append(TLWord(0x613e, 9, "Cha-Za Pr "))
+words.append(TLWord(0x613e, 9, "Cha-Za Pr \x0f"))
 words.append(TLWord(0x6148, 8, "Marfa Pr "))
 words.append(TLWord(0x6151, 4, "Bein "))
 words.append(TLWord(0x6156, 5, "Erunda "))
@@ -676,6 +676,47 @@ words.append(TLWord(0x6578, 6, "Minotaur "))
 words.append(TLWord(0x657f, 11, "Jack-o-lantern "))
 words.append(TLWord(0x658b, 10, "Sogran Zombie "))
 
+words.append(TLWord(0x95a0, 5, "MagStn")) #9515h: ->959Fh
+words.append(TLWord(0x95a6, 8, "Magic Yarn "))
+words.append(TLWord(0x95b0, 7, "Warrior Meds "))
+words.append(TLWord(0x95b8, 7, "Antidote "))
+## TONIC PTR HAS BEEN SWITCHED WITH HOLY WATER 
+words.append(TLWord(0x9608, 3, "Tonic")) #951D -> 95B8::
+words.append(TLWord(0x95c7, 7, "Heal Stone")) #95c0
+words.append(TLWord(0x95cf, 9, "Wizard Heart"))
+words.append(TLWord(0x95d9, 9, "Thief Wisdom "))
+words.append(TLWord(0x95e3, 8, "Myrii Guard"))
+words.append(TLWord(0x95ec, 8, "Marfa Guard"))
+words.append(TLWord(0x95f5, 8, "Rahda Mind "))
+words.append(TLWord(0x95fe, 9, "Cha-Za Mind "))
+words.append(TLWord(0x95c0, 6, "Holy Water")) #952D -> 95FE::
+words.append(TLWord(0x960c, 8, "Battle Horn "))
+words.append(TLWord(0x9615, 8, "SleepFlute"))
+words.append(TLWord(0x961e, 7, "ChaosFlute"))
+words.append(TLWord(0x9626, 11, "Defense Tablet "))
+words.append(TLWord(0x9632, 7, "Wing Statue "))
+words.append(TLWord(0x963a, 9, "Cloud Egg"))
+words.append(TLWord(0x9644, 7, "Heal Rod"))
+# not done!
+
+words.append(TLWord(0x38059, 22, "Recover life \x01Recover MP"))
+words.append(TLWord(0x3807e, 22, "Recover whose\x01life points?"))
+words.append(TLWord(0x38095, 23, "Recover whose\x01mental power? "))
+words.append(TLWord(0x380ad, 16, "Depetrify whom?"))
+words.append(TLWord(0x380be, 15, "Resurrect whom?"))
+words.append(TLWord(0x380ce, 26, " has no need\x01to recover MP. "))
+words.append(TLWord(0x380e9, 25, " has no need\x01to recover life."))
+words.append(TLWord(0x38103, 14, " is \x01not petrified."))
+words.append(TLWord(0x38112, 20, " does not need\x01to be revived."))
+words.append(TLWord(0x38127, 24, " gamels, please.\x01Is this OK? "))
+words.append(TLWord(0x38142, 14, "Inventory is full. "))
+words.append(TLWord(0x38155, 14, "Equipment is full. "))
+words.append(TLWord(0x38171, 7, "Holy Water"))
+words.append(TLWord(0x38188, 7, "Holy Water"))
+words.append(TLWord(0x3819f, 7, "Holy Water"))
+words.append(TLWord(0x38179, 14, "Buy Myrii Guard"))
+words.append(TLWord(0x38190, 14, "Buy Marfa Guard"))
+words.append(TLWord(0x381a7, 14, "Buy Rahda Mind "))
 
 print(" OK.")
 
@@ -742,6 +783,12 @@ class Combo():
         self.img = im
         #
 ###
+
+capsletters = []
+i = 0
+while i < 26:
+    capsletters.append(Combo(" " + chr(0x41 + i)))
+    i += 1
 
 # sort all_cmb here!!!
 all_cmb.sort(key=lambda x: x.count, reverse=True)
@@ -843,6 +890,52 @@ lenofimg = 0
 for k in output_chr:
     lenofimg += len(k.bytes)
 print(len(output_chr),"images created OK.")
+output_caps = []
+i = 0
+while i < len(capsletters):
+    _img = OutputImg()
+    char = []
+    h = 0
+    while h < capsletters[i].img.size[1]:
+        b = ''
+        w = 0
+        while w < capsletters[i].img.size[0]:
+            if(capsletters[i].img.getpixel((w,h)) == (0,0,0)):
+                b+='1'
+            else:
+                b+='0'
+            if(len(b)==8):
+                char.append(int(b,2))
+                b = '' 
+            w += 1
+        # b is half done
+        if(i == len(capsletters)-1):
+            w = 0
+            while w < 12:
+                b += '0'
+                if(len(b)==8):
+                    char.append(int(b,2))
+                    b = ''
+                w += 1
+        else:
+            w = 0
+            while w < capsletters[i+1].img.size[0]:
+                if(capsletters[i+1].img.getpixel((w,h)) == (0,0,0)):
+                    b+='1'
+                else:
+                    b+='0'
+                if(len(b)==8):
+                    char.append(int(b,2))
+                    b = '' 
+                w += 1
+        if(len(b) > 0):
+            print("bit length:",len(b))
+            b=''
+            char.append(int(b,2))
+        h += 1
+    _img.bytes = char
+    output_caps.append(_img)
+    i += 2
 
 def getcmb(s):
     for p in all_cmb:
@@ -891,6 +984,16 @@ rom = f.read()
 f.close()
 print(" OK.")
 
+# fix captials
+# start at 0x30-0x20 + 0x18 = 180h = FA180h
+addr = 0xFA180
+i = 0
+while i < len(output_caps):
+    l = len(output_caps[i].bytes)
+    rom = rom[:addr] + bytes(output_caps[i].bytes) + rom[addr+l:]
+    addr += 0x30
+    i += 1
+    
 # starting at 0xFA800 for 0x50, start inserting the new charmap.
 print("Inserting charmap... ", end="")
 addr = 0xFA480 # 0xFA000 + 0x30 per 2 chars * (0x50 - 0x20)
