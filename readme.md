@@ -1,5 +1,7 @@
 ## Sword World SFC 1/2 tools
 
+Expects "swsfc-e.sfc" in project folder. Original Japanese ROM checksum is 0xC11B. 
+
 ### extract.py
 dumps script text only to json for sfc1
 
