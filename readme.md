@@ -18,7 +18,7 @@ note: binary edits not included, output file will not be complete
 ### file list
 - 8x16romaji.png: actually 6x16, used for translation
 - f8000bank.png: bitmap text for sfc1
-- *.ips: current IPS (reports that the output IPS may not be good, beware)
+- *.ips: current IPS (if you need a cmd line patcher: https://github.com/bferguson3/pips)
 - *_dump.json: script dumps (does not include system text)
 - *.tbl: character tables 
 - swsfcman-eng.txt: WIP translation of SFC1 manual
