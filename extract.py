@@ -1,7 +1,10 @@
 import os,sys,json
 
 filelist = [
-    0x41eee,
+    0x43be1
+]
+'''
+0x41eee,
     0x41e20,
     0x41d59,
     0x41c6e,
@@ -11,8 +14,6 @@ filelist = [
     0x418fa,
     0x4183d,
     0x41779,
-]
-'''
 0x40600-1,
 0x41fa0,
 0x43dc5,
