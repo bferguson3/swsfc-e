@@ -8386,31 +8386,31 @@
             "address": "0x4f9ee",
             "size": 35,
             "text": "あんたたちか゛行かないと、\nこっちも思いきり戦えないんた゛。{6}{f}",
-            "translation": ""
+            "translation": "If you don't go, I can't\nfight with my all.{6}{f}"
         },
         {
             "address": "0x4fa11",
             "size": 51,
             "text": "やあ、ひさしふ゛りた゛な。\nおれた゛よ、タット゛た゛よ。\n地下遭跡て゛は世話になったな。{6}{f}",
-            "translation": ""
+            "translation": "Hey, it's been a while.\nIt's me, Tad. \nFrom the ruins?{6}{f}"
         },
         {
             "address": "0x50050",
             "size": 21,
             "text": "動くな。\nおまえたち、何者た゛？{6}{f}",
-            "translation": ""
+            "translation": "Don't move.\nWho are you? {6}{f}"
         },
         {
             "address": "0x50065",
             "size": 37,
             "text": "...そうた゛な。\n私をさか゛していると言ったか゛、\n何の用た゛？{6}{f}",
-            "translation": ""
+            "translation": "...Ah.\nYou were searching for me? \nWhy? {6}{f}"
         },
         {
             "address": "0x5008a",
             "size": 36,
             "text": "ラテリアか゛？\nラテリアに会ったのか！\n彼女は今と゛こにいる？{6}{f}",
-            "translation": ""
+            "translation": "Lateria? \nYou've seen Lateria!?\nWhere is she?{6}{f}"
         },
         {
             "address": "0x500ae",
@@ -8422,217 +8422,217 @@
             "address": "0x500b2",
             "size": 79,
             "text": "待て。ラテリアを手中におさめたなら、\nタ゛ライアは正面から私にいと゛んて゛\nくるはす゛た゛。{6}\nます゛は急いて゛精霊石をさか゛した゛さねは゛。{6}{f}",
-            "translation": ""
+            "translation": "Wait. If Lateria was already in \nhis grasp, Dalaia would \nchallenge me directly.{6}\nWe must find the spirit stones.{6}{f}"
         },
         {
             "address": "0x50101",
             "size": 51,
             "text": "私はラテリアをさか゛す。\nカ゛ラとアインはこの遭跡て゛\n「水の精霊石」をさか゛してくれ。{6}{f}",
-            "translation": ""
+            "translation": "I will find Lateria.\nGara and Ein will search\nfor the spirit stone of \nwater.{6}{f}"
         },
         {
             "address": "0x50134",
             "size": 74,
             "text": "われわれの争いに\n深入りしてしまっては危険た゛。{6}\n今のうちに立ちさるといい。\nラテリアのことを、\n知らせてくれてありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "It's too dangerous for you to\nget involved further. {6}\nLeave now. \nI thank you for informing me \nabout Lateria. {6}{f}"
         },
         {
             "address": "0x5017e",
             "size": 43,
             "text": "今ならタ゛ライアに\nねらわれることもないた゛ろう。\n早く街へもと゛りたまえ。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia should not target you \nfurther. Head back to town. {6}{f}"
         },
         {
             "address": "0x501a9",
             "size": 88,
             "text": "ラテリアの伝言をたくされた者た゛。\n信用て゛きるた゛ろう。{6}\n私はツーレ。ラテリアの兄。\n砂漠の民の一部族、\n「わたる風」の族長の息子た゛。{6}{f}",
-            "translation": ""
+            "translation": "We can trust them. \nThey know Lateria. {6}\nI'm Toure, Lateria's brother. \nI'm the son of the chief of\nour tribe, the Crossing Wind.{6}{f}"
         },
         {
             "address": "0x50201",
             "size": 20,
             "text": "いや...タ゛ライアは私のいとこた゛。{6}{f}",
-            "translation": ""
+            "translation": "...Dalaia is my cousin. {6}{f}"
         },
         {
             "address": "0x50215",
             "size": 136,
             "text": "...て゛きないのた゛。ふつうならは゛、\n私か゛新たな族長となる。{6}\nしかし、私は故郷をすてたのた゛...\n一度、族長の息子の座をすてた私か゛、\nおめおめと帰ることはて゛きない。{6}\n帰るには、それなりの代償か力を\nしめさなけれは゛ならない。{6}{f}",
-            "translation": ""
+            "translation": "...I can't. Normally,\nI'd become the new chief.{6}\nBut I abandoned my home. \nI can't simply return and\nexpect my father's seat to\nbe mine.{6}\nI first need the strength\nor worth to go back.{6}{f}"
         },
         {
             "address": "0x5029d",
             "size": 36,
             "text": "て゛は、この奥にあるはす゛の\n「精霊石」をさか゛しに行こう。{6}{f}",
-            "translation": ""
+            "translation": "Let's find that spirit stone \ninside. {6}{f}"
         },
         {
             "address": "0x502c1",
             "size": 19,
             "text": "カ゛ラ、ラテリアをたのんた゛そ゛。{6}{f}",
-            "translation": ""
+            "translation": "Gara, help Lateria. {6}{f}"
         },
         {
             "address": "0x502d4",
             "size": 46,
             "text": "この庭園のと゛こかに、\n精霊の力を支配する\n精霊石か゛あるはす゛た゛。{6}{f}",
-            "translation": ""
+            "translation": "Somewhere in this garden \nis a stone that has power \nto control the spirits. {6}{f}"
         },
         {
             "address": "0x50302",
             "size": 36,
             "text": "{c}{0}、\n精霊石を手に入れることか゛て゛きた。\n礼を言おう。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, \nwe've obtained the stone. \nMy thanks. {6}{f}"
         },
         {
             "address": "0x50326",
             "size": 20,
             "text": "カ゛ラて゛はないか。\nしっかりしろ！{6}{f}",
-            "translation": ""
+            "translation": "Gara!\nWake up! {6}{f}"
         },
         {
             "address": "0x5033a",
             "size": 12,
             "text": "カ゛ラめ...おのれ...！{6}{f}",
-            "translation": ""
+            "translation": "Curse you! {6}{f}"
         },
         {
             "address": "0x50346",
             "size": 12,
             "text": "く...、タ゛ライアめ...{6}{f}",
-            "translation": ""
+            "translation": "Curse Dalaia.{6}{f}"
         },
         {
             "address": "0x50352",
             "size": 32,
             "text": "{c}{0}か？\nおまえたちも、ここに？\nカ゛ラはと゛うしたのた゛？{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}? \nYou're here? What about \nGara?{6}{f}"
         },
         {
             "address": "0x50372",
             "size": 65,
             "text": "なに？  ...そうか...カ゛ラは\nタ゛ライアの...\nくそっ！{6}\n{c}{0}、\nここからぬけ出す方法をさか゛そう。\n同行させてくれ。{6}{f}",
-            "translation": ""
+            "translation": "What? So Gara was Dalaia's...{6}\n{c}{0}, \nlet's find a way out of here. \nI'll come with you.{6}{f}"
         },
         {
             "address": "0x503b3",
             "size": 45,
             "text": "水...\n「水の精霊石」を使えは゛、\nなんとかなるかもしれない。{6}\nためしてみよう。{6}{f}",
-            "translation": ""
+            "translation": "Water... \nMaybe we can use the \nspirit stone of water.{6}\nTry it.{6}{f}"
         },
         {
             "address": "0x503e0",
             "size": 24,
             "text": "これは...\nこのししゅうはラテリアのものた゛。{6}{f}",
-            "translation": ""
+            "translation": "This hairpin...\nIt's Lateria's. {6}{f}"
         },
         {
             "address": "0x503f8",
             "size": 18,
             "text": "ラテリア、無事た゛ったのか？{6}{f}",
-            "translation": ""
+            "translation": "Lateria, are you okay? {6}{f}"
         },
         {
             "address": "0x5040a",
             "size": 26,
             "text": "ありか゛とう、妹よ。\nあとは私の役目た゛。{6}{f}",
-            "translation": ""
+            "translation": "Thank you, sister. \nMy turn. {6}{f}"
         },
         {
             "address": "0x50424",
             "size": 34,
             "text": "タ゛ライア。わか゛父を殺すとは、\n何を血迷ったのた゛？{6}{f}",
-            "translation": ""
+            "translation": "Dalaia, what madness is\nall of this?{6}{f}"
         },
         {
             "address": "0x50446",
             "size": 13,
             "text": "なにを...たわこ゛とを。{6}{f}",
-            "translation": ""
+            "translation": "You speak drivel.{6}{f}"
         },
         {
             "address": "0x50453",
             "size": 32,
             "text": "...タ゛ライア...すへ゛ては、\n私の迷いのせいた゛ったのか？{6}{f}",
-            "translation": ""
+            "translation": "...Was all this because of\nmy own hesitation?{6}{f}"
         },
         {
             "address": "0x50473",
             "size": 79,
             "text": "{c}{0}、\n世話になった。ありか゛とう。{6}\n私は村に帰り、\n父のあとを、つこ゛うと思う。{6}\nこれは少ないか゛礼金た゛。\n受け取ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, \nthanks for your help. {6}\nI will return and take the \nplace of my father. {6}\nIt isn't much, but take this.{6}{f}"
         },
         {
             "address": "0x504c2",
             "size": 37,
             "text": "おほ゛えておられたか？\n族長あらそいの一件て゛は\nせわになった。{6}{f}",
-            "translation": ""
+            "translation": "Remember?\nYou helped me with our \nclan's infighting.{6}{f}"
         },
         {
             "address": "0x504e7",
             "size": 148,
             "text": "...何も聞かないて゛ほしい。\n砂漠の民のおきてて゛は、われらの\nひみつを知った者は殺さねは゛ならない。{6}\nこうやって、あなたか゛たを\n助けることは、長としての私の地位を\n使っても、あやういこと。{6}\nすく゛さまここから立ち去り、\n二度ともと゛ってきてはいけない。{6}{f}",
-            "translation": ""
+            "translation": "Ask nothing. \nBy our laws, we must kill any\noutsiders that know our secrets.{6}\nI would like to help, but given\nmy position as chief, it would\nbe dangerous. {6}\nI must ask you to leave and\nnot come back.{6}{f}"
         },
         {
             "address": "0x5057b",
             "size": 90,
             "text": "ここにあなたか゛たの\n持ち物か゛入っている。{6}\n階段をあか゛り、右へまっすく゛ゆき、\n３つ目の彫像を動かせは゛、\n外へ通し゛るぬけ穴か゛あったはす゛た゛。{6}{f}",
-            "translation": ""
+            "translation": "Your things are in here. {6}\nGo up the stairs and to the\nright. Use the statue with 3\neyes, and an exit will open.{6}{f}"
         },
         {
             "address": "0x505d5",
             "size": 14,
             "text": "いそいて゛行くといい。{6}{f}",
-            "translation": ""
+            "translation": "Go. Hurry. {6}{f}"
         },
         {
             "address": "0x505e3",
             "size": 45,
             "text": "やめてくれ...ウ゛ァルルト゛も\n{c}{0}も。{6}\nと゛ちらも、あらそいを\nおこさないて゛くれ...{6}{f}",
-            "translation": ""
+            "translation": "Stop... Valrud,\n{c}{0}. {6}\nBoth of you, please, \ndon't fight...{6}{f}"
         },
         {
             "address": "0x50610",
             "size": 38,
             "text": "今はあらそう時て゛はない。\n邪神を...滅ほ゛さなくてはならない。{6}{f}",
-            "translation": ""
+            "translation": "Now is not the time. \nThe dark god... must be\ndestroyed.{6}{f}"
         },
         {
             "address": "0x50636",
             "size": 110,
             "text": "ウ゛ァルルト゛、君は笑うか゛、\n今の私たちも\n邪神に勝てるし゛ょうたいて゛はない。{6}\n仲間のほとんと゛は死に、\n残ったのは私たちた゛け。{6}\nこれて゛は、とうてい\n邪神の元へは行けない。{6}{f}",
-            "translation": ""
+            "translation": "Valrud, you laugh, but\nwe are incapable of winning\nas we are.{6}\nOur allies are dead, and we\nare all that's left.{6}\nWe can't possibly survive\nlike this.{6}{f}"
         },
         {
             "address": "0x506a4",
             "size": 19,
             "text": "{c}{0}、\n力をかしてはくれないか？{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, \nwill you help us? {6}{f}"
         },
         {
             "address": "0x506b7",
             "size": 118,
             "text": "ウ゛ァルルト゛！\nほこりよりも、\n大切な役目をわすれたのか？！{6}\n{c}{0}、私たちを\n仲間に加えてくれないか？{6}\n私たちには邪神を倒す方法か゛、\n君たちには力か゛ある。\n君たちの助けか゛必要なのた゛。{6}{f}",
-            "translation": ""
+            "translation": "Valrud!\nForget your pride! \nWhat about your duty?{6}\n{c}{0}, will you take \nus with you?{6}\nWe may know the method, but\nyou have the strength to take \ndown the god. We need you. {6}{f}"
         },
         {
             "address": "0x5072d",
             "size": 26,
             "text": "君なら...\nわかってくれると思ったのた゛か゛...{6}{f}",
-            "translation": ""
+            "translation": "I thought... \nYou of all would understand. {6}{f}"
         },
         {
             "address": "0x50747",
             "size": 23,
             "text": "いや、その通りた゛。\n私はもと゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "No, exactly. \nI'm leaving. {6}{f}"
         },
         {
             "address": "0x5075e",
             "size": 20,
             "text": "友よ。\n目的のはたされることを...{6}{f}",
-            "translation": ""
+            "translation": "Friend.\nOur goal...{6}{f}"
         },
         {
             "address": "0x5079f",
