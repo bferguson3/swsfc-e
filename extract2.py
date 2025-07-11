@@ -346,6 +346,8 @@ class SWFile:
         self.bytes = []
         self.text = ""
         self.translation = ""
+        self.ptr_loc = ""
+        self.ptr_val = ""
     ###
     def toJSON(self):
         return json.dumps(
@@ -411,13 +413,16 @@ while i < len(filelist):
         # ok, we found the final byte
         bc = filelist[i]
         # first two bytes are offset from this location to str
-        ofs = rom[bc + 1] << 8 | rom[bc]
+        ofs = rom[bc + 1] << 8 | rom[bc] 
+        ptr_loc = bc 
         num = int(ofs/2)
         file=[]
         j = 0
         while j < num:
             sf = SWFile()
+            sf.ptr_loc = hex(bc)
             _ofs = (rom[bc + 1] << 8) | rom[bc]
+            sf.ptr_val = hex(_ofs) 
             sf.address = _ofs + filelist[i] 
             b = sf.address
             while rom[b] != 0xf:
@@ -468,10 +473,12 @@ for fi in flist:
         w.text = s
 
 ## now write them as files 
-outstr = "{\n\"words\":["
+outstr = "{\n" #\"files\":"
 i = 0
 while i < len(flist):
     j = 0
+    outstr += "\"" + hex(filelist[i]) + "\":"
+    outstr += "[\n"
     #f = open(str(i)+"_"+hex(filelist[i]) + ".str", "wb")
     while j < len(flist[i]):
         del flist[i][j].bytes 
@@ -480,6 +487,7 @@ while i < len(flist):
         #f.write(bytes(flist[i][j].decoded.encode("shiftjis")))
         j += 1
     #f.close()
+    outstr = outstr[:len(outstr)-2] + "\n],"
     i += 1
 outstr = outstr[:len(outstr)-2]
 outstr += "\n]\n}"

@@ -310,7 +310,7 @@ def getcmb(s):
     return -1
 
 # now replace the texts in every tlword
-print("Converting / compressing",str(len(words)) + "(" + str(int(len(words)/35.35)) + "%) lines to SFC format... ", end="")
+print("Converting / compressing",str(len(words)) + "(" + str("{:.2f}".format(len(words)/35.35)) + "%) lines to SFC format... ", end="")
 for word in words:
     i = 0
     word.original = word.translation
