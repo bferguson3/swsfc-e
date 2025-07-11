@@ -1312,7 +1312,7 @@
             "address": "0x421da",
             "size": 21,
             "text": "{3}\n経験点１０００を得た。{3}{0}{6}{f}",
-            "translation": "{3}\nGot 1000 Exp.{3}{0}{6}{f}"
+            "translation": "{3}\nGot 1000 Exp. {3}{0}{6}{f}"
         },
         {
             "address": "0x421ef",
@@ -7666,55 +7666,55 @@
             "address": "0x4e405",
             "size": 58,
             "text": "いまのところ、\nお願いて゛きるようなことはありません。{6}\nなにかありましたら、\nこちらかられんらくいたします。{6}{f}",
-            "translation": ""
+            "translation": "Nothing to ask of you\nfor now.{6}\nI'll send notice if something\ncomes up. {6}{f}"
         },
         {
             "address": "0x4e43f",
             "size": 52,
             "text": "ハ゛レン導師か゛レックスの調査を\nたのんた゛のは聞いております。\nよろしくお願いします。{6}{f}",
-            "translation": ""
+            "translation": "I heard that Master Valen\nrequested your aid with Rex. \nWe're counting on you. {6}{f}"
         },
         {
             "address": "0x4e476",
             "size": 115,
             "text": "これはおそらく魔よけの護符て゛すね。\nそれも暗黒魔法によるものて゛す。{6}\n文様からすると、\nほとんと゛知られていない神に\n関するもののようて゛す。{6}\nおそらく、\n形なき神サ゛タ゛タの物て゛しょう。{6}{f}",
-            "translation": ""
+            "translation": "This must be a magic ward. \nLikely made with dark magic. {6}\nBased on the design, I'd say it \nhas to do with a relatively \nunknown god.{6}\nPossibly the Formless One, \nthe god Zadata.{6}{f}"
         },
         {
             "address": "0x4e4ee",
             "size": 118,
             "text": "事件については\nクルト゛に聞いております。{6}\n邪悪な神か゛よみか゛えろうと\nしているようて゛すね。{6}\n逃け゛た邪教の司祭の\nゆくえか゛気になるところて゛すか゛...{6}\nひとます゛、みなさんには\n礼としてこれを。{6}{f}",
-            "translation": ""
+            "translation": "I heard what happened\nfrom Kurd.{6}\nSeems they are trying to \nrevive an evil god. {6}\nI'm concerned as to where\nthat dark priest ran off to...{6}\nAnyway, take this as \nthanks. {6}{f}"
         },
         {
             "address": "0x4e564",
             "size": 28,
             "text": "ファリスの正義か゛\nあなた方を守りますように。{6}{f}",
-            "translation": ""
+            "translation": "May you go with\nPharis' justice. {6}{f}"
         },
         {
             "address": "0x4e599",
             "size": 40,
             "text": "あなた方にお願いしたい仕事か゛\nあります。\n聞いていたた゛けますか？{f}",
-            "translation": ""
+            "translation": "There is something I must \nask of you. \nWill you hear me out?{f}"
         },
         {
             "address": "0x4e5c1",
             "size": 50,
             "text": "そうて゛すか、それて゛は仕方ありません。\nみなさまにマーファのおめく゛みか゛\nあらんことを。{6}{f}",
-            "translation": ""
+            "translation": "I see. Ah well. \nMay you go with Marfa's\nblessings.{6}{f}"
         },
         {
             "address": "0x4e5f3",
             "size": 216,
             "text": "最近、ト゛ワーフを中心に\n「セ゛ム」という毒のある食へ゛物か゛\nまんえんしています。{6}\n大変おいしいらしいのて゛すか゛、\n強い毒性か゛あります。{6}\nそのような人の命をうは゛うものは、\n撲滅せねは゛なりません。{6}\nしかし、具体的な調査となりますと\n私と゛もの力て゛は...{6}\nそこて゛、あなた方の力を\n借りたいのて゛す。\nむろん、報酬はお払いします。{6}\n調査していたた゛けますか？{f}",
-            "translation": ""
+            "translation": "Food poisoned with something \ncalled \"zem\" has been troubling \nthe dwarves of late.{6}\nIt's apparently delicious, \nbut very deadly.{6}\nWe must exterminate those that \nwould take lives this way.{6}\nI have not the ability to\ninvestigate myself, \nhowever...{6}\nThis is where you come in. \nOf course, I will offer \na reward. {6}\nWill you investigate?{f}"
         },
         {
             "address": "0x4e6cb",
             "size": 41,
             "text": "ありか゛とうこ゛さ゛います。\n私たちもて゛きるた゛けの\nお手伝いをします。{6}{f}",
-            "translation": ""
+            "translation": "Thank you. \nI will aid you in any\nway I can. {6}{f}"
         },
         {
             "address": "0x4e6f4",
@@ -7726,19 +7726,19 @@
             "address": "0x4e6f5",
             "size": 52,
             "text": "セ゛ムに関したことなら、\n警備隊か盗賊キ゛ルト゛か゛\n何か知っているかもしれません。{6}{f}",
-            "translation": ""
+            "translation": "The town guard, or maybe \nthe thieves' guild may know \nsomething about zem.{6}{f}"
         },
         {
             "address": "0x4e729",
             "size": 23,
             "text": "その方なら左の部屋に\nおられますよ。{6}{f}",
-            "translation": ""
+            "translation": "He's resting in the\nleft room.{6}{f}"
         },
         {
             "address": "0x4e740",
             "size": 62,
             "text": "邪悪な司祭か゛、あのような\n毒の食へ゛物を作っていたのて゛すか。\nこれか゛お礼の７００カ゛メルて゛す。{6}{f}",
-            "translation": ""
+            "translation": "So a dark priest was \nmaking the poisoned food. \nHere is your 700 gamel.{6}{f}"
         },
         {
             "address": "0x4e781",
@@ -7750,43 +7750,43 @@
             "address": "0x4e79b",
             "size": 58,
             "text": "いまのところ、\nお願いて゛きるようなことはありません。{6}\nなにかありましたら、\nこちらかられんらくいたします。{6}{f}",
-            "translation": ""
+            "translation": "There's nothing to ask of\nyou for now.{6}\nI'll contact you if that \nchanges.{6}{f}"
         },
         {
             "address": "0x4e7d5",
             "size": 86,
             "text": "魔術師キ゛ルト゛のハ゛レン導師に\nレックスの調査を\nたのまれたのて゛すか？{6}\nそれて゛したら、レックスの件は\nおまかせします。\nよろしくお願いします。{6}{f}",
-            "translation": ""
+            "translation": "Master Valen asked you to \ninvestigate Rex? {6}\nThen, I leave it to you. \nGood luck. {6}{f}"
         },
         {
             "address": "0x4e85c",
             "size": 56,
             "text": "わしはクリムソ゛ン導師た゛。\n胞子を持ってきたのはおまえたちか？\nあれをと゛こて゛見つけたのた゛？{6}{f}",
-            "translation": ""
+            "translation": "I am Master Crimson. \nYou're the ones that found the \nspores? Where? {6}{f}"
         },
         {
             "address": "0x4e894",
             "size": 110,
             "text": "そのような所て゛？  うむ...\nし゛つはな、この胞子は\nある賢者の所から盗まれたものなのた゛。{6}\nいろいろ手をつくして\nさか゛していたのた゛か゛...{6}\nところて゛、胞子のそは゛に\n銀のつほ゛はなかったかね？{6}{f}",
-            "translation": ""
+            "translation": "Indeed? Hm...\nThese spores were actually \nstolen from a sage's house. {6}\nI've been looking for them \neverywhere... {6}\nAh, was there a silver jar \nnearby, by chance?{6}{f}"
         },
         {
             "address": "0x4e902",
             "size": 18,
             "text": "ふうむ...\nちょっと待っておれ。{6}{f}",
-            "translation": ""
+            "translation": "Hmm... \nHold on. {6}{f}"
         },
         {
             "address": "0x4e914",
             "size": 63,
             "text": "これを使えは゛、胞子に悩まされる\nことはあるまい。{6}\nもう一度、遭跡へ行って、\nくわしく調へ゛てきてくれ。{6}{f}",
-            "translation": ""
+            "translation": "If you use this, you've no \nneed to fear the spores.{6}\nHead back to the ruins \nand search once more. {6}{f}"
         },
         {
             "address": "0x4e953",
             "size": 42,
             "text": "調査か゛終ったら、報告してくれ。\n報酬は払うから心配するな。{6}{f}",
-            "translation": ""
+            "translation": "Come back when you're done.\nI'll pay your reward then. {6}{f}"
         },
         {
             "address": "0x4e97d",
@@ -7798,13 +7798,13 @@
             "address": "0x4e97e",
             "size": 28,
             "text": "もう必要ないた゛ろう。\n仮面は返してくれ。{6}{f}",
-            "translation": ""
+            "translation": "I'll take the mask.\nYou don't need it. {6}{f}"
         },
         {
             "address": "0x4e99a",
             "size": 115,
             "text": "そうか、そのモンスターは\nおそらくつほ゛をぬすんた゛男た゛ろう。{6}\n遭跡の奥に、宝物庫か゛あったのか？\nわかった。人をやって調へ゛させよう。{6}\nこ゛くろうた゛ったな。\nこれは報酬た゛。\n受け取りたまえ。{6}{f}",
-            "translation": ""
+            "translation": "I see. That monster was likely\nthe man that stole the jar. {6}\nI'll send some people to check \nout the treasury you found. {6}\nWell done. \nHere is your reward. \nTake it. {6}{f}"
         },
         {
             "address": "0x4ea0d",
@@ -7816,49 +7816,49 @@
             "address": "0x4ea0e",
             "size": 27,
             "text": "これから会議か゛あるから\nひきとってくれんか？{6}{f}",
-            "translation": ""
+            "translation": "Sorry, we're about to have \na meeting.{6}{f}"
         },
         {
             "address": "0x4ea36",
             "size": 19,
             "text": "カ゛ラか？\nまあ、奥に入りな。{6}{f}",
-            "translation": ""
+            "translation": "Gara?\nCome on back.{6}{f}"
         },
         {
             "address": "0x4ea49",
             "size": 21,
             "text": "カ゛ラ、\nこの冒険者は何た゛？{6}{f}",
-            "translation": ""
+            "translation": "Gara, who are these\npeople? {6}{f}"
         },
         {
             "address": "0x4ea5e",
             "size": 13,
             "text": "ツーレと゛のか゛ねぇ...{6}{f}",
-            "translation": ""
+            "translation": "Sir Toure... {6}{f}"
         },
         {
             "address": "0x4ea6b",
             "size": 36,
             "text": "わかってる。\nラテリア様のことた゛ろう？\nみな、大さわき゛してる。{6}{f}",
-            "translation": ""
+            "translation": "You're here about Lateria, \nright?\nEveryone is worried. {6}{f}"
         },
         {
             "address": "0x4ea8f",
             "size": 87,
             "text": "ラテリア様は、\n街はす゛れの、枯れた遭跡に\nとらわれているらしい。{6}\nそこまて゛は調へ゛たのた゛か゛、\nふみ込もうにも、\nわしらた゛けて゛は人手か゛足らん。{6}{f}",
-            "translation": ""
+            "translation": "It seems Lateria was taken\nfrom withered ruins on the\noutskirts.{6}\nWe know that much, but we\ndon't have the manpower to\ndo much else. {6}{f}"
         },
         {
             "address": "0x4eae6",
             "size": 50,
             "text": "タ゛ライアは、武術、魔術\nともにすく゛れた男た゛。\nくれく゛れも気をつけることた゛。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia is talented in both \nweaponry and magic. \nBe very careful. {6}{f}"
         },
         {
             "address": "0x4eb1b",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "......{6}{f}"
         },
         {
             "address": "0x4eb29",
@@ -8014,7 +8014,7 @@
             "address": "0x4efb6",
             "size": 41,
             "text": "魔物を倒してくた゛さったのて゛すか？\nはやく父に知らせてくた゛さい。{6}{f}",
-            "translation": "You've defeated the monsters?\nPlease let Father know.{6}{f}"
+            "translation": "You've defeated the monsters?\nPlease let Father know. {6}{f}"
         },
         {
             "address": "0x4efdf",
@@ -8038,7 +8038,7 @@
             "address": "0x4f058",
             "size": 50,
             "text": "黒い色のこ゛主人様か゛魔法のいなす゛まて゛\nおまえたちを、やっつけるそ゛\nケケケッ！{6}{f}",
-            "translation": "Our dark master will getcha\nwith'is lightning!\nNyahaha!!{6}{f}"
+            "translation": "Our dark master will getcha\nwith his lightning! \nNyahaha!!{6}{f}"
         },
         {
             "address": "0x4f08d",
@@ -8056,91 +8056,91 @@
             "address": "0x4f0e2",
             "size": 58,
             "text": "夜中に荷あけ゛する船は、\nたくさんあるさ。{6}\n小さな怪物？  こうもりか何か\n見たんし゛ゃないのか。{6}{f}",
-            "translation": ""
+            "translation": "A bunch of ships do their\nbusiness at night.{6}\nA monster? Maybe I saw a\nbat?{6}{f}"
         },
         {
             "address": "0x4f121",
             "size": 14,
             "text": "おぉぉぉ、くっ苦しい。{6}{f}",
-            "translation": ""
+            "translation": "OoOoo, it hurts! {6}{f}"
         },
         {
             "address": "0x4f12f",
             "size": 30,
             "text": "カ、カラス通りの\nコルシィから買った。\n苦しいぃ。{6}{f}",
-            "translation": ""
+            "translation": "I got it from Korshi on\nCrow Street.\nOw...{6}{f}"
         },
         {
             "address": "0x4f158",
             "size": 13,
             "text": "なんた゛、きさまらは。{6}{f}",
-            "translation": ""
+            "translation": "The hell are you?{6}{f}"
         },
         {
             "address": "0x4f165",
             "size": 37,
             "text": "ち、きさまら  と゛このまわし者た゛！\nみんな、こいつらをつかまえろ！{6}{f}",
-            "translation": ""
+            "translation": "T-They're intruders! \nEveryone, get them!{6}{f}"
         },
         {
             "address": "0x4f18a",
             "size": 31,
             "text": "ま、待ってくれ。\nおれは金て゛やとわれたた゛けなんた゛。{6}{f}",
-            "translation": ""
+            "translation": "W-Wait!\nI'm just a mercenary!{6}{f}"
         },
         {
             "address": "0x4f1a9",
             "size": 76,
             "text": "ほ、本当に命は助けてくれるんた゛な。\nよくは知らないか゛...\nミル...うっ？{6}\nく゛...く゛ぇ、ちきしょう。\nあいつらおれに呪いを...\nう、ぅう、{6}{f}",
-            "translation": ""
+            "translation": "You'll spare me? \nI'm not sure, but... \nMir...uh?{6}\nG...guh, damnit, he\n...cursed me! {6}{f}"
         },
         {
             "address": "0x4f1f5",
             "size": 10,
             "text": "...た、助けて...{6}{f}",
-            "translation": ""
+            "translation": "H-help...{6}{f}"
         },
         {
             "address": "0x4f202",
             "size": 15,
             "text": "誰た゛、そこにいるのは！{6}{f}",
-            "translation": ""
+            "translation": "Who's there!?{6}{f}"
         },
         {
             "address": "0x4f23e",
             "size": 32,
             "text": "おまえたちか、我々の計画を\nし゛ゃましてくれたのは。{6}{f}",
-            "translation": ""
+            "translation": "So you're the ones ruining \nour plans.{6}{f}"
         },
         {
             "address": "0x4f25e",
             "size": 44,
             "text": "ふふ、偉大なる海の神\nミルリーフの力を知らぬおろか者、\n死ぬか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "Fools! \nYou know not the power of\nMirleaf of the Sea! Die! {6}{f}"
         },
         {
             "address": "0x4f28a",
             "size": 36,
             "text": "おのれ...  このようなやからに\nし゛ゃまされるとは！  おほ゛えておれ！{6}{f}",
-            "translation": ""
+            "translation": "Curses! My plans!! \nI'll remember this!{6}{f}"
         },
         {
             "address": "0x4f2ae",
             "size": 43,
             "text": "おまえたちは、船と共に\nミルリーフ様のイケニエに\nなったのて゛はないのか？！{6}{f}",
-            "translation": ""
+            "translation": "You didn't become a\nsacrifice for Mirleaf\nalong with the boat!? {6}{f}"
         },
         {
             "address": "0x4f2d9",
             "size": 19,
             "text": "行け！  あいつらを殺すのた゛！{6}{f}",
-            "translation": ""
+            "translation": "Go! Kill them! {6}{f}"
         },
         {
             "address": "0x4f2ec",
             "size": 19,
             "text": "さわか゛しいそ゛、なにこ゛とた゛？{6}{f}",
-            "translation": ""
+            "translation": "What's going on out here?{6}{f}"
         },
         {
             "address": "0x4f2ff",
@@ -8152,7 +8152,7 @@
             "address": "0x4f300",
             "size": 60,
             "text": "う、おまえたちか！！\nおのれ、またしても\n私の邪魔をするのか？{6}\n我か゛神「ミルリーフ」よ、我に力を！{6}{f}",
-            "translation": ""
+            "translation": "You!!\nYou wish to ruin my\nplans yet again?{6}\nMirleaf, my Lord!\nLend me your power!{6}{f}"
         },
         {
             "address": "0x4f33c",
@@ -8182,49 +8182,49 @@
             "address": "0x4f3b6",
             "size": 45,
             "text": "水晶球を持ってきてくれて、\nありか゛とう。\n私ののそ゛みか゛かないそうた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "Thank you for bringing me\nthe crystal ball. \nMy wish will now be granted. {6}{f}"
         },
         {
             "address": "0x4f3e3",
             "size": 63,
             "text": "今まて゛おまえたちには\nし゛ゃまは゛かりされていた。{6}\nならは゛、いっそ利用させてもらおうと\n思ったまて゛のこと。{6}{f}",
-            "translation": ""
+            "translation": "Until now you've only gotten in\nmy way. {6}\nSo, I thought I would make use \nof you. {6}{f}"
         },
         {
             "address": "0x4f422",
             "size": 78,
             "text": "私の先祖か゛呼ひ゛た゛そうとしていた\nおおいなる神ミルリーフ。{6}\n神のたましいよ。\nいましめを払い、いまこそ我らの前に\n現われたまえ！{6}{f}",
-            "translation": ""
+            "translation": "Oh great Mirleaf, whom my \nancestors worshipped... {6}\nMay your soul break the taboo\nand appear before us now! {6}{f}"
         },
         {
             "address": "0x4f470",
             "size": 44,
             "text": "これこそか゛、ミルリーフのたましい。\nこれか゛あれは゛神の復活はまち゛かた゛。{6}{f}",
-            "translation": ""
+            "translation": "The soul of Mirleaf! \nTheir resurrection is nigh!{6}{f}"
         },
         {
             "address": "0x4f49c",
             "size": 10,
             "text": "うむ、わかった。{6}{f}",
-            "translation": ""
+            "translation": "Ah, I see. {6}{f}"
         },
         {
             "address": "0x4f4a6",
             "size": 16,
             "text": "おのれ！\nまた、きさまらか！{6}{f}",
-            "translation": ""
+            "translation": "Ach! \nYou again! {6}{f}"
         },
         {
             "address": "0x4f4b6",
             "size": 41,
             "text": "私のシ゛ャマは゛かりしおって！\n今回こそは、\nケリをつけてくれようそ゛！{6}{f}",
-            "translation": ""
+            "translation": "Stop ruining my plans!!\nI'll take care of you once \nand for all!{6}{f}"
         },
         {
             "address": "0x4f4df",
             "size": 134,
             "text": "ク...クク。勝ったと\n思っておるのた゛ろう？\nハ゛カめか゛。{6}\nこれもまた、儀式の一つ。\nわか゛血と肉をもって、\n神は目さ゛められるのた゛。{6}\nわか゛神、ミルリーフよ！\nわか゛血を、肉を受け取りたまえ。\n神よ、いまこそよみか゛えりたまえ！！{6}{f}",
-            "translation": ""
+            "translation": "Ha... haha!\nYou think you've won?\nIdiots.{6}\nThis is yet another ritual.\nMy god will be revived within\nmy blood and bones! {6}\nMirleaf, my Lord!\nTake my blood! My body! \nAnd be reborn here and now!! {6}{f}"
         },
         {
             "address": "0x4f565",
@@ -8242,145 +8242,145 @@
             "address": "0x4f5e4",
             "size": 158,
             "text": "仕事をさか゛しているのかい？\nおれさ、おもしろい地図を\n手に入れたんた゛。{6}\nこの街は古代王国の都市の遭跡の上に\n建ってるってことは知ってるかい？\nその遭跡の地図を手に入れたのさ。{6}\nて゛、いっしょに行ってくれる仲間を\nさか゛してるんた゛けと゛...\n行く気あるか？{f}",
-            "translation": ""
+            "translation": "Looking for work?\nWell, I found a unique \nsort of map.{6}\nYou know this city was built \non top of ancient ruins, right? \nWell, I got a map of 'em.{6}\nI'm looking for allies to come \nwith me.\nWhat do you think? {f}"
         },
         {
             "address": "0x4f682",
             "size": 77,
             "text": "そうこなくちゃ！\nし゛ゃあ、さっそく行こうせ゛。{6}\nます゛は港のそは゛にある\n下水口へ行こうせ゛。\n地下遭跡へは下水道から行くんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Awesome! \nLet's get going. {6}\nFirst, let's head to the \nsewer entrance at the \nport. It starts there. {6}{f}"
         },
         {
             "address": "0x4f6cf",
             "size": 26,
             "text": "そうか。しかたないな。\n他の奴をさか゛すよ。{6}{f}",
-            "translation": ""
+            "translation": "I'll find someone else,\nthen. {6}{f}"
         },
         {
             "address": "0x4f6e9",
             "size": 36,
             "text": "{c}{0}、\n仕事をさか゛してるなら、\n地下遭跡へ行こうせ゛。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, if\nyou're looking for work,\nlet's go to the ruins.{6}{f}"
         },
         {
             "address": "0x4f70d",
             "size": 36,
             "text": "おいおい、\nまた゛おれのほしかった\n宝物を見つけていないせ゛。{6}{f}",
-            "translation": ""
+            "translation": "Hey, wait, we haven't found\nthe treasure I want yet.{6}{f}"
         },
         {
             "address": "0x4f731",
             "size": 61,
             "text": "えっ？  開いてるって？  変た゛な、\nこの前しらへ゛た時はか゛んし゛ょうな鍵か゛\nかかってたのに...ま、いいか。{6}{f}",
-            "translation": ""
+            "translation": "Eh? It's open? Odd.\nLast time I was here, it was shut\nwith a huge lock. Ah, well.{6}{f}"
         },
         {
             "address": "0x4f76e",
             "size": 30,
             "text": "えっと、ここからた゛と\nた゛いたい北東のほうた゛な。{6}{f}",
-            "translation": ""
+            "translation": "Hmm, I think it's mostly\nnortheast from here.{6}{f}"
         },
         {
             "address": "0x4f78c",
             "size": 43,
             "text": "別に気にするほと゛のものて゛も\nないた゛ろう。\nはやく遭跡へ行こうせ゛。{6}{f}",
-            "translation": ""
+            "translation": "Probably nothing to worry\nabout.\nLet's head inside. {6}{f}"
         },
         {
             "address": "0x4f7b7",
             "size": 28,
             "text": "この北に、遭跡への入口か゛\nあるはす゛た゛。{6}{f}",
-            "translation": ""
+            "translation": "The entrance to the ruins\nis north of here. {6}{f}"
         },
         {
             "address": "0x4f7d3",
             "size": 32,
             "text": "こわされている...くそっ！\n誰か、先に来た奴か゛いるな！{6}{f}",
-            "translation": ""
+            "translation": "It's broken... Damn!\nSomeone has been here! {6}{f}"
         },
         {
             "address": "0x4f7f3",
             "size": 28,
             "text": "待った。たふ゛んこいつて゛\n開くはす゛なんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Wait. This will probably \nopen it.{6}{f}"
         },
         {
             "address": "0x4f80f",
             "size": 14,
             "text": "エレメンタルの法則？{6}{f}",
-            "translation": ""
+            "translation": "Elemental law? {6}{f}"
         },
         {
             "address": "0x4f81d",
             "size": 43,
             "text": "あ、そいつはおれにくれよ。\nここへ案内したのはおれなんた゛から、\nいいた゛ろ？{6}{f}",
-            "translation": ""
+            "translation": "Hey, give that here. \nI guided us this far, so \nit's fine, right? {6}{f}"
         },
         {
             "address": "0x4f848",
             "size": 58,
             "text": "あんたらのおかけ゛て゛、宝も手に入った。\nありか゛とよ。し゛ゃあ、おれはこれて゛\nさよならするせ゛。またな。{6}{f}",
-            "translation": ""
+            "translation": "I got some treasure thanks to\nyou. Well, that's it for me.\nI'm out. Later. {6}{f}"
         },
         {
             "address": "0x4f882",
             "size": 62,
             "text": "おいおい、フォーシス、言いすき゛た゛せ゛。\nああ見えてもコホ゛ルト゛の\n１ひ゜きく゛らいは相手にて゛きるた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "Now, Forsyth, that's rude.\nEven a kobold can be a staunch \nopponent. {6}{f}"
         },
         {
             "address": "0x4f8c0",
             "size": 17,
             "text": "うるせえな。あっちへ行きな。{6}{f}",
-            "translation": ""
+            "translation": "Shut up. \nGo away. {6}{f}"
         },
         {
             "address": "0x4f8d1",
             "size": 21,
             "text": "...誰か助けてくれぇ！\nうわぁぁ！！{6}{f}",
-            "translation": ""
+            "translation": "Someone help!\nUwaaah!{6}{f}"
         },
         {
             "address": "0x4f8e6",
             "size": 12,
             "text": "う...助かったのか？{6}{f}",
-            "translation": ""
+            "translation": "...I'm saved? {6}{f}"
         },
         {
             "address": "0x4f8f2",
             "size": 24,
             "text": "けっこう強いんた゛な。\n見なおしたせ゛。{6}{f}",
-            "translation": ""
+            "translation": "You're strong. \nI'm impressed. {6}{f}"
         },
         {
             "address": "0x4f90a",
             "size": 75,
             "text": "{c}{0}...そうか！\nおれた゛よ、おほ゛えてないか、{6}\nいっしょに、オランの地下て゛\n宝さか゛しをしたタット゛た゛よ。\nいやあ、りっは゜になったな。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}...Oh!\nIt's me! Remember?{6}\nIt's Tad! We went treasure-\nhunting beneath Oran.\nI've changed, huh? {6}{f}"
         },
         {
             "address": "0x4f955",
             "size": 42,
             "text": "「神像の矢」を持って行くなら、\n奇跡の店のおやし゛によろしくな。{6}{f}",
-            "translation": ""
+            "translation": "If you're taking the Idol \nArrow, say hi to the old man.{6}{f}"
         },
         {
             "address": "0x4f97f",
             "size": 66,
             "text": "もし、この船にモンスターか゛\n乗りこんて゛きたら、\nおれたちにまかせておきな。{6}\n{c}{0}たちは、\nゆっくり休んて゛いてくれ。{6}{f}",
-            "translation": ""
+            "translation": "If a monster boards the ship,\nwe'll take care of it.{6}\n{c}{0}, you all \nget some rest.{6}{f}"
         },
         {
             "address": "0x4f9c1",
             "size": 15,
             "text": "おれはタット゛。よろしく。{6}{f}",
-            "translation": ""
+            "translation": "Hey, I'm Tad. {6}{f}"
         },
         {
             "address": "0x4f9d0",
             "size": 30,
             "text": "さすか゛に、このあたりは\nふ゛きみな感し゛か゛するな。{6}{f}",
-            "translation": ""
+            "translation": "There is definitely an \nevil aura around here.{6}{f}"
         },
         {
             "address": "0x4f9ee",
