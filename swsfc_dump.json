@@ -8620,7 +8620,7 @@
             "address": "0x5072d",
             "size": 26,
             "text": "君なら...\nわかってくれると思ったのた゛か゛...{6}{f}",
-            "translation": "I thought... \nYou of all would understand. {6}{f}"
+            "translation": "I thought you of all would \nunderstand... {6}{f}"
         },
         {
             "address": "0x50747",
@@ -8638,31 +8638,31 @@
             "address": "0x5079f",
             "size": 41,
             "text": "ツーレと゛の、\nゆた゛んしてはた゛めて゛す。\nタ゛ライアの手先かもしれません。{6}{f}",
-            "translation": ""
+            "translation": "Sir Toure, \nplease be careful.\nCould be Dalaia's gang.{6}{f}"
         },
         {
             "address": "0x507c8",
             "size": 12,
             "text": "やはり、追っ手か！{6}{f}",
-            "translation": ""
+            "translation": "They're coming!{6}{f}"
         },
         {
             "address": "0x507d4",
             "size": 92,
             "text": "なんということた゛。\nすて゛に私か゛ツーレと゛のを\nさか゛しに出発していたのに...{6}\nことをあらた゛てぬよう、\n誰にも知らせす゛村を出たのか゛\nうら目に出てしまった。{6}{f}",
-            "translation": ""
+            "translation": "How awful. I already left \nto find Sir Toure... {6}\nI left the village without \ntelling anyone to not cause \na stir, but that was a mistake. {6}{f}"
         },
         {
             "address": "0x50830",
             "size": 23,
             "text": "その前に、こいつらをと゛うにかせねは゛。{6}{f}",
-            "translation": ""
+            "translation": "We have to do something about\nthem. {6}{f}"
         },
         {
             "address": "0x50847",
             "size": 28,
             "text": "ツーレと゛の、\nこの冒険者たちはと゛うします？{6}{f}",
-            "translation": ""
+            "translation": "What should be we do with them,\nSir Toure? {6}{f}"
         },
         {
             "address": "0x50863",
@@ -8674,367 +8674,367 @@
             "address": "0x50867",
             "size": 13,
             "text": "信用て゛きるのか？{6}{f}",
-            "translation": ""
+            "translation": "Can we trust them? {6}{f}"
         },
         {
             "address": "0x50874",
             "size": 40,
             "text": "私はカ゛ラ。\n部族の異変をツーレと゛のに\n伝えに来た者た゛。{6}{f}",
-            "translation": ""
+            "translation": "I'm Gara.\nI've come to tell Sir Toure\nsomething.{6}{f}"
         },
         {
             "address": "0x5089c",
             "size": 37,
             "text": "この奥にあるはす゛なのた゛か゛、\nラテリア様の身も心配た゛。{6}{f}",
-            "translation": ""
+            "translation": "Should be back here. \nI'm worried about Lateria, too.{6}{f}"
         },
         {
             "address": "0x508c1",
             "size": 74,
             "text": "私はラテリア様を\nさか゛しにいこう。{6}\nツーレと゛のは「精霊石」を見つけて、\nいっこくも早く砂漠の村へ\nおもと゛りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "I'm going to search for\nLady Lateria. {6}\nSir Toure, find the spirit stone \nand hurry back to the village.{6}{f}"
         },
         {
             "address": "0x5090b",
             "size": 22,
             "text": "ラテリア様のことは\nこ゛心配なく。{6}{f}",
-            "translation": ""
+            "translation": "Don't worry about Lateria. {6}{f}"
         },
         {
             "address": "0x50921",
             "size": 37,
             "text": "タ゛ライアは切れ者た゛。\n危なくなってもかは゛ってはやれぬそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia is a sharp one. \nI can't protect you from him.{6}{f}"
         },
         {
             "address": "0x50946",
             "size": 95,
             "text": "ラテリア様を追って、\nタ゛ライアの一味はこの近辺に\n移ってきたのた゛ろう...{6}\nハ゜タ゛の裏町に心当たりの場所か゛ある。\n一度そこへ行って情報を集めよう。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia's men have been seen\naround here in search of\nLateria. {6}\nI know of a place to look in \nPada. Let's go there.{6}{f}"
         },
         {
             "address": "0x509a5",
             "size": 43,
             "text": "ここに「ロハ゛の耳」という酒場か゛ある。\nそこの主人は、私の仲間た゛。{6}{f}",
-            "translation": ""
+            "translation": "A bar called Loba's Ear is\naround here. I know the owner.{6}{f}"
         },
         {
             "address": "0x509d0",
             "size": 24,
             "text": "ツーレと゛のか゛助っ人に選んた゛のた゛。{6}{f}",
-            "translation": ""
+            "translation": "Sir Toure chose me to help.{6}{f}"
         },
         {
             "address": "0x509e8",
             "size": 18,
             "text": "それよりも、情報か゛ほしい。{6}{f}",
-            "translation": ""
+            "translation": "I want information more. {6}{f}"
         },
         {
             "address": "0x509fa",
             "size": 38,
             "text": "...われら砂漠の民は\nあらゆる地にちらは゛り\nくらしているのた゛。{6}{f}",
-            "translation": ""
+            "translation": "Us desert people are \nspread out fairly far \nand wide. {6}{f}"
         },
         {
             "address": "0x50a20",
             "size": 30,
             "text": "砂漠の村へ連れさられる前に\nお助けせねは゛。{6}{f}",
-            "translation": ""
+            "translation": "We have to save her before \nshe's brought back. {6}{f}"
         },
         {
             "address": "0x50a3e",
             "size": 54,
             "text": "ツーレと゛の...  もうしわけない。\nタ゛ライアにやられてしまった。\nこの先にタ゛ライアとラテリア様か゛...{6}{f}",
-            "translation": ""
+            "translation": "Forgive me, Sir Toure. \nDalaia got me. He and \nLateria are ahead... {6}{f}"
         },
         {
             "address": "0x50a74",
             "size": 50,
             "text": "とらえられたようた゛。\nおそらく、ラテリア様と\n同し゛場所に...{6}\nツーレと゛の、はやく！{6}{f}",
-            "translation": ""
+            "translation": "Captured, probably in the same \nplace as Lateria. {6}\nHurry, Sir Toure! {6}{f}"
         },
         {
             "address": "0x50aa6",
             "size": 13,
             "text": "はやくラテリア様を！{6}{f}",
-            "translation": ""
+            "translation": "Save Lateria! {6}{f}"
         },
         {
             "address": "0x50ab3",
             "size": 61,
             "text": "新しい族長にふさわしいのは\nタ゛ライア様た゛。{6}\nうらき゛り者のツーレなそ゛、\nし゛こ゛くへ送ってくれる。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia is the only one \nsuitable to be chief. {6}\nToure and the other traitors \ncan go to hell. {6}{f}"
         },
         {
             "address": "0x50aff",
             "size": 33,
             "text": "ハ゛カめか゛、ひっかかったな！\n魔獣のエサとなるか゛いい！{6}{f}",
-            "translation": ""
+            "translation": "Idiots, I've caught you! \nEat them, my pet!{6}{f}"
         },
         {
             "address": "0x50b20",
             "size": 40,
             "text": "カ゛ラは私の部下た゛。\nうらき゛り者て゛はない。\nさあ、おわかれた゛。{6}{f}",
-            "translation": ""
+            "translation": "Gara was a friend. \nHe's not a traitor.\nTime for goodbye.{6}{f}"
         },
         {
             "address": "0x50b48",
             "size": 17,
             "text": "なかよく、くたは゛るか゛いい！{6}{f}",
-            "translation": ""
+            "translation": "Die already! {6}{f}"
         },
         {
             "address": "0x50b59",
             "size": 17,
             "text": "死にそ゛こないと゛もめか゛！{6}{f}",
-            "translation": ""
+            "translation": "Why won't you die!?{6}{f}"
         },
         {
             "address": "0x50b6a",
             "size": 180,
             "text": "ハ、あのような老いほ゛れ、\nもはや不要た゛。新しく強い長か゛\n必要となる時か゛きたのた゛。{6}\nまもなく、われらの力か゛\n必要とされる時か゛くる。{6}\n先祖か゛封し゛た、悪しき神か゛\nよみか゛えろうとしている。{6}\n「神狩り」の力をあやつるには、\n私のような、本当にすく゛れた者か゛\n長にならねは゛ならないのた゛。{6}{f}",
-            "translation": ""
+            "translation": "We have no need for that old \ncrumb. It's time for a new, \nstronger chief to take over.{6}\nThe time for our strength to \nbe needed is at hand. {6}\nWe will resurrect the dark god \nour ancestors summoned. {6}\nOnly someone with the power to \ncontrol the God-Hunter deserves\nto be chief!{6}{f}"
         },
         {
             "address": "0x50c1e",
             "size": 46,
             "text": "され！\n砂漠の生活をすてたおろかな男よ。\n死をもって、父にわひ゛るか゛いい！{6}{f}",
-            "translation": ""
+            "translation": "Be gone! \nYou have abandoned the desert. \nSee your father in hell! {6}{f}"
         },
         {
             "address": "0x50c4c",
             "size": 116,
             "text": "...く、\nいつも...おまえのほうか゛...\nまさっていた...{6}\nおまえこそか゛...\n長となるへ゛き...た゛った...のに\nなせ゛...村を出た？{6}\nおまえか゛...道を迷わねは゛...\nわたしも...迷うことは...\nなかった...た゛ろうに...{6}\nツーレ......{6}{f}",
-            "translation": ""
+            "translation": "Ugh... \nI've always been your\nbetter... {6}\nYou were... to become chief... \nBut you left... why? {6}\nIf you hadn't lost your way... \nMaybe I wouldn't have been \nlost... too...{6}\nToure... {6}{f}"
         },
         {
             "address": "0x50cc3",
             "size": 24,
             "text": "おまえたち、いつの間に！\nタ゛ライア様！{6}{f}",
-            "translation": ""
+            "translation": "When did you get in here!? \nDalaia!{6}{f}"
         },
         {
             "address": "0x50cfa",
             "size": 96,
             "text": "助けてくれてありか゛とう。\n私はラテリア。兄を探して\nオランへ行く途中た゛ったのて゛すか゛...{6}\nもうしわけないのて゛すか゛、\nオランまて゛同行して\nもらえないて゛しょうか？{6}{f}",
-            "translation": ""
+            "translation": "Thank you for saving me. \nI'm Lateria. I was headed to\nOran in search of my brother...{6}\nI hate to ask, but do you\nthink you could take me \nto Oran?{6}{f}"
         },
         {
             "address": "0x50d5a",
             "size": 42,
             "text": "そうて゛すか...\n無理を言ってこ゛めんなさい\nこれは、すくないて゛すけと゛。{6}{f}",
-            "translation": ""
+            "translation": "I see...\nSorry for asking.\nA little thing...{6}{f}"
         },
         {
             "address": "0x50d84",
             "size": 12,
             "text": "お願い、助けて。{6}{f}",
-            "translation": ""
+            "translation": "Please, help.{6}{f}"
         },
         {
             "address": "0x50d90",
             "size": 60,
             "text": "ありか゛とうこ゛さ゛います。{6}\n兄の名はツーレ。\nオランて゛冒険者となって\nくらしていると聞いています。{6}{f}",
-            "translation": ""
+            "translation": "Thank you. {6}\nHis name is Toure. \nI heard he is living in\nOran as an adventurer. {6}{f}"
         },
         {
             "address": "0x50dcc",
             "size": 22,
             "text": "故郷から来た男？\n彼の名は？{6}{f}",
-            "translation": ""
+            "translation": "A man from home? \nWho? {6}{f}"
         },
         {
             "address": "0x50de2",
             "size": 98,
             "text": "ま、待って、\nこの人たちを殺してはいけません！{6}\nおまえたちはタ゛ライアの\n配下の者て゛しょう？{6}\nさあ、私を連れて行きなさい。\nたた゛し、この人たちを\n傷つけてはいけません！{6}{f}",
-            "translation": ""
+            "translation": "Stop, you mustn't\nkill them!{6}\nYou work for Dalaia,\ndon't you?{6}\nThen take me.\nBut you will not harm\nthese people! {6}{f}"
         },
         {
             "address": "0x50e44",
             "size": 112,
             "text": "{c}{0}さん...\nこんな目にあわせてしまって\nこ゛めんなさい。{6}\nたた゛、もしハ゜タ゛へ行き、\nツーレに会うことか゛あれは゛\n、彼に、タ゛ライアか゛族長を殺し、{6}\n次にあなたをねらっていると\n伝えてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}... \nI'm so sorry about all \nof this.{6}\nIf you go to Pada, please \ntell Toure that Dalaia \nhas killed the chief, {6}\nand is after him next.{6}{f}"
         },
         {
             "address": "0x50eb4",
             "size": 43,
             "text": "こんなにアサシンか゛\nやってくるなんて...\nタ゛ライア...彼も近くにいるのかしら。{6}{f}",
-            "translation": ""
+            "translation": "For this many assassins\nto come after us, Dalaia \nmust be nearby. {6}{f}"
         },
         {
             "address": "0x50edf",
             "size": 86,
             "text": "キャーッ！{6}\n{c}{0}さん、\nハ゜タ゛へ行って、兄に会ってくた゛さい！{6}\n兄に、タ゛ライアか゛族長を殺し、\n次にあなたをねらっていると\n伝えてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Eeeek!{6}\n{c}{0}, \nGo to Pada and find Toure! {6}\nTell him Dalaia killed the\nchief and is after him now! {6}{f}"
         },
         {
             "address": "0x50f35",
             "size": 24,
             "text": "誰っ？\n......{c}{0}さん？\nそれに...兄さま？{6}{f}",
-            "translation": ""
+            "translation": "Who? \n...{c}{0}? \nToure? {6}{f}"
         },
         {
             "address": "0x50f4d",
             "size": 159,
             "text": "ああ、ここまて゛来て\nくた゛さったのて゛すね。{6}\nタ゛ライアは、私をつれて村へ帰り、\n次の族長になろうとしています。{6}\nさっき、ここへ来て、\n「ツーレは死んた゛。あきらめろ」\nと言ったのて゛す。{6}\n私、あのような男に長の地位を\nわたすく゛らいなら、\nさしちか゛えてて゛も止めようと...{6}{f}",
-            "translation": ""
+            "translation": "Thank you for coming \nfor me. {6}\nDalaia plans to take me back \nand become the chief. {6}\nHe came in recently and told \nme to give up, because Toure\nwas dead. {6}\nIf he was planning on taking \nover, I was planning on\ncalling a misvote...{6}{f}"
         },
         {
             "address": "0x50fec",
             "size": 22,
             "text": "タ゛ライアは、\n奥の部屋にいます。{6}{f}",
-            "translation": ""
+            "translation": "Dalaia is back there.{6}{f}"
         },
         {
             "address": "0x51002",
             "size": 7,
             "text": "兄さま！{6}{f}",
-            "translation": ""
+            "translation": "Toure! {6}{f}"
         },
         {
             "address": "0x51009",
             "size": 22,
             "text": "本当にありか゛とう。\nお元気て゛。{6}{f}",
-            "translation": ""
+            "translation": "Thank you. \nTake care. {6}{f}"
         },
         {
             "address": "0x5101f",
             "size": 116,
             "text": "{c}{0}？  ...と゛うしてここに？\nいえ、今はそんな事を\n言っている場合て゛はありません。{6}\nあなたたちも邪神を\n探しているのて゛すね？\n気をつけて。{6}\nくれく゛れも、ツーレたちには\n会わないようにしてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}? Why are you here?\nNo, that's not important.{6}\nYou're looking for the dark\ngod, yes? \nBe careful.{6}\nMake sure you avoid Toure\nand the others. {6}{f}"
         },
         {
             "address": "0x510f2",
             "size": 49,
             "text": "待ってくれ、彼らは私と同し゛冒険者た゛。\n話を聞いてやってはと゛うた゛ろう？{6}{f}",
-            "translation": ""
+            "translation": "Wait, they're adventurers, too.\nLet's hear them out. {6}{f}"
         },
         {
             "address": "0x51123",
             "size": 63,
             "text": "ラテリアとは、ツーレの妹、\n族長の娘た゛ったな？{6}\nタ゛ライアにとらわれてしまって\nた゛いし゛ょうふ゛た゛ろうか？{6}{f}",
-            "translation": ""
+            "translation": "Lateria is Toure's little \nsister, the daughter of the \nchief, right? {6}\nIs she okay? {6}{f}"
         },
         {
             "address": "0x51162",
             "size": 12,
             "text": "ツーレ、急こ゛う。{6}{f}",
-            "translation": ""
+            "translation": "Hurry, Toure. {6}{f}"
         },
         {
             "address": "0x5116e",
             "size": 17,
             "text": "君の妹はと゛うするんた゛？{6}{f}",
-            "translation": ""
+            "translation": "And your sister? {6}{f}"
         },
         {
             "address": "0x5117f",
             "size": 37,
             "text": "一人て゛そのタ゛ライアとか\nいう奴の所へ行くのか？\nむちゃた゛！{6}{f}",
-            "translation": ""
+            "translation": "You're going alone to\ntake on Dalaia?\nPreposterous!{6}{f}"
         },
         {
             "address": "0x511a4",
             "size": 33,
             "text": "この事件はかなり危険た゛。\n今のうちに帰りなさい。{6}{f}",
-            "translation": ""
+            "translation": "This is getting dangerous. \nGo home. {6}{f}"
         },
         {
             "address": "0x511c5",
             "size": 27,
             "text": "ツーレ、彼らも手伝ってくれると\n言っている。{6}{f}",
-            "translation": ""
+            "translation": "Toure, they're saying they \nwill help.{6}{f}"
         },
         {
             "address": "0x511e0",
             "size": 62,
             "text": "君たちは砂漠の民の\nおきてについて言うか゛、\n冒険者にも、おきてか゛ある。{6}\n彼らは信用て゛きる。{6}{f}",
-            "translation": ""
+            "translation": "You speak of the laws of the \ndesert, but adventurers \nhave their own code.{6}\nWe can trust them. {6}{f}"
         },
         {
             "address": "0x5121e",
             "size": 55,
             "text": "私はハ゜タ゛て゛くらす、冒険者のアインた゛。\nそうか、ここのことは娘のセリアから\n聞いたのか。{6}{f}",
-            "translation": ""
+            "translation": "I'm Ein, an adventurer from Pada.\nI heard about this from my \ndaughter Celia. {6}{f}"
         },
         {
             "address": "0x51255",
             "size": 82,
             "text": "そのために、ツーレは\n「水の精霊石」をさか゛しているのた゛。{6}\n砂漠て゛はもっとも貴重な宝て゛ある水を、\nつねに呼ひ゛よせる古代の宝た゛。{6}{f}",
-            "translation": ""
+            "translation": "That's why Toure is looking \nfor the water spirit stone. {6}\nIt calls to the most precious\njewel of the desert, water. {6}{f}"
         },
         {
             "address": "0x512a7",
             "size": 49,
             "text": "私か、君たちか゛、ツーレか、カ゛ラに\n同行することになりそうた゛な。\nと゛うするかね？{6}{f}",
-            "translation": ""
+            "translation": "I or you could go with either\nToure or Gara. What will\nyou do? {6}{f}"
         },
         {
             "address": "0x512d8",
             "size": 26,
             "text": "ツーレはいい奴た゛。\nしっかり手伝ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "Toure is a good man. \nHelp him out.{6}{f}"
         },
         {
             "address": "0x512f2",
             "size": 38,
             "text": "砂漠の民の中には\n毒をあやつる者もいる。\n気をつけて行け。{6}{f}",
-            "translation": ""
+            "translation": "There are fans of poisons\namong the desert folk.\nGo with care.{6}{f}"
         },
         {
             "address": "0x51318",
             "size": 17,
             "text": "ん...うっ...\nあっ、君たちは！{6}{f}",
-            "translation": ""
+            "translation": "Agh... \nHey, you!6}{f}"
         },
         {
             "address": "0x51329",
             "size": 87,
             "text": "くそっ！\nカ゛ラはタ゛ライアの部下た゛ったんた゛。{6}\nあいつにた゛まされて、\n落し穴につき落されたのた゛。{6}\nその時に足をいためたようた゛。\n歩けないんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Damn!\nGara worked for Dalaia.{6}\nHe fooled me and pushed me \ndown a pit. {6}\nLooks like I broke my leg.\nI can't walk.{6}{f}"
         },
         {
             "address": "0x51380",
             "size": 62,
             "text": "カ゛ラか゛あまりにもあっさりと、\nタ゛ライアのかくれ家を見つけたのて゛、\nなんた゛か変た゛とは思ったのた゛か゛...{6}{f}",
-            "translation": ""
+            "translation": "Gara found Dalaia's hideout \nso quickly, I knew something \nwas off.{6}{f}"
         },
         {
             "address": "0x513be",
             "size": 38,
             "text": "う...ひと゛いめにあった。\nイタッ！  足をいためたようた゛。\n歩けない。{6}{f}",
-            "translation": ""
+            "translation": "Ugh... \nOuch! I broke my leg.\nI can't walk.{6}{f}"
         },
         {
             "address": "0x513e4",
             "size": 27,
             "text": "私もあとからついてゆくから、\n先に行ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "I'll follow later. \nYou go ahead.{6}{f}"
         },
         {
             "address": "0x513ff",
             "size": 7,
             "text": "やったか！{6}{f}",
-            "translation": ""
+            "translation": "Great! {6}{f}"
         },
         {
             "address": "0x51406",
             "size": 75,
             "text": "こ゛くろうた゛ったな。\n私も家にもと゛るよ。\n娘か゛怒っているた゛ろうからな。{6}\nまた、何かあったら、会いに来てくれ。\nし゛ゃあな。{6}{f}",
-            "translation": ""
+            "translation": "Well done. \nI'm headed home. I'm sure \nmy daughter is furious. {6}\nCome see me if something else\nhappens. Later. {6}{f}"
         },
         {
             "address": "0x51451",
             "size": 36,
             "text": "ナオリ、たのむ。\n私をここから出してくれ！\n...おや、その声は？{6}{f}",
-            "translation": ""
+            "translation": "Naori, please. \nLet me out of here!\n...Who's that?{6}{f}"
         },
         {
             "address": "0x51475",
             "size": 31,
             "text": "{c}{0}たちし゛ゃないか。\n助かった。ここから出してくれ。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, it's you. \nGet me out of here.{6}{f}"
         },
         {
             "address": "0x51494",
@@ -9046,25 +9046,25 @@
             "address": "0x51495",
             "size": 16,
             "text": "助かったよ。ありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "Thanks. Really.{6}{f}"
         },
         {
             "address": "0x514a5",
             "size": 73,
             "text": "うむ。し゛つは、\nこの付近に古代王国時代、{6}\n神々を狩るために呼ひ゛出された\n竜の神殿か゛あるはす゛なのた゛。{6}{f}",
-            "translation": ""
+            "translation": "There should be a number \nof temples around here from \nancient times,{6}\nones for summoning a god-hunting\ndragon. {6}{f}"
         },
         {
             "address": "0x514ee",
             "size": 217,
             "text": "そうた゛。しかし、\n竜か゛いるわけて゛はないそ゛。{6}\n竜を呼ひ゛た゛し、あやつることのて゛きる\n魔法使いたちか゛集まっていた\n場所のことた゛。{6}\nそこへ行けは゛、いままて゛\n知られていない、様々な\nなそ゛か゛解けるはす゛なのた゛。{6}\nしかし、私か゛神殿を探していると、\nとつせ゛ん、砂漠の民か゛現れて、\n私を殺そうとした。{6}\n大けか゛をおった私を\nナオリか゛助けてくれたのた゛。{6}{f}",
-            "translation": ""
+            "translation": "I see. But there won't be \na dragon there. {6}\nIt's a place where mages \ngathered to summon and control\nthem. {6}\nI thought I might learn\nsomething if I investigated.{6}\nBut when I tried, a bunch of\nassassins appeared to kill\nme. {6}\nNaori saved me from my \ninjuries. {6}{f}"
         },
         {
             "address": "0x515c7",
             "size": 98,
             "text": "...よくわからんか゛、\n彼女は私をここにかくまい、\nきす゛の手当てをしてくれた。{6}\nしかし、ふたたひ゛私か゛神殿に\n行くことをおそれてか、\nここにとし゛込めたままた゛ったのた゛。{6}{f}",
-            "translation": ""
+            "translation": "I'm not sure, but she\nbrought me here to tend to\nmy wounds.{6}\nBut afraid I would try to \ngo back to the temple or\nsomething, shut me in here. {6}{f}"
         },
         {
             "address": "0x51629",
