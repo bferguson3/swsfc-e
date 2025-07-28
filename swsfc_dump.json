@@ -13744,25 +13744,25 @@
             "address": "0x5a15e",
             "size": 39,
             "text": "それはキ゛ルト゛て゛たす゛ねてくた゛さい。\nたしかにお伝えしましたから。{6}{f}",
-            "translation": ""
+            "translation": "Ask at the guild.\nI already said so. {6}{f}"
         },
         {
             "address": "0x5a188",
             "size": 73,
             "text": "もしかして、あんたたち、\n海に出る化物を退治しにきたのかい？{6}\nその気か゛あるなら、\nそこの船の船員に話しかけてみろよ。{6}{f}",
-            "translation": ""
+            "translation": "Have you all come to defeat\nthe sea monster?{6}\nIf so, talk to the captain \nof that ship over there.{6}{f}"
         },
         {
             "address": "0x5a1d4",
             "size": 92,
             "text": "おれ、このあいた゛オランに\n来たは゛かりなんた゛けと゛、\nオランの北にある...{6}\nハ゜タ゛っていう街た゛っけ？\nそこて゛もなにやらさわき゛か゛\n起こっているみたいた゛ったよ。{6}{f}",
-            "translation": ""
+            "translation": "I just got here to Oran,\nbut this place north of \nhere... {6}\nPada, I think? \nSome commotion was happening \nover there. {6}{f}"
         },
         {
             "address": "0x5a233",
             "size": 48,
             "text": "夜になると、\n沖に青白い火か゛見えるんた゛。\nおれは当分、船には乗らねえそ゛。{6}{f}",
-            "translation": ""
+            "translation": "At night, there are blue-white \nlights on the lake. \nWon't catch me out there.{6}{f}"
         },
         {
             "address": "0x5a266",
@@ -13774,13 +13774,13 @@
             "address": "0x5a2c7",
             "size": 56,
             "text": "海の上て゛もモンスターさわき゛た゛か゛、\nハ゜タ゛の方て゛も何やら\nさわき゛か゛起きたって話た゛。{6}{f}",
-            "translation": ""
+            "translation": "I heard about the monsters \non the lake, but something\nis happening at Pada, too. {6}{f}"
         },
         {
             "address": "0x5a2ff",
             "size": 38,
             "text": "何か出てきそうた゛...\nおれのカンは、\nはす゛れたことか゛ないんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Something's coming...\nMy intuition is never wrong. {6}{f}"
         },
         {
             "address": "0x5a325",
@@ -13792,31 +13792,31 @@
             "address": "0x5a32a",
             "size": 90,
             "text": "レックスにゃ、アンテ゛ット゛の集団た゛し、\n南の海には、幽霊船か゛出るようた゛し、{6}\nこの辺りはせ゛んふ゛、\n何か、変なものに\n呪われて゛もしたのかね？{6}{f}",
-            "translation": ""
+            "translation": "The undead gang at Rex, \nnow the ghost ship down south.{6}\nI'm starting to think this \nland is cursed. {6}{f}"
         },
         {
             "address": "0x5a384",
             "size": 54,
             "text": "邪神の神官をおいはらったって？\nそのわりにはモンスターは\nちっとも滅らないせ゛。本当なのか？{6}{f}",
-            "translation": ""
+            "translation": "You drove off the dark priest? \nThe monsters haven't retreated \na lick, though. You lyin'? {6}{f}"
         },
         {
             "address": "0x5a3c3",
             "size": 40,
             "text": "う...うむ、気分か゛悪い...\nこれか゛船よいってやつかな？\nウエッフ゜。{6}{f}",
-            "translation": ""
+            "translation": "Ugh, I'm nauseous... \nIs this seasickness? \nHurp!{6}{f}"
         },
         {
             "address": "0x5a3eb",
             "size": 29,
             "text": "ふぅ、霧か゛ひんやりとつめたくて\n気持ちいいな。{6}{f}",
-            "translation": ""
+            "translation": "The mist is cool, and feels\ngood. {6}{f}"
         },
         {
             "address": "0x5a408",
             "size": 26,
             "text": "おれは...これく゛らいて゛\nくたは゛りはせんそ゛...{6}{f}",
-            "translation": ""
+            "translation": "I... won't die \nlike this!{6}{f}"
         },
         {
             "address": "0x5a422",
@@ -13840,43 +13840,43 @@
             "address": "0x5a430",
             "size": 81,
             "text": "幽霊船のウワサを聞いて\nやってきたんた゛か゛、この辺りの\n船乗りはみんなコシヌケた゛な。{6}\n化物をやっつけようと\n思う奴らはいないのか？{6}{f}",
-            "translation": ""
+            "translation": "I came here after hearing\nabout the ghost ship, but seems \neveryone here is a coward.{6}\nIsn't there anyone who can \ntake them on? {6}{f}"
         },
         {
             "address": "0x5a48c",
             "size": 32,
             "text": "ハ゛レン導師か゛お待ちて゛す。\nと゛うそ゛、こちらへ。{6}{f}",
-            "translation": ""
+            "translation": "Master Valen awaits.{6}{f}"
         },
         {
             "address": "0x5a4ac",
             "size": 22,
             "text": "奥て゛導師様か゛お待ちて゛す。{6}{f}",
-            "translation": ""
+            "translation": "He's in the back.{6}{f}"
         },
         {
             "address": "0x5a4c2",
             "size": 72,
             "text": "{c}{0}さんて゛すね。\n魔術師キ゛ルト゛から\nマナ・ライ様の命により、{6}\nおむかえにまいりました。\nキ゛ルト゛まて゛来てくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, yes?\nI've come to meet you by \nthe order of Mana Rai. {6}\nPlease, come to the\nsorcerer's guild. {6}{f}"
         },
         {
             "address": "0x5a50a",
             "size": 35,
             "text": "これを使えは゛、\nこの塔の上の階へ行くことか゛て゛きます。{6}{f}",
-            "translation": ""
+            "translation": "If you use this, you can ascend\nto the top of the tower.{6}{f}"
         },
         {
             "address": "0x5a52d",
             "size": 16,
             "text": "{c}{0}さんを\nおつれしました。{6}{f}",
-            "translation": ""
+            "translation": "I have brought\n{c}{0}. {6}{f}"
         },
         {
             "address": "0x5a562",
             "size": 204,
             "text": "よく来てくれた。\n君たちを呼んた゛のはほかて゛もない。{6}\n今、レックスて゛\n大きな異変か゛起こっている。{6}\n地下の湖からけか゛れた水か゛ふき出し、\nアンテ゛ット゛モンスターか゛\n集団て゛人をおそいはし゛めたのた゛。{6}\n邪神を信し゛る者たちか゛\nかかわっているらしい。{6}\nレックスへ行き\n原因をつきとめてきてくれ。{6}\n報酬はおしまないつもりた゛。\n行ってくれるか？{f}",
-            "translation": ""
+            "translation": "Welcome. \nI am the one who called you. {6}\nSomething is happening \nat Rex. {6}\nFoul water seeps up from \nthe underground lake, and hordes\nof undead attack the town.{6}\nIt's something to do with\nthe dark god. {6}\nPlease go to Rex and\nfind out the cause. {6}\nThe reward is generous.\nWill you go? {f}"
         },
         {
             "address": "0x5a62e",
@@ -13888,25 +13888,25 @@
             "address": "0x5a62f",
             "size": 59,
             "text": "他の冒険者を探しているヒマはない。\n引き受けてもらわなくては\nこまるのた゛。{6}\n行ってくれないか？\n{f}",
-            "translation": ""
+            "translation": "I haven't time to find \nanyone else. I need you.{6}\nWill you go? {f}"
         },
         {
             "address": "0x5a66a",
             "size": 14,
             "text": "て゛は、たのんた゛そ゛。{6}{f}",
-            "translation": ""
+            "translation": "Counting on you. {6}{f}"
         },
         {
             "address": "0x5a678",
             "size": 77,
             "text": "......これは。\nくわしく調へ゛る必要か゛ありそうた゛。\nしは゛らくあす゛からせてもらうよ。{6}\nマナ・ライ様に\n見ていたた゛かなくてはなるまい。{6}{f}",
-            "translation": ""
+            "translation": "...Hmm. \nI must investigate this further. \nLet me hang on to this.{6}\nI must show this to Mana Lai. {6}{f}"
         },
         {
             "address": "0x5a6c5",
             "size": 20,
             "text": "事は重大た゛。\n急いて゛くれ。{6}{f}",
-            "translation": ""
+            "translation": "This is of utmost import.{6}{f}"
         },
         {
             "address": "0x5a6d9",
@@ -13936,19 +13936,19 @@
             "address": "0x5a6dd",
             "size": 38,
             "text": "君たち、よくきてくれた。\nレックスて゛のことを\n聞かせてくれないか？{6}{f}",
-            "translation": ""
+            "translation": "Well done. Will you tell\nme what happened at Rex? {6}{f}"
         },
         {
             "address": "0x5a703",
             "size": 24,
             "text": "やはり、ミルリーフか゛原因た゛ったのか。{6}{f}",
-            "translation": ""
+            "translation": "So Mirleaf was behind all of\nthis. {6}{f}"
         },
         {
             "address": "0x5a71b",
             "size": 48,
             "text": "地底から去ったということは、\nかなりの力を取りもと゛したと\nいうことて゛しょうか？{6}{f}",
-            "translation": ""
+            "translation": "To have left the chasm,\nit means quite a bit of power \nhas returned, no? {6}{f}"
         },
         {
             "address": "0x5a74b",
@@ -13960,31 +13960,31 @@
             "address": "0x5a7b5",
             "size": 85,
             "text": "君たちか゛見たミルリーフのようすて゛は、\nまた゛完全な復活には\nいたっていないようた゛。{6}\nいまならは゛、我々の手て゛\nなんとかて゛きるかもしれない。{6}{f}",
-            "translation": ""
+            "translation": "The Mirleaf that you have seen \ndoes not seem to be \nat full strength. {6}\nPerhaps we can still do\nsomething about this. {6}{f}"
         },
         {
             "address": "0x5a80a",
             "size": 96,
             "text": "いままて゛\nミルリーフの司祭と戦ってきた、\n君たちの力か゛必要なのた゛。{6}\nとなりの部屋に今度の戦いて゛\n役にたつて゛あろう品を\n用意してある。来なさい。{6}{f}",
-            "translation": ""
+            "translation": "We need your strength. \nYou've already fought\nMirleaf's priests. {6}\nThere are some things that \nshould help us in the next\nroom. Come.{6}{f}"
         },
         {
             "address": "0x5a86a",
             "size": 42,
             "text": "「守り石」は\n身につけておかなくては効果か゛ない。\n気をつけるんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Protection stones must be\nequipped to work. \nRemember.{6}{f}"
         },
         {
             "address": "0x5a894",
             "size": 30,
             "text": "港に船か゛ある。\n船長の名はハ゛ク゛ナンた゛。{6}{f}",
-            "translation": ""
+            "translation": "There is a ship. \nThe captain's name is Bagnan.{6}{f}"
         },
         {
             "address": "0x5a8e3",
             "size": 61,
             "text": "ミルリーフの神殿か゛\nレックスにあったとは......{6}\n地底湖て゛、ミルリーフは\n力をたくわえていたのた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "A Mirleaf temple at\nRex... {6}\nMirleaf must have been gath- \nering power at the underground\nlake. {6}{f}"
         },
         {
             "address": "0x5a920",
@@ -13996,7 +13996,7 @@
             "address": "0x5a94b",
             "size": 10,
             "text": "その通りた゛。{6}{f}",
-            "translation": ""
+            "translation": "Precisely. {6}{f}"
         },
         {
             "address": "0x5a955",
@@ -14014,19 +14014,19 @@
             "address": "0x5aa01",
             "size": 73,
             "text": "......古えの時代に、神々と戦った\n「神狩りの竜」か゛生きておれは゛、{6}\nミルリーフとて、\nほろほ゛すことはたやすいのた゛か゛...{6}{f}",
-            "translation": ""
+            "translation": "If only the god-hunting dragon \nfrom legend existed,{6}\ndestroying Mirleaf would be \na matter of course... {6}{f}"
         },
         {
             "address": "0x5aa4a",
             "size": 25,
             "text": "君たちた゛けか゛たよりし゛ゃ。\nたのむそ゛。{6}{f}",
-            "translation": ""
+            "translation": "You are our only hope. {6}{f}"
         },
         {
             "address": "0x5aa63",
             "size": 62,
             "text": "よくやってくれた。\n本当に、こ゛くろうた゛った。{6}\nこのはたらきに見合うた゛けの\n富と名誉を約束しよう。{6}{f}",
-            "translation": ""
+            "translation": "Well done, truly!{6}\nI promise you as much\nwealth and honor as your\nefforts deserve.{6}{f}"
         },
         {
             "address": "0x5aaa1",
@@ -14038,79 +14038,79 @@
             "address": "0x5aaa2",
             "size": 71,
             "text": "て゛はこの街の冒険者の店て゛、\nこれからくるわかい冒険者たちを\n指導してやってくれぬか？{6}\n君ならて゛きるた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "Perhaps you could guide\nthe young adventurers that\ncome to the town's guild? {6}\nI'm sure you can do it.{6}{f}"
         },
         {
             "address": "0x5aae9",
             "size": 163,
             "text": "いや、\nせ゛ひやってもらいたいことか゛ある。{6}\n今盗賊キ゛ルト゛て゛は、\n古い考えを持つ盗賊たちと、{6}\n「スカウト」と名乗る、\n新しい考えを持つものたちの間て゛、\n対立か゛起ころうとしている。{6}\nそのミソ゛をうめ、\nキ゛ルト゛を動かす力か゛必要なのた゛。\n君にたのみたいのた゛。{6}{f}",
-            "translation": ""
+            "translation": "No, there's something I want \nto try. {6}\nThe thieves' guild is divided\nright now between older-{6}\nthinking bandits and newer\nthinking \"scouts\".{6}\nI wanna fill in that gap \nand get the guild moving. \nI need your help.{6}{f}"
         },
         {
             "address": "0x5ab8c",
             "size": 73,
             "text": "よろこは゛しいことた゛。\nすく゛れた魔法使いになるため、\nへ゛んか゛くにいそしむか゛いい。{6}\nハ゛レンか゛しこ゛いてくれることた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "How good for you.\nYou can become a magnificent \nwizard through your studies.{6}\nMay Valen train you well.{6}{f}"
         },
         {
             "address": "0x5abd5",
             "size": 51,
             "text": "何かを得ようとするその気持ちか゛、\n最大の宝なのかも知れぬ。\n大切にするか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "The desire to grow may be\nthe greatest treasure of all. \nHold it close. {6}{f}"
         },
         {
             "address": "0x5ac08",
             "size": 51,
             "text": "て゛は名地の賢者に知らせておこう。\n必要になれは゛、\nいつて゛もたす゛ねるか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "The sages of each land should\nbe notified. If you need me,\ncome back any time. {6}{f}"
         },
         {
             "address": "0x5ac3b",
             "size": 49,
             "text": "こんやくしゃか゛おるそうた゛な。\nよき家庭をもち、\n村の幸福のためにつくすか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "I heard there is to be a \nwedding. I hope they raise a\nbig family. {6}{f}"
         },
         {
             "address": "0x5ac6c",
             "size": 36,
             "text": "て゛は司祭長への手紙を渡そう。\nよい神官になってくれ。{6}{f}",
-            "translation": ""
+            "translation": "Hand over the letter to the\nhead priest, then.{6}{f}"
         },
         {
             "address": "0x5ac90",
             "size": 65,
             "text": "いや、\n学ほ゛うとする気持ちは大切なものた゛。{6}\nよき賢者をしょうかいしよう。\n多くの知織を学んて゛くれ。{6}{f}",
-            "translation": ""
+            "translation": "The desire to learn is \nprecious. {6}\nI shall introduce you to some\nvery wise men. Learn well.{6}{f}"
         },
         {
             "address": "0x5acd1",
             "size": 87,
             "text": "て゛は、\nしは゛らくはマーファ神殿に\nつとめるか゛いい。{6}\nマーファのもとには、\n多くの人々の悩みか゛集まる。\n君の力を必要とする者もおるた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "Then why not serve at the\ntemple of Marfa for now? {6}\nPeople in need gather at \nHer feet. You could prove\nvery helpful. {6}{f}"
         },
         {
             "address": "0x5ad28",
             "size": 68,
             "text": "たしか、ホーフ゜の北に\n新しい宿をつくる話か゛あったはす゛た゛。{6}\nそこの主人になって、\n旅人たちを守ってやってくれ。{6}{f}",
-            "translation": ""
+            "translation": "I heard they're building a new \ninn north of Hope.{6}\nYou should take it over and\nprotect the people. {6}{f}"
         },
         {
             "address": "0x5ad6c",
             "size": 48,
             "text": "さあ、わしたちと共に城へゆこう。\nわれらか゛王か゛、\n英雄たちを待っておられる。{6}{f}",
-            "translation": ""
+            "translation": "Come with us to the castle.\nOur king awaits the heroes.{6}{f}"
         },
         {
             "address": "0x5ad9c",
             "size": 91,
             "text": "ようやく\nこれて゛おまえも一人前の冒険者た゛。{6}\nた゛か゛世界はまた゛おまえの知らぬ\n冒険にみちあふれておるそ゛。\nまた新たなる冒険に旅立つか゛よい。{6}{f}",
-            "translation": ""
+            "translation": "You are finally true \nadventurers.{6}\nBut many adventures yet wait.\nGo and find them!{6}{f}"
         },
         {
             "address": "0x5adf7",
             "size": 122,
             "text": "あうたひ゛におまえは\n冒険者らしい顔になっていくな...\nた゛か゛少々つかれも見える。{6}\nおお、そうし゛ゃ！\nナムコ゛ーの川見亭のかいそうか゛\nそろそろ終るとの話た゛。{6}\n息ぬきをかねて\n一度そこをたす゛ねてはみぬか？{6}{f}",
-            "translation": ""
+            "translation": "You're starting to look more\nlike adventurers, but you\nlook a little tired.{6}\nOh, right! The performance\nat Namgor Inn is about over. {6}\nWhy don't you go take a\nbreak there?{6}{f}"
         },
         {
             "address": "0x5ae71",
