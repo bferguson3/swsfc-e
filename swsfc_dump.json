@@ -12832,79 +12832,79 @@
             "address": "0x57cf7",
             "size": 35,
             "text": "化物につかまったけれと゛\n逃け゛のひ゛た男か゛いるらしい。{6}{f}",
-            "translation": ""
+            "translation": "Someone was caught but \nsomehow got away. {6}{f}"
         },
         {
             "address": "0x57d1d",
             "size": 44,
             "text": "このあいた゛、\nそこの路地て゛警備兵か゛\n化物にやられたんた゛ってよ。{6}{f}",
-            "translation": ""
+            "translation": "A guard got taken out\nby the monster down that\nalley.{6}{f}"
         },
         {
             "address": "0x57d4c",
             "size": 47,
             "text": "事件のおかけ゛て゛、\n商売あか゛ったりた゛よ。\nはやくとっ捕まってくれないかね。{6}{f}",
-            "translation": ""
+            "translation": "Business is down thanks to \nall this nonsense.\nCatch him, will you? {6}{f}"
         },
         {
             "address": "0x58014",
             "size": 50,
             "text": "暗黒魔法について聞きたいのかい？\nし゛ゃあます゛、\nそのメタ゛リオンを見せておくれ。{6}{f}",
-            "translation": ""
+            "translation": "You want to know about dark\nmagic? First, let me see\nthat medallion. {6}{f}"
         },
         {
             "address": "0x58046",
             "size": 83,
             "text": "...これは\nサ゛タ゛タのメタ゛リオンた゛ね。\nまた゛新しいとこをみると、{6}\nと゛こかのまぬけか゛\n自力て゛サ゛タ゛タのしもへ゛を\n呼ひ゛た゛したんた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "...This is Sadata's \nmedallion. Based on {6}\nthis new part, seems some \nidiot tried to call Sadata's \nminions himself.{6}{f}"
         },
         {
             "address": "0x58099",
             "size": 277,
             "text": "いまは失われた多くの神の１つさ。\n形なき神、\n形ある物のはかいをのそ゛む神。{6}\nしもへ゛は闇のかたまりのようて゛、\nあらゆるものをすいつくす\nと言われているか゛、{6}\nあんたか゛たか゛追いかけてるのは\nその中て゛も、と゛うやら\n下っは゜のしもへ゛のようた゛ね。{6}\nしもへ゛を追いかえす方法は\nいくつかあるけれと゛、{6}\n呼ひ゛た゛した方法か゛わからなくては、\nと゛うしようもないね。{6}\nしもへ゛を呼ひ゛た゛した\n魔法陣をしらへ゛なさい。{6}\nそれか゛わかったなら、教えておくれ。\nなんとか力をかしてあけ゛るよ。{6}{f}",
-            "translation": ""
+            "translation": "One of the long-forgotten gods.\nThe Formless One; \nHe Who Destroys Form.{6}\nHis servants are balls of\ndarkness that absorb\nlife.{6}\nWhat you drove off were\nlikely very weak underlings.{6}\nThere are a number of ways \nto deal with them,{6}\nbut not without knowing how \nthey were summoned. {6}\nWe must investigate the\nsummoning magic.{6}\nIf you find it, let me know. \nI can try something. {6}{f}"
         },
         {
             "address": "0x581ae",
             "size": 199,
             "text": "そうた゛、このメタ゛リオンを\nと゛うやって手に入れたかは\n知らないか゛、{6}\nしもへ゛を呼ひ゛た゛した奴は\n死んて゛ると思うよ。{6}\nゆいいつ身を守るものを\nなくしちまったんた゛から。{6}\nサ゛タ゛タのしもへ゛には\n自分の考えなんてない。\nたた゛何かを食らいつくしたいた゛け。{6}\nた゛から、そのメタ゛リオンか゛なけれは゛\n呼ひ゛た゛した相手も\nエサにすき゛ないんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "I don't know how they\ngot their hands on this \nmedallion, but{6}\nwhoever summoned the\nservants is likely dead.{6}\nThey lost the only thing \nthat could protect them.{6}\nSadata's servants have no\nmind of their own.\nThey have only hunger. {6}\nWithout that medallion, even \nthe one who called them here\nis just meat. {6}{f}"
         },
         {
             "address": "0x58275",
             "size": 40,
             "text": "はやく、\nしもへ゛を呼ひ゛た゛した奴の\n住みかを捜した゛すんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "We need to find where\nthese guys were living. {6}{f}"
         },
         {
             "address": "0x5829d",
             "size": 152,
             "text": "魔法陣は見つかったかい？\nほう、なるほと゛。\n６つの柱にイヌやネコの死体ね。{6}\nたしかに魔法陣た゛か゛、\nそれは結界の陣た゛ね。{6}\nしもへ゛をそこから出さないための\n魔法のサクた゛よ。\n呼ひ゛た゛すための陣し゛ゃない。{6}\n残念た゛か゛、しらへ゛なおしておくれ。{6}{f}",
-            "translation": ""
+            "translation": "You found a magic circle?\nI see. And six pillars\nwith animal corpses.{6}\nIt's definitely magic, \nbut some kind of barrier. {6}\nIt's to prevent the servants \nfrom leaving. \nNot for the summoning. {6}\nLet's keep looking around. {6}{f}"
         },
         {
             "address": "0x58335",
             "size": 48,
             "text": "呼ひ゛た゛すための陣をさか゛すんた゛よ。\n化物を呼ひ゛た゛した魔法陣た゛よ。{6}{f}",
-            "translation": ""
+            "translation": "Remember, we're looking for a\nsummoning circle. {6}{f}"
         },
         {
             "address": "0x58365",
             "size": 31,
             "text": "魔法陣を見つけたのかい？\nくわしく話しておくれ。{6}{f}",
-            "translation": ""
+            "translation": "You found a circle?\nTell me about it.{6}{f}"
         },
         {
             "address": "0x58384",
             "size": 168,
             "text": "なるほと゛。...ふむ、わかったよ。\nそれなら、しもへ゛を送りかえす方法は\nかんたんさ。{6}\n魔法陣にかかれた文字を\n１つ書きかえれは゛すむ。{6}\nこのメモにあるとおりに\n文字を書きかえるんた゛。{6}\nそう、このチョークも持っておゆき。\nそして、文字を書きかえてから、\n一番下にある呪文をとなえるんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Indeed... I see. \nThen the way to send the \nservants back is simple.{6}\nWe can fix it by changing\none symbol in the circle. {6}\nChange it in accordance\nto this memo. {6}\nTake this choker.\nAfter changing the symbol, \nread the bottom spell.{6}{f}"
         },
         {
             "address": "0x5842c",
             "size": 51,
             "text": "もとの文字を書きかえると\nメタ゛リオンの効果もなくなってしまう。\n気をつけるんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "When you change the symbol,\nthe medallion will lose its \npower. Be careful.{6}{f}"
         },
         {
             "address": "0x58462",
@@ -12916,13 +12916,13 @@
             "address": "0x5846c",
             "size": 38,
             "text": "あんな役立たす゛の井戸は、\nさっさとうめてしまえは゛いいんた゛。{6}{f}",
-            "translation": ""
+            "translation": "That useless well can dry\nup for all I care.{6}{f}"
         },
         {
             "address": "0x58492",
             "size": 44,
             "text": "モンスターか゛、\nウロウロしてるなんて。\nあの井戸は早々にうめてしまうそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Monsters are around here.\nThe well is going to dry \nup soon.{6}{f}"
         },
         {
             "address": "0x584c1",
@@ -12934,241 +12934,241 @@
             "address": "0x584c7",
             "size": 6,
             "text": "にゃあ。{6}{f}",
-            "translation": ""
+            "translation": "Mew{6}{f}"
         },
         {
             "address": "0x584cd",
             "size": 15,
             "text": "やあ。\n夜分すまない。{6}{f}",
-            "translation": ""
+            "translation": "Sorry it's so late.{6}{f}"
         },
         {
             "address": "0x584e5",
             "size": 104,
             "text": "わたしか゛カ゛サ゛ーンた゛か゛、\nあんたか゛たか゛井戸の中を\n調へ゛てくれるのかね？{6}\n下の洞窟は、人工のものらしい。\n何か面白そうなものか゛あれは゛、\n持ち帰ってくれ。たのんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "I'm Gazarn.\nYou all are going to look\ninto the well, right? {6}\nThe cave at the bottom seems \nman-made. Bring back anything\nthat seems interesting. {6}{f}"
         },
         {
             "address": "0x5854d",
             "size": 31,
             "text": "洞窟には、生き物か゛いるらしい。\n気をつけてくれ。{6}{f}",
-            "translation": ""
+            "translation": "Something's alive down there.\nBe careful.{6}{f}"
         },
         {
             "address": "0x5856c",
             "size": 77,
             "text": "と゛んな物か゛みつかったかね？\n美術品とかはなかったのか。\nそいつはさ゛んねんた゛。{6}\nそうそう、\nこれか゛、報酬の２４００カ゛メルた゛。{6}{f}",
-            "translation": ""
+            "translation": "What'd you find? \nNo antiques, huh.\nToo bad. {6}\nOh, here.\nYour reward, 2400 gamel. {6}{f}"
         },
         {
             "address": "0x585b9",
             "size": 17,
             "text": "井戸はうめることにするよ。{6}{f}",
-            "translation": ""
+            "translation": "I'll fill in the well. {6}{f}"
         },
         {
             "address": "0x585d7",
             "size": 87,
             "text": "友よ、私たちを助けてくた゛さい。\nこの湖は、死者の魔法と\n呪いて゛けか゛されています。{6}\nと゛うか、原因て゛あるものを、\n追い払ってくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Friend, please help me.\nThis lake is cursed with \nmagic of the dead.{6}\nPlease, rid the lake of\nits source. {6}{f}"
         },
         {
             "address": "0x5862e",
             "size": 68,
             "text": "地上から来た者か゛、\nこの湖の底に、建物を建て、\n私たちを苦しめているのて゛す。{6}\nと゛うか助けてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Those from the surface are \nbuilding things at the\nbottom of the lake. {6}\nYou must stop them.{6}{f}"
         },
         {
             "address": "0x58672",
             "size": 59,
             "text": "建物には、いやな魔力を\n出すものか゛あります。{6}\nあれをと゛こか遠くに\n持っていってほしいのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "The building emanates\na dark magic. {6}\nTake it far away from\nhere, I beg you. {6}{f}"
         },
         {
             "address": "0x586ad",
             "size": 30,
             "text": "水の中て゛息か゛て゛きるように、\n私か゛まもります。{6}{f}",
-            "translation": ""
+            "translation": "I shall bless you with \nwater breathing.{6}{f}"
         },
         {
             "address": "0x586cb",
             "size": 96,
             "text": "いやな魔力か゛消えました。\nこれて゛また、もとと゛おり\n平和にすこ゛せます。ありか゛とう。{6}\nこれから先、と゛んな場所て゛も\n水の精霊か゛あなたか゛たを守るて゛しょう。{6}{f}",
-            "translation": ""
+            "translation": "The magic has faded. \nNow we can return to our \npeaceful lives. Thank you. {6}\nMay the water spirits continue \nto guide you. {6}{f}"
         },
         {
             "address": "0x5872b",
             "size": 14,
             "text": "本当に、ありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "Thank you so much. {6}{f}"
         },
         {
             "address": "0x5873c",
             "size": 13,
             "text": "なんた゛、こいつらは？{6}{f}",
-            "translation": ""
+            "translation": "Who are they?{6}{f}"
         },
         {
             "address": "0x5874c",
             "size": 29,
             "text": "と゛こから入ってきたんた゛？\n行け！  スケルトン！{6}{f}",
-            "translation": ""
+            "translation": "How'd you get in here? \nGo, bony friends!{6}{f}"
         },
         {
             "address": "0x58782",
             "size": 34,
             "text": "村長をねらっとるんし゛ゃよ、\nあのハ゛チあたりな怪物は...{6}{f}",
-            "translation": ""
+            "translation": "That wicked monster is \nafter the chieftain...{6}{f}"
         },
         {
             "address": "0x587a4",
             "size": 38,
             "text": "わかったわかった。\nそれし゛ゃ年よりは、\n引き上け゛るとしますかの。{6}{f}",
-            "translation": ""
+            "translation": "Okay, okay.\nOld folk should\nget outta here. {6}{f}"
         },
         {
             "address": "0x587ca",
             "size": 85,
             "text": "と゛うなさった、旅の人。\nこんなおいほ゛れに、何かようかの。\nそうか、わかったそ゛。{6}\nきのうの話のつつ゛きか゛\n聞きたいんし゛ゃな。\nて゛は話してやろう。{6}{f}",
-            "translation": ""
+            "translation": "How do, traveler?\nWhat do you need from these\nold bones?{6}\nAh, yes, you wish to \ncontinue from yesterday.\nVery well. {6}{f}"
         },
         {
             "address": "0x5881f",
             "size": 260,
             "text": "ええい、せっかちな奴し゛ゃ。\n年よりの話は、\n落ち着いて聞くもんし゛ゃ。{6}\nそもそも、あのハ゛チあたりな怪物は、\n先の村長のカ゛ート゛か゛この村を追われて、\n半年く゛らいたってから現われたんし゛ゃ。{6}\nこのカ゛ート゛というのか゛、\nワカ゛ママな男て゛な。{6}\nいろいろと\nひょうは゛んの悪い男し゛ゃった。{6}\nけっきょく、せ゛い金の一部を、\nかすめ盗っていたのか゛は゛れて、\nこの村を追われたのし゛ゃ。{6}\nその後、村長になったのか゛\nきのう大ケカ゛をしたケルシュし゛ゃ。{6}{f}",
-            "translation": ""
+            "translation": "Whippersnappers should \nlisten when old folks \nis talking! {6}\nThat wicked monster only appeared\nabout six months after the last \nchief, Gard, was chased out.{6}\nHe was a selfish sort. {6}\nNot many people took \nwell to him.{6}\nIt eventually came out that\nhe was stealing taxes, and\nthat's why he was exiled. {6}\nThe new chief, Kersh, is the\none who was injured yesterday.{6}{f}"
         },
         {
             "address": "0x58923",
             "size": 299,
             "text": "た゛まって聞かんか。\nわしか゛わさ゛わさ゛、\n関係ない話をするはす゛なかろう。{6}\nそのカ゛ート゛というのか゛、\n魔法使いし゛ゃったんし゛ゃ。\nそれて゛村の者は、{6}\nカ゛ート゛か゛いやか゛らせのために、\n怪物をけしかけていると\n思っておるんし゛ゃ。{6}\nし゛ゃか゛、わしは、\nカ゛ート゛か゛いやか゛らせた゛けて゛\n終わるような男て゛はない、{6}\nいつかきっと、\nケルシュに何かすると\n思っておったら、{6}\nきのうの事件というわけし゛ゃ。\nほらみろ、{6}\nちゃんと話はつなか゛ったし゛ゃろう。\nおわかいの、これから年よりの話は、\n最後まて゛聞くんし゛ゃそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Shut up and listen.\nI'm not rambling \nabout nothing.{6}\nGard was a sorcerer. \nThe villagers thought{6}\nGard was inciting the\nmonsters to attack. {6}\nBut I don't think Gard \nwill quit after just this.{6}\nI thought he would try \nsomething on Kersh, {6}\nhence what happened \nyesterday.{6}\nSee? It all connects. \nYou shouldn't interrupt. {6}{f}"
         },
         {
             "address": "0x58a4e",
             "size": 44,
             "text": "おお、無事し゛ゃったか。\n早くこっちにこい。\n村の者に追いつかれるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Oh, you're okay. \nThis way, hurry. \nThe villagers are coming.{6}{f}"
         },
         {
             "address": "0x58a7a",
             "size": 16,
             "text": "なんとかなったようし゛ゃの。{6}{f}",
-            "translation": ""
+            "translation": "Made it somehow. {6}{f}"
         },
         {
             "address": "0x58a8a",
             "size": 332,
             "text": "実は、おまえさんたちより先に、\nロイト゛た゛けか゛帰ってきたんし゛ゃ。{6}\nそして、村の者を広場に集めると、\nなにやら古ほ゛けたツホ゛を\n取り出して、ふたを開けたんし゛ゃ。{6}\nそうすると、不思議なかおりのする\nケムリか゛て゛てきたんし゛ゃ。{6}\nみんなか゛そのケムリにつつまれると、\nロイト゛はいきなり、まくしたておった。{6}\nおまえたちか゛うらき゛ったた゛の、\n遭跡の財宝をひとりし゛めに\nしているなと゛と、{6}\nわけの分からないことを\n言いた゛したのし゛ゃ。\nは゛かは゛かしい話し゛ゃ。{6}\nところか゛、それを聞いていた連中か゛、\n急にその通りた゛と言いはし゛めたんし゛ゃ。\nと゛うやら、例のケムリのせいらしい。{6}{f}",
-            "translation": ""
+            "translation": "Lloyd returned alone right \nbefore you did. {6}\nHe gathered everyone in the\ntown square, pulled out this\nold jar, and opened it. {6}\nA strange-smelling smoke \npoured out of it. {6}\nAs the smoke enveloped \neveryone, Lloyd was rambling.{6}\nThat you betrayed him, \nand tried to steal all the\ntreasure for yourselves.{6}\nAnd a whole bunch of \nnonsense, besides.{6}\nEveryone that smoke touched\njust believed everything he \nsaid, just like that. {6}{f}"
         },
         {
             "address": "0x58bd6",
             "size": 176,
             "text": "わしは、少しはなれた風上に\n立っていたのて゛、ケムリの\nえいきょうを受けす゛にすんた゛のし゛ゃ。{6}\nそしてロイト゛の奴は、\n村の者を引き連れ、\nお主らをとらえようとしたわけし゛ゃ。{6}\nロイト゛の奴に何か゛おこったのかは\n分からん。{6}\nしかし、奴のしゃへ゛り方は、\nまるて゛前の村長の\nカ゛ート゛のようし゛ゃわい。{6}{f}",
-            "translation": ""
+            "translation": "I was standing a bit upwind, \nso the smoke didn't affect me.{6}\nThen Lloyd left and took\npeople with him to go and \ncapture you.{6}\nI don't know what happened \nto Lloyd. {6}\nI do know that he talks\nexactly like Gard used to,\nthough. {6}{f}"
         },
         {
             "address": "0x58c86",
             "size": 65,
             "text": "自分の家し゛ゃ。\n村長の身に悪いことか゛\n起こりそうな予感か゛する。{6}\n村長の家にいそく゛のし゛ゃ。{6}{f}",
-            "translation": ""
+            "translation": "It's my house. I get the\nfeeling something bad is\ngonna happen to the chief.{6}\nLet's hurry over there.{6}{f}"
         },
         {
             "address": "0x58cc7",
             "size": 18,
             "text": "早く、村長の家に行け。{6}{f}",
-            "translation": ""
+            "translation": "To the chief's house!{6}{f}"
         },
         {
             "address": "0x58cd9",
             "size": 47,
             "text": "この村もふ゛っそうになったもんし゛ゃよ。\n旅の人、早く村を出たほうか゛よいそ゛。{6}{f}",
-            "translation": ""
+            "translation": "The village is in an uproar. \nYou should go home.{6}{f}"
         },
         {
             "address": "0x58d0f",
             "size": 42,
             "text": "聞いたかい？\nきのう村長の家に、\n例の怪物か゛おしいったそうた゛。{6}{f}",
-            "translation": ""
+            "translation": "Did you hear?\nThat monster hit the chief's \nhouse yesterday.{6}{f}"
         },
         {
             "address": "0x58d39",
             "size": 26,
             "text": "カ゛ート゛か゛ロイト゛になりすまして\nいたって？{6}{f}",
-            "translation": ""
+            "translation": "So Gard has become Lloyd? {6}{f}"
         },
         {
             "address": "0x58d53",
             "size": 23,
             "text": "村長の傷のく゛あいか゛心配た゛。{6}{f}",
-            "translation": ""
+            "translation": "I'm worried about his wounds.{6}{f}"
         },
         {
             "address": "0x58d71",
             "size": 48,
             "text": "村長か゛大ケカ゛をしたそうた゛。\n犯人は、\n前の村長のカ゛ート゛にちか゛いない。{6}{f}",
-            "translation": ""
+            "translation": "The chief is wounded.\nIt was definitely the\nprior chief, Gard.{6}{f}"
         },
         {
             "address": "0x58da1",
             "size": 32,
             "text": "やはり、前の村長のカ゛ート゛か゛\n犯人た゛ったのか。{6}{f}",
-            "translation": ""
+            "translation": "So Gard was the culprit.{6}{f}"
         },
         {
             "address": "0x58dc1",
             "size": 33,
             "text": "犯人はせ゛ったいに\n前の村長のカ゛ート゛た゛と思う。{6}{f}",
-            "translation": ""
+            "translation": "I definitely think it\nwas Gard that did it.{6}{f}"
         },
         {
             "address": "0x58de9",
             "size": 64,
             "text": "村長の息子のロイト゛か゛、\n怪物退治にいくそうた゛。{6}\nさんかしたけれは゛、\n村長の家に行けは゛いい。{6}{f}",
-            "translation": ""
+            "translation": "The chief's son Lloyd is \ngoing on a monster hunt.{6}\nIf you want to join, go\nto the chief's house. {6}{f}"
         },
         {
             "address": "0x58e29",
             "size": 46,
             "text": "おれたちか゛カ゛ート゛にあやつられて、\nあんた方をおそったって？\n信し゛られないな。{6}{f}",
-            "translation": ""
+            "translation": "We were controlled by Gard \nand attacked you? \nNahhhh.{6}{f}"
         },
         {
             "address": "0x58e57",
             "size": 44,
             "text": "おれも怪物退治にさんかしたいけと゛、\nと゛うもからた゛の調子か゛悪くて...{6}{f}",
-            "translation": ""
+            "translation": "I wanna go on the hunt too,\nbut, er, I'm sick...{6}{f}"
         },
         {
             "address": "0x58e88",
             "size": 70,
             "text": "そういえは゛、木こりのおし゛さんか゛、\n森の中を走っていく、\n黒い犬をみかけたそうよ。{6}\nたしか、村の外れた゛ったと思うわ。{6}{f}",
-            "translation": ""
+            "translation": "I heard the old lumberjack \nsaw a black dog running \nthrough the forest. {6}\nSomewhere on the edge of town. {6}{f}"
         },
         {
             "address": "0x58ece",
             "size": 25,
             "text": "黒い犬もカ゛ート゛のしわさ゛た゛ったのね。{6}{f}",
-            "translation": ""
+            "translation": "The black dog was Gard too,\nhuh.{6}{f}"
         },
         {
             "address": "0x58eec",
             "size": 112,
             "text": "むかし、この村に\n魔術師キ゛ルト゛の調査団か゛\nきたことか゛あったわ。{6}\nなんて゛も、\n近くに遭跡か゛あるとかて゛、\nそれを捜しに来たらしいの。{6}\nけっきょく、\n何も見つからなかったけと゛ね。{6}{f}",
-            "translation": ""
+            "translation": "The sorcerer's guild's \ninvestigators came here \nlong ago. {6}\nSeems they came to check \nout the ruins nearby. {6}\nThey didn't end up finding \nanything, though. {6}{f}"
         },
         {
             "address": "0x58f5c",
             "size": 47,
             "text": "遭跡に魔法使いの部屋か゛あったの？\nカ゛ート゛か゛かくれ家にしていたのね。{6}{f}",
-            "translation": ""
+            "translation": "You found a sorcerer's room at \nthe ruins? Might be Gard's \nhideout.{6}{f}"
         },
         {
             "address": "0x58fc8",
             "size": 64,
             "text": "いらっしゃい。\n見たところ、\n冒険者の方のようて゛すか゛、{6}\n怪物を倒す手伝いに\n来てくれたのて゛すか？{6}{f}",
-            "translation": ""
+            "translation": "Welcome. \nLooks like you all \nare adventurers.{6}\nDid you come to help \ntake down the monster?{6}{f}"
         },
         {
             "address": "0x59008",
@@ -13180,307 +13180,307 @@
             "address": "0x59009",
             "size": 22,
             "text": "本当に、ありか゛とうこ゛さ゛いました。{6}{f}",
-            "translation": ""
+            "translation": "Really, thank you so much. {6}{f}"
         },
         {
             "address": "0x5901f",
             "size": 265,
             "text": "それは助かります。\n私は村長の息子て゛、ロイト゛といいます。{6}\nあの怪物は、３年ほと゛前から\n出没するようになりました。{6}\nそれから月に１回は村にやってきて、\n人々を不安か゛らせています。{6}\n今まて゛にも、\n人か゛おそわれたこともあったのて゛すか゛、\nと゛れも家の外て゛のことて゛した。{6}\n今回のように、家の中まて゛入ってきて\n人をおそうことはなかったのて゛す。{6}\nとにかく、これ以上あいつを\nのは゛なしにしておくわけには\nいきません。{6}\nいっこくも早く、退治しなくては。{6}{f}",
-            "translation": ""
+            "translation": "Glad to hear it. \nI'm Lloyd, the chief's son.{6}\nThe monster started appearing\nabout 3 years ago.{6}\nIt comes about once a month, \nharassing the villagers.{6}\nPeople have been attacked\nbefore, but always outside\nthe home. {6}\nBefore now it hasn't entered \nany homes to attack.{6}\nWe cannot allow it to\nescalate any further. {6}\nWe must kill it, now.{6}{f}"
         },
         {
             "address": "0x59128",
             "size": 70,
             "text": "そうて゛すね。\n奴はいつも村のまん中を\n東西に走りぬけていきます。{6}\nと゛ういうわけか、\nまっすく゛にしか走らないのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "That's right,\nit always runs east to\nwest through the village. {6}\nFor whatever reason\nit can only run straight. {6}{f}"
         },
         {
             "address": "0x5916e",
             "size": 20,
             "text": "それて゛は、私か゛案内します。{6}{f}",
-            "translation": ""
+            "translation": "I'll lead you there. {6}{f}"
         },
         {
             "address": "0x59182",
             "size": 18,
             "text": "ここか゛村の西か゛わて゛す。{6}{f}",
-            "translation": ""
+            "translation": "This is the west side. {6}{f}"
         },
         {
             "address": "0x59194",
             "size": 18,
             "text": "ここか゛村の東か゛わて゛す。{6}{f}",
-            "translation": ""
+            "translation": "This is the east side. {6}{f}"
         },
         {
             "address": "0x591a6",
             "size": 44,
             "text": "た゛まれ悪党と゛も！\nきさまらの悪事は、\nすへ゛て白日の元にさらしたそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Fiends!\nYour evil deeds will be\nexposed by the light of day!{6}{f}"
         },
         {
             "address": "0x591d2",
             "size": 35,
             "text": "その部屋には、父か゛ねています。\n入らないて゛くた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Father is sleeping in here.\nPlease don't go in.{6}{f}"
         },
         {
             "address": "0x591f5",
             "size": 83,
             "text": "私をうらき゛り、\n遭跡の財宝をひとりし゛めに\nするは゛かりか、{6}\nこんと゛はおおせ゛いて゛\n村をおそおうとは、\nいやはや見下け゛はてた根性た゛！{6}{f}",
-            "translation": ""
+            "translation": "You betrayed me, \nand kept all the treasure \nfrom the ruins for yourself,{6}\nand now you've gone so\nlow as to attack the\nvillage!{6}{f}"
         },
         {
             "address": "0x59248",
             "size": 22,
             "text": "聞く耳もたんわ！\nこれて゛もくらえ！！{6}{f}",
-            "translation": ""
+            "translation": "I won't hear it! \nTake this! {6}{f}"
         },
         {
             "address": "0x5925e",
             "size": 13,
             "text": "者と゛も、かかれ！！{6}{f}",
-            "translation": ""
+            "translation": "Get them!! {6}{f}"
         },
         {
             "address": "0x5926b",
             "size": 51,
             "text": "た゛からいいて゛しょう。\n父さんのその傷て゛は、\n村長のつとめか゛こなせるとは思えない。{6}{f}",
-            "translation": ""
+            "translation": "It's fine. With father's\nwounds, I don't think he \ncan handle being chief. {6}{f}"
         },
         {
             "address": "0x5929e",
             "size": 44,
             "text": "それはあんまりた゛。\n私はあなたのことを気つ゛かって、\n言っているのて゛すよ。{6}{f}",
-            "translation": ""
+            "translation": "That's too much. \nI'm saying this because\nI care about you.{6}{f}"
         },
         {
             "address": "0x592ca",
             "size": 88,
             "text": "なるほと゛、\n人を見る目た゛けは\nおとろえておらんようた゛な。{6}\nしかし、ひとつた゛けまちか゛っておるそ゛。\nわしのこの体は、\nまちか゛いなくおまえの息子のものた゛。{6}{f}",
-            "translation": ""
+            "translation": "I see. \nSo you aren't one to be\nfooled by appearances.{6}\nYou're wrong about one \nthing, though. This is\nabsolutely your son's body. {6}{f}"
         },
         {
             "address": "0x59322",
             "size": 190,
             "text": "死んて゛いく者に、\n何を話してもムタ゛というもの。{6}\nしかし、最後の情けた゛、\n教えてやろう。{6}\nわしはく゛うせ゛ん手にいれた古代の秘宝を\n使って、おまえの息子と\nタマシイを入れかえたのた゛よ。{6}\nそしておまえは、我か゛しもへ゛により\nやつさ゛きにされるのた゛。{6}\nおまえは、怪物に殺されたことになり、\nわしは村長の座につくのた゛。{6}{f}",
-            "translation": ""
+            "translation": "It's pointless to explain to \nsomeone soon dead.{6}\nBut as a final pity, \nI shall tell you this. {6}\nI used the ancient treasure I\nfound by chance to change \nsouls with your son.{6}\nAnd you will be torn apart \nby my servants. {6}\nI'll say you were killed by\nmonsters, and the chiefdom\nwill be mine. {6}{f}"
         },
         {
             "address": "0x593e0",
             "size": 146,
             "text": "ふんっ、村の連中は\n魔法て゛意志をうは゛い、\nわしをうたか゛うことなと゛{6}\nて゛きぬようになっている。\nまして、この体は\nおまえの息子のものた゛。{6}\n村長のあとをつく゛のは、\nあたりまえのことた゛ろう。{6}\n少しおしゃへ゛りか゛すき゛たな。\nそろそろおしまいにするか。{6}{f}",
-            "translation": ""
+            "translation": "Hmph, I used magic on the\ntownsfolk.\nThey can no longer {6}\nrefuse my commands. \nPlus, this body\nis your son's.{6}\nOf course he would \nbe the next chief.{6}\nI've said too much.\nTime to end this.{6}{f}"
         },
         {
             "address": "0x59472",
             "size": 62,
             "text": "黒き闇の従者、フ゛ラックハウント゛よ。\nカ゛ート゛の名の元に命す゛。\n来たりて我か゛敵をくい殺せ。{6}{f}",
-            "translation": ""
+            "translation": "Servant of the Black Dark,\nBlackhound, in the name of Gard,\ndevour my enemies!{6}{f}"
         },
         {
             "address": "0x594b0",
             "size": 102,
             "text": "きさまら、いつのまに...\nええい、こうなれは゛\nきさまらから、しまつしてくれるわ。{6}\nたた゛し、わしを殺すと、\nロイト゛を元にもと゛すことか゛\nて゛きなくなるそ゛！{6}\n行け、フ゛ラックハウント゛！{6}{f}",
-            "translation": ""
+            "translation": "How did you... \nDamn! Time to\nfinish you off! {6}\nRemember, if you kill me,\nLloyd dies, too! {6}\nGo, Blackhound!{6}{f}"
         },
         {
             "address": "0x59516",
             "size": 62,
             "text": "さいわい命には別状ありませんのて゛\n安心してくた゛さい。{6}\n村のみなさんには心配をかけて、\nすいません。{6}{f}",
-            "translation": ""
+            "translation": "My life isn't in any danger, \nso rest assured.{6}\nI'm sorry for worrying \nthe village.{6}{f}"
         },
         {
             "address": "0x59554",
             "size": 24,
             "text": "ほれ、父親も\nないてたのんて゛おるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Your father was crying.{6}{f}"
         },
         {
             "address": "0x5956c",
             "size": 5,
             "text": "うっ！{6}{f}",
-            "translation": ""
+            "translation": "Ug!{6}{f}"
         },
         {
             "address": "0x59571",
             "size": 7,
             "text": "しまった。{6}{f}",
-            "translation": ""
+            "translation": "Crap.{6}{f}"
         },
         {
             "address": "0x59578",
             "size": 16,
             "text": "なにをする。\nやっ、やめろ...{6}{f}",
-            "translation": ""
+            "translation": "Hey, \ns-stop! {6}{f}"
         },
         {
             "address": "0x59588",
             "size": 23,
             "text": "う〜ん。\n私はいったいと゛うしたんた゛。{6}{f}",
-            "translation": ""
+            "translation": "Ugh, \nwhat happened to me?{6}{f}"
         },
         {
             "address": "0x5959f",
             "size": 29,
             "text": "父さん？\nここは一体...\n元に、もと゛ってるそ゛！{6}{f}",
-            "translation": ""
+            "translation": "Dad? \nWhat's...\nIt's back to normal! {6}{f}"
         },
         {
             "address": "0x595bc",
             "size": 40,
             "text": "そうた゛ったんて゛すか。\nみなさん、と゛うもこ゛めいわくを\nおかけしました。{6}{f}",
-            "translation": ""
+            "translation": "I see. \nEveryone, I'm so sorry for \nthe trouble I caused.{6}{f}"
         },
         {
             "address": "0x595e4",
             "size": 6,
             "text": "う〜ん。{6}{f}",
-            "translation": ""
+            "translation": "Ugh..{6}{f}"
         },
         {
             "address": "0x595ea",
             "size": 27,
             "text": "父さん？\nよかった！\n元に、もと゛ってるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Dad? \nThank goodness!\nYou're back. {6}{f}"
         },
         {
             "address": "0x59618",
             "size": 29,
             "text": "ちか゛います、{c}{0}さん。\n私て゛す。ロイト゛て゛す。{6}{f}",
-            "translation": ""
+            "translation": "No,{c}{0}. \nIt's me, Lloyd. {6}{f}"
         },
         {
             "address": "0x59635",
             "size": 69,
             "text": "本当て゛す。信し゛てくた゛さい。{6}\n気か゛ついたら、\nカ゛ート゛の姿になっていたんて゛すよ。\n信し゛てくた゛さい、{c}{0}さん。{6}{f}",
-            "translation": ""
+            "translation": "Please,{c}{0}, \nyou must believe me. {6}\nWhen I came to, I was in \nGard's body. {6}{f}"
         },
         {
             "address": "0x5967a",
             "size": 16,
             "text": "ありか゛とうこ゛さ゛います。{6}{f}",
-            "translation": ""
+            "translation": "Thank you so much. {6}{f}"
         },
         {
             "address": "0x5968a",
             "size": 78,
             "text": "分かりません。\n気か゛ついたら、こうなっていたんて゛す。{6}\nいったい、\nほ゛くはと゛うなってしまったんて゛しょう。\n元にもと゛れるのて゛しょうか？{6}{f}",
-            "translation": ""
+            "translation": "I don't know. I was like this\nwhen I came to. {6}\nI really don't know what \nhappened to me. \nCan I go back to normal? {6}{f}"
         },
         {
             "address": "0x596d8",
             "size": 9,
             "text": "わかりました。{6}{f}",
-            "translation": ""
+            "translation": "Understood.{6}{f}"
         },
         {
             "address": "0x596e1",
             "size": 21,
             "text": "ちか゛う、ちか゛うんた゛...  ほ゛くは...{6}{f}",
-            "translation": ""
+            "translation": "No, no... I... {6}{f}"
         },
         {
             "address": "0x596f6",
             "size": 24,
             "text": "みなさん。\n外の様子は、と゛うて゛した？{6}{f}",
-            "translation": ""
+            "translation": "What's going on outside? {6}{f}"
         },
         {
             "address": "0x5970e",
             "size": 17,
             "text": "元にもと゛れるんて゛すか？！{6}{f}",
-            "translation": ""
+            "translation": "I can return to normal!? {6}{f}"
         },
         {
             "address": "0x5971f",
             "size": 23,
             "text": "なんとかしてくた゛さい。\nお願いします。{6}{f}",
-            "translation": ""
+            "translation": "Please do something. \nI beg you. {6}{f}"
         },
         {
             "address": "0x59749",
             "size": 61,
             "text": "よけいなお世話た゛。\nわしはまた゛また゛元気た゛。{6}\nおまえこ゛ときに、\nあれこれ言われるすし゛あいはない。{6}{f}",
-            "translation": ""
+            "translation": "Not needed.\nI'm still hale.{6}\nI don't need to be picked\nat by the likes of you. {6}{f}"
         },
         {
             "address": "0x59786",
             "size": 66,
             "text": "...？！\nたは゛かるのもいいかけ゛んにしろ。{6}\n私の息子は、\n父親にそんなことは言わん。\nきさま、いったい何者た゛！{6}{f}",
-            "translation": ""
+            "translation": "...!? \nWhat nonsense...?{6}\nMy son would never say \nsuch a thing to his father. \nWho are you!?{6}{f}"
         },
         {
             "address": "0x597c8",
             "size": 11,
             "text": "きさま、いったい。{6}{f}",
-            "translation": ""
+            "translation": "Bastards!{6}{f}"
         },
         {
             "address": "0x597d3",
             "size": 38,
             "text": "きさま、カ゛ート゛か？\nそれて゛村人を\nた゛ませると思っているのか。{6}{f}",
-            "translation": ""
+            "translation": "You're Gard?\nYou thought you could\nfool the townsfolk? {6}{f}"
         },
         {
             "address": "0x597f9",
             "size": 38,
             "text": "お願いて゛す。\nなんとか、\n息子の体を傷つけないて゛くた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "I beg you, \ndon't harm my son's body! {6}{f}"
         },
         {
             "address": "0x5981f",
             "size": 19,
             "text": "おおロイト゛。\n気か゛ついたか。{6}{f}",
-            "translation": ""
+            "translation": "Lloyd, \nyou've come to. {6}{f}"
         },
         {
             "address": "0x59832",
             "size": 86,
             "text": "とにかく、みなさんのおかけ゛て゛、\nなんとか村の危機をさけることか゛\nて゛きました。{6}\nこれは怪物退治の報酬て゛す。\nと゛うそ゛、おおさめくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "We managed to avoid a\ntown disaster thanks\nto your help. {6}\nThis is the reward for the \nmonster slaying.{6}{f}"
         },
         {
             "address": "0x59888",
             "size": 32,
             "text": "近くにいらした時には、\nせ゛ひ、村におよりくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Please come see us \nif you're in the area.{6}{f}"
         },
         {
             "address": "0x598a8",
             "size": 30,
             "text": "息子をなんとかしてやってくた゛さい。\nお願いします。{6}{f}",
-            "translation": ""
+            "translation": "Please help my son.\nI beg you. {6}{f}"
         },
         {
             "address": "0x598df",
             "size": 117,
             "text": "実に話しにくいことた゛か゛、\n「剣」か゛なくなってしまった...\nいや、盗まれたらしい。{6}\n全力をあけ゛て調へ゛ておるのて゛、\n数日待っていたた゛きたいと、{6}\n「奇跡の店」の店主に\n伝えてくた゛さらんか。{6}{f}",
-            "translation": ""
+            "translation": "It's embarassing, but\nthe sword is gone...\nStolen, really.{6}\nCan you tell the shop owner\nthat we're searching everywhere \nfor it, but {6}\nwe just need a few days?{6}{f}"
         },
         {
             "address": "0x59954",
             "size": 103,
             "text": "気持ちはありか゛たいか゛、\n倉庫のそは゛へは、導師か\nその見習いしか入ることはて゛きん。{6}\n「剣」は必す゛さか゛し出すのて゛、\n今日はこれて゛、\n引き取っていたた゛きたい。{6}{f}",
-            "translation": ""
+            "translation": "I appreciate the thought,\nbut only the magician \nor his apprentice can enter.{6}\nWe'll definitely find the\nsword. I'll let you know\nwhen we hear anything.{6}{f}"
         },
         {
             "address": "0x599bb",
             "size": 17,
             "text": "何かわかれは゛知らせよう。{6}{f}",
-            "translation": ""
+            "translation": "If we hear anything.{6}{f}"
         },
         {
             "address": "0x599cc",
             "size": 122,
             "text": "よく来てくれた。\n「剣」のことた゛か゛、\nあれを盗んた゛のは砂漠の民らしい。{6}\n砂漠の民たちは、\nレックスの周辺に出没しては、\n何かを探っていたようた゛ったか゛、{6}\n今は遭跡の一つに集まっているらしい。{6}{f}",
-            "translation": ""
+            "translation": "Thanks for coming. \nSeems the desert folk stole\nthe sword.{6}\nThe desert people have been\nseeing coming and going from\nRex, but lately, they've {6}\nbeen gathering at one spot. {6}{f}"
         },
         {
             "address": "0x59a46",
             "size": 107,
             "text": "ちょうと゛\nそのあたりの遭跡を調へ゛ていた、\nアインという名の冒険者か゛、{6}\nようすをさく゛りに行ってくれたのた゛か゛、\n君たちにもレックスへ\n行ってもらいたいのた゛。{6}\nたのめるた゛ろうか？{f}",
-            "translation": ""
+            "translation": "An adventurer named Ain who has\nbeen investigating the ruins{6}\nlately has gone to check\nit out, and wants you to go \nas well.{6}\nCan we count on you? {f}"
         },
         {
             "address": "0x59ab1",
@@ -13498,31 +13498,31 @@
             "address": "0x59ab3",
             "size": 44,
             "text": "ありか゛たい。問題の遭跡は、\nレックスの中心街にある。\nたのんた゛そ゛。{6}{f}",
-            "translation": ""
+            "translation": "Thanks. The ruins in \nquestion are at the \ncenter of Rex. {6}{f}"
         },
         {
             "address": "0x59adf",
             "size": 29,
             "text": "そうた゛。これをわたしておこう。\nか゛んは゛ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "Oh, let me give you this.\nGood luck. {6}{f}"
         },
         {
             "address": "0x59afc",
             "size": 11,
             "text": "気をつけてくれ。{6}{f}",
-            "translation": ""
+            "translation": "Be careful.{6}{f}"
         },
         {
             "address": "0x59b07",
             "size": 109,
             "text": "と゛うた゛った、アインには会えたのか？{6}\n...ふむ、「海からくる邪神」？\nアインは残って調査を\nつつ゛けると言っていたのか。{6}\nわかった。こ゛くろうた゛った。\nこれは報酬た゛。受け取ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "Well, did you meet Ain? {6}\nHm, the Dark God of the Sea? \nSo Ain said he is staying \nto investigate more.{6}\nI see. Well done. \nHere, your reward. Take it. {6}{f}"
         },
         {
             "address": "0x59b74",
             "size": 50,
             "text": "なにやら、ふ゛きみなことか゛\nおころうとしているようた゛。\nいろいろと、調へ゛ねは゛ならんな。{6}{f}",
-            "translation": ""
+            "translation": "Something off is happening.\nThere's much to investigate. {6}{f}"
         },
         {
             "address": "0x59bcd",
