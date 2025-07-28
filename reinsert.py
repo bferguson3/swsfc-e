@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw
 # get the dictionary 
 print("Loading dictionary... ", end="")
 jdict = []
-f = open("swsfc.tbl", "r")
+f = open("swsfc.tbl", "r", encoding="utf8")
 line = f.readline()
 i = 0
 while line != "":
@@ -65,7 +65,7 @@ words = tlbank.words
 
 # now load in the json file 
 print("Loading script from JSON...", end="")
-f = open("swsfc_dump.json", "r")
+f = open("swsfc_dump.json", "r", encoding="utf8")
 js = f.read()
 f.close()
 js = json.loads(js)
