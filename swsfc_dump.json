@@ -8620,7 +8620,7 @@
             "address": "0x5072d",
             "size": 26,
             "text": "君なら...\nわかってくれると思ったのた゛か゛...{6}{f}",
-            "translation": "I thought you of all would \nunderstand... {6}{f}"
+            "translation": "I thought you would\nunderstand... {6}{f}"
         },
         {
             "address": "0x50747",
@@ -11908,7 +11908,7 @@
             "address": "0x5606f",
             "size": 99,
             "text": "マテ゛ラ、心配したのよ。\nやっと帰ってきたのに、\nいなくなっていて...{6}\nあなたの事た゛から、\n一人て゛ナイトシェート゛を\n探しに行ったんし゛ゃないかと{6}\n気か゛気て゛なかったわ。{6}{f}",
-            "translation": "Madera, we were worried. \nYou disappeared after\nfinally coming home...{6}\nI thought you might have \ndone something like go off\nlooking for Nightshade {6}\nall on your own.{6}{f}"
+            "translation": "Madera, we were worried. \nYou disappeared after\nfinally coming home...{6}\nI thought you might have \ngone off to look\nfor Nightshade {6}\nall on your own.{6}{f}"
         },
         {
             "address": "0x560d2",
@@ -14116,253 +14116,253 @@
             "address": "0x5ae71",
             "size": 149,
             "text": "人生とは、奇妙な運命の糸か゛\nからみあって織りなされる、\n色あさ゛やかな織物のようなものた゛。{6}\n人と人のつなか゛りや\n心おと゛る冒険の旅は、\nおまえの人生のはは゛を拡け゛てくれよう。{6}\nいま少し、多くの国をめく゛り、\nおのか゛見聞をひろめるか゛よいそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Life is a colorful tapestry,\nupon which the strange threads\nof fate are spun.{6}\nConnections with people and\nexciting adventures will\nbroaden your horizons.{6}\nNow is the time to explore \nother lands and expand your \nworld view. {6}{f}"
         },
         {
             "address": "0x5af06",
             "size": 298,
             "text": "あくなき探究心...\n強大な者へ立ち向かう勇気...{6}\n友をおもい、\nおもわれるしんらいの強さ...\nそしてやさしさ...{6}\nわたしはおまえの中に\n実の冒険者の姿を見たような気か゛する。{6}\nしかし、おまえにとって\nこのオランという街は、\nすて゛にきゅうくつなのて゛はないかな？{6}\nわたしは、おまえにもっと\n大きな世界を見て来てほしいと思う。{6}\nこのアレクラストには、\nおまえか゛見も知らぬ\n街やいくたの冒険か゛待ち受けておろう。{6}\nさあ、旅立つか゛よい...そして願わくは゛、\nふたたひ゛我か゛もとに来たりて\nその武勇を聞かせたまえ。{6}{f}",
-            "translation": ""
+            "translation": "Insatiable wanderlust... \nMighty courage...{6}\nThe strength and kindness to \ncare for your friends...{6}\nI feel like I see a true \nadventurer in you.{6}\nBut isn't this city of \nOran getting crowded?{6}\nI want you to see a\nbigger world. {6}\nIn Alecrast,\nunknown cities and many \nadventures await you. {6}\nSo, set out on your journey...\nand I hope to hear tales of\nyour bravery once more. \n{6}{f}"
         },
         {
             "address": "0x5b037",
             "size": 67,
             "text": "しは゛らく前まて゛、\n砂漠の民のウワサて゛\nもちきりた゛ったのに、{6}\nこんと゛はアンテ゛ット゛の話て゛\nもちきりた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "Until recently we were \nonly talking about the\ndesert people,{6}\nbut now rumors abound \nabout undead, too...{6}{f}"
         },
         {
             "address": "0x5b07a",
             "size": 43,
             "text": "この奥へゆくほと゛、\nモンスターの数は多くなる。\nおれはもう、ひきかえすよ。{6}{f}",
-            "translation": ""
+            "translation": "The deeper in you go,\nthe more monsters you'll\nfind. I'm outta here.{6}{f}"
         },
         {
             "address": "0x5b0a5",
             "size": 46,
             "text": "ミルリーフってのは、\n海の神様た゛ろう？\nと゛うしてこんなところにいたんた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "Isn't Mirleaf the god of the \nsea? What're they doing here? {6}{f}"
         },
         {
             "address": "0x5b0d8",
             "size": 43,
             "text": "おれの仲間か゛レックスの地下て゛、\nアンテ゛ット゛と゛もに殺されちまった...{6}{f}",
-            "translation": ""
+            "translation": "My friend was killed by\nundead underneath Rex... {6}{f}"
         },
         {
             "address": "0x5b103",
             "size": 63,
             "text": "ミルリーフって聞いたことか゛あるか゛、\nたしか「神狩りの竜」とか言う奴に\n殺された神様のはす゛た゛そ゛。{6}{f}",
-            "translation": ""
+            "translation": "I've heard of Mirleaf. \nIsn't that the god that was\nkilled by the god-hunter? {6}{f}"
         },
         {
             "address": "0x5b147",
             "size": 56,
             "text": "レックスの地下から\nわきた゛してきた水は、\n海の水みたいにしょっは゜いんた゛ってさ。{6}\n本当かしらね？{6}{f}",
-            "translation": ""
+            "translation": "I heard the water springing\nup in Rex is salty, like the \nsea.{6}\nIs that true?{6}{f}"
         },
         {
             "address": "0x5b17f",
             "size": 68,
             "text": "た゛めよ、この先には、\n邪神の神殿か゛あるわ。\n行けは゛殺されるわ。{6}\n...また゛動けるうちに逃け゛るわ。\nさよなら。{6}{f}",
-            "translation": ""
+            "translation": "Don't! \nThe dark temple is ahead.\nYou'll be killed!{6}\nI'm escaping while I can \nstill move! {6}{f}"
         },
         {
             "address": "0x5b1c6",
             "size": 81,
             "text": "と゛いつもこいつも、\nアンテ゛ット゛、アンテ゛ット゛って\nおおさわき゛しやか゛って。{6}\nたかか゛カ゛イコツた゛ろう？\nふ゛ちこわせは゛、おしまいし゛ゃないか。{6}{f}",
-            "translation": ""
+            "translation": "Everyone's whining about \nundead this, undead that. {6}\nThey're just skeletons.\nBreak 'em apart! {6}{f}"
         },
         {
             "address": "0x5b21c",
             "size": 9,
             "text": "オオオォォーン{6}{f}",
-            "translation": ""
+            "translation": "WuOoOo!{6}{f}"
         },
         {
             "address": "0x5b225",
             "size": 11,
             "text": "ク゛ケ゛ェェェ！！{6}{f}",
-            "translation": ""
+            "translation": "Guregggh!{6}{f}"
         },
         {
             "address": "0x5b23b",
             "size": 203,
             "text": "わか゛迷宮にようこそ。\nここて゛は、\n君たちの勇気か゛ためされる。{6}\nよいか、勇気て゛あって、\nむほ゛うさて゛はないそ゛。{6}\nここには、\nわしか゛呼ひ゛よせたモンスターか゛\n君たちを待ちかまえておる。{6}\n逃け゛もと゛ってもよし。\n勇気と知恵のあるものは、\n名部屋のさらに奥にある扉から{6}\n勝者として出ていってよし。\n見事な戦いを期待しておるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Welcome to my labyrinth. \nHere, your courage \nshall be tested.{6}\nListen. Be courageous, \nbut not reckless. {6}\nMy summoned monsters \nawait you within. {6}\nYou may run if you wish, \nbut those with wisdom and \nbravery shall find victory{6}\nbeyond the final door.\nI look forward to it.{6}{f}"
         },
         {
             "address": "0x5b306",
             "size": 64,
             "text": "この向こうへ進むには、\nおまえたちには経験か゛不足しておる。{6}\nあえて入りたいというなら\nそれて゛もよいか゛な。{6}{f}",
-            "translation": ""
+            "translation": "You lack the experience to \ngo beyond here. {6}\nThough I cannot stop you\nif you wish.{6}{f}"
         },
         {
             "address": "0x5b346",
             "size": 68,
             "text": "この向こうには\nおまえたちにかなう奴はいない。{6}\n弱い者いし゛めをするような、\n情けないことは勇者のハシ゛し゛ゃそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Beyond here are none that\ncan stand to you. {6}\nBullying the weak is not a \nsign of heroism.{6}{f}"
         },
         {
             "address": "0x5b38a",
             "size": 60,
             "text": "帰るのか？  また来たくなったら\n遭跡の番人亭にたのめは゛よい。\nまたの機会を楽しみにしておるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Going home? If you come\nback, tell the ruins guard. \nI look forward to it.{6}{f}"
         },
         {
             "address": "0x5b3c6",
             "size": 89,
             "text": "今回の冒険はと゛うて゛あった？\n弱い者いし゛めはしていないか？{6}\nまた来たくなったら\n遭跡の番人亭にたのめは゛よい。\n次回を楽しみにしておるそ゛。{6}{f}",
-            "translation": ""
+            "translation": "How was the quest? \nYou didn't bully the weak? {6}\nIf you want to come back,\nask the ruins guard.\nI look forward to it.{6}{f}"
         },
         {
             "address": "0x5b422",
             "size": 99,
             "text": "郊外のやしきた゛って？\nあそこの主人は、\n盗賊の手口にくわしいって話た゛。{6}\n盗賊と゛もか゛何回か、\nもく゛りこんて゛いるようた゛けと゛、\nすへ゛て失敗しているそうた゛。{6}{f}",
-            "translation": ""
+            "translation": "The mansion downtown?\nI heard the owner knows\na lot about thieves.{6}\nHe's had a lot of break-ins. \nGuess he's learned a thing \nor two. {6}{f}"
         },
         {
             "address": "0x5b488",
             "size": 143,
             "text": "ようこそ、客人。\n私はこのやしきの主人のマッテ゛ンた゛。{6}\n残念なか゛ら、私は外出中た゛。\n用か゛あるのならは゛、また来てくれ。\nもし君か゛、まねかれさ゛る客ならは゛、{6}\n悪いことはいわない。\nすく゛に立ち去ることた゛。\n命をムタ゛にすることになる。{6}{f}",
-            "translation": ""
+            "translation": "Welcome, guest.\nI am the proprieter, Madden.{6}\nUnfortunately, I am not at home.\nPlease come again. \nIf you are an invited guest, {6}\nI'll say nothing.\nJust leave.\nDo not throw away your life. {6}{f}"
         },
         {
             "address": "0x5b53a",
             "size": 27,
             "text": "おーい、誰かいるのか？\nいるなら、助けてくれー{6}{f}",
-            "translation": ""
+            "translation": "Is anyone there? \nHeeeeelp!{6}{f}"
         },
         {
             "address": "0x5b555",
             "size": 73,
             "text": "助かったせ゛。\n落とし穴に落ちたときには、\nもうおしまいかと思った。{6}\nおれはキ゛ースってんた゛、よろしくな。\nそれし゛ゃいこうか。{6}{f}",
-            "translation": ""
+            "translation": "Thanks!\nI thought I was a goner\nafter I fell in that pit.{6}\nI'm Geese. Pleasure.\nShall we go? {6}{f}"
         },
         {
             "address": "0x5b59e",
             "size": 20,
             "text": "宝物庫に決まってるた゛ろう。{6}{f}",
-            "translation": ""
+            "translation": "Treasure room, of course.{6}{f}"
         },
         {
             "address": "0x5b5b2",
             "size": 150,
             "text": "た゛いし゛ょうふ゛。魔法使いは、\nしは゛らく帰ってこない。{6}\nそれより、手ふ゛らて゛帰ったんし゛ゃ、\n仲間に笑われちまうせ゛。\n宝物庫は、この地下のと゛こかにある。{6}\nふくさ゛つなシカケて゛\nかくされているって話た゛か゛、{6}\nなに、おれ様にかかれは゛\nチョロイもんよ。{6}{f}",
-            "translation": ""
+            "translation": "Don't worry, the magician\nwon't be back for a while.{6}\nMoreover, if I go back empty-\nhanded, my friends'll laugh.\nRoom should be below us. {6}\nI heard it's locked with a \npretty complex lock, but{6}\nit should be cake for \nsomeone like me!{6}{f}"
         },
         {
             "address": "0x5b648",
             "size": 39,
             "text": "おっと、それは言わない約束た゛。\nとにかく、宝物庫にいくそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Oops, promised not to talk \nabout that. Let's go.{6}{f}"
         },
         {
             "address": "0x5b66f",
             "size": 71,
             "text": "魔法使いの研究室た゛。\nおれか゛調へ゛たか゛、金目のものはないせ゛。{6}\nこんなところはほっといて、\n次の部屋にいこう。{6}{f}",
-            "translation": ""
+            "translation": "This is his laboratory.\nI looked, but there's nothing\nof value. {6}\nLet's go check out the \nother rooms.{6}{f}"
         },
         {
             "address": "0x5b6b6",
             "size": 23,
             "text": "た゛から、\nほっておこうと言ったんた゛。{6}{f}",
-            "translation": ""
+            "translation": "I said leave it, already.{6}{f}"
         },
         {
             "address": "0x5b6cd",
             "size": 35,
             "text": "やった。宝物庫た゛。\nこれて゛おれの仕事も終わりた゛。{6}{f}",
-            "translation": ""
+            "translation": "The treasure room! \nFinally! {6}{f}"
         },
         {
             "address": "0x5b6f0",
             "size": 30,
             "text": "たのむせ゛。おれし゛ゃ、\nあんな化物、手におえない。{6}{f}",
-            "translation": ""
+            "translation": "Help! I can't hope to\nhurt that thing!{6}{f}"
         },
         {
             "address": "0x5b70e",
             "size": 14,
             "text": "やったせ゛。お宝た゛。{6}{f}",
-            "translation": ""
+            "translation": "Yes! Treasure!{6}{f}"
         },
         {
             "address": "0x5b71c",
             "size": 19,
             "text": "あった、盗賊の手ふ゛くろた゛。{6}{f}",
-            "translation": ""
+            "translation": "Yes, the Thief Glove. {6}{f}"
         },
         {
             "address": "0x5b72f",
             "size": 123,
             "text": "マッテ゛ンの奴か゛、\n盗賊キ゛ルト゛から盗みた゛した宝さ。{6}\nおれはこいつを取り返すよう、\nキ゛ルト゛の頭から命令されたんた゛よ。{6}\nなんせ、キ゛ルト゛か゛物を\n盗まれたとわかっちゃ、\n世間の笑い者た゛からな。{6}{f}",
-            "translation": ""
+            "translation": "It's the treasure that Madden \nstole from the thieves' guild.{6}\nI was ordered to return it \nby the guild. {6}\nIf it gets out that the guild\nwas stolen from, they'd be\na laughing stock. {6}{f}"
         },
         {
             "address": "0x5b7aa",
             "size": 89,
             "text": "とにかく、\n生きてやしきを出られるのは、\nあんたたちのおかけ゛さ。{6}\n盗賊をやっていたころのマッテ゛ンは、\n相手の裏をかいて\nワナをしかけるのか゛うまかったからな。{6}{f}",
-            "translation": ""
+            "translation": "I only got out of there\nalive thanks to you all.{6}\nMadden always was good \nat placing traps, back when \nhe was a thief. {6}{f}"
         },
         {
             "address": "0x5b803",
             "size": 91,
             "text": "聞いてなかったのか。\nマッテ゛ンの奴は、\nもと盗賊た゛ったんた゛よ。{6}\nこっちの手口を知っているた゛けに\n守りか゛かたいのて゛、\nシーフの間て゛は有名た゛せ゛。{6}{f}",
-            "translation": ""
+            "translation": "You haven't heard? \nMadden used to be a\nbandit. {6}\nHe's famous among thieves\nfor knowing our ways and\nkeeping them secret.{6}{f}"
         },
         {
             "address": "0x5b85e",
             "size": 46,
             "text": "なんにしても、あんたたちのおかけ゛て゛\nキ゛ルト゛のメンツはたもたれた。\nありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "In any case, the guild's \nreputation is saved thanks\nto you. {6}{f}"
         },
         {
             "address": "0x5b88c",
             "size": 45,
             "text": "ありか゛とう。本当に助かった。\nこの借りは、いつか返すせ゛。\nそれし゛ゃあな。{6}{f}",
-            "translation": ""
+            "translation": "Thank you, truly.\nI'll pay you back for\nthis somehow. {6}{f}"
         },
         {
             "address": "0x5b8b9",
             "size": 47,
             "text": "おいおい、手ふ゛らて゛帰ったら\nお頭にと゛やされてしまうよ。\nやしきにもと゛ろうせ゛。{6}{f}",
-            "translation": ""
+            "translation": "Hey, you can't go back \nempty-handed. The boss'll\nbrowbeat ya.{6}{f}"
         },
         {
             "address": "0x5b90d",
             "size": 29,
             "text": "ノ、ノルト゛さんか゛......\nナリアさんの部屋て゛......{6}{f}",
-            "translation": ""
+            "translation": "Nord... is...\nin Nalia's room...{6}{f}"
         },
         {
             "address": "0x5b92a",
             "size": 143,
             "text": "ま、待ってくれ。\nおれは、たまたまこの部屋のそは゛を\n通りかかったんた゛。{6}\nそれて゛、扉か゛半開きた゛ったんて゛、\nなかをのそ゛いてみたら\n死体を見つけたってた゛けた゛。{6}\nた゛いいち、\nおれは剣なんか持ってない。\nなんなら、荷物を調へ゛たっていい。{6}{f}",
-            "translation": ""
+            "translation": "Hey, wait. \nI was just passing by this \nroom, is all. {6}\nThe door was half-open, and\nwhen I peeked in, I saw\nthe dead body.{6}\nI don't even have a sword. \nYou can search my stuff, \nif you want.{6}{f}"
         },
         {
             "address": "0x5b9b9",
             "size": 31,
             "text": "とんた゛ことになっちまった。\nまったく、いいめいわくた゛。{6}{f}",
-            "translation": ""
+            "translation": "Well, that turned into a \nclustercluck. {6}{f}"
         },
         {
             "address": "0x5b9d8",
             "size": 147,
             "text": "いいせ゛......部屋て゛ひるねを\nしてたんた゛か゛、のと゛か゛かわいたんて゛\n酒場に行こうとしたのさ。{6}\nそれて゛、あの部屋の前を\n通りかかったんた゛か゛、{6}\n扉か゛半開きになってたのて゛、\nなにけ゛なく中をのそ゛いたのさ。\nそしたら、死体を見つけたってわけた゛。{6}{f}",
-            "translation": ""
+            "translation": "Fine... I was napping in my\nroom, but got thirsty, so I\nwas going to the bar. {6}\nWhen I passed this room, {6}\nI saw the door was half- \nopen, and that's when I\nsaw the dead body.{6}{f}"
         },
         {
             "address": "0x5ba6b",
             "size": 13,
             "text": "あとは何も知らん。{6}{f}",
-            "translation": ""
+            "translation": "That's it. {6}{f}"
         },
         {
             "address": "0x5ba78",
             "size": 53,
             "text": "ああ、あのことか。\nろうかて゛体か゛ふ゛つかったんて゛ね。\nちょっと、言い争いになったた゛けさ。{6}{f}",
-            "translation": ""
+            "translation": "Ah, that.\nWe bumped into each other in \nthe hallway, and fought a bit.{6}{f}"
         },
         {
             "address": "0x5baad",
@@ -14380,37 +14380,37 @@
             "address": "0x5bab3",
             "size": 52,
             "text": "その通り。おれたち２人は、\nむかしの冒険者仲間て゛ね。\nおたか゛いに愛し合っている。{6}{f}",
-            "translation": ""
+            "translation": "Right. We're two old\nadventuring pals. \nWe love each other.{6}{f}"
         },
         {
             "address": "0x5bae7",
             "size": 40,
             "text": "そして、おれは、ノルト゛とともに\nナリアの命をうは゛いにきた暗殺者。{6}{f}",
-            "translation": ""
+            "translation": "And I'm the assassin who came\nwith Nord to kill Nalia. {6}{f}"
         },
         {
             "address": "0x5bb0f",
             "size": 45,
             "text": "た゛か゛、おれにはて゛きなかった。\nシャノンか゛かなしむのを\n見たくなかったから......{6}{f}",
-            "translation": ""
+            "translation": "But I couldn't do it.\nI couldn't bear to see \nShannon sad... {6}{f}"
         },
         {
             "address": "0x5bb3c",
             "size": 99,
             "text": "そうた゛。\nなら、ノルト゛は１人て゛やると\n言い出した。{6}\nそれて゛、気になって\n追いかけていったら、\nノルト゛か゛殺されていたんた゛。{6}\n信し゛てはもらえないかも\nしれないか゛な。{6}{f}",
-            "translation": ""
+            "translation": "Right. \nThen Nord said he would \ndo it alone.{6}\nWorried, I followed him,\nand then found him dead.{6}\nThough I don't blame you\nfor not believing me. {6}{f}"
         },
         {
             "address": "0x5bb9f",
             "size": 73,
             "text": "水晶球？\nいいや、おれは知らない。{6}\nノルト゛も知らなかったはす゛た゛。\nおれたちか゛受けた命令は\nナリアの暗殺た゛けた゛。{6}{f}",
-            "translation": ""
+            "translation": "I don't know anything about\na crystal ball. {6}\nI don't think Nord did,\neither. Our orders were to \nkill Nalia. {6}{f}"
         },
         {
             "address": "0x5bbe8",
             "size": 172,
             "text": "おれは、\nハモント゛か゛怪しいと思っている。{6}\nあいつは、おれたち以上に\nナリアたちの様子をうかか゛っていた。{6}\nそれか゛、ノルト゛か゛殺されてから\nそういうそふ゛りを\n見せなくなってるんた゛。{6}\nあいつは、見かけと゛おりの男し゛ゃない。\nおれの話を信し゛ようと信し゛まいと、\nハモント゛には気をつけたほうか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "I think Hammond is \nsuspicious. {6}\nHe was more than interested\nin watching Nalia. {6}\nHe hasn't shown that kind\nof behavior since Nord was \nkilled. {6}\nHe isn't what he appears.\nBelieve me or not, but be\ncareful around Hammond. {6}{f}"
         },
         {
             "address": "0x5bc94",
@@ -15982,19 +15982,19 @@
             "address": "0x5f50a",
             "size": 32,
             "text": "ああ、もういやた゛。\nこんなさみしい所、まっひ゜らた゛わ。{6}{f}",
-            "translation": ""
+            "translation": "Ah, I'm fed up with this \nlonely place! {6}{f}"
         },
         {
             "address": "0x5f52a",
             "size": 38,
             "text": "この辺もふ゛っそうになったわね。\n夜に一人歩きもて゛きやしないわ。{6}{f}",
-            "translation": ""
+            "translation": "This area creeps me out. \nI won't walk here at night.{6}{f}"
         },
         {
             "address": "0x5f550",
             "size": 31,
             "text": "こわいわ。誰て゛もいいから、\nいっしょに部屋にいて。{6}{f}",
-            "translation": ""
+            "translation": "I'm scared.\nCan someone stay with me?{6}{f}"
         },
         {
             "address": "0x5f574",
@@ -16006,37 +16006,37 @@
             "address": "0x5f5a6",
             "size": 43,
             "text": "こんな時は、神殿て゛\nおいのりするのか゛一番よ。\n私も行かなくっちゃ。{6}{f}",
-            "translation": ""
+            "translation": "At times like this,\nprayer is best. \nI'd better go, too.{6}{f}"
         },
         {
             "address": "0x5f5d6",
             "size": 105,
             "text": "うて゛に自信か゛ないなら、\n「シーカンスの地下迷宮」て゛\n修業するんた゛な。{6}\n遭跡の番人亭て゛聞いてみな。\nたた゛し、何か他の仕事を\n引き受けてるときはた゛めた゛せ゛。{6}{f}",
-            "translation": ""
+            "translation": "If you're confident, try \ntraining up at the\nSeacans Labyrinth. {6}\nAsk the Ruins Guard Inn. \nOnly when you don't have \nother work. {6}{f}"
         },
         {
             "address": "0x5f63f",
             "size": 89,
             "text": "うて゛に自信か゛ないなら、\n「シーカンスの地下迷宮」て゛\n修業するんた゛な。{6}\nなんて、オウムみたいに\n同し゛ことは゛かり\n言ってる場合し゛ゃないそ゛。{6}{f}",
-            "translation": ""
+            "translation": "If you're confident, try \ntraining up at the\nSeacans Labyrinth. {6}\nNo time to be repeating\nmyself like a parrot. {6}{f}"
         },
         {
             "address": "0x5f69b",
             "size": 104,
             "text": "レックスってのは、\n古代王国時代に作られた空中都市さ。\nもっとも５００年前に滅ひ゛て、{6}\n今し゛ゃ遭跡になっちまってるか゛な。\nた゛から、「堕ちた都市」ともいうのさ。{6}{f}",
-            "translation": ""
+            "translation": "Rex was a floating city made \nby the Ancients.\nIt was destroyed 500 years ago,{6}\nand now it's just ruins. It's \nalso called the Fallen City.{6}{f}"
         },
         {
             "address": "0x5f706",
             "size": 51,
             "text": "レックスは危険な場所た゛か゛、\n宝の山て゛もある。\nた゛から、みんな命をかけるんた゛。{6}{f}",
-            "translation": ""
+            "translation": "People risk their lives in Rex\nfor a chance at it's mountain \nof treasure.{6}{f}"
         },
         {
             "address": "0x5f73e",
             "size": 61,
             "text": "女の冒険者た゛からって、\nハ゛カにするんし゛ゃないよ。{6}\nこう見えても、\n剣し゛ゃ男にも負けやしないよ。{6}{f}",
-            "translation": ""
+            "translation": "Don't mock me just because \nI'm a woman adventurer.{6}\nMy blade is as skilled \nas any man's. {6}{f}"
         },
         {
             "address": "0x5f77b",
