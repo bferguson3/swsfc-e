@@ -13984,7 +13984,7 @@
             "address": "0x5a8e3",
             "size": 61,
             "text": "ミルリーフの神殿か゛\nレックスにあったとは......{6}\n地底湖て゛、ミルリーフは\n力をたくわえていたのた゛ろう。{6}{f}",
-            "translation": "A Mirleaf temple at\nRex... {6}\nMirleaf must have been gath- \nering power at the underground\nlake. {6}{f}"
+            "translation": "A Mirleaf temple...{6}\nMirleaf must have been gath- \nering power at the underground\nlake. {6}{f}"
         },
         {
             "address": "0x5a920",
@@ -14128,7 +14128,7 @@
             "address": "0x5b037",
             "size": 67,
             "text": "しは゛らく前まて゛、\n砂漠の民のウワサて゛\nもちきりた゛ったのに、{6}\nこんと゛はアンテ゛ット゛の話て゛\nもちきりた゛よ。{6}{f}",
-            "translation": "Until recently we were \nonly talking about the\ndesert people,{6}\nbut now rumors abound \nabout undead, too...{6}{f}"
+            "translation": "Recently we've only\nbeen dealing with the \ndesert people,{6}\nbut now rumors abound \nabout undead, too...{6}{f}"
         },
         {
             "address": "0x5b07a",
@@ -14422,25 +14422,25 @@
             "address": "0x5bc95",
             "size": 35,
             "text": "ハモント゛か゛殺された？\nいったい、何か゛起こってるんた゛？{6}{f}",
-            "translation": ""
+            "translation": "Hammond's been killed? \nWhat happened? {6}{f}"
         },
         {
             "address": "0x5bcb8",
             "size": 31,
             "text": "そうて゛すか。\n水晶球をめく゛って、そんなことか゛......{6}{f}",
-            "translation": ""
+            "translation": "I see. \nAll for the crystal ball...{6}{f}"
         },
         {
             "address": "0x5bcd7",
             "size": 14,
             "text": "やあ、{c}{0}\n元気かい{6}{f}",
-            "translation": ""
+            "translation": "Hey, {c}{0}\nSup? {6}{f}"
         },
         {
             "address": "0x5bcf0",
             "size": 115,
             "text": "ふむ。\nヒカ゛イ者は剣て゛切りつけられて\n死んて゛いる。{6}\nそれに、部屋も荒らされている。\nこれは強盗のしわさ゛にちか゛いない。{6}\nさては、おまえたちか゛犯人た゛な！\nおまえたちは剣を持っているからな！{6}{f}",
-            "translation": ""
+            "translation": "Hm.\nThe victim was killed with \na sword.{6}\nAnd the room is ransacked. \nCertainly a bandit.{6}\nYou must be the culprits!\nI see your sword!{6}{f}"
         },
         {
             "address": "0x5bd63",
@@ -14452,175 +14452,175 @@
             "address": "0x5bd64",
             "size": 18,
             "text": "むむ......\nこの部屋の客は？{6}{f}",
-            "translation": ""
+            "translation": "Who is staying here? {6}{f}"
         },
         {
             "address": "0x5bd76",
             "size": 53,
             "text": "ならは゛、おまえか゛犯人た゛な！\n部屋を荒らしているのを\n見つかって殺したにちか゛いない！{6}{f}",
-            "translation": ""
+            "translation": "You're the culprit!\nYou were caught messing up \nthe room and killed him!{6}{f}"
         },
         {
             "address": "0x5bdab",
             "size": 119,
             "text": "......むう。\n物盗りは、逃け゛てしまったのか？\nいす゛れにせよ、私１人の手にはおえん。{6}\n......私は、\nオランまて゛おうえんをたのみにいく。{6}\nおい、主人。私か゛もと゛るまて゛、\nけっして客を帰してはいかんそ゛。いいな。{6}{f}",
-            "translation": ""
+            "translation": "Hm...\nDid the thief get away?\nI can do nothing alone...{6}\nI'll go to Oran and request \nfor aid.{6}\nHey - don't let any guests \nleave until I return!{6}{f}"
         },
         {
             "address": "0x5be2b",
             "size": 46,
             "text": "いや、大変なことになりましたね。\nそろそろオランに帰るつもり\nた゛ったんて゛すか゛。{6}{f}",
-            "translation": ""
+            "translation": "Well that was awful. \nI was just about to\nreturn to Oran.{6}{f}"
         },
         {
             "address": "0x5be59",
             "size": 68,
             "text": "実は、あした、\n宿を出るつもりた゛ったんて゛す。\nそれて゛、荷物をまとめてました。{6}\nしかし、それもムタ゛になりましたね。{6}{f}",
-            "translation": ""
+            "translation": "Actually, I was planning on\nleaving tomorrow. \nI even packed my bags. {6}\nSeems like that was a waste. {6}{f}"
         },
         {
             "address": "0x5be9d",
             "size": 21,
             "text": "さっさと解決してほしいものて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Hurry and solve this.{6}{f}"
         },
         {
             "address": "0x5beb2",
             "size": 20,
             "text": "やあ、調へ゛は進んて゛いますか？{6}{f}",
-            "translation": ""
+            "translation": "How's the investigation? {6}{f}"
         },
         {
             "address": "0x5bee5",
             "size": 22,
             "text": "なんた゛、おまえたちは？\n何か用か？{6}{f}",
-            "translation": ""
+            "translation": "Yes? \nWhat do you want?{6}{f}"
         },
         {
             "address": "0x5befb",
             "size": 66,
             "text": "そんなことを聞いて\n一体何様のつもりた゛？{6}\nそのころは、ここて゛本を読んて゛いたさ。\n物音１つ聞いちゃいない。{6}{f}",
-            "translation": ""
+            "translation": "What are you thinking, \nasking that?{6}\nI was here reading the whole \ntime. I heard nothing. {6}{f}"
         },
         {
             "address": "0x5bf3d",
             "size": 18,
             "text": "さあ、さっさと出ていってくれ。{6}{f}",
-            "translation": ""
+            "translation": "Please, leave. {6}{f}"
         },
         {
             "address": "0x5bf4f",
             "size": 17,
             "text": "おまえたちに話すことはない。{6}{f}",
-            "translation": ""
+            "translation": "I've nothing to say. {6}{f}"
         },
         {
             "address": "0x5bf60",
             "size": 22,
             "text": "きさまらか。ハハハ。\n一足おそかったな。{6}{f}",
-            "translation": ""
+            "translation": "You? Hahaha.\nToo late!{6}{f}"
         },
         {
             "address": "0x5bf76",
             "size": 41,
             "text": "そうさ。\nハモント゛を殺したのは私さ。\nハモント゛と゛ころかノルト゛もな。{6}{f}",
-            "translation": ""
+            "translation": "Yes, I killed Hammond. \nHammond and Nord, too. {6}{f}"
         },
         {
             "address": "0x5bf9f",
             "size": 402,
             "text": "ふっ、教えてやろう。\n私は、小娘の持っていた\n水晶球か゛ほしかったのさ。{6}\nあの水晶球をうは゛い取ろうと\n長いあいた゛機会をうかか゛っていた。{6}\nそして、この宿屋て゛\nようやくその機会にありつけたのた゛。{6}\nしかし、なかなか\nうまくはいかないものた゛。{6}\n水晶球をうは゛おうとしたとき、\nあの小娘をねらっていた\n暗殺者のノルト゛とはちあわせさ。{6}\n私はノルト゛を殺し、\n水晶球をすりかえた。\nた゛か゛、計算ちか゛いはもうひとつあった。{6}\n手に入れたはす゛の水晶球も\n誰かにすりかえられた\nニセモノた゛ったのた゛。{6}\nしかし、き゛もんは\nその日のうちにとけたよ。{6}\n私は、盗賊キ゛ルト゛て゛水晶球について\n話してしまったことか゛ある。{6}\nその話にきょうみを持った\n盗賊キ゛ルト゛か゛、\n追手を放ったというわけた゛。{6}{f}",
-            "translation": ""
+            "translation": "I'll tell you. \nI wanted the crystal ball\nthat girl had.{6}\nI bided my time until the\nperfect opportunity to take it. {6}\nThis room provided that\nopportunity.{6}\nIt proved a bit difficult, \nhowever.{6}\nJust as I was about to take\nthe crystal, that assassin\nNord appeared. {6}\nI killed Nord, and\nprocured the crystal ball.\n...With one miscalculation. {6}\nThe crystal was a fake that\nsomeone had swapped out.{6}\nThough the mystery was \nresolved that day.{6}\nI had unfortunately let slip \nabout the crystal when at \nthe thieves' guild. {6}\nThey took an interest, and \nsent pursuers.{6}{f}"
         },
         {
             "address": "0x5c131",
             "size": 274,
             "text": "その通り。水晶球は、私か゛\nうは゛うまえにすて゛にハモント゛の手て゛\nすりかえられていたのた゛。{6}\nた゛か゛、ハモント゛は欲を出した。\n私か゛ノルト゛を殺したことを知り、\n私をゆすろうとしたのた゛。{6}\n私は、取り引きにおうし゛るふりをして\nハモント゛を殺した。\nそして、{6}\nハモント゛の服についていた土から、\n水晶球のかくし場所を知った\nというわけた゛。{6}\n奴め、この木の根元にかくすとはな。\nおっと、おしゃへ゛りか゛長すき゛たな。{6}\nおまえたちの相手は\nこいつか゛してくれる。\nさらは゛た゛！{6}{f}",
-            "translation": ""
+            "translation": "Exactly. The crystal had\nbeen replaced by Hammond\nbefore I laid hands on it.{6}\nBut Hammond got greedy.\nHe found out I killed Nord,\nand tried to blackmail me.{6}\nI pretended to go along with \nit, but killed him. \nThen,{6}\nThe dirt on Hammond's clothes\nrevealed where the crystal\nball was. {6}\nFool, hiding it under a tree.\nThat's enough talk.{6}\nI'll let you deal with this. \nFarewell!{6}{f}"
         },
         {
             "address": "0x5c243",
             "size": 38,
             "text": "こ゛くろうた゛ったな。\nさあ、２つめの水晶球を\nわたしてもらうそ゛。{6}{f}",
-            "translation": ""
+            "translation": "Well done. \nI'll be taking the \nsecond crystal ball, now. {6}{f}"
         },
         {
             "address": "0x5c269",
             "size": 22,
             "text": "ならは゛、力す゛くて゛うは゛うまて゛！{6}{f}",
-            "translation": ""
+            "translation": "I shall take it by force!{6}{f}"
         },
         {
             "address": "0x5c27f",
             "size": 23,
             "text": "......くっ......\nソ...ク゛...ラン......さま......！{6}{f}",
-            "translation": ""
+            "translation": "...Grh... \n...Lord...Sogran...! {6}{f}"
         },
         {
             "address": "0x5c296",
             "size": 12,
             "text": "やあ、またあったな。{6}{f}",
-            "translation": ""
+            "translation": "Hey again.   {6}{f}"
         },
         {
             "address": "0x5c2a2",
             "size": 31,
             "text": "さあ、おしゃへ゛りはそこまて゛た゛。\n死んて゛もらうよ。{6}{f}",
-            "translation": ""
+            "translation": "That's enough talk.\nYou can die now. {6}{f}"
         },
         {
             "address": "0x5c2c1",
             "size": 14,
             "text": "ソク゛ラン様、これを。{6}{f}",
-            "translation": ""
+            "translation": "Lord Sogran, here.{6}{f}"
         },
         {
             "address": "0x5c2cf",
             "size": 32,
             "text": "ソク゛ラン様、ここは私とカーニアに\nおまかせくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Lord Sogran, leave this to\nCarnia and myself. {6}{f}"
         },
         {
             "address": "0x5c304",
             "size": 42,
             "text": "大変なことになりましたね。\nはやく犯人か゛捕まれは゛\nいいんて゛すけと゛。{6}{f}",
-            "translation": ""
+            "translation": "What a mess. \nI hope they catch the\ncriminal soon.{6}{f}"
         },
         {
             "address": "0x5c32e",
             "size": 148,
             "text": "あたして゛すか？\n食事の材料の用意をしていました。{6}\nあっ、そうそう。\n殺されたノルト゛さんなんて゛すけと゛、{6}\nろうかて゛、カテスさんと\n口ケ゛ンカをしてたことか゛あるんて゛す。{6}\n何を言ってたのかは\nわかりませんて゛したけと゛、\nと゛ちらもすこ゛く怒ってたようて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Me? I was getting\ningredients for dinner. {6}\nOh, right. \nNord was having an argument{6}\nin the corridor with Kates. \nI don't know what{6}\nthey were arguing about, but\nthey were both pretty angry.{6}{f}"
         },
         {
             "address": "0x5c3c2",
             "size": 54,
             "text": "て゛も、見知らぬ人同士か゛\nケンカするなんて、\n宿屋し゛ゃめす゛らしくないんて゛すけと゛ね。{6}{f}",
-            "translation": ""
+            "translation": "But, seeing people you don't \nknow arguing at an inn isn't\nexactly strange.{6}{f}"
         },
         {
             "address": "0x5c3f8",
             "size": 10,
             "text": "あとは何も......{6}{f}",
-            "translation": ""
+            "translation": "That's all.{6}{f}"
         },
         {
             "address": "0x5c402",
             "size": 19,
             "text": "犯人の目星はつきそうて゛すか？{6}{f}",
-            "translation": ""
+            "translation": "Any idea who it could be?{6}{f}"
         },
         {
             "address": "0x5c415",
             "size": 16,
             "text": "ハ......ハモント゛さんか゛......{6}{f}",
-            "translation": ""
+            "translation": "H-Hammond... {6}{f}"
         },
         {
             "address": "0x5c425",
             "size": 121,
             "text": "......天気か゛いいのて゛、空いた部屋に\n風を通そうと思ったんて゛す。\nそれて゛部屋にきてみたら、{6}\n扉か゛開いてて......\n変た゛と思って中に入ったら、\nハモント゛さんか゛......{6}\n続けて人か゛殺されるなんて......{6}{f}",
-            "translation": ""
+            "translation": "The weather was nice, so I\nthought I'd let in some air. \nWhen I came to the room,{6}\nthe door was open...\nI thought it was odd, and\nwhen I went in, there was {6}\nHammond... how horrible... {6}{f}"
         },
         {
             "address": "0x5c49e",
@@ -14632,43 +14632,43 @@
             "address": "0x5c49f",
             "size": 31,
             "text": "もう、こんなことは、\n２度と起こってほしくありません。{6}{f}",
-            "translation": ""
+            "translation": "I don't want this to happen\nagain.{6}{f}"
         },
         {
             "address": "0x5c4be",
             "size": 18,
             "text": "この前は、おせわになりました。{6}{f}",
-            "translation": ""
+            "translation": "You really helped out. {6}{f}"
         },
         {
             "address": "0x5c4db",
             "size": 19,
             "text": "......こわい。\nおうちに帰りたい。{6}{f}",
-            "translation": ""
+            "translation": "I'm scared.\nI wanna go home. {6}{f}"
         },
         {
             "address": "0x5c4ee",
             "size": 25,
             "text": "こわいけと゛\nランサーか゛いるから平気よ。{6}{f}",
-            "translation": ""
+            "translation": "Lancer is here, so \nI feel safe. {6}{f}"
         },
         {
             "address": "0x5c507",
             "size": 48,
             "text": "水晶球はなくなっちゃったけと゛、\n人か゛死んし゛ゃうようなものなら\nないほうか゛いい。{6}{f}",
-            "translation": ""
+            "translation": "The crystal ball is gone,\nbut I'd be happier if people \nstopped dying.{6}{f}"
         },
         {
             "address": "0x5c537",
             "size": 15,
             "text": "早くおうちに帰りたい。{6}{f}",
-            "translation": ""
+            "translation": "I wanna go home. {6}{f}"
         },
         {
             "address": "0x5c546",
             "size": 57,
             "text": "あたしの病気は、オランのお医者様か゛\nなおしてくた゛さるんた゛って。\nた゛からた゛いし゛ょうふ゛よ。{6}{f}",
-            "translation": ""
+            "translation": "A doctor in Oran said he \ncould heal my illness,\nso I'm okay.{6}{f}"
         },
         {
             "address": "0x5c59a",
@@ -14686,91 +14686,91 @@
             "address": "0x5c59c",
             "size": 34,
             "text": "はし゛めまして。\n私はランサー。\nツインテール・キャットた゛。{6}{f}",
-            "translation": ""
+            "translation": "Nice to meet you.\nI'm Lancer, the\nTwintail Cat. {6}{f}"
         },
         {
             "address": "0x5c5be",
             "size": 79,
             "text": "ナリアの両親に\nひとかたならぬ恩を受けたのて゛、\nいまは、ナリアのお守りさ。{6}\nもっとも、私の正体は\nナリアもスティアたちも知らないか゛。{6}{f}",
-            "translation": ""
+            "translation": "I owe a great debt of\ngratitude to Nalia's parents, \nso now I'm her guardian.  {6}\nNalia nor Stia know my true\nidentity, though. {6}{f}"
         },
         {
             "address": "0x5c60d",
             "size": 36,
             "text": "まあ、そうつめたくするな。\n君たちにたのみたいことか゛あるのた゛。{6}{f}",
-            "translation": ""
+            "translation": "Don't be so cold.\nI have an offer for you. {6}{f}"
         },
         {
             "address": "0x5c631",
             "size": 51,
             "text": "そうた゛。君たちは、\nノルト゛殺しを調へ゛ているのた゛ろう？\nそれにも関係することた゛。{6}{f}",
-            "translation": ""
+            "translation": "Yes, you're investigating\nNord's death, right? \nIt's to do with that.{6}{f}"
         },
         {
             "address": "0x5c664",
             "size": 41,
             "text": "実は、ナリアか゛大事にしていた\n水晶球を取りもと゛してほしいのた゛。{6}{f}",
-            "translation": ""
+            "translation": "I want to get back Nalia's\ncrystal ball. It means a lot \nto her. {6}{f}"
         },
         {
             "address": "0x5c68d",
             "size": 83,
             "text": "そうた゛。\nうすい水色の水晶て゛、\n中心に白い星か゛うかんて゛る。{6}\n何か強い魔力を秘めた品物た゛か゛、\nニセモノにすりかえられてしまった。{6}{f}",
-            "translation": ""
+            "translation": "Yes, it was a light blue,\nwith a white star floating\nin its center.{6}\nIt's got a strong magic within,\nbut was swapped with a fake.{6}{f}"
         },
         {
             "address": "0x5c6e0",
             "size": 135,
             "text": "まあ、最後まて゛聞け。\n実はナリアは大商人の娘て゛な。{6}\n親類同士の争いて゛、\n命をねらわれている。{6}\n殺されたノルト゛は、\nナリアの命をうは゛いにきた\n暗殺者にちか゛いない。{6}\n我々の様子を\nしつこくうかか゛っていたからな。{6}{f}",
-            "translation": ""
+            "translation": "Listen til the end.\nNalia is the daughter of a \nwealthy merchant. {6}\nA family feud has caused \nher life to be in danger. {6}\nNord was definitely an \nassassin sent to target \nher life. {6}\nHe was watching us closely.{6}{f}"
         },
         {
             "address": "0x5c767",
             "size": 72,
             "text": "そのノルト゛か゛部屋て゛殺されたうえに、\n水晶球をすりかえられてしまった。{6}\nこのままほうっておくわけには\nいかなくなったのた゛。{6}{f}",
-            "translation": ""
+            "translation": "Not only was Nord killed there, \nbut the crystal was swapped.{6}\nI couldn't just leave it be. {6}{f}"
         },
         {
             "address": "0x5c7af",
             "size": 82,
             "text": "水晶球を取りもと゛してくれれは゛、\n私の首輪をやろう。\nそれなりに価値のあるものた゛。{6}\nそれて゛は、私は失礼する。\nか゛んは゛ってくれ。{6}{f}",
-            "translation": ""
+            "translation": "If you get me back the crystal \nball, I'll give you my \nnecklace. It's quite valuable. {6}\nI'll be going now. \nGood luck. {6}{f}"
         },
         {
             "address": "0x5c801",
             "size": 60,
             "text": "水晶球はなくなったか゛、\n君たちのはたらきには感謝している。\n約束通り、私の首輪をあけ゛よう。{6}{f}",
-            "translation": ""
+            "translation": "The crystal ball may be gone,\nbut I am appreciate of your\nwork. Here is the necklace.{6}{f}"
         },
         {
             "address": "0x5c83d",
             "size": 36,
             "text": "しかし、\nあの水晶球か゛なんなのか、\n私にも気か゛かりた゛。{6}{f}",
-            "translation": ""
+            "translation": "Though I am still curious \nas to the crystal ball. {6}{f}"
         },
         {
             "address": "0x5c892",
             "size": 37,
             "text": "ナリア様はこ゛病弱て゛す。\n用件は、手短にお願いします。{6}{f}",
-            "translation": ""
+            "translation": "Lady Nalia is sick. \nPlease make it fast. {6}{f}"
         },
         {
             "address": "0x5c8b7",
             "size": 54,
             "text": "ナリア様とさんほ゜に出ていました。\n殺されていたノルト゛という男に\nついては何も知りません。{6}{f}",
-            "translation": ""
+            "translation": "Lady Nalia is out on a\nconstitutional. She knows\nnothing about the killing.{6}{f}"
         },
         {
             "address": "0x5c8ed",
             "size": 34,
             "text": "よくは知りませんか゛......\n人を殺すような人には見えません。{6}{f}",
-            "translation": ""
+            "translation": "I'm not sure they\nseem the type to kill anyone. {6}{f}"
         },
         {
             "address": "0x5c90f",
             "size": 30,
             "text": "用件か゛すんた゛のなら、\nお引き取りくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "If you're finished,\nplease leave. {6}{f}"
         },
         {
             "address": "0x5c92d",
@@ -14788,49 +14788,49 @@
             "address": "0x5c935",
             "size": 76,
             "text": "......見つかってしまっては\n仕方ありませんね。{6}\nそうて゛す。\n私は彼のことを知っていました。\nそれと゛ころか彼を愛しているのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "I guess now that I've \nbeen caught...{6}\nThat's right, I knew \nall about him.\nNot only that, I love him.{6}{f}"
         },
         {
             "address": "0x5c981",
             "size": 40,
             "text": "仕方なかったのて゛す。\n私はナリア様をお守りする身。\nそして......{6}{f}",
-            "translation": ""
+            "translation": "I have no choice.\nI am Lady Nalia's guardian.\nPlus...{6}{f}"
         },
         {
             "address": "0x5c9a9",
             "size": 15,
             "text": "私は彼を信し゛ます。{6}{f}",
-            "translation": ""
+            "translation": "I trust him. {6}{f}"
         },
         {
             "address": "0x5c9b8",
             "size": 44,
             "text": "水晶球？\nナリア様か゛持っているものて゛すか？\nそれか゛と゛うかしましたか？{6}{f}",
-            "translation": ""
+            "translation": "Crystal ball?\nThe one Nalia had? \nWhat about it? {6}{f}"
         },
         {
             "address": "0x5c9e4",
             "size": 32,
             "text": "ハモント゛さんか゛？\n一体......\nと゛うなってるっていうの？{6}{f}",
-            "translation": ""
+            "translation": "Hammond? \nWhat...\nWhat's going on? {6}{f}"
         },
         {
             "address": "0x5ca04",
             "size": 69,
             "text": "水晶球のうは゛いあいて゛\n起きた事件とは......{6}\nあの水晶球には、一体と゛んな秘密か゛\nかくされているのて゛しょう？{6}{f}",
-            "translation": ""
+            "translation": "Why is this crystal ball \nso important? {6}\nWhat secrets could it\nbe hiding?{6}{f}"
         },
         {
             "address": "0x5ca49",
             "size": 27,
             "text": "ナリア様の水晶球を\nとりもと゛さなくては......{6}{f}",
-            "translation": ""
+            "translation": "We must return the \ncrystal ball... {6}{f}"
         },
         {
             "address": "0x5ca64",
             "size": 189,
             "text": "おひさしふ゛りて゛す。\n実は、あのうは゛われた水晶球の\nことなのて゛すか゛...{6}\n魔法の水晶球はナリア様のもの。\nオランのお医者様に\nナリア様をあす゛けた後、{6}\nあの魔法の水晶球を\nとりもと゛しに行こうと思います。\nここて゛あったのも何かのエン。{6}\n私を手つた゛ってくた゛さいませんか？\n報酬として１８００カ゛メルを\nはらいます。{6}{f}",
-            "translation": ""
+            "translation": "It's been a while.\nActually, it's about the \nstolen crystal... {6}\nThe crystal ball belonged to \nLady Nalia. After bringing her \nto the doctor at Oran,{6}\nI plan on getting the crystal\nback. There must be some clue\nhere. {6}\nWill you help me?\nI can pay 1800 gamel as a\nreward. {6}{f}"
         },
         {
             "address": "0x5cb21",
@@ -14842,169 +14842,169 @@
             "address": "0x5cb22",
             "size": 125,
             "text": "ありか゛とうこ゛さ゛います。\nみなさんといっしょなら安心て゛きます。\nそれて゛は、オランに出発しましょう。{6}\n私はナリア様を、\nお医者様の所へお送りしてきます。{6}\n「うるわしの我か゛家亭」て゛\n待っていてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Thank you so much. \nI feel safer with you. \nLet's leave for Oran now.{6}\nI will bring Lady Nalia to \nthe doctor's. {6}\nI'll meet you at Brilliant\nHome.{6}{f}"
         },
         {
             "address": "0x5cb9f",
             "size": 38,
             "text": "と゛うやら、あのアンテ゛ット゛か゛\nコンラット゛船長らしいて゛すね。{6}{f}",
-            "translation": ""
+            "translation": "That undead must have been \nCaptain Conrad.{6}{f}"
         },
         {
             "address": "0x5cbc5",
             "size": 93,
             "text": "お待たせしました。{6}\nスティアか゛のこって\nナリア様のせわをするのて゛\n安心て゛きます。{6}\nさあ、ます゛は魔術師キ゛ルト゛て゛\n水晶球のことを調へ゛てみませんか？{6}{f}",
-            "translation": ""
+            "translation": "Thank you for waiting. {6}\nStia is staying to take\ncare of Lady Nalia, \ndon't worry.{6}\nMaybe investigate the crystal\nball at the sorcerer's guild? {6}{f}"
         },
         {
             "address": "0x5cc22",
             "size": 50,
             "text": "こと゛ものこふ゛しくらいの大きさて゛す。\n水色て゛、\n中央に白い星か゛うかんて゛いました。{6}{f}",
-            "translation": ""
+            "translation": "It's about the size of a \nchild's fist, light blue, and \nhas a white star. {6}{f}"
         },
         {
             "address": "0x5cc54",
             "size": 22,
             "text": "魔法の水晶球のせいて゛すって！？{6}{f}",
-            "translation": ""
+            "translation": "Because of the crystal!? {6}{f}"
         },
         {
             "address": "0x5cc6a",
             "size": 47,
             "text": "見てくた゛さい！\nあのカ゛イコツか゛手に持っているのは、\n魔法の水晶球て゛す！{6}{f}",
-            "translation": ""
+            "translation": "Look!\nThat skeleton had the\ncrystal ball! {6}{f}"
         },
         {
             "address": "0x5cc99",
             "size": 33,
             "text": "魔法の水晶球はと゛んな力を\n持っていたのて゛すか？{6}{f}",
-            "translation": ""
+            "translation": "What kind of power lies\nwithin the crystal ball?{6}{f}"
         },
         {
             "address": "0x5ccba",
             "size": 122,
             "text": "みなさん、こ゛くろうさまて゛した。\n魔法の水晶球はす゛いふ゛んと危険な\nものた゛とわかりました。{6}\nとりかえすのはあきらめましょう。\nナリア様には他のおもちゃて゛\nか゛まんしてもらいます。{6}\nさて、約束の報酬て゛す。{6}{f}",
-            "translation": ""
+            "translation": "Everyone, well done. \nWe've discovered the crystal \nis quite dangerous. {6}\nLet's give up on getting it\nback. Nalia can make do\nwith other toys.{6}\nHere is your reward. {6}{f}"
         },
         {
             "address": "0x5cd34",
             "size": 40,
             "text": "私はナリア様のもとへ帰ります。\nそれて゛は、みなさんもお元気て゛。{6}{f}",
-            "translation": ""
+            "translation": "I'm returning to Nalia. \nPlease take care.{6}{f}"
         },
         {
             "address": "0x5cd6f",
             "size": 43,
             "text": "おひ゛えているナリア様か゛\nおかわいそうて゛。\nはやく解決してほしいて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Lady Nalia is terrified,\npoor thing. \nI hope this is resolved soon.{6}{f}"
         },
         {
             "address": "0x5cd9a",
             "size": 28,
             "text": "ナリア様のおともをして\nさんほ゜に出ていました。{6}{f}",
-            "translation": ""
+            "translation": "I went on a walk with \nby Lady Nalia. {6}{f}"
         },
         {
             "address": "0x5cdb6",
             "size": 79,
             "text": "そういえは゛、ノルト゛という人は、\nナリア様や私たちの様子を\nうかか゛っていたり、{6}\n宿の中を意味もなく\nうろうろしていることか゛ありました。{6}{f}",
-            "translation": ""
+            "translation": "Oh, a man named Nord was \nloitering about the inn,{6}\nleering after Lady Nalia. {6}{f}"
         },
         {
             "address": "0x5ce05",
             "size": 22,
             "text": "ナリア様のことか゛気か゛かりて゛......{6}{f}",
-            "translation": ""
+            "translation": "I worry about Nalia... {6}{f}"
         },
         {
             "address": "0x5ce1b",
             "size": 58,
             "text": "シャノンて゛すか？\nさっきまて゛いたのて゛すか゛、{6}\n下の階に行くとかいって\n部屋を出ましたけと゛......{6}{f}",
-            "translation": ""
+            "translation": "Shannon? \nShe was here a moment ago, {6}\nbut left saying she was \ngoing downstairs... {6}{f}"
         },
         {
             "address": "0x5ce55",
             "size": 22,
             "text": "もう、人か゛死ぬのはたくさんて゛す......{6}{f}",
-            "translation": ""
+            "translation": "I'm tired of all the death...{6}{f}"
         },
         {
             "address": "0x5ce6b",
             "size": 34,
             "text": "とりあえす゛、\nナリア様か゛こ゛無事て゛なによりて゛した。{6}{f}",
-            "translation": ""
+            "translation": "I'm glad Lady Nalia is safe. {6}{f}"
         },
         {
             "address": "0x5ce8d",
             "size": 35,
             "text": "シャノンか゛あなたか゛たに\nお話ししたいことか゛あるそうて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Shannon said that she had\nto talk to you. {6}{f}"
         },
         {
             "address": "0x5ceb0",
             "size": 27,
             "text": "ひめい？\nそういえは゛、何か聞こえたような......{6}{f}",
-            "translation": ""
+            "translation": "A scream? I did hear \nsomething...{6}{f}"
         },
         {
             "address": "0x5ced8",
             "size": 28,
             "text": "魔法の水晶球し゛ゃと？\n何かとくちょうは？{6}{f}",
-            "translation": ""
+            "translation": "A magic crystal ball?\nWhat's it look like? {6}{f}"
         },
         {
             "address": "0x5cef4",
             "size": 180,
             "text": "白い星？  それなら知っておるそ゛。{6}\nむかしの話になるか゛、\nおなし゛ような水晶球を\n手に入れた魔術師か゛おった。{6}\nそやつは、２年ほと゛まえに\n大きな船を買って船出したのた゛か゛、\n海に出たきり消息か゛とた゛えてしまった。{6}\n聞くところによると、\nホーフ゜という村て゛、何やらおかしな\nうわさか゛たっているとか。{6}{f}",
-            "translation": ""
+            "translation": "White star? I know that one. {6}\nThis was a long time ago,\nbut a magician found one like \nthat. {6}\nHe bought a big ship and set \nsail about 2 years ago, but \nnobody's heard from him since.{6}\nFrom what I heard, there's \nsomething odd going on\naround the village Hope.{6}{f}"
         },
         {
             "address": "0x5cfa8",
             "size": 149,
             "text": "と゛れ、その古文書をみせなさい。\nふむふむ、なるほと゛。{6}\nこの古文書によると、\nその魔法の水晶球はせ゛んふ゛て゛３つある。{6}\nそれを使えは゛、\n魔界への扉をひらきっは゜なしに\nすることか゛て゛きるらしい。{6}\nこれか゛ほんとうの話なら\nとんて゛もないことになるな。{6}{f}",
-            "translation": ""
+            "translation": "Show me the manuscript.\nHmm, I see. {6}\nAccording to this, there are \n3 total magic crystal balls.{6}\nIf you use them, you can open\nwide the door to the demon\nrealm.{6}\nThis is terrible, if true. {6}{f}"
         },
         {
             "address": "0x5d03d",
             "size": 66,
             "text": "......なるほと゛。\nリント゛ク゛ルムはそのような目に\nあっていたのか......{6}\n彼を助けてくれてありか゛とう。\n礼を言うそ゛。{6}{f}",
-            "translation": ""
+            "translation": "...I see. \nSo all that happened to\nLindwurm.{6}\nYou have my thanks for \nsaving him. {6}{f}"
         },
         {
             "address": "0x5d07f",
             "size": 53,
             "text": "水晶球をねらう者か゛、\nおまえたちをつけねらうかもしれん。\nくれく゛れも気をつけるのた゛そ゛。{6}{f}",
-            "translation": ""
+            "translation": "Those after the crystals \nmay follow after you. \nPlease be careful. {6}{f}"
         },
         {
             "address": "0x5d0b4",
             "size": 36,
             "text": "この古文書はあす゛かっておこう。{6}\nそれて゛は、失礼する。{6}{f}",
-            "translation": ""
+            "translation": "I'll take the manuscript.{6}\nIf you'll excuse me. {6}{f}"
         },
         {
             "address": "0x5d0e5",
             "size": 31,
             "text": "おと゛ろかないて゛。\nあなたか゛たをおそったりはしません。{6}{f}",
-            "translation": ""
+            "translation": "Do not be alarmed. \nI won't attack you.{6}{f}"
         },
         {
             "address": "0x5d104",
             "size": 46,
             "text": "私の名はアンナ。\nこの船の持ち主、\nリント゛ク゛ルム様のこいひ゛とて゛した。{6}{f}",
-            "translation": ""
+            "translation": "I'm Anna.\nI was Lindwurm's lover, the\nowner of this boat. {6}{f}"
         },
         {
             "address": "0x5d132",
             "size": 151,
             "text": "私の知るかき゛り......{6}\n......\nリント゛ク゛ルム様は魔術師て゛した。{6}\n冒険て゛、たくさんの財宝を\n手に入れたのて゛、大きな船を買いとり、\n家まて゛はこほ゛うとしたのて゛すか゛、{6}\nコンラット゛船長か゛うらき゛ったのて゛す。\n私はその時ここにとし゛こめられました。{6}{f}",
-            "translation": ""
+            "translation": "As far as I know...{6}\n....\nLindwurm was a mage. {6}\nHe got a lot of treasure on\nadventures, bought a big boat,\nand tried to carry it home, {6}\nbut Captain Conrad betrayed him. \nI was sealed in here then. {6}{f}"
         },
         {
             "address": "0x5d1c9",
             "size": 114,
             "text": "ああ！\nリント゛ク゛ルム様は\nた゛いし゛ょうふ゛て゛しょうか？{6}\nおねか゛いて゛す。\nリント゛ク゛ルム様か゛と゛うしているのか\nたしかめてくた゛さい。{6}\nそして、うらき゛り者の\nコンラット゛船長をたおしてくた゛さい。{f}",
-            "translation": ""
+            "translation": "Oh!\nWill Lindwurm be all right? {6}\nPlease, go and find out\nwhat Lindwurm is up to. {6}\nAnd take care of that\ntraitor, Conrad.{f}"
         },
         {
             "address": "0x5d23b",
@@ -15016,79 +15016,79 @@
             "address": "0x5d240",
             "size": 9,
             "text": "ありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "Thanks.{6}{f}"
         },
         {
             "address": "0x5d258",
             "size": 50,
             "text": "さ゛んねんなか゛ら、わしは死人し゛ゃ。\nた゛か゛、別にとってくったりはせん。\n安心せい。{6}{f}",
-            "translation": ""
+            "translation": "Unfortunately, I'm a dead man.\nI don't eat much.\nDon't worry.{6}{f}"
         },
         {
             "address": "0x5d28a",
             "size": 56,
             "text": "聞こえとるそ゛。\nわしの名はホ゛ルト。\nよろしくな。{6}\nちょっとストーフ゛にて゛も\nあたっていかんかね？{6}{f}",
-            "translation": ""
+            "translation": "I heard. \nMy name is Bolt.\nPleasure.{6}\nCome, warm yourself\nby the stove. {6}{f}"
         },
         {
             "address": "0x5d2c2",
             "size": 44,
             "text": "リント゛ク゛ルム様の\n魔法の水晶球のせいて゛\n幽霊船になったらしい。{6}{f}",
-            "translation": ""
+            "translation": "It's thanks to Lindwurm's \ncrystal the \nship turned ghostly.{6}{f}"
         },
         {
             "address": "0x5d2ee",
             "size": 79,
             "text": "そうし゛ゃ。\nし゛ゃか゛、そもそもコンラット゛船長か゛\nうらき゛ったりしなけれは゛、{6}\nこんなことにはならなかった。\nあの海の男のつらよこ゛しめ！{6}{f}",
-            "translation": ""
+            "translation": "Right. \nBut if Captain Conrad hadn't\nbetrayed him, {6}\nnone of this would have \nhappened. Take him out!{6}{f}"
         },
         {
             "address": "0x5d33d",
             "size": 87,
             "text": "やとわれ船長のコンラット゛か゛、\n船の持ち主の魔術師、\nリント゛ク゛ルム様の財宝に目か゛くらみ、{6}\n船員たちといっしょに\nうらき゛ったのし゛ゃ。{6}{f}",
-            "translation": ""
+            "translation": "Conrad, the ship's captain, was\nblinded by the magician \nLindwurm's treasure, {6}\nand betrayed him along\nwith the crew.{6}{f}"
         },
         {
             "address": "0x5d394",
             "size": 195,
             "text": "コンラット゛船長は、リント゛ク゛ルム様か゛\nた゛いし゛にしていた魔法の水晶球の\n使い方を聞きた゛そうとして、{6}\nリント゛ク゛ルム様を\n船底の牢にとし゛こめた。\nわしはこっそり様子を見にいった。{6}\nリント゛ク゛ルム様は最後のかけた゛と\n言って、死力をふりしほ゛って\n水晶球をよひ゛よせた。{6}\nそして、水晶球の魔力を使ったのし゛ゃ。{6}{f}",
-            "translation": ""
+            "translation": "In order to learn how to use \nthe crystal, Conrad threw \nLindwurm in the ship's hold{6}\nand planned to torture it \nout of him. I snuck in to see, {6}\nand I saw Lindwurm using the last\nof his strength to summon the \ncrystal ball. {6}\nThen he used its power.{6}{f}"
         },
         {
             "address": "0x5d457",
             "size": 98,
             "text": "いまや、リント゛ク゛ルム様は\n水晶球の魔力をとめることか゛\nて゛きぬようた゛。おねか゛いし゛ゃ。{6}\nなんとかしてリント゛ク゛ルム様を\n終わりなき苦しみから\nすくいた゛してくれ。{6}{f}",
-            "translation": ""
+            "translation": "Now Lindgrum is unable to stop \nthe magic of the crystal ball.{6}\nPlease, find some way to \nsave Lindgrum from this \nunending torment. {6}{f}"
         },
         {
             "address": "0x5d4cc",
             "size": 80,
             "text": "おお、魔法の水晶球！\nこれは誰にもわたさん。{6}\n水晶球こそ、残された最後のきほ゛う。\nコンラット゛船長よ、\n目にもの見るか゛いい！{6}{f}",
-            "translation": ""
+            "translation": "Oh, the crystal ball!\nI won't give this to anyone. {6}\nThis is our last hope.\nCaptain Conrad,\nsee what you can see! {6}{f}"
         },
         {
             "address": "0x5d51c",
             "size": 51,
             "text": "アンナ！\nそうた゛、アンナはと゛うなったのか？{6}\nそれに、私はいままて゛\n何をしていたのた゛？{6}{f}",
-            "translation": ""
+            "translation": "Anna!\nWhat's happened to Anna?{6}\nAnd what have I been \ndoing until now?{6}{f}"
         },
         {
             "address": "0x5d54f",
             "size": 116,
             "text": "私は......\n私はここにとし゛こめられたのた゛。{6}\n私の財宝に目か゛くらんた゛\nコンラット゛船長によって。{6}\nそれて゛......さいこ゛のカケとして\n魔法の水晶球をよひ゛よせ、\n水晶球の魔法を使ったのた゛。{6}{f}",
-            "translation": ""
+            "translation": "I... \nI was trapped in here. {6}\nBy Conrad, blinded by my\ntreasures.{6}\nI summoned my crystal ball \nas a final effort,\nand used its power. {6}{f}"
         },
         {
             "address": "0x5d5c3",
             "size": 247,
             "text": "水晶球は、ある遭跡て゛見つけたものた゛。\nその後の研究により、何かを\n解放する力を持つことか゛わかった。{6}\nた゛から、ここにとし゛こめられたときに、\n水晶球の魔法を使おうと考えたのた゛。{6}\nしかし、解放されたのは\nおそろしい魔界の力た゛った。\nさいわい、解放は不完全た゛った。{6}\nそれて゛も、この船に残っていた人間は\nすへ゛て死にたえ、{6}\n船は幽霊船となって、この世と\n魔界の間をさまようことになったのた゛。{6}{f}",
-            "translation": ""
+            "translation": "The crystal was found in a ruin. \nSubsequent research showed that\nit had a hidden power.{6}\nSo when I was trapped here, I\nthought I'd use its magic. {6}\nBut what was released... \nwas a dark force. \nFortunately, it was incomplete.{6}\nStill, all aboard the ship \nperished. {6}\nThe ship transformed, and\nis now a bridge between this\nworld and the next. {6}{f}"
         },
         {
             "address": "0x5d6ba",
             "size": 85,
             "text": "コンラット゛船長を倒してくれ。\nあやつも私のように\nアンテ゛ット゛となっているはす゛た゛。{6}\n奴をたおすと約束するなら、\n水晶球の魔力をとめよう。{f}",
-            "translation": ""
+            "translation": "Please defeat Conrad.\nHe has become an undead, \njust like me. {6}\nIf you promise to defeat \nhim, I will stop the crystal's\nmagic.{f}"
         },
         {
             "address": "0x5d70f",
@@ -15100,139 +15100,139 @@
             "address": "0x5d714",
             "size": 32,
             "text": "ありか゛とう。それて゛は、\n水晶球の魔力をとめよう。{6}{f}",
-            "translation": ""
+            "translation": "Thank you. Then I will \nstop the crystal's magic. {6}{f}"
         },
         {
             "address": "0x5d734",
             "size": 81,
             "text": "これて゛よし。\n船はこの世にとと゛まるた゛ろう。{6}\nコンラット゛船長は、\n甲板の船長室にいる。\n扉をあけるコマント゛ワート゛を教えよう。{6}{f}",
-            "translation": ""
+            "translation": "Good. Now the ship will\nstay in this world. {6}\nCaptain Conrad is in his \ncabin on the deck. I'll teach \nyou the command word. {6}{f}"
         },
         {
             "address": "0x5d785",
             "size": 44,
             "text": "それと、この魔法の水晶球を\nあたえよう。\n今の私には用のないものた゛。{6}{f}",
-            "translation": ""
+            "translation": "And you may take the crystal,\nas well.\nI have no need of it now.{6}{f}"
         },
         {
             "address": "0x5d7c0",
             "size": 48,
             "text": "ヒュー！  しっかりして！{6}\n今回は私たちの負けた゛。\nしかし、次はようしゃしない。{6}{f}",
-            "translation": ""
+            "translation": "Hugh! Wake up! {6}\nWe give up, but we \nwon't lose next time! {6}{f}"
         },
         {
             "address": "0x5d7f0",
             "size": 43,
             "text": "こ゛くろうさま。\nわさ゛わさ゛殺されにきてくれたのね。\nこのアスカートのように。{6}{f}",
-            "translation": ""
+            "translation": "Well done! \nYou came all this way just to\nget killed by me, Ascart.{6}{f}"
         },
         {
             "address": "0x5d81b",
             "size": 88,
             "text": "と゛うせ死ぬんた゛から、教えてあけ゛るわ。{6}\n「タ゛ンシンク゛・オフ゛・テ゛ス」は、\nミルリーフ様復活のために\n私たちか゛利用していた道具た゛ったのよ。{6}{f}",
-            "translation": ""
+            "translation": "You're dead anyway, so I'll \ntell you. {6}\nWe used Dancing of Death\nfor our own ends to revive\nMirleaf! {6}{f}"
         },
         {
             "address": "0x5d873",
             "size": 199,
             "text": "水晶球を見つけてくれたし、\n邪魔な奴は消してくれるし、\n最初のころは本当にへ゛んりた゛ったわ。{6}\nて゛も、思い上か゛ったアスカートは、\n組織か゛強くなったことを、\n自分の力た゛とさっかくした。{6}\n本当は、私たちの力なのに。\nそして、あのお方にさからった。\nた゛から、消えてもらったの。{6}\n警備隊の隊長さんにも、\n手伝ってもらったけと゛ね。{6}{f}",
-            "translation": ""
+            "translation": "You found the crystal ball \nand took care of those jerks. \nYou were quite useful at first.{6}\nBut an arrogant Ascart thought \nthe organization's growing power\nto his own strength.{6}\nReally, it was our power.\nAnd we opposed him.\nAnd made him disappear.{6}\nThanks to the guard captain, \ntoo, of course. {6}{f}"
         },
         {
             "address": "0x5d93a",
             "size": 24,
             "text": "それし゛ゃ、さようなら。\n冒険者さん。{6}{f}",
-            "translation": ""
+            "translation": "Goodbye now, \nadventurers.{6}{f}"
         },
         {
             "address": "0x5d952",
             "size": 41,
             "text": "本当にあなたたちには\n役に立ってもらってるわ。\nうれしくなるほと゛にね。{6}{f}",
-            "translation": ""
+            "translation": "You really have been \nquite useful. \nI must thank you.{6}{f}"
         },
         {
             "address": "0x5d97b",
             "size": 11,
             "text": "早くレックスへ。{6}{f}",
-            "translation": ""
+            "translation": "Hurry to Rex!{6}{f}"
         },
         {
             "address": "0x5d98d",
             "size": 7,
             "text": "うううっ。{6}{f}",
-            "translation": ""
+            "translation": "Ugh... {6}{f}"
         },
         {
             "address": "0x5d994",
             "size": 12,
             "text": "こっ、これをたのむ。{6}{f}",
-            "translation": ""
+            "translation": "H-here.{6}{f}"
         },
         {
             "address": "0x5d9a0",
             "size": 7,
             "text": "く゛ふっ。{6}{f}",
-            "translation": ""
+            "translation": "Gwah!{6}{f}"
         },
         {
             "address": "0x5d9ae",
             "size": 49,
             "text": "殺人か゛あったのはここた゛な。\n殺人のようき゛て゛タイホする。\nおまえら全員動くな。{6}{f}",
-            "translation": ""
+            "translation": "This is where the murderer \nwas seen. You're under arrest\nfor murder! Don't move!{6}{f}"
         },
         {
             "address": "0x5d9df",
             "size": 37,
             "text": "た゛まれ、話は取り調へ゛室て゛聞いてやる。\n引っ立てろ。{6}{f}",
-            "translation": ""
+            "translation": "Quiet, I'll hear your story in\nthe interrogation room. {6}{f}"
         },
         {
             "address": "0x5da04",
             "size": 21,
             "text": "セ゛ムを売っていたな。\nタイホする。{6}{f}",
-            "translation": ""
+            "translation": "Selling zem? \nArrest!{6}{f}"
         },
         {
             "address": "0x5da20",
             "size": 27,
             "text": "おまえたちはもう自由た゛。\n帰っていいそ゛。{6}{f}",
-            "translation": ""
+            "translation": "You're free to go. {6}{f}"
         },
         {
             "address": "0x5da3b",
             "size": 47,
             "text": "おい、シール。外部の人間に\nよけいなことをしゃへ゛るな。\nおまえらも、早くかえれ。{6}{f}",
-            "translation": ""
+            "translation": "Hey, Seal. Don't say\nthat to outsiders.\nYou all go home. {6}{f}"
         },
         {
             "address": "0x5da6a",
             "size": 21,
             "text": "全員タイホしろ、ひとりも逃すな。{6}{f}",
-            "translation": ""
+            "translation": "Arrest them all! {6}{f}"
         },
         {
             "address": "0x5dac4",
             "size": 51,
             "text": "みなさんのうたか゛いは、はれました。\nコ゛カイとはいえ、手荒なことをして\nもうしわけありません。{6}{f}",
-            "translation": ""
+            "translation": "We cleared everything up.\nSorry for treating you with\nsuch... roughness.{6}{f}"
         },
         {
             "address": "0x5daf7",
             "size": 44,
             "text": "男のくわしい素性は、分かりません。\n死因はセ゛ムの毒によるものて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Don't know the details.\nJust that it was zem poisoning.{6}{f}"
         },
         {
             "address": "0x5db23",
             "size": 111,
             "text": "「セ゛ム」と呼は゛れている食へ゛物て゛す。{6}\n最近、オランの下町やスラムて゛\nはやっていて、\n海草から作られています。{6}\nおいしいのて゛すか゛何度も食へ゛ていると、\n死んて゛しまうそうて゛す。{6}{f}",
-            "translation": ""
+            "translation": "It's a food called zem.{6}\nIt's popular lately in the \nOran slums, and its made \nfrom seaweed. {6}\nIt's delicious, but if you eat \ntoo much of it, you die.{6}{f}"
         },
         {
             "address": "0x5db92",
             "size": 36,
             "text": "「タ゛ンシンク゛・オフ゛・テ゛ス」\nという組織の紋章て゛す。{6}{f}",
-            "translation": ""
+            "translation": "It's the symbol of \nDancing of Death. {6}{f}"
         },
         {
             "address": "0x5dbb6",
@@ -15244,253 +15244,253 @@
             "address": "0x5dc09",
             "size": 18,
             "text": "待ってくた゛さい。\nみなさん。{6}{f}",
-            "translation": ""
+            "translation": "Please, wait.{6}{f}"
         },
         {
             "address": "0x5dc1b",
             "size": 52,
             "text": "せ゛ひ、たのみたいことか゛\nあるのて゛す。{6}\nここて゛は、ちょっと......\n私についてきてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "There is something I\nmust ask you... {6}\nBut not here.\nPlease come with me. {6}{f}"
         },
         {
             "address": "0x5dc4f",
             "size": 205,
             "text": "最近、あの男のように、\nセ゛ムのひか゛い者か゛ふえているのて゛す。{6}\nしかし、警備隊の隊長か゛\nフ゜ライト゛を重んし゛るあまり、{6}\n外部の人間との協力か゛うまくいかす゛\n捜査は思うように進まないのて゛す。{6}\nしかし、今は\nくた゛らないフ゜ライト゛なと゛に\nこた゛わっている場合て゛はありません。{6}\n一日も早く、犯罪組織を\nつかまえなけれは゛いけません。{6}{f}",
-            "translation": ""
+            "translation": "Lately there have been a lot of\ncasualties from zem.{6}\nBut the guard captain has his\npride,{6}\nand refuses to investigate with \noutsiders.{6}\nBut now is not the time\nto be caught up in matters\nof pride. {6}\nWe have to catch this group\nas soon as possible.{6}{f}"
         },
         {
             "address": "0x5dd1c",
             "size": 30,
             "text": "そうて゛す。\nせ゛ひ、捜査に協力してくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Yes, please aid us.{6}{f}"
         },
         {
             "address": "0x5dd3a",
             "size": 28,
             "text": "何か分かったら、\nすく゛に知らせてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "If you find anything out,\nlet me know.{6}{f}"
         },
         {
             "address": "0x5dd56",
             "size": 16,
             "text": "ありか゛とうこ゛さ゛います。{6}{f}",
-            "translation": ""
+            "translation": "Thank you.   {6}{f}"
         },
         {
             "address": "0x5dd66",
             "size": 216,
             "text": "ます゛「セ゛ム」のことて゛すか゛、\nこれは４ヵ月ほと゛前から、\nオランに入ってきています。{6}\n「タ゛ンシンク゛・オフ゛・テ゛ス」か゛\n現われたのも、ほほ゛同し゛ころて゛す。{6}\nたた゛、「タ゛ンシンク゛・オフ゛・テ゛ス」は\nしょうこを残さないこうみょうな\n手口て゛活動しており、{6}\nくわしいことは何も分かっていません。\nしかし、最近は\n仕事にふてき゛わか゛目立ちます。{6}\n奴らをたたくなら今て゛す。{6}{f}",
-            "translation": ""
+            "translation": "Firstly, zem came to Oran   \nabout 4 months ago.   {6}\nAround the same time that\nDancing of Death appeared.{6}\nBut Dancing of Death operates \nin a mysterious way that leaves \nno trace, {6}\nand we know little about them.\nBut lately they've been\ngetting sloppy. {6}\nNow is the time to take them \nout.{6}{f}"
         },
         {
             "address": "0x5de3e",
             "size": 230,
             "text": "てか゛かりて゛すか゛、\nあなたたちか゛手にいれたメモた゛けて゛す。{6}\nあれに書かれていた３つの言葉て゛すか゛、\n１つは分かっています。{6}\n「オーカ゛ーのため息」というのは、\n常闇通りにある酒場の名前て゛す。{6}\n冒険者や荒くれ者の\nたまり場となっています。{6}\nほかの２つについては\n分かりませんか゛、人の名前のようて゛す。{6}\nそれて゛はみなさん、お願いします。\n何か分かったら、\nすく゛に知らせてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "The only clue is that\nletter that you found.{6}\nOf the three words written \nthere, I know one of them.{6}\nThe Ogre's Sigh is the name \nof a bar on main street.{6}\nIt's a hangout for adventurers \nand vagrants. {6}\nI don't know the other 2,\nbut they must be names. {6}\nI leave the rest to you. \nIf you find anything out,\npleast let me know. {6}{f}"
         },
         {
             "address": "0x5df24",
             "size": 108,
             "text": "そうて゛すか、明日、セ゛ムの取り引きか゛。\nさすか゛は冒険者のみなさんた゛。\nこのことをさっそく隊長に報告します。{6}\nそいつを捕まえれは゛、\n犯罪組織を捕まえることか゛て゛きます。{6}{f}",
-            "translation": ""
+            "translation": "The zem deal is tomorrow?\nWell done, adventurers.\nI'll let the chief know. {6}\nIf we capture him, \nwe can get the organization.{6}{f}"
         },
         {
             "address": "0x5df90",
             "size": 95,
             "text": "それは助かります。それて゛したら、\n当日犯人か゛逃け゛ないように、\n見張っていてくた゛さい。{6}\n今日のところは、宿屋にとまって、\nし゛ゅうふ゛んに休んて゛くた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Much appreciated.\nKeep an eye out so that\nthe culprit doesn't escape. {6}\nFor today, stay at the inn \nand rest well.{6}{f}"
         },
         {
             "address": "0x5dfef",
             "size": 18,
             "text": "気か゛つきましたか、みなさん。{6}{f}",
-            "translation": ""
+            "translation": "You're awake.{6}{f}"
         },
         {
             "address": "0x5e001",
             "size": 490,
             "text": "あなたたちと別れてから、\n私は隊長の所に行き、\nセ゛ムの取り引きのことを話しました。{6}\nしかし、\nしょうこか゛ないということて゛\n隊長は、相手にしてくれませんて゛した。{6}\nそれて゛も、もう一度お願いしようと、\n夜になってから、\n隊長の家にいったのて゛す。{6}\nすると、家の近くの広場て゛、\n隊長と女の人か゛話しているところに\n出くわしたのて゛す。{6}\n２人の様子か゛おかしかったのて゛、\n私は物かけ゛から話を聞いていました。{6}\nなんと、その女はカーニアといい、\n「タ゛ンシンク゛・オフ゛・テ゛ス」の\n一味た゛ったのて゛す。{6}\n２人は、今日の取り引きの\nことについて、\n話し合っていたようて゛す。{6}\n「タ゛ンシンク゛・オフ゛・テ゛ス」か゛\n犯罪組織て゛あり、隊長は奴らと\n通し゛ていたのて゛す。{6}\nかくれていた私は、\nおと゛ろきのあまり声を出してしまい、\n女に気つ゛かれたのて゛す。{6}\n逃け゛ようとしましたか゛、\n女か゛何かをつふ゛やくと、\n私は気を失ってしまったのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "After leaving you, I went \nto the chief's place and told \nhim about the zem trade.{6}\nBut without proof, the chief \nwouldn't give me the time \nof day. {6}\nI went back again at night \nto try to entreat him again.{6}\nI ran into him and a woman \ntalking in the square.{6}\nIt seemed strange, so I\nhid in the shadows and\nlistened. {6}\nThe woman's name was Carnia,\nand she was a member of \nDancing of Death. {6}\nThey were discussing the \ndetails of the deal.{6}\nDancing of Death as a criminal\norganization has contact with \nthe guard captain.{6}\nI let out a gasp,\nand the woman noticed.{6}\nI tried to escape, but \nthe woman chanted something \nand I lost consciousness.{6}{f}"
         },
         {
             "address": "0x5e1eb",
             "size": 75,
             "text": "気か゛ついたときは、\n「タ゛ンシンク゛・オフ゛・テ゛ス」に\n情報を流したうたか゛いか゛あるとして、{6}\n牢屋に入れられていたのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "When I came to, I was  \nthrown in jail under  \nsuspicion of leaking info {6}\nto Dancing of Death. {6}{f}"
         },
         {
             "address": "0x5e236",
             "size": 13,
             "text": "もちろん、本当た゛。{6}{f}",
-            "translation": ""
+            "translation": "Yes, of course.{6}{f}"
         },
         {
             "address": "0x5e243",
             "size": 34,
             "text": "出口まて゛は、私か゛案内します。\nついてきてくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "I'll show you the exit.\nThis way.{6}{f}"
         },
         {
             "address": "0x5e265",
             "size": 7,
             "text": "もちろん。{6}{f}",
-            "translation": ""
+            "translation": "Right.   {6}{f}"
         },
         {
             "address": "0x5e26c",
             "size": 14,
             "text": "わかった。まかせてくれ。{6}{f}",
-            "translation": ""
+            "translation": "Ok, leave it to me.{6}{f}"
         },
         {
             "address": "0x5e27a",
             "size": 47,
             "text": "みなさんいきましょう。\nカーニアを捕まえて、\n我々の無実を証明するのて゛す。{6}{f}",
-            "translation": ""
+            "translation": "Let's go.  \nWe'll capture Carnia and \nprove our innocence.{6}{f}"
         },
         {
             "address": "0x5e2a9",
             "size": 27,
             "text": "そちらへ行くと警備兵に\n見つかりますよ。{6}{f}",
-            "translation": ""
+            "translation": "The guards will find \nyou that way. {6}{f}"
         },
         {
             "address": "0x5e2c4",
             "size": 13,
             "text": "本当にありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "Thank you. {6}{f}"
         },
         {
             "address": "0x5e2d1",
             "size": 90,
             "text": "あの２人を追いかけても、\n近くにはいないて゛しょう。{6}\n警備隊の本部にもと゛りましょう。{6}\nここのことを知らせれは゛、\n私たちの無罪も、証明されますよ。{6}{f}",
-            "translation": ""
+            "translation": "There's no point to chase\nthem, they're gone by now.{6}\nLet's return to headquarters.{6}\nOnce we tell them what \nhappened we'll be vindicated. {6}{f}"
         },
         {
             "address": "0x5e32b",
             "size": 123,
             "text": "みなさんのおかけ゛て゛、\n「タ゛ンシンク゛・オフ゛・テ゛ス」を\nつふ゛すことか゛て゛きました。{6}\nこれて゛、オランも\n少しは平和になるて゛しょう。{6}\nこれは少ないて゛すか゛、\n警備隊からの謝礼て゛す。\n本当にありか゛とう。{6}{f}",
-            "translation": ""
+            "translation": "Thanks to you all we were\nable to wipe out the\nDancing of Death. {6}\nOran will be a little more \npeaceful, now.{6}\nIt isn't much, but this is \nthe reward from the guards. \nTake it. {6}{f}"
         },
         {
             "address": "0x5e3a6",
             "size": 28,
             "text": "{c}{0}さん大変て゛す。\nいっしょに来てくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, please! \nCome with me!{6}{f}"
         },
         {
             "address": "0x5e3c2",
             "size": 90,
             "text": "死んて゛いるのは、\n下水の見回りをしていた\n石工キ゛ルト゛の者て゛す。{6}\n{c}{0}さんをよんた゛理由は、\nこの壁の文字を見てもらえれは゛\nわかると思います。{6}{f}",
-            "translation": ""
+            "translation": "The one who died is a\nmember of the stonemasons'\nguild who was patrolling{6}\nthe sewers. {c}{0}, \nwhen you see the writing\nyou'll understand.{6}{f}"
         },
         {
             "address": "0x5e41c",
             "size": 21,
             "text": "この壁の文字を見てくた゛さい。{6}{f}",
-            "translation": ""
+            "translation": "Look at this writing.{6}{f}"
         },
         {
             "address": "0x5e431",
             "size": 62,
             "text": "{c}{0}さん、\n一体何か゛おこっているのて゛すか？{6}\nヒューとは、たしかセ゛ムを\n売っていた盗賊団の一人て゛は？{6}{f}",
-            "translation": ""
+            "translation": "{c}{0}, \nwhat is going on? {6}\nIs Hugh one of the bandits\nselling zem?{6}{f}"
         },
         {
             "address": "0x5e46f",
             "size": 37,
             "text": "犯人は、さらに同し゛ような事件を\n起こすつもりて゛しょうか？{6}{f}",
-            "translation": ""
+            "translation": "Does the culprit plan on \nkeeping it up?  {6}{f}"
         },
         {
             "address": "0x5e494",
             "size": 27,
             "text": "なんてことた゛。\nアスカートに殺されたんた゛な。{6}{f}",
-            "translation": ""
+            "translation": "Horrible.\nKilled by Ascart...{6}{f}"
         },
         {
             "address": "0x5e4af",
             "size": 29,
             "text": "誰もいないようて゛す。\n今のうちに行きましょう。{6}{f}",
-            "translation": ""
+            "translation": "Nobody's here. \nLet's go.{6}{f}"
         },
         {
             "address": "0x5e4e7",
             "size": 15,
             "text": "何た゛い、あんたたちは。{6}{f}",
-            "translation": ""
+            "translation": "What's with you? {6}{f}"
         },
         {
             "address": "0x5e4f6",
             "size": 35,
             "text": "ああ、もってるせ゛。\nたた゛し１ふくろ４０カ゛メルた゛。\n買うか？{f}",
-            "translation": ""
+            "translation": "Yeah, but one bag costs\n40 gamel. \nWant one?{f}"
         },
         {
             "address": "0x5e519",
             "size": 15,
             "text": "金か゛て゛きたらまたきな。{6}{f}",
-            "translation": ""
+            "translation": "Come back with money.{6}{f}"
         },
         {
             "address": "0x5e528",
             "size": 15,
             "text": "ほれ、こいつか゛そうた゛。{6}{f}",
-            "translation": ""
+            "translation": "Here it is.{6}{f}"
         },
         {
             "address": "0x5e537",
             "size": 81,
             "text": "何？！  きさま、\n盗賊キ゛ルト゛からの回し者か？{6}\nまってくれ、おれは何も知らないんた゛。\n別にキ゛ルト゛に\nさからう気なんかないんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "What!? Are you a\nspy from the thieves' guild?{6}\nWait, I don't know anything! \nI'm not going against the\nthieves' guild! {6}{f}"
         },
         {
             "address": "0x5e588",
             "size": 18,
             "text": "あとは、おまえらにまかせたそ゛。{6}{f}",
-            "translation": ""
+            "translation": "I leave the rest to you. {6}{f}"
         },
         {
             "address": "0x5e59a",
             "size": 27,
             "text": "くそ、扉か゛開かない。\nと゛うなってやか゛る。{6}{f}",
-            "translation": ""
+            "translation": "Shit, door won't open. \nWhat's going on? {6}{f}"
         },
         {
             "address": "0x5e5b5",
             "size": 39,
             "text": "待ってくれ、何て゛もしゃへ゛る。\nた゛から、命た゛けは助けてくれ。{6}{f}",
-            "translation": ""
+            "translation": "Wait, I'll tell you every- \nthing. Spare my life. {6}{f}"
         },
         {
             "address": "0x5e5dc",
             "size": 42,
             "text": "この近くの広場た゛。\nそこて゛、ローフ゛を着た奴から\n買うんた゛よ。{6}{f}",
-            "translation": ""
+            "translation": "I bought it at the square\nfrom a guy wearing a\nrobe. {6}{f}"
         },
         {
             "address": "0x5e606",
             "size": 69,
             "text": "知らねえよ。\n相手はいつもかわるんた゛よ。{6}\nおまけに、フート゛を深く\nかふ゛っているから、顔も分からねえ。\n本当た゛よ。{6}{f}",
-            "translation": ""
+            "translation": "I don't know, it \nalways changes. {6}\nAnd they always wear a \nhood pulled down deep \nover their face. Honest.{6}{f}"
         },
         {
             "address": "0x5e64b",
             "size": 27,
             "text": "明日た゛。\n広場て゛会うことになっている。{6}{f}",
-            "translation": ""
+            "translation": "Tomorrow.\nMeet at the town square. {6}{f}"
         },
         {
             "address": "0x5e666",
             "size": 73,
             "text": "「タ゛ンシンク゛・オフ゛・テ゛ス」の\nホ゛スの名前た゛よ。{6}\nもういいた゛ろう。\n知ってることは全部しゃへ゛った。\n逃してくれよ。{6}{f}",
-            "translation": ""
+            "translation": "The name of the boss of\nDancing of Death. {6}\nThat's enough. \nI've told you everything \nI know. Let me go! {6}{f}"
         },
         {
             "address": "0x5e6af",
             "size": 30,
             "text": "くそっ！  いまこ゛ろ開きやか゛った。\nおほ゛えてろよ！{6}{f}",
-            "translation": ""
+            "translation": "Damn, now it's open! \nI'll remember this!{6}{f}"
         },
         {
             "address": "0x5e6de",
