@@ -1,0 +1,113 @@
+Sword world sfc 
+
+41fa3:1ee
+41fa5+1FA no should be 4219d
+41fa7+210
+
+11000 - text is stored live?
+11780 - live text here. After read, its pushed UP
+
+100h: main menu screen selection variable
+4310h: change on load screen
+1d10h : name!!!! On entry screen
+15930: title screen text
+16410: fake! Mirror?
+17070: credits 
+1d188: critical hit! text
+40600: script start?
+4073f: end of pointer block
+
+Next: 41fa0 until 42179h?
+Byte 0 : 0e ??? 
+Byte 1-2: first pointer, 01d4 - offset FROM FIRST BYTE OF POINTER. 
+e.g. 41fa0 block’s first ptr: +1, second +3, etc
+
+0 - not used? 
+[1] -  newline
+2 - ? Make yellow?
+3 - ? Make white?
+4 - ?
+5 - ?
+6 - ?
+[7] - end gender sequence
+[8] - M/informal
+[9] - F
+[a] - formal
+[b] - old 
+c - ?
+d - ?
+e - ?
+[f] - end line
+
+48 34 42 0F 3D 3E 0F
+Draw routine:
+808431h : jml 1ff8h
+VMADDL: 7800h
+
+$8583d6: replace with jsr
+rom@$283DB : a9 80 8d 2a 1d
+Lda #$80
+Sta $1d2a
+
+Rep wit:
+JSL $85.E880 
+Rom @ $2.e880
+
+$2e880:
+Lda #$80 
+Sta $1d2a 
+
+100D0+ possibly variables for drawing text
+Warm 18d: current text char display counter
+
+rom@$CA95 - ldx #$f000 
+
+437h - draw?
+
+89B6h - joy routine
+
+$CB58@rom: actual text draw routine
+CC06-8: set to NOP 
+$CC11: add $40 to get to next Vram row for drawing char
+CB88 - height_width
+
+
+$0FBE30-1.h - px 0-12, plane 0?
+$0FBE31.l-2 - px0-12, plane 1 (visible)
+
+Chikara = 145h?
+A1 * 30h = chikara offset
+
+0FA000 : char table starting with 0x20
+interleaved: every 12bits is the following index. 
+
+# SWSFC 2 
+
+SJIS blocks:
+
+0x20eb0
+3 blocks of maybe combat text? no ptrs...
+
+0x23460
+"scenario" system text...? maybe vars 
+continues every ~200byte blocks with what looks like debug menu text.
+
+
+Character bitmaps - B1000-B6FFF
+6000h = 24kb 
+= 1024 characters 
+Script: 80C00h to AFC1F 
+
+New codes:
+04 - newline
+0D - wait for key press
+0F - end speaker
+1B - end of file
+
+format:
+FF (background color) XX (8 bits in a row)
+16 pixels = one tile 
+
+
+9f09A : Kono oran no machi wa
+13330 : possibly status text 

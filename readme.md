@@ -1,6 +1,6 @@
 ## Sword World SFC 1/2 tools
 
-Expects "swsfc-e.sfc" in project folder. Original Japanese ROM checksum is 0xC11B. 
+Original Japanese ROM checksum is 0xC11B. 
 
 ### extract.py
 dumps script text only to json for sfc1
@@ -10,10 +10,11 @@ dumps script text only to json for sfc2
 
 ### reinsert.py
 reinserts json and tlbank.py to sfc1
-note: binary edits not included, output file will not be complete. run binary_edits.ips FIRST.
+note: binary edits not included, output file will not be complete. run binary_edits.ips FIRST on swsfc-e.sfc 
 
 ### reinsert2.py
-[coming soon]
+Functions the same as reinsert.py plus additional considerations
+for SJIS back-encoded text. requires swsfc2-e.sfc (no binary edits)
 
 ### file list
 - 8x16romaji.png: actually 6x16, used for translation
@@ -23,6 +24,9 @@ note: binary edits not included, output file will not be complete. run binary_ed
 - *_dump.json: script dumps (does not include system text)
 - *.tbl: character tables 
 - swsfcman-eng.txt: WIP translation of SFC1 manual
+- swsfc-e.txt: readme for patch release
 - tlbank.py: inline text bank
+- tlbank2.py: inline text for SFC2
 - tool.html: script (json) translation tool 
-
+- tool2.html: script tl tool for SFC2, utilizes pointer math
+- notes.txt: Hacking notes, addresses etc
