@@ -1,5 +1,5 @@
 Sword World SFC
-~English Translation 0.98 Beta~
+~English Translation 0.99 Beta~
 
 All dialogue, system, and menu text should be translated.
 If you find anything untranslated, a bug report is welcome.

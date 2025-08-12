@@ -12,5 +12,3 @@ class TLWord():
 words = []
 
 words.append(TLWord(0x23ced, 32, "Who will level up? ", sjis=True))
-#誰か゛レヘ゛ルアッフ゜しますか？
-#FQRSPTUPV
