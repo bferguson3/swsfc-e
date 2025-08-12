@@ -73,7 +73,7 @@ words.append(TLWord(0x29d1f, 8, "Nobility "))
 
 words.append(TLWord(0x29a34, 17, "Choose a deity:"))
 words.append(TLWord(0x29a24, 15, "Select spellsongs:"))
-words.append(TLWord(0x29a56, 18, "   This ok?        Y       N"))
+words.append(TLWord(0x29a56, 18, "   This ok?         Y       N"))
 
 words.append(TLWord(0x16415, 10, "Adventure on "))
 words.append(TLWord(0x1f10d, 12, "Who will search? "))
@@ -87,7 +87,7 @@ words.append(TLWord(0x19c70, 4,  "Song"))
 words.append(TLWord(0x19dd8, 15,  "Not wielding a staff!"))
 words.append(TLWord(0x19ef1, 15,  "Need an instrument!"))
 
-words.append(TLWord(0x2992b, 16, "Enter your name: "))
+#words.append(TLWord(0x2992b, 4, "Name?"))
 words.append(TLWord(0x1b1d0, 4, "Tgt"))
 
 words.append(TLWord(0x678a, 3,  "Elf"))

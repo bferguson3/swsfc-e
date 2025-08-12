@@ -397,6 +397,10 @@ for word in words:
         rom = rom[:word.loc] + s + rom[word.loc+word.len:]
     else: # if its an sjis conversion, leave it alone
         s = bytes(word.translation)
+        if len(s) > word.len:
+            print("Too long! truncated")
+            print(word.original, len(s), word.len)
+            s = s[:s]
         while len(s) < word.len:
             s += b'\x0f'
         rom = rom[:word.loc] + s + rom[word.loc+word.len:]

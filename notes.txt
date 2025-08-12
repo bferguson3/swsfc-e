@@ -83,8 +83,7 @@ interleaved: every 12bits is the following index.
 
 # SWSFC 2 
 
-SJIS blocks:
-
+SJIS BLOCKS:
 0x20eb0
 3 blocks of maybe combat text? no ptrs...
 
@@ -92,11 +91,21 @@ SJIS blocks:
 "scenario" system text...? maybe vars 
 continues every ~200byte blocks with what looks like debug menu text.
 
+0x23ced - level up text 
+0x24270 - stat lvl up 
+0x246d0 - small kana skill names (lvlup)
+0x24d90 - weapon shops
+0x25960 - inns 
+0x31f00 - stat names 
+0x3a4d0 - char creation
+
+Script: 
+80C00h to AFC1F 
+(hopefully all dumped)
 
 Character bitmaps - B1000-B6FFF
 6000h = 24kb 
 = 1024 characters 
-Script: 80C00h to AFC1F 
 
 New codes:
 04 - newline
