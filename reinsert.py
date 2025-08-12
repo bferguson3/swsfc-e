@@ -182,9 +182,16 @@ for word in words:
                 all_cmb.append(c)                
         i += 1
 
-ind = 0x50
 # sort all_cmb here!!!
 all_cmb.sort(key=lambda x: x.count, reverse=True)
+
+# force 7c to "  " and add another - this is to fix を\n見つけた
+#cnew = Combo(all_cmb[0x7c - 0x50].txt)
+#all_cmb[0x7c - 0x50].txt = '  '
+#all_cmb.insert(0x7e, cnew)
+
+# set indexes
+ind = 0x50
 i = 0
 ct = 0
 multi = 0
@@ -454,3 +461,8 @@ f = open("swsfc-e_out.sfc", "wb")
 f.write(rom)
 f.close()
 print("swsfc-e_out.sfc written.")
+
+i = 0
+while i < len(all_cmb):
+    #print(hex(i+0x50)[2:]+"="+all_cmb[i].txt)
+    i += 1

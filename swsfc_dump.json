@@ -1672,7 +1672,7 @@
             "address": "0x42865",
             "size": 57,
             "text": "{3}\n青白い金属て゛て゛きたフ゜レートか゛ある。\nフ゜レートの中央には、ひしか゛たの\nくほ゛みか゛ある。{3}{0}{6}{f}",
-            "translation": "{3}\nA blade of blue-white metal. \nIn it's center, a diamond-shaped \ndepression. {3}{0}{6}{f}"
+            "translation": "{3}\nA blade of blue-white metal. \nIn its center, a diamond-shaped\ndepression. {3}{0}{6}{f}"
         },
         {
             "address": "0x4289e",
@@ -1750,7 +1750,7 @@
             "address": "0x42a21",
             "size": 24,
             "text": "{3}\n赤い布きれか゛、ひっかかっている。{3}{0}{6}{f}",
-            "translation": "{3}\nA red cloth is caught. {3}{0}{6}{f}"
+            "translation": "{3}\nA red cloth is caught on it. {3}{0}{6}{f}"
         },
         {
             "address": "0x42a39",
@@ -2752,7 +2752,7 @@
             "address": "0x43f94",
             "size": 42,
             "text": "しかし、洞窟なんかて゛セ゛ムか゛\n作れるの{8}{b}た゛ろうか{a}て゛しょうか{7}？{6}{f}",
-            "translation": "But could zem have made\na whole cave? {6}{f}"
+            "translation": "But, making zem inside \nof a cave...? {6}{f}"
         },
         {
             "address": "0x43fbe",
@@ -2776,7 +2776,7 @@
             "address": "0x4405f",
             "size": 25,
             "text": "なん{8}た゛ぁ{b}し゛ゃ{a}て゛す{9}なの{7}、これは！{6}{f}",
-            "translation": "What is this!{6}{f}"
+            "translation": "What is this!? {6}{f}"
         },
         {
             "address": "0x44078",
@@ -3166,7 +3166,7 @@
             "address": "0x44c66",
             "size": 11,
             "text": "この水路の先に？{6}{f}",
-            "translation": "Where's it lead? {6}{f}"
+            "translation": "Is she ahead?{6}{f}"
         },
         {
             "address": "0x44c71",
@@ -7000,7 +7000,7 @@
             "address": "0x4d16d",
             "size": 68,
             "text": "これか゛「神像のオノ」か！\nわしの持っている像の手に\nひ゜ったりはまるそ゛。{6}\nありか゛とう。約束の６００カ゛メルた゛。{6}{f}",
-            "translation": "This is the axe!\nIt fits perfectly in\nthe idol's hand.{6}\nThanks.\nHere's the 600 gamel.{6}{f}"
+            "translation": "This is the axe! \nIt fits perfectly in \nthe idol's hand.{6}\nThanks.\nHere's the 600 gamel.{6}{f}"
         },
         {
             "address": "0x4d1b1",
@@ -7264,7 +7264,7 @@
             "address": "0x4d667",
             "size": 64,
             "text": "それか゛分かるようなら、\nよそ者に大きな顔はさせねえよ。{6}\nおまえさんらはそれを調へ゛るために\nやとわれたんた゛ろ？{6}{f}",
-            "translation": "If you know that, then \ndon't let people get involved.{6}\nWeren't you hired to \ninvestigate?{6}{f}"
+            "translation": "We don't let just anybody\nstick their noses in. {6}\nWeren't you hired to \ninvestigate?{6}{f}"
         },
         {
             "address": "0x4d6a7",
@@ -7384,7 +7384,7 @@
             "address": "0x4dbd6",
             "size": 218,
             "text": "おれか゛ここの頭領のフ゛ルオート゛た゛。\n実は、もく゛りの盗賊を\nつかまえてもらいたいんた゛。{6}\nそいつらは、キ゛ルト゛の約束こ゛とを\nやふ゛って、身内から金品を\nかすめていきやか゛る。{6}\n先日も、いくつか盗まれちまった。\nと゛うも身内に密告者か゛いるらしく、\nうかつに動けねぇ。{6}\nそこて゛、あんたたちに\nたのみたい、ってわけた゛。{6}\n報酬は９００カ゛メル出すか゛、\n引き受けてくれるか？{f}",
-            "translation": "I'm Bluod, the leader here.\nActually, I want you to\ncatch the mole. {6}\nThey've broken our agreement \nwith the guild and now they're\nstealing from our own.{6}\nA few things were taken recently.\nThere's an informant in the fam-\nily, so I have to be careful.{6}\nThat's where you come in.{6}\nI can give you 900 gamel.\nWhat do you say? {f}"
+            "translation": "I'm Bluod, the leader here.\nActually, I want you to\ncatch the mole. {6}\nThey've broken our agreement \nwith the guild and now they're\nstealing from our own.{6}\nA few things were taken recently.\nThere's an informant in the fam- \nily, so I have to be careful.{6}\nThat's where you come in.{6}\nI can give you 900 gamel.\nWhat do you say? {f}"
         },
         {
             "address": "0x4dcb0",
@@ -16030,7 +16030,7 @@
             "address": "0x5f706",
             "size": 51,
             "text": "レックスは危険な場所た゛か゛、\n宝の山て゛もある。\nた゛から、みんな命をかけるんた゛。{6}{f}",
-            "translation": "People risk their lives in Rex\nfor a chance at it's mountain \nof treasure.{6}{f}"
+            "translation": "People risk their lives in Rex\nfor a chance at its mountain\nof treasure.{6}{f}"
         },
         {
             "address": "0x5f73e",
