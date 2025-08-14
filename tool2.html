@@ -46,6 +46,7 @@
     var fileList = null;
     var currentFile = "";
     var fileIndex = 0;
+    var fileCount = 0;
 
     // Update char count only 
     function RecountChars() {
@@ -63,6 +64,7 @@
         if (currentFile == ""){
             for (const key in database) {
                 currentFile = `${key}`;
+                fileIndex = 0;
                 break;
                 //console.log(`${key}: ${database[key]}`);
             }
@@ -76,7 +78,7 @@
             tl.value = database[currentFile][currentWord].translation;
         }
         sz.innerHTML = "Size: " + database[currentFile][currentWord].size + "b (" + tl.value.length + ")";
-        no.innerHTML = "No. " + (currentWord+1) + " / " + database[currentFile].length;
+        no.innerHTML = "No. " + (currentWord+1) + " / " + database[currentFile].length + " File: " + (fileIndex+1) + " / " + fileCount;
     }
 
     // Sets text in memory 
@@ -101,6 +103,7 @@
         for (const key in database) {
             if (last == true) {
                 currentFile = `${key}`
+                fileIndex++;
                 return;
                 break;
             }
@@ -111,6 +114,7 @@
         // fall-through: get first file 
         for (const key in database) {
             currentFile = `${key}`;
+            fileIndex = 0;
             return;
             break;
         }
@@ -127,14 +131,17 @@
             ctr++;
         }
         if(ctr == 0){
+            fileIndex = -1;
             for (const k in database) {
                 currentFile = `${k}`;
+                fileIndex++;
             }
             return;
         }
         var _ct = 0;
         for (const key in database) {
             if (_ct == (ctr - 1)) {
+                fileIndex = ctr - 1;
                 currentFile = `${key}`;
                 return;
                 break;
@@ -166,13 +173,15 @@
     function Search() {
         let searchStr = prompt("Search string:", "");
         let outputStr = "Found on strings: \n";
+        var k = 0;
         for (const cf in database) {
+            k += 1;
             for(let i = 0; i < database[cf].length; i++) {
                 if(database[cf][i].text.indexOf(searchStr) != -1) {
-                    outputStr += cf + "[#" + (i + 1) + "], ";
+                    outputStr += "#"+ k + "[" + (i + 1) + "], ";
                 }
                 if(database[cf][i].translation.indexOf(searchStr) != -1) {
-                    outputStr += cf + "[#" + (i + 1) + "], ";
+                    outputStr += "#"+ k + "[" + (i + 1) + "], ";
                 }
             }
         }
@@ -185,6 +194,9 @@
         const reader = new FileReader();    
         reader.onload = function() { 
             database = JSON.parse(reader.result);
+            for (const f in database) {
+                fileCount++;
+            }
             UpdateCurrentWord();
         };
         reader.onerror = function() { 
@@ -194,13 +206,16 @@
     }
 
     function GoTo() {
-        let g = prompt("Input string number or hex file:", 1);
+        let g = prompt("Input string number or # file:", 1);
         try {
-            if(g.substring(0, 2) == "0x"){
+            if(g.substring(0, 1) == "#"){
+                let n = Number(g.substring(1));
+                var i = 0;
                 for(const k in database) {
-                    if (`${k}` == g) {
-                        currentWord = 0;
-                        currentFile = `${k}`;
+                    i += 1;
+                    currentFile = `${k}`;
+                    if(n == i){
+                        fileIndex = n - 1;
                         UpdateCurrentWord();
                         return;
                     }
