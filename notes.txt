@@ -98,6 +98,16 @@ continues every ~200byte blocks with what looks like debug menu text.
 0x25960 - inns 
 0x31f00 - stat names 
 0x3a4d0 - char creation
+0x438fd - searching
+0x69a10 - coloseum? / 6a20d 
+0x63b20 - banish spirit
+0x6cd00 - combat menu 
+0x6de7e - temple npc
+0x6e8a0 - rune/mir shop 
+0x6ed90 - thief guild
+0x6f120 - more item/mirshop
+0x6f420 - more shops
+0x70ce0 - random txt
 
 Script: 
 80C00h to AFC1F 

@@ -22082,7 +22082,7 @@
             "ptr_val": "0x12",
             "size": 38,
             "text": "つい最近、\n古代王国の遺跡か゛\n見つかったんた゛ってな。{d}{f}",
-            "translation": "Looks like an ancient\nruins was discovered\nrecently. {d}{f}"
+            "translation": "Looks like an ancient ruins\nwas discovered recently.{d}{f}"
         },
         {
             "address": "0x9ea86",

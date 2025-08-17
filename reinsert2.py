@@ -103,8 +103,6 @@ for f in js:
     scr_files.append(newf)
 
 
-
-
 print(" OK.")
 
 # convert char table to Image object list
@@ -430,12 +428,14 @@ for f in scr_files:
             rom = rom[:word.loc] + s + rom[word.loc+word.len:]
         else: # if its an sjis conversion, leave it alone
             s = bytes(word.translation)
+            while len(s) < word.len:
+                s += b'\x81\x40'
+                if len(s) > word.len:
+                    s = s[:len(s)-2] + b'\x0f'
             if len(s) > word.len:
                 print("Too long! truncated")
                 print(word.original, len(s), word.len)
                 s = s[:s]
-            while len(s) < word.len:
-                s += b'\x0f'
             rom = rom[:word.loc] + s + rom[word.loc+word.len:]
 print(" OK.")
 
