@@ -50,7 +50,7 @@ def U8ToSWSFC(s):
                     n = int(c, 16)
                     s = s[:i] + bytes([n]) + s[i+4:]
                     i -= 1 # testing
-                    print("error")
+                    print("warning, test", s)
         elif s[i] == ord('\n'):
             s = s[:i] + b'\x04' + s[i+1:]
         i += 1
