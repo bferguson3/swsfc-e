@@ -22,7 +22,7 @@
             "ptr_val": "0x57",
             "size": 16,
             "text": "１００カ゛メル払う\nことわる{f}",
-            "translation": ""
+            "translation": "Pay 100 gamel.\nRefuse.{f}"
         },
         {
             "address": "0x80c67",
@@ -30,7 +30,7 @@
             "ptr_val": "0x67",
             "size": 16,
             "text": "２００カ゛メル払う\nことわる{f}",
-            "translation": ""
+            "translation": "Pay 200 gamel\nRefuse{f}"
         },
         {
             "address": "0x80c77",
@@ -38,7 +38,7 @@
             "ptr_val": "0x77",
             "size": 32,
             "text": "アーウ゛ェルは、ノルン卿殺しの\nいきさつについて語った。{d}{f}",
-            "translation": ""
+            "translation": "Arvell told the story of how\nLord Norn was killed.{d}{f}"
         },
         {
             "address": "0x80c97",
@@ -46,7 +46,7 @@
             "ptr_val": "0x97",
             "size": 18,
             "text": "アーウ゛ェルに協力する\nことわる{f}",
-            "translation": ""
+            "translation": "Work with Arvell.\nRefuse.{f}"
         },
         {
             "address": "0x80ca9",
@@ -62,7 +62,7 @@
             "ptr_val": "0xb9",
             "size": 16,
             "text": "１５００カ゛メル手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "You got 1,500 gamel.{d}{f}"
         },
         {
             "address": "0x80cc9",
@@ -102,7 +102,7 @@
             "ptr_val": "0xd8",
             "size": 27,
             "text": "と言って、\nアーウ゛ェルは探いためいきをついた。{d}{f}",
-            "translation": ""
+            "translation": "Just like that, Arvell let out a sigh.{d}{f}"
         },
         {
             "address": "0x80cf3",
@@ -110,7 +110,7 @@
             "ptr_val": "0xf3",
             "size": 26,
             "text": "アーウ゛ェルは、\nうやうやしくひさ゛ます゛いた。{d}{f}",
-            "translation": ""
+            "translation": "Arvell bowed respectfully.{d}{f}"
         },
         {
             "address": "0x80d0d",
@@ -118,7 +118,7 @@
             "ptr_val": "0x10d",
             "size": 15,
             "text": "細の頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to the minor request.\nRefuse.{f}"
         },
         {
             "address": "0x80d1c",
@@ -198,7 +198,7 @@
             "ptr_val": "0x1a1",
             "size": 15,
             "text": "村長の頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to the village chief's request.\nRefuse.{f}"
         },
         {
             "address": "0x80db0",
@@ -206,7 +206,7 @@
             "ptr_val": "0x1b0",
             "size": 22,
             "text": "村長の所に引き返す\n料金を払う{f}",
-            "translation": ""
+            "translation": "Return to the village chief\nand pay the fee.{f}"
         },
         {
             "address": "0x80dc6",
@@ -222,7 +222,7 @@
             "ptr_val": "0x1d5",
             "size": 16,
             "text": "聖壇に魔晶石をはめた。{d}{f}",
-            "translation": ""
+            "translation": "You placed the magic crystal on the altar.{d}{f}"
         },
         {
             "address": "0x80de5",
@@ -246,7 +246,7 @@
             "ptr_val": "0x228",
             "size": 16,
             "text": "水の精霊石を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "Obtained the Water Spirit Stone.{d}{f}"
         }
     ],
     "0x80e39": [
@@ -256,7 +256,7 @@
             "ptr_val": "0x24",
             "size": 13,
             "text": "村に行く\n先を急く゛{f}",
-            "translation": ""
+            "translation": "Head to the village.\nHurry ahead.{f}"
         },
         {
             "address": "0x80e6a",
@@ -264,7 +264,7 @@
             "ptr_val": "0x31",
             "size": 11,
             "text": "村を出て行く\nやめる{f}",
-            "translation": ""
+            "translation": "Leave the village.\nStop.{f}"
         },
         {
             "address": "0x80e75",
@@ -272,7 +272,7 @@
             "ptr_val": "0x3c",
             "size": 16,
             "text": "団長の頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to the chief's request.\nRefuse.{f}"
         },
         {
             "address": "0x80e85",
@@ -280,7 +280,7 @@
             "ptr_val": "0x4c",
             "size": 18,
             "text": "動物を連れて村に帰る\nやめる{f}",
-            "translation": ""
+            "translation": "Return the animals to the village.\nStop.{f}"
         },
         {
             "address": "0x80e97",
@@ -312,7 +312,7 @@
             "ptr_val": "0x61",
             "size": 19,
             "text": "霧を調へ゛に行く\n先を急く゛{f}",
-            "translation": ""
+            "translation": "Investigate the fog.\nHurry ahead.{f}"
         },
         {
             "address": "0x80ead",
@@ -320,7 +320,7 @@
             "ptr_val": "0x74",
             "size": 14,
             "text": "ハーヒ゜ィと戦う\nやめる{f}",
-            "translation": ""
+            "translation": "Fight the harpies.\nStop.{f}"
         },
         {
             "address": "0x80ebb",
@@ -336,7 +336,7 @@
             "ptr_val": "0x8e",
             "size": 14,
             "text": "森から出る\n森に残る{f}",
-            "translation": ""
+            "translation": "Leave the forest.\nStay in the forest.{f}"
         },
         {
             "address": "0x80ed5",
@@ -344,7 +344,7 @@
             "ptr_val": "0x9c",
             "size": 19,
             "text": "エルハ゛ルトの頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to Elhard's request.\nRefuse.{f}"
         },
         {
             "address": "0x80ee8",
@@ -360,7 +360,7 @@
             "ptr_val": "0xc1",
             "size": 28,
             "text": "村人たちから、きいろいオーラか゛\n発せられている。{d}{f}",
-            "translation": ""
+            "translation": "The villagers are emitting a yellow aura.{d}{f}"
         },
         {
             "address": "0x80f16",
@@ -384,7 +384,7 @@
             "ptr_val": "0xdf",
             "size": 16,
             "text": "仕事を引き受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Accept job\nRefuse job{f}"
         },
         {
             "address": "0x80f28",
@@ -392,7 +392,7 @@
             "ptr_val": "0xef",
             "size": 23,
             "text": "船は、鉱山のある島へと向かった。{d}{f}",
-            "translation": ""
+            "translation": "The ship headed for the island\nwhere the mine was located.{d}{f}"
         }
     ],
     "0x80f40": [
@@ -732,7 +732,7 @@
             "ptr_val": "0x196",
             "size": 34,
             "text": "ラーノスは人数分のク゛ラスに、\nふ゛と゛う酒をそそいた゛。{d}{f}",
-            "translation": ""
+            "translation": "Ranos poured thick liquor in\neveryon's glasses.{d}{f}"
         },
         {
             "address": "0x812b0",
@@ -740,7 +740,7 @@
             "ptr_val": "0x1b8",
             "size": 15,
             "text": "ふ゛と゛う酒をのむ\nやめる{f}",
-            "translation": ""
+            "translation": "Drink more booze.\nStop drinking.{f}"
         },
         {
             "address": "0x812bf",
@@ -748,7 +748,7 @@
             "ptr_val": "0x1c7",
             "size": 28,
             "text": "ラーノスは、\n自分のク゛ラスを口に運んた゛。{d}{f}",
-            "translation": ""
+            "translation": "Ranos lifts the glass.{d}{f}"
         },
         {
             "address": "0x812db",
@@ -788,7 +788,7 @@
             "ptr_val": "0x258",
             "size": 26,
             "text": "ショートソート゛とハート゛レサ゛ーを\n見つけた。{d}{f}",
-            "translation": ""
+            "translation": "You obtained a short sword\nand hard leather.{d}{f}"
         },
         {
             "address": "0x8136a",
@@ -796,7 +796,7 @@
             "ptr_val": "0x272",
             "size": 13,
             "text": "詰めよる\n立ち去る{f}",
-            "translation": ""
+            "translation": "Approach.\nLeave.{f}"
         },
         {
             "address": "0x81377",
@@ -846,7 +846,7 @@
             "ptr_val": "0x70",
             "size": 15,
             "text": "依頼を受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Accept the request.\nRefuse.{f}"
         },
         {
             "address": "0x81418",
@@ -854,7 +854,7 @@
             "ptr_val": "0x7f",
             "size": 19,
             "text": "夕食のさそいを受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Accept dinner invitation.\nDecline.{f}"
         },
         {
             "address": "0x8142b",
@@ -862,7 +862,7 @@
             "ptr_val": "0x92",
             "size": 38,
             "text": "メリー・ヘ゛ルは、\nなみた゛をかくしなか゛ら\n台所へとかけ去った。{d}{f}",
-            "translation": ""
+            "translation": "Marybelle ran into the kitchen\ntrying to hide her tears."
         },
         {
             "address": "0x81451",
@@ -870,7 +870,7 @@
             "ptr_val": "0xb8",
             "size": 22,
             "text": "メリー・ヘ゛ルを追いかける\n放っておく{f}",
-            "translation": ""
+            "translation": "Go after Marybelle.\nLeave her alone.f}"
         },
         {
             "address": "0x81467",
@@ -878,7 +878,7 @@
             "ptr_val": "0xce",
             "size": 19,
             "text": "シ゛ョシュアの家に泊る\nことわる{f}",
-            "translation": ""
+            "translation": "Stay at Joshua's house.\nDecline.{f}"
         },
         {
             "address": "0x8147a",
@@ -886,7 +886,7 @@
             "ptr_val": "0xe1",
             "size": 33,
             "text": "台所の方から、\nメリー・ヘ゛ルのひめいか゛聞こえてきた。{d}{f}",
-            "translation": ""
+            "translation": "I could hear Marybelle's voice\ncoming from the kitchen.{d}{f}"
         },
         {
             "address": "0x8149b",
@@ -894,7 +894,7 @@
             "ptr_val": "0x102",
             "size": 27,
             "text": "{19}{0}はメリー・ヘ゛ルに、\nヒールストーンを使った。{d}{f}",
-            "translation": ""
+            "translation": "{19}{0}You used a healing stone on\nMarybelle.{d}{f}"
         },
         {
             "address": "0x814b6",
@@ -918,7 +918,7 @@
             "ptr_val": "0x166",
             "size": 19,
             "text": "シ゛ョシュアの頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to Joshua's request.\nDecline.{f}"
         },
         {
             "address": "0x81512",
@@ -934,7 +934,7 @@
             "ptr_val": "0x189",
             "size": 51,
             "text": "シ゛ョシュアか゛、\nメリー・ヘ゛ルに手渡したのは、\n７色にかか゛やく、うすいケーフ゜た゛った。{d}{f}",
-            "translation": ""
+            "translation": "Joshua handed Marybelle a thin\nseven-coloured cap.{d}{f}\n"
         },
         {
             "address": "0x81555",
@@ -942,7 +942,7 @@
             "ptr_val": "0x1bc",
             "size": 57,
             "text": "傷の手当てをなんと゛も\nほと゛こしたにもかかわらす゛、\nメリー・ヘ゛ルは、\nと゛んと゛ん弱っていった……{d}{f}",
-            "translation": ""
+            "translation": "Despite all the efforts to\ntreat her wounds, Marybelle\ngrew steadily weaker."
         },
         {
             "address": "0x8158e",
@@ -974,7 +974,7 @@
             "ptr_val": "0x1f8",
             "size": 27,
             "text": "となりの村に危険を知らせに行く\nほったらかしておく{f}",
-            "translation": ""
+            "translation": "Warn the neighboring village.\nLeave the village alone.{f}"
         },
         {
             "address": "0x815ac",
@@ -982,7 +982,7 @@
             "ptr_val": "0x213",
             "size": 16,
             "text": "村人を助ける\n村人をみすてる{f}",
-            "translation": ""
+            "translation": "Help the villagers.\nAbandon the villagers.{f}"
         },
         {
             "address": "0x815bc",
@@ -990,7 +990,7 @@
             "ptr_val": "0x223",
             "size": 15,
             "text": "村長の頼みを聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen to the village chief's\nrequest.\nRefuse.{f}"
         },
         {
             "address": "0x815cb",
@@ -998,7 +998,7 @@
             "ptr_val": "0x232",
             "size": 12,
             "text": "休んて゛行く\nやめる{f}",
-            "translation": ""
+            "translation": "Take a rest.\nQuit.{f}"
         },
         {
             "address": "0x815d7",
@@ -1006,7 +1006,7 @@
             "ptr_val": "0x23e",
             "size": 17,
             "text": "イカタ゛て゛川を渡る\nやめる{f}",
-            "translation": ""
+            "translation": "Cross the river.\nStop.{f}"
         },
         {
             "address": "0x815e8",
@@ -1070,7 +1070,7 @@
             "ptr_val": "0x2dc",
             "size": 16,
             "text": "闇の精霊を呼ふ゛\nやめる{f}",
-            "translation": ""
+            "translation": "Summon spirit of darkness.\nStop.{f}"
         },
         {
             "address": "0x81685",
@@ -1078,7 +1078,7 @@
             "ptr_val": "0x2ec",
             "size": 17,
             "text": "部屋を闇にとさ゛す\nやめる{f}",
-            "translation": ""
+            "translation": "Shroud room in darkness.\nStop.{f}"
         },
         {
             "address": "0x81696",
@@ -1094,7 +1094,7 @@
             "ptr_val": "0x30e",
             "size": 18,
             "text": "村の人に会いに行く\n村をみすてる{f}",
-            "translation": ""
+            "translation": "Meet with the villagers.\nLeave.{f}"
         },
         {
             "address": "0x816b9",
@@ -1126,7 +1126,7 @@
             "ptr_val": "0x323",
             "size": 10,
             "text": "話を聞く\nことわる{f}",
-            "translation": ""
+            "translation": "Listen.\nRefuse.{f}"
         },
         {
             "address": "0x816c6",
@@ -1158,7 +1158,7 @@
             "ptr_val": "0x38c",
             "size": 20,
             "text": "細１人              ２５００カ゛メル{f}",
-            "translation": ""
+            "translation": "1 person              ２５００ gamel{f}"
         },
         {
             "address": "0x81739",
@@ -1296,7 +1296,7 @@
             "ptr_val": "0x3a",
             "size": 17,
             "text": "剣闘士として戦う\nやめる{f}",
-            "translation": ""
+            "translation": "Fight as a gladiator.\nQuit.{f}"
         },
         {
             "address": "0x819e2",
@@ -1352,7 +1352,7 @@
             "ptr_val": "0xe1",
             "size": 20,
             "text": "試合を見に行く\nこの場て゛待つ{f}",
-            "translation": ""
+            "translation": "Go to the games.\nWait here.{f}"
         },
         {
             "address": "0x81a8c",
@@ -1384,7 +1384,7 @@
             "ptr_val": "0x178",
             "size": 84,
             "text": "剣闘士を倒した巨人は、\nゆっくりと闘技場から去って行った。{d}\nそのせなかを、増々しけ゛に\n貴實席に座った細か゛\nにらみつけていた……{d}{f}",
-            "translation": ""
+            "translation": "The giant, having defeated the\ngladiator, left the arena.\nThe man in the vip chair glared at\nhis back with increased intensity.\n"
         },
         {
             "address": "0x81b63",
@@ -1400,7 +1400,7 @@
             "ptr_val": "0x1e0",
             "size": 25,
             "text": "賞金をもらう\n巨人の自由を要求する{f}",
-            "translation": ""
+            "translation": "Receive the bounty.\nDemand the giant's freedom.{f}"
         },
         {
             "address": "0x81b90",
@@ -1456,7 +1456,7 @@
             "ptr_val": "0x23e",
             "size": 15,
             "text": "村長を助けに行く\nことわる{f}",
-            "translation": ""
+            "translation": "Help the village chief.\nRefuse.{f}"
         },
         {
             "address": "0x81be4",
@@ -1504,7 +1504,7 @@
             "ptr_val": "0x270",
             "size": 16,
             "text": "扉を攻撃する\nやめておく{f}",
-            "translation": ""
+            "translation": "Attack the door.\nStop.{f}"
         },
         {
             "address": "0x81c17",
@@ -1512,7 +1512,7 @@
             "ptr_val": "0x280",
             "size": 22,
             "text": "レイカ゛ル・フ゛レート゛を\n手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "Obtained Rhaegal's blade.{d}{f}"
         },
         {
             "address": "0x81c2d",
@@ -1554,7 +1554,7 @@
             "ptr_val": "0x9c",
             "size": 13,
             "text": "廃屋へ行く\nことわる{f}",
-            "translation": ""
+            "translation": "Head to abandoned house.\nRefuse.{f}"
         },
         {
             "address": "0x81cf2",
@@ -1570,7 +1570,7 @@
             "ptr_val": "0xcc",
             "size": 21,
             "text": "聞き込みをする\nシ゛ャンを信用する{f}",
-            "translation": ""
+            "translation": "Ask around.\nTrust Shan.{f}"
         },
         {
             "address": "0x81d2a",
@@ -1602,7 +1602,7 @@
             "ptr_val": "0x14a",
             "size": 36,
             "text": "レイト゛郊外の森の中に、\n廃屋はひっそりと建っていた。{d}{f}",
-            "translation": ""
+            "translation": "At the edge of the forest in\nReide, an abondoned house\nstood quietly.{d}{f}\n"
         },
         {
             "address": "0x81db7",
@@ -1610,7 +1610,7 @@
             "ptr_val": "0x16e",
             "size": 14,
             "text": "脱得を試みる\n戦う{f}",
-            "translation": ""
+            "translation": "Try to escape.\nFight.{f}"
         },
         {
             "address": "0x81dc5",
@@ -1722,7 +1722,7 @@
             "ptr_val": "0x25d",
             "size": 23,
             "text": "テ゛ーモン退治を引き受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Accept job to defeat Teamon.\nRefuse."
         },
         {
             "address": "0x81ebd",
@@ -1730,7 +1730,7 @@
             "ptr_val": "0x274",
             "size": 15,
             "text": "契約書をもやす\nやめる{f}",
-            "translation": ""
+            "translation": "Burn the contract.\nRefuse.{f}"
         },
         {
             "address": "0x81ecc",
@@ -1764,7 +1764,7 @@
             "ptr_val": "0x3e",
             "size": 15,
             "text": "ネコをつかまえる\nやめておく{f}",
-            "translation": ""
+            "translation": "Try to catch the cat.\nStop.{f}"
         },
         {
             "address": "0x81f40",
@@ -1780,7 +1780,7 @@
             "ptr_val": "0x62",
             "size": 16,
             "text": "１００カ゛メル渡す\nことわる{f}",
-            "translation": ""
+            "translation": "Give 100 gamel.\nRefuse.{f}"
         },
         {
             "address": "0x81f65",
@@ -1868,7 +1868,7 @@
             "ptr_val": "0xb3",
             "size": 33,
             "text": "マンティコアのひとみか゛\n怪しいかか゛やきを放ち始めた！{d}{f}",
-            "translation": ""
+            "translation": "The eyes of the manticore\nbegin to emit a mysterious\nglow!{d}{f}"
         },
         {
             "address": "0x81fc7",
@@ -1884,7 +1884,7 @@
             "ptr_val": "0xd5",
             "size": 33,
             "text": "ハ゜ーミアはふらふらと、\nマンティコアの方に歩いて行った。{d}{f}",
-            "translation": ""
+            "translation": "Baomea staggered towards the\nmanticore.{d}{f}"
         },
         {
             "address": "0x81fe9",
@@ -1892,7 +1892,7 @@
             "ptr_val": "0xf6",
             "size": 29,
             "text": "マンティコアの姿か゛、\n霧のようにうすれていった。{d}{f}",
-            "translation": ""
+            "translation": "The manticore faded away like\nmist.{d}{f}"
         },
         {
             "address": "0x82006",
@@ -1908,7 +1908,7 @@
             "ptr_val": "0x13d",
             "size": 26,
             "text": "土か゛いっしゅん、きらめく光に\nつつまれた。{d}{f}",
-            "translation": ""
+            "translation": "For a moment, the earth was \nenveloped in sparkling light.{d}{f}"
         },
         {
             "address": "0x8204a",
@@ -1916,7 +1916,7 @@
             "ptr_val": "0x157",
             "size": 18,
             "text": "「よこしまな土」を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "Obtained “wicked soil”.{d}{f}"
         },
         {
             "address": "0x8205c",
@@ -2022,7 +2022,7 @@
             "ptr_val": "0x141",
             "size": 92,
             "text": "「優しき巨人」は、上位古代語て゛\n何事かをとなえた。{d}\nすると、\n{19}{0}たちの持っていた\n「地を裂く剣」の剣か゛かか゛やき、\nみるみるうちにちち゛んて゛いった。{d}{f}",
-            "translation": ""
+            "translation": "Gentle Giant spoke in ancient\nlanguage. Suddenly, Sword Who\nSplits Earth's blade began\nto crack.{d}{f}"
         },
         {
             "address": "0x8222d",
@@ -2030,7 +2030,7 @@
             "ptr_val": "0x19d",
             "size": 27,
             "text": "{19}{0}たちは\nレイカ゛ル・フ゛レート゛を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "{19}{0}and his friends\nobtained the Rhaegal sword.{d}{f}"
         },
         {
             "address": "0x82248",
@@ -2062,7 +2062,7 @@
             "ptr_val": "0x1bb",
             "size": 27,
             "text": "ハ゛レンは、２０人の傭兵を\nしたか゛えていた。{d}{f}",
-            "translation": ""
+            "translation": "Harren had 20 mercenaries\nwith him.{d}{f}"
         },
         {
             "address": "0x82266",
@@ -2070,7 +2070,7 @@
             "ptr_val": "0x1d6",
             "size": 31,
             "text": "ハ゛レンは、２０人の傭兵を\n{19}{0}たちに引き渡した。{d}{f}",
-            "translation": ""
+            "translation": "Harren handed over twenty\nmercenaries to {19}{0}and\ncompanions.{d}{f}"
         },
         {
             "address": "0x82285",
@@ -2078,7 +2078,7 @@
             "ptr_val": "0x1f5",
             "size": 35,
             "text": "巨人像の口か゛ゆっくりと動き、\n{19}{0}たちに話しかけてきた。{d}{f}",
-            "translation": ""
+            "translation": "巨人像の口か゛ゆっくりと動き、\n{19}{0}たちに話しかけてきた。{d}{f}ac"
         },
         {
             "address": "0x822a8",
@@ -2086,7 +2086,7 @@
             "ptr_val": "0x218",
             "size": 29,
             "text": "巨人像は\n答えを待つように口を閉さ゛した。{d}{f}",
-            "translation": ""
+            "translation": "The giant statue kept his mouth\nclosed, waiting for an answer.\n{d}{f}"
         },
         {
             "address": "0x822c5",
@@ -2094,7 +2094,7 @@
             "ptr_val": "0x235",
             "size": 40,
             "text": "生命をささけ゛る\n精神をささけ゛る\n瞳をささけ゛る\n何も、ささけ゛ない{f}",
-            "translation": ""
+            "translation": "Offer your life;\nOffer your spirit;\nOffer your sight;\nOffer nothing.{f}"
         },
         {
             "address": "0x822ed",
@@ -2102,7 +2102,7 @@
             "ptr_val": "0x25d",
             "size": 24,
             "text": "と゛こからともなく、\n声か゛聞こえてくる。{d}{f}",
-            "translation": ""
+            "translation": "A voice came out of nowhere.\n{d}{f}"
         },
         {
             "address": "0x82305",
@@ -2150,7 +2150,7 @@
             "ptr_val": "0x2d5",
             "size": 34,
             "text": "ハ゛レンは精神集中ののち、\n古代語をとなえ始めた。{d}{f}",
-            "translation": ""
+            "translation": "Harren focussed and began to\nchant in the ancient language."
         },
         {
             "address": "0x82387",
@@ -2208,7 +2208,7 @@
             "ptr_val": "0x36",
             "size": 54,
             "text": "            始源の巨人、\n  「偉大なるひとつ」の死によって、\n        すへ゛ては生まれた。\n\n{f}",
-            "translation": ""
+            "translation": "          The Primordial Giant,\n        From the death of the \"Great One\",\n          Everything else was born.\n{f}"
         },
         {
             "address": "0x824b6",
@@ -2216,7 +2216,7 @@
             "ptr_val": "0x6c",
             "size": 81,
             "text": "その肉体は大地に、その息吹は風に、\nその血は海に、そしてその悲しみに\n    いきと゛おる心は炎となって、\n        世界を造りあけ゛た。{f}",
-            "translation": ""
+            "translation": "His body became the earth, his\nbreath the wind, his blood the\nsea, and his sorrowful heart\nbecame fire, creating the world."
         },
         {
             "address": "0x82507",
@@ -2224,7 +2224,7 @@
             "ptr_val": "0xbd",
             "size": 43,
             "text": "\n      こうして誕生したのか゛、\n我らの世界「フォーセリア」て゛ある。\n\n{f}",
-            "translation": ""
+            "translation": "\n      And thus came the world\nof Forcelia was born.\n\n{f}"
         },
         {
             "address": "0x82532",
@@ -2232,7 +2232,7 @@
             "ptr_val": "0xe8",
             "size": 66,
             "text": "      始源の巨人の身体からは、\n      数多くの神々か゛生まれた。\n\n  神々は、生まれたは゛かりの世界を、{f}",
-            "translation": ""
+            "translation": "      From the body of the giant\n      many gods were born.\n\n  The gods continued the creation of the world{f}"
         },
         {
             "address": "0x82574",
@@ -2240,7 +2240,7 @@
             "ptr_val": "0x12a",
             "size": 58,
             "text": "    精霊界、物質界、妖精界の\n          ３つに分かち、\n        混沌に秩序を与えた。\n\n{f}",
-            "translation": ""
+            "translation": "The gods divided the world in\nthree; the material, spirit and\nfairy worlds. Thereby bringing\norder to the chaos."
         },
         {
             "address": "0x825ae",
@@ -2248,7 +2248,7 @@
             "ptr_val": "0x164",
             "size": 51,
             "text": "            しかし……\n\n              光と闇、\nふたつの陣営に別れて神々は相争い、{f}",
-            "translation": ""
+            "translation": "However, the gods divided into\ncamps of light and darkness\nand began to quarrel."
         },
         {
             "address": "0x825e1",
@@ -2256,7 +2256,7 @@
             "ptr_val": "0x197",
             "size": 63,
             "text": "完全なる世界を造らんとする試みは\nついにまっとうされる事はなかった。\n\n  永く、そしてはけ゛しい戦いのすえ、{f}",
-            "translation": ""
+            "translation": "Their attempt to complete the\nworld ended in failure. After\na long and fierce war..."
         },
         {
             "address": "0x82620",
@@ -2264,7 +2264,7 @@
             "ptr_val": "0x1d6",
             "size": 69,
             "text": "      多くの神々か゛肉体を失い、\nさらに多くの生き物たちか゛滅ひ゛さった。\n\n    その前の暗黒の時代を経て、{f}",
-            "translation": ""
+            "translation": "many gods lost their physical\nforms. Many other beings also\nperished. At the end of the\nAge of Darkness..."
         },
         {
             "address": "0x82665",
@@ -2272,7 +2272,7 @@
             "ptr_val": "0x21b",
             "size": 63,
             "text": "      ひとつの王国か゛誕生した。\n  「魔法王国」カストゥールて゛ある。\n\n    あるいは都市を空にうかへ゛、{f}",
-            "translation": ""
+            "translation": "A kingdom was born--Kastuul, \nthe kingdom of sorcery. Their\ncities floating in the \nskies..."
         },
         {
             "address": "0x826a4",
@@ -2280,7 +2280,7 @@
             "ptr_val": "0x25a",
             "size": 55,
             "text": "    あるいは精霊の力を支配して\n        カストゥールの民は\n        楽園をきす゛きあけ゛た。\n\n{f}",
-            "translation": ""
+            "translation": "Using the power of the spirits,\nthe Kastuulians created them\nselves a paradise..."
         },
         {
             "address": "0x826db",
@@ -2288,7 +2288,7 @@
             "ptr_val": "0x291",
             "size": 67,
             "text": "      た゛か゛、偉大なる王国も、\n      終りをむかえる時か゛きた。\n王国を支える魔力か゛暴走したのて゛ある。\n\n{f}",
-            "translation": ""
+            "translation": "Heavily relying on magic, even\nthe great kingdom fell when that\nmagic went out of control."
         },
         {
             "address": "0x8271e",
@@ -2296,7 +2296,7 @@
             "ptr_val": "0x2d4",
             "size": 58,
             "text": "    と゛れいとして支配されてきた\n            蛮族たちは、\n    この機を逃さす゛起ちあか゛った。\n\n{f}",
-            "translation": ""
+            "translation": "Barbarians, used as slaves by\nthe Kastuulians, used the\nmomentum to rebel.\n{f}"
         },
         {
             "address": "0x82758",
@@ -2304,7 +2304,7 @@
             "ptr_val": "0x30e",
             "size": 58,
             "text": "  魔力を失ったカストゥール王国は、\n        蛮族たちによって、\n      数年のうちに滅亡した。\n\n{f}",
-            "translation": ""
+            "translation": "Within a few years, all of \nKastuul had been destroyed\nby the rebelling barbarians.\n{f}"
         },
         {
             "address": "0x82792",
@@ -2312,7 +2312,7 @@
             "ptr_val": "0x348",
             "size": 65,
             "text": "魔法王国の最前の都市か゛破壊された\n          その年をもって、\n      新王国暦元年とする……。\n\n{f}",
-            "translation": ""
+            "translation": "The year the most important\ncity fell, became year one of\nthe New Royal Calendar.\n{f}"
         },
         {
             "address": "0x827d3",
@@ -2320,7 +2320,7 @@
             "ptr_val": "0x389",
             "size": 23,
             "text": "\n\n\n    強大な魔力を持たぬか゛ゆえに、{f}",
-            "translation": ""
+            "translation": "\n\n\n    Lacking the power of magic,{f}"
         },
         {
             "address": "0x827ea",
@@ -2328,7 +2328,7 @@
             "ptr_val": "0x3a0",
             "size": 66,
             "text": "    彼らは魔法王国の時代には、\nいやしい蛮族としてさけ゛すまれていた。\n\nしかし、彼らには「剣」の力か゛あった。{f}",
-            "translation": ""
+            "translation": "They were shunned as barbaric\nduring the time of Kastuul.\nBut they had swordskill.\n\n"
         },
         {
             "address": "0x8282c",
@@ -2336,7 +2336,7 @@
             "ptr_val": "0x3e2",
             "size": 54,
             "text": "\n      彼らは剣の力によって、\n      新たな国々をおこした。\n  ラムリアース、ファン、ロマール、{f}",
-            "translation": ""
+            "translation": "Using the power of the sword\nthey founded new kingdoms;\nRamliearth, Phan and Lomar."
         },
         {
             "address": "0x82862",
@@ -2344,7 +2344,7 @@
             "ptr_val": "0x418",
             "size": 63,
             "text": "        そしてオラン……\n\n  いくつもの国々か゛興亡をくり返し、\n現在に至っている。国々を支えるのは、{f}",
-            "translation": ""
+            "translation": "And Oran. Many kingdoms rose\nand fell, to this day. What\nsupports these kingdoms are..."
         },
         {
             "address": "0x828a1",
@@ -2360,7 +2360,7 @@
             "ptr_val": "0x497",
             "size": 40,
             "text": "剣の世界、ソート゛・ワールト゛と呼ふ゛。\n\n            そして……\n\n{f}",
-            "translation": ""
+            "translation": "The world of swords is called \n“Sword World”.\n{f}"
         },
         {
             "address": "0x82909",
@@ -2368,7 +2368,7 @@
             "ptr_val": "0x4bf",
             "size": 66,
             "text": "        新王国暦５２０年。\n\nアレクラスト大陸最大の王国オランに、\n国王カイアルタート゛７世し゛きし゛きの{f}",
-            "translation": ""
+            "translation": "520 of the New Royal Calendar.\nOran, the largest kingdom on\nAlecrast, ruled by Kaiyertald."
         },
         {
             "address": "0x8294b",
@@ -2376,7 +2376,7 @@
             "ptr_val": "0x501",
             "size": 61,
             "text": "使命を受けた数人の若者たちか゛いた。\n\n      大陸を東西に横断する\n      「自由人たちの街道」{f}",
-            "translation": ""
+            "translation": "A group of people is sent on a\nmission. Heading to the village \nof Palmer..."
         },
         {
             "address": "0x82988",
@@ -2384,7 +2384,7 @@
             "ptr_val": "0x53e",
             "size": 63,
             "text": "その西の果てにあるハ゜ルマーの村を\n      目指して彼らは旅立つ。\n\nおよそ数カ月におよふ゛道のりとはいえ{f}",
-            "translation": ""
+            "translation": "at the western end of the “Freemen's Road,”\n      which ran across the continent from east to west."
         },
         {
             "address": "0x829c7",
@@ -2392,7 +2392,7 @@
             "ptr_val": "0x57d",
             "size": 53,
             "text": "          街道を行く旅は、\n      それほと゛危険なものて゛は\n          ないはす゛た゛った。\n\n{f}",
-            "translation": ""
+            "translation": "Although the journey would take about three months,\n      traveling along the road was\n          not particularly dangerous"
         },
         {
             "address": "0x829fc",
@@ -33198,7 +33198,7 @@
             "ptr_val": "0xbe",
             "size": 31,
             "text": "えいえんの生命をもつ者に、\n死は意味をなさぬ……{d}{f}",
-            "translation": ""
+            "translation": "Death has no meaning to\nthose with eternal life.{d}{f}"
         },
         {
             "address": "0xaec59",
@@ -33216,7 +33216,7 @@
             "ptr_val": "0x4",
             "size": 24,
             "text": "いらっしゃい。\n傭兵をやといたいのかい？{d}{f}",
-            "translation": ""
+            "translation": "Welcome. Do you wish\nto hire a mercenary?{d}{f}"
         },
         {
             "address": "0xaecb9",
@@ -33276,7 +33276,7 @@
             "ptr_val": "0x1d",
             "size": 62,
             "text": "わかりました。\nテレホ゜ートの呪文て゛\nこの手紙を運んて゛おきましょう。\nそれて゛、料金のことて゛すか゛……{d}{f}",
-            "translation": ""
+            "translation": "Got it. I'll use the Teleport spell\nto deliver this letter.\nWhat about the fee though?{d}{f}"
         },
         {
             "address": "0xaee1b",
@@ -33408,7 +33408,7 @@
             "ptr_val": "0x304",
             "size": 69,
             "text": "我にしてやれるのはここまて゛た゛。\n外の世界から来た者たちよ、\nそなたらの友か゛待つ\nテ゛ンテ゛ルカ゛の村まて゛送ろう。{d}{f}",
-            "translation": ""
+            "translation": "This is all I can do for you.\nThose from the outside world,\nyour friends are waiting. I shall escort you\nto the village of Dendelga.{d}{f}"
         },
         {
             "address": "0xaf27f",
@@ -33600,7 +33600,7 @@
             "ptr_val": "0x4c",
             "size": 10,
             "text": "何をささけ゛る？{d}{f}",
-            "translation": ""
+            "translation": "What will you offer？{d}{f}"
         },
         {
             "address": "0xaf739",
@@ -33658,7 +33658,7 @@
             "ptr_val": "0x87",
             "size": 43,
             "text": "ファリス信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{d}{f}",
-            "translation": ""
+            "translation": "You cannot enter the temple,\nunless you are a follower of Pharis.\nPlease leave.{d}{f}{d}{f}"
         },
         {
             "address": "0xaf88b",
@@ -33674,7 +33674,7 @@
             "ptr_val": "0xbf",
             "size": 43,
             "text": "マイリー信者か゛いないと\n神殿に入ることはて゛きません。\nお帰りくた゛さい。{d}{f}",
-            "translation": ""
+            "translation": "You cannot enter the temple,\nunless you are a follower of Myrii.\nPlease leave.{d}{f}"
         },
         {
             "address": "0xaf8c3",
@@ -33682,7 +33682,7 @@
             "ptr_val": "0xea",
             "size": 16,
             "text": "マイリーの正義を共に。{d}{f}",
-            "translation": ""
+            "translation": "Join us in justice for Myrii.{d}{f}"
         },
         {
             "address": "0xaf8d3",
@@ -33732,7 +33732,7 @@
             "ptr_val": "0x4",
             "size": 28,
             "text": "四大精霊の巨人か゛守りし\n迷宮にようこそ。{d}{f}",
-            "translation": ""
+            "translation": "Welcome to the labyrinth protected\nby the four great elemental giants.{d}{f}"
         },
         {
             "address": "0xaf9ac",
@@ -33750,7 +33750,7 @@
             "ptr_val": "0x4",
             "size": 39,
             "text": "「墜とされし巨人」に\nさからおうという、\nおろか者と゛もはきさまらか。{d}{f}",
-            "translation": ""
+            "translation": "Are you so foolish that\nyou defy the Fallen Giant?{d}{f}"
         },
         {
             "address": "0xafa20",
@@ -33758,7 +33758,7 @@
             "ptr_val": "0x2b",
             "size": 54,
             "text": "おれはすへ゛てをやきつくし、\n破壊する炎の巨人。\nきさまらこ゛とき、\nこのおれの敵て゛はない！{d}{f}",
-            "translation": ""
+            "translation": "I am a fire giant,\nmy flames destroy everything.\nきさまらこ゛とき、\nこのおれの敵て゛はない！{d}{f}"
         }
     ],
     "0xafa57": [
@@ -33768,7 +33768,7 @@
             "ptr_val": "0x4",
             "size": 42,
             "text": "我は大地の巨人。\n万物をはく゛くむ\n情ふ゛かき大地の力を司るもの。{d}{f}",
-            "translation": ""
+            "translation": "I am the earth giant.\n万物をはく゛くむ\n情ふ゛かき大地の力を司るもの。{d}{f}"
         },
         {
             "address": "0xafa85",
@@ -33776,7 +33776,7 @@
             "ptr_val": "0x2e",
             "size": 31,
             "text": "た゛か゛、侵入者と゛もよ。\nきさまらにかける情はない！{d}{f}",
-            "translation": ""
+            "translation": "I have no sympathy for a measly intruder!{d}{f}"
         }
     ],
     "0xafaa5": [
@@ -33786,7 +33786,7 @@
             "ptr_val": "0x2",
             "size": 79,
             "text": "私は水の巨人。\nたゆたい流れる水の力を司るもの。\nそして私の司る力は、\n荒れ狂う波の力て゛もある。{d}\n侵入者たちよ、かくこ゛するか゛いい！{d}{f}",
-            "translation": ""
+            "translation": "I am the water giant.\nたゆたい流れる水の力を司るもの。\nそして私の司る力は、\n荒れ狂う波の力て゛もある。{d}\n侵入者たちよ、かくこ゛するか゛いい！{d}{f}"
         }
     ],
     "0xafaf7": [
@@ -33796,7 +33796,7 @@
             "ptr_val": "0x6",
             "size": 22,
             "text": "我の儀式を\nさまたけ゛るつもりか。{d}{f}",
-            "translation": ""
+            "translation": "Are you trying to interrupt the ceremony?!{d}{f}"
         },
         {
             "address": "0xafb13",
@@ -33812,7 +33812,7 @@
             "ptr_val": "0x90",
             "size": 35,
             "text": "おろかな人間よ。\nきさまらの無力さ、\n身をもって知るか゛いい！{d}{f}",
-            "translation": ""
+            "translation": "Foolish humans.\nきさまらの無力さ、\n身をもって知るか゛いい！{d}{f}"
         }
     ],
     "0xafbab": [
@@ -33842,7 +33842,7 @@
             "ptr_val": "0x2",
             "size": 7,
             "text": "ウッキーッ{d}{f}",
-            "translation": ""
+            "translation": "Woohoo!{d}{f}"
         }
     ],
     "0xafbcb": [
@@ -33852,7 +33852,7 @@
             "ptr_val": "0x6",
             "size": 32,
             "text": "おろか者め……\n神に近い力を持つ我を、\n滅ほ゛せると思",
-            "translation": "Fools... \nYou think you can\ndestroy me!?"
+            "translation": "Fools... \nYou think you can\ndestroy me?!"
         },
         {
             "address": "0xafbfa",
