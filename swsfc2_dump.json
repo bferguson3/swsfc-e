@@ -54,7 +54,7 @@
             "ptr_val": "0xa9",
             "size": 16,
             "text": "相手をおと゛す\n説得得する{f}",
-            "translation": ""
+            "translation": "Threaten \nTalk it out{f}"
         },
         {
             "address": "0x80cb9",
@@ -660,7 +660,7 @@
             "ptr_val": "0xb0",
             "size": 22,
             "text": "男は、精霊語て゛何かをさけんた゛。{d}{f}",
-            "translation": "He yells something in the\nspirit language.{d}{f}"
+            "translation": "He yells in the\nspirit tongue.{d}{f}"
         },
         {
             "address": "0x811be",
@@ -668,7 +668,7 @@
             "ptr_val": "0xc6",
             "size": 19,
             "text": "{19}{0}たちは巨人と男を倒した。{d}{f}",
-            "translation": "You defeated the giant and \nthe man.{d}{f}"
+            "translation": "You defeated the giant and \nman.{d}{f}"
         },
         {
             "address": "0x811d1",
@@ -716,7 +716,7 @@
             "ptr_val": "0x151",
             "size": 39,
             "text": "{19}{0}たちは\n男を詰所にかんきんした後、\n冒険者の店にもと゛った。{d}{f}",
-            "translation": "The party returned to the\nadventurer's inn after\nimprisoning the man.{d}{f}"
+            "translation": "The party returned to the\ninn after imprisoning \nthe man.{d}{f}"
         },
         {
             "address": "0x81270",
@@ -764,7 +764,7 @@
             "ptr_val": "0x200",
             "size": 16,
             "text": "その通りた゛\nそんな事はない{f}",
-            "translation": "Exactly\nThat's wrong {f}"
+            "translation": "Exactly\nWrong! {f}"
         },
         {
             "address": "0x81308",
@@ -1320,7 +1320,7 @@
             "ptr_val": "0x89",
             "size": 12,
             "text": "ワイロを渡す\nやめる{f}",
-            "translation": "Give bribe \nQuit {f}"
+            "translation": "Bribe\nQuit {f}"
         },
         {
             "address": "0x81a2c",
@@ -1934,7 +1934,7 @@
             "ptr_val": "0x44",
             "size": 13,
             "text": "下見を続ける\nもういい{f}",
-            "translation": "Look around more \nDone {f}"
+            "translation": "Look around\nDone {f}"
         },
         {
             "address": "0x820e1",
@@ -1942,7 +1942,7 @@
             "ptr_val": "0x51",
             "size": 12,
             "text": "傭兵を使う\nやめる{f}",
-            "translation": "Use mercenary\nQuit {f}"
+            "translation": "Use merc \nQuit {f}"
         },
         {
             "address": "0x820ed",
@@ -2078,7 +2078,7 @@
             "ptr_val": "0x1f5",
             "size": 35,
             "text": "巨人像の口か゛ゆっくりと動き、\n{19}{0}たちに話しかけてきた。{d}{f}",
-            "translation": "The giant statue's mouth opens,\nand it begins to speak. {d}{f}"
+            "translation": "The giant statue's mouth opens,\nand it speaks.{d}{f}"
         },
         {
             "address": "0x822a8",
@@ -2102,7 +2102,7 @@
             "ptr_val": "0x25d",
             "size": 24,
             "text": "と゛こからともなく、\n声か゛聞こえてくる。{d}{f}",
-            "translation": "A voice emanating from \nnowhere speaks. {d}{f}"
+            "translation": "A voice emanating from \nnowhere...{d}{f}"
         },
         {
             "address": "0x82305",
@@ -2118,7 +2118,7 @@
             "ptr_val": "0x286",
             "size": 17,
             "text": "水の宝珠を置く\nやめておく{f}",
-            "translation": "Place Water Jewel\nQuit {f}"
+            "translation": "Place Water Jwl\nQuit {f}"
         },
         {
             "address": "0x82327",
@@ -22348,7 +22348,7 @@
             "ptr_val": "0x5d",
             "size": 35,
             "text": "晩増救波讐鳴沼[?]\n????????{d}{f}",
-            "translation": ""
+            "translation": "Oran is the largest town \non the Alecrast continent.{d}{f}"
         },
         {
             "address": "0x9f0b9",

@@ -2,6 +2,9 @@
 import numpy,sys,os,json
 from PIL import Image, ImageDraw
 
+# 0x9f09a : このオランの街は
+# アレクラスト大陸で最大の街さ。
+
 #NOTE : 04h is newline
 # get the dictionary 
 print("Loading dictionary... ", end="")
@@ -16,6 +19,12 @@ while line != "":
         l[1] = "  " # replace single space with double half
     jdict.append([l[0], l[1]])
     line = f.readline()
+print(" OK.")
+
+print("Loading modified rom...", end="")
+f = open("swsfc2-e.sfc", "rb")
+rom = f.read()
+f.close()
 print(" OK.")
 
 
@@ -57,6 +66,7 @@ def U8ToSWSFC(s):
     return bytes(s).decode("sjis")
 ###
 
+#print(U8ToSWSFC("Adventure On"))
 
 class Ptr():
     def __init__(self, loc=0, val=0):
@@ -84,6 +94,7 @@ import tlbank2
 _tf = ScrFile(table=PtrTable(loc=0, ptrs=[]))
 _tf.lines = tlbank2.words 
 scr_files.append(_tf)
+print("Loaded tlbank 2...")
 
 # now load in the json file 
 print("Loading script from JSON...", end="")
@@ -100,6 +111,11 @@ for f in js:
         newf.table.ptrs.append(Ptr(loc=int(w['ptr_loc'],16), val=int(w['ptr_val'],16)))
         if w['translation'] != '':
             newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), U8ToSWSFC(w['translation']), False))
+        if w['text'] == "{f}":
+            newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), U8ToSWSFC(w['text']), False))
+        #else:
+            # TESTING: will this fix the pointer array length
+            #newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), rom[int(w['address'],16):int(w['address'],16)+int(w['size'])], True))
     scr_files.append(newf)
 
 
@@ -205,7 +221,7 @@ for f in scr_files:
 all_cmb.sort(key=lambda x: x.count, reverse=True)
 
 # set indexes
-ind = 0x50
+ind = 0x50 #0x50 # 
 i = 0
 ct = 0
 multi = 0
@@ -213,12 +229,18 @@ while i < len(all_cmb):
     all_cmb[i].index = ind 
     ct += 1
     ind += 1
+    if(ind == 0xc0): # skip dakuten bc they dont space 
+        ind += 2
+    if(ind == 0xc8): # for ! and ? in full width
+        ind += 2
     if(ind > 0xff)and(ind < 0x1000):
         ind = 0x1000
     if(all_cmb[i].count > 1):
         multi += 1
-    #print(hex(all_cmb[i].index))
+    #print(hex(all_cmb[i].index), all_cmb[i].txt)
     i += 1
+# IF YOU SKIP INDEXES, YOU HAVE TO SKIP GRAPHIC INSERTION AS WELL
+
 print(" OK.\nMax index: ", hex(ind), "of",ct,"(max 1026)/ duplicated",multi,"combinations")
 
 # convert all combinations to tile data format 
@@ -279,7 +301,9 @@ while i < len(all_cmb):
 lenofimg = 0
 for k in output_chr:
     lenofimg += len(k.bytes)
+
 print(len(output_chr),"images created OK.")
+
 output_caps = []
 i = 0
 while i < len(capsletters):
@@ -342,6 +366,7 @@ for f in scr_files:
         newword = ''
         while i < len(word.translation)-1:
             if(word.translation[i] >= 'A') and (word.translation[i] <= 'Z'):
+                # reduce ascii caps from 0x41 to 0x30
                 word.translation = word.translation[:i] + chr(ord(word.translation[i]) - 0x11) + word.translation[i+1:]
                 i += 1
                 continue
@@ -384,14 +409,25 @@ for f in scr_files:
                     f.lines[i].translation.append(b)
         i += 1
 
-print("Loading rom...", end="")
-f = open("swsfc2-e.sfc", "rb")
-rom = f.read()
-f.close()
-print(" OK.")
+def EncodeRaw(s):
+    out = []
+    for w in s:
+        for b in jdict:
+            if(ord(w) == int(b[0], 16)):
+                _b = bytes(b[1], encoding="sjis")
+                out.append(_b)
+                break 
+    inn = []
+    for l in out:
+        for b in l:
+            inn.append(b)
+    return inn
+####
+
+#print(EncodeRaw("Adventure On "))
 
 # fix captials
-addr = 0xB1180 # testing for sfc2
+addr = 0xB1180 # testing for sfc2 b1180 == 0x30 = A
 i = 0
 while i < len(output_caps):
     l = len(output_caps[i].bytes)
@@ -400,12 +436,16 @@ while i < len(output_caps):
     i += 1
 
 print("Inserting charmap... ", end="")
-addr = 0xb1480 
+addr = 0xb1480 # 0xb1480 = 0x50 , so 0xB1780 == 0x70, 0xB1A80 = 0x90, 0xB1D80 = 0xB0, 0xB1F00=0xC0
 i = 0
 while i < len(output_chr):
     l = len(output_chr[i].bytes)
     rom = rom[:addr] + bytes(output_chr[i].bytes) + rom[addr+l:]
     addr += 0x30
+    if(addr == 0xb1f00):
+        addr += 0x30 # skip c0 and c1
+    if(addr == 0xb1fc0):
+        addr += 0x30 # skip c8 and c9
     i += 1
 
 #print(hex(addr - 0xb1000),"of max",hex(0xb7000 - 0xb1000))
@@ -413,6 +453,38 @@ print("New charmap inserted.")
 
 # TODO:
 # Pointer table adjustment here, if possible!
+print("Adjusting pointer tables...")
+for f in scr_files:
+    #print(hex(f.table.loc))
+    if len(f.table.ptrs) != 0:
+        if(len(f.table.ptrs) != len(f.lines)):
+            #print("fail: not enough lines for", len(f.table.ptrs), len(f.lines))
+            continue
+        else:
+            print("adjusting",hex(f.table.loc))
+            _p = 1
+            if f.table.ptrs[0].val != len(f.table.ptrs)*2:
+                print("error! pointer table doesnt make sense!")
+            longest = f.table.ptrs[len(f.table.ptrs)-1].val
+            while _p < len(f.lines):
+                if f.lines[_p].sjis != True: # this is translated
+                    s = f.lines[_p-1].translation.encode("raw_unicode_escape")
+                    f.table.ptrs[_p].val = f.table.ptrs[_p-1].val + len(s)
+                    #print("Updated pointer: ",hex(f.table.ptrs[_p].val))
+                    if f.table.ptrs[_p].val > longest:
+                        print("warning: final pointer is too far ahead!")
+                _p += 1
+
+for f in scr_files:
+    if len(f.table.ptrs) > 0:
+        if(len(f.table.ptrs) == len(f.lines)):
+            _p = 0
+            while _p < len(f.table.ptrs):
+                st_add = f.table.loc 
+                #rom = rom[:st_add + (2*_p)] + bytes([(f.table.ptrs[_p].val & 0xff),((f.table.ptrs[_p].val & 0xff00) >> 8)]) + rom[st_add+2+(2*_p):]
+                _p += 1
+        
+print("pointer tables updated.")
 
 print("Writing new script...", end="")
 for f in scr_files:
@@ -420,12 +492,14 @@ for f in scr_files:
         if word.sjis != True:
             s = word.translation.encode("raw_unicode_escape")
             if len(s) > word.len:
-                print("too long! truncated")
-                print(word.original, len(s), word.len)
-                s = s[:s]
+                if len(f.table.ptrs) != len(f.lines):
+                    print("too long! truncated ", end="")
+                    print(word.original, len(s), word.len)
+                    s = s[:word.len] # 
+                    
             while len(s) < word.len:
                 s += b'\x20'
-            rom = rom[:word.loc] + s + rom[word.loc+word.len:]
+            rom = rom[:word.loc] + s + rom[word.loc+len(s):]
         else: # if its an sjis conversion, leave it alone
             s = bytes(word.translation)
             while len(s) < word.len:
@@ -436,7 +510,7 @@ for f in scr_files:
                 print("Too long! truncated")
                 print(word.original, len(s), word.len)
                 s = s[:s]
-            rom = rom[:word.loc] + s + rom[word.loc+word.len:]
+            rom = rom[:word.loc] + s + rom[word.loc+len(s):]
 print(" OK.")
 
 
