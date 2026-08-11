@@ -6,7 +6,7 @@
             "ptr_val": "0x3e",
             "size": 13,
             "text": "遺跡に行く\nことわる{f}",
-            "translation": "To ruins \nQuit {f}"
+            "translation": "To ruins \nRefuse {f}"
         },
         {
             "address": "0x80c4b",
@@ -14,7 +14,7 @@
             "ptr_val": "0x4b",
             "size": 12,
             "text": "たて穴を上る\nやめる{f}",
-            "translation": ""
+            "translation": "Ascend \nQuit {f}"
         },
         {
             "address": "0x80c57",
@@ -22,7 +22,7 @@
             "ptr_val": "0x57",
             "size": 16,
             "text": "１００カ゛メル払う\nことわる{f}",
-            "translation": "Pay 100 gamel\nRefuse.{f}"
+            "translation": "Pay 100 gamel\nRefuse {f}"
         },
         {
             "address": "0x80c67",
@@ -46,7 +46,7 @@
             "ptr_val": "0x97",
             "size": 18,
             "text": "アーウ゛ェルに協力する\nことわる{f}",
-            "translation": "Work with Arvell.\nRefuse.{f}"
+            "translation": "Work with Arvell \nRefuse {f}"
         },
         {
             "address": "0x80ca9",
@@ -70,7 +70,7 @@
             "ptr_val": "0xc9",
             "size": 12,
             "text": "港を見張る\nやめる{f}",
-            "translation": ""
+            "translation": "Take watch \nQuit {f}"
         },
         {
             "address": "0x80cd5",
@@ -102,7 +102,7 @@
             "ptr_val": "0xd8",
             "size": 27,
             "text": "と言って、\nアーウ゛ェルは探いためいきをついた。{d}{f}",
-            "translation": "Just like that, Arvell let \nout a sigh. {d}{f}"
+            "translation": "Arwell lets out a deep sigh. {d}{f}"
         },
         {
             "address": "0x80cf3",
@@ -117,8 +117,8 @@
             "ptr_loc": "0x80c1c",
             "ptr_val": "0x10d",
             "size": 15,
-            "text": "細の頼みを聞く\nことわる{f}",
-            "translation": "Listen to him\nRefuse.{f}"
+            "text": "男の頼みを聞く\nことわる{f}",
+            "translation": "Listen to him\nRefuse {f}"
         },
         {
             "address": "0x80d1c",
@@ -133,7 +133,7 @@
             "ptr_loc": "0x80c20",
             "ptr_val": "0x11d",
             "size": 39,
-            "text": "{19}{0}たちは\n荷物を取りもと゛して、\n細の待つ街道にもと゛った。{d}{f}",
+            "text": "{19}{0}たちは\n荷物を取りもと゛して、\n男の待つ街道にもと゛った。{d}{f}",
             "translation": ""
         },
         {
@@ -141,7 +141,7 @@
             "ptr_loc": "0x80c22",
             "ptr_val": "0x144",
             "size": 26,
-            "text": "細は、聞きなれぬ言葉て゛\n何かをさけんた゛。{d}{f}",
+            "text": "男は、聞きなれぬ言葉て゛\n何かをさけんた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -149,7 +149,7 @@
             "ptr_loc": "0x80c24",
             "ptr_val": "0x15e",
             "size": 42,
-            "text": "サイクロフ゜スの像を取った\n{19}{0}たちは、\n細の待つ街道にもと゛った。{d}{f}",
+            "text": "サイクロフ゜スの像を取った\n{19}{0}たちは、\n男の待つ街道にもと゛った。{d}{f}",
             "translation": ""
         },
         {
@@ -157,7 +157,7 @@
             "ptr_loc": "0x80c26",
             "ptr_val": "0x188",
             "size": 21,
-            "text": "{19}{0}たちは、\n細に荷物を返した。{d}{f}",
+            "text": "{19}{0}たちは、\n男に荷物を返した。{d}{f}",
             "translation": ""
         },
         {
@@ -214,7 +214,7 @@
             "ptr_val": "0x1c6",
             "size": 15,
             "text": "水の護符を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "Got Water Amulet.{d}{f}"
         },
         {
             "address": "0x80dd5",
@@ -230,7 +230,7 @@
             "ptr_val": "0x1e5",
             "size": 35,
             "text": "水の護符をささけ゛持ち、\n滝にすむ精霊のゆるしをこうた。{d}{f}",
-            "translation": ""
+            "translation": "You offer the amulet, asking \nthe spirit for permission.{d}{f}"
         },
         {
             "address": "0x80e08",
@@ -238,7 +238,7 @@
             "ptr_val": "0x208",
             "size": 32,
             "text": "聖別の呪文か゛呪付された\n魔晶石を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "You got the\nConsecrated Magistone. {d}{f}"
         },
         {
             "address": "0x80e28",
@@ -246,7 +246,7 @@
             "ptr_val": "0x228",
             "size": 16,
             "text": "水の精霊石を手に入れた。{d}{f}",
-            "translation": "Got Water Stone. {d}{f}"
+            "translation": "Got Water Magistone. {d}{f}"
         }
     ],
     "0x80e39": [
@@ -272,7 +272,7 @@
             "ptr_val": "0x3c",
             "size": 16,
             "text": "団長の頼みを聞く\nことわる{f}",
-            "translation": "Listen to the chief\nRefuse.{f}"
+            "translation": "Listen to the chief\nRefuse {f}"
         },
         {
             "address": "0x80e85",
@@ -280,7 +280,7 @@
             "ptr_val": "0x4c",
             "size": 18,
             "text": "動物を連れて村に帰る\nやめる{f}",
-            "translation": "Return the animals \nQuit.{f}"
+            "translation": "Return the animals \nQuit {f}"
         },
         {
             "address": "0x80e97",
@@ -328,7 +328,7 @@
             "ptr_val": "0x82",
             "size": 12,
             "text": "泊めてもらう\nやめる{f}",
-            "translation": ""
+            "translation": "Stay \nQuit {f}"
         },
         {
             "address": "0x80ec7",
@@ -344,7 +344,7 @@
             "ptr_val": "0x9c",
             "size": 19,
             "text": "エルハ゛ルトの頼みを聞く\nことわる{f}",
-            "translation": "Listen to Erhardt\nRefuse.{f}"
+            "translation": "Listen to Erhardt\nRefuse {f}"
         },
         {
             "address": "0x80ee8",
@@ -352,7 +352,7 @@
             "ptr_val": "0xaf",
             "size": 18,
             "text": "エルハ゛ルトと戦う\n説得する{f}",
-            "translation": ""
+            "translation": "Fight Erhardt\nExplain{f}"
         },
         {
             "address": "0x80efa",
@@ -402,7 +402,7 @@
             "ptr_val": "0x30",
             "size": 23,
             "text": "{19}{0}たちは\n自分の名を名乗った。{d}{f}",
-            "translation": ""
+            "translation": "{19}{0}'s party\ngave their names. {d}{f}"
         },
         {
             "address": "0x80f87",
@@ -410,7 +410,7 @@
             "ptr_val": "0x47",
             "size": 27,
             "text": "シキモノをと゛けると、\nかくし階段か゛あった。{d}{f}",
-            "translation": ""
+            "translation": "You find a hidden stair\nunder the carpet. {d}{f}"
         },
         {
             "address": "0x80fa2",
@@ -418,7 +418,7 @@
             "ptr_val": "0x62",
             "size": 49,
             "text": "誰もいなくなった銀キ゛ツネ亭は、\n殺人事件のこともわすれたように\nひっそりとしていた。{d}{f}",
-            "translation": ""
+            "translation": "The abandoned Silver Fox Inn\nstill stands quiet after the\nmurder. {d}{f}"
         },
         {
             "address": "0x80fd3",
@@ -442,7 +442,7 @@
             "ptr_val": "0x95",
             "size": 15,
             "text": "商人について行く\nことわる{f}",
-            "translation": ""
+            "translation": "Follow merchant\nRefuse {f}"
         },
         {
             "address": "0x80fe4",
@@ -450,7 +450,7 @@
             "ptr_val": "0xa4",
             "size": 28,
             "text": "鍛治キ゛ルト゛に行く\n皮太工キ゛ルト゛に行く{f}",
-            "translation": ""
+            "translation": "Blacksmith Guild\nLeatherworker's{f}"
         },
         {
             "address": "0x81000",
@@ -458,7 +458,7 @@
             "ptr_val": "0xc0",
             "size": 21,
             "text": "ナルマンの言い分を認める\n認めない{f}",
-            "translation": ""
+            "translation": "Accept Norman's words \nDon't{f}"
         },
         {
             "address": "0x81015",
@@ -466,7 +466,7 @@
             "ptr_val": "0xd5",
             "size": 21,
             "text": "キ゛ルト゛の依頼を受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Accept guild request \nRefuse {f}"
         },
         {
             "address": "0x8102a",
@@ -474,7 +474,7 @@
             "ptr_val": "0xea",
             "size": 18,
             "text": "チットを仲間に加える\nことわる{f}",
-            "translation": ""
+            "translation": "Recruit Chit \nRefuse {f}"
         },
         {
             "address": "0x8103c",
@@ -482,7 +482,7 @@
             "ptr_val": "0xfc",
             "size": 19,
             "text": "このまま夜になるのを待つ\nやめる{f}",
-            "translation": ""
+            "translation": "Wait for nighttime \nQuit {f}"
         },
         {
             "address": "0x8104f",
@@ -514,7 +514,7 @@
             "ptr_val": "0x112",
             "size": 18,
             "text": "と、ルナント゛は声をひそめた。{d}{f}",
-            "translation": ""
+            "translation": "Lunand quieted his voice.{d}{f}"
         },
         {
             "address": "0x81064",
@@ -522,7 +522,7 @@
             "ptr_val": "0x124",
             "size": 19,
             "text": "ルナント゛といっしょに行く\nことわる{f}",
-            "translation": ""
+            "translation": "Go with Lunand \nRefuse {f}"
         },
         {
             "address": "0x81077",
@@ -530,7 +530,7 @@
             "ptr_val": "0x137",
             "size": 23,
             "text": "コ゛ーレムは、\n動かなくなったようた゛。{d}{f}",
-            "translation": ""
+            "translation": "The golem is no longer \nfunctioning.{d}{f}"
         },
         {
             "address": "0x8108e",
@@ -538,7 +538,7 @@
             "ptr_val": "0x14e",
             "size": 13,
             "text": "オーフ゛を取る\nやめる{f}",
-            "translation": ""
+            "translation": "Take orb \nQuit {f}"
         },
         {
             "address": "0x8109b",
@@ -546,7 +546,7 @@
             "ptr_val": "0x15b",
             "size": 17,
             "text": "竜のキハ゛を３本ひろった。{d}{f}",
-            "translation": ""
+            "translation": "Got 3 Dragon Fangs. {d}{f}"
         },
         {
             "address": "0x810ac",
@@ -554,7 +554,7 @@
             "ptr_val": "0x16c",
             "size": 18,
             "text": "このオーフ゛を持って行く\nやめる{f}",
-            "translation": ""
+            "translation": "Take this orb\nQuit {f}"
         },
         {
             "address": "0x810be",
@@ -562,7 +562,7 @@
             "ptr_val": "0x17e",
             "size": 19,
             "text": "宝珠を台座にはめこむ\nやめる{f}",
-            "translation": ""
+            "translation": "Insert jewel \nQuit {f}"
         },
         {
             "address": "0x810d1",
@@ -570,7 +570,7 @@
             "ptr_val": "0x191",
             "size": 36,
             "text": "宝珠をはめこむと、\n周囲にはふしき゛な力か゛感し゛られた。{d}{f}",
-            "translation": ""
+            "translation": "You can feel a strange power in\nthe vicinity. {d}{f}"
         },
         {
             "address": "0x810f5",
@@ -603,7 +603,7 @@
             "ptr_loc": "0x810fa",
             "ptr_val": "0x3f",
             "size": 26,
-            "text": "{19}{0}たちは、\n細のケカ゛を手当てしてやった。{d}{f}",
+            "text": "{19}{0}たちは、\n男のケカ゛を手当てしてやった。{d}{f}",
             "translation": ""
         },
         {
@@ -644,7 +644,7 @@
             "ptr_val": "0x5d",
             "size": 46,
             "text": "何か言いかけようとする\nアーウ゛ェルに向かって、\nタルウ゛ァはそっと目くは゛せした。{d}{f}",
-            "translation": ""
+            "translation": "As if trying to say something, \nTalva winks at Arvel. {d}{f}"
         },
         {
             "address": "0x81183",
@@ -652,14 +652,14 @@
             "ptr_val": "0x8b",
             "size": 37,
             "text": "巨人は{19}{0}たちを\nにらみつけると、\nいかくするような声をあけ゛た。{d}{f}",
-            "translation": ""
+            "translation": "The giant glares at\n{19}{0}'s party and\nyells threateningly.{d}{f}"
         },
         {
             "address": "0x811a8",
             "ptr_loc": "0x81108",
             "ptr_val": "0xb0",
             "size": 22,
-            "text": "細は、精霊語て゛何かをさけんた゛。{d}{f}",
+            "text": "男は、精霊語て゛何かをさけんた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -667,7 +667,7 @@
             "ptr_loc": "0x8110a",
             "ptr_val": "0xc6",
             "size": 19,
-            "text": "{19}{0}たちは巨人と細を倒した。{d}{f}",
+            "text": "{19}{0}たちは巨人と男を倒した。{d}{f}",
             "translation": ""
         },
         {
@@ -676,7 +676,7 @@
             "ptr_val": "0xd9",
             "size": 24,
             "text": "サ゛インを発つ\nタルウ゛ァに協力を続ける{f}",
-            "translation": ""
+            "translation": "Depart Zain \nHelp Talva{f}"
         },
         {
             "address": "0x811e9",
@@ -684,7 +684,7 @@
             "ptr_val": "0xf1",
             "size": 35,
             "text": "世間話をする\n武器を集めていることについて聞く\n立ち去る{f}",
-            "translation": ""
+            "translation": "Talk \nAsk about weapons\nLeave{f}"
         },
         {
             "address": "0x8120c",
@@ -692,7 +692,7 @@
             "ptr_val": "0x114",
             "size": 17,
             "text": "シク゛ルト゛を尾行する\nやめる{f}",
-            "translation": ""
+            "translation": "Pursue Sigurd \nQuit {f}"
         },
         {
             "address": "0x8121d",
@@ -700,14 +700,14 @@
             "ptr_val": "0x125",
             "size": 31,
             "text": "世間話をする\n外出先についてたす゛ねる。\n立ち去る{f}",
-            "translation": ""
+            "translation": "Chat \nAsk about destination\nLeave{f}"
         },
         {
             "address": "0x8123c",
             "ptr_loc": "0x81114",
             "ptr_val": "0x144",
             "size": 13,
-            "text": "細を尾行する\nやめる{f}",
+            "text": "男を尾行する\nやめる{f}",
             "translation": ""
         },
         {
@@ -715,7 +715,7 @@
             "ptr_loc": "0x81116",
             "ptr_val": "0x151",
             "size": 39,
-            "text": "{19}{0}たちは\n細を詰所にかんきんした前、\n冒険者の店にもと゛った。{d}{f}",
+            "text": "{19}{0}たちは\n男を詰所にかんきんした前、\n冒険者の店にもと゛った。{d}{f}",
             "translation": ""
         },
         {
@@ -724,7 +724,7 @@
             "ptr_val": "0x178",
             "size": 30,
             "text": "世間話をする\n詰めよる\n指輪を返す\n立ち去る{f}",
-            "translation": ""
+            "translation": "Chat \nQuestion \nReturn ring\nLeave{f}"
         },
         {
             "address": "0x8128e",
@@ -732,7 +732,7 @@
             "ptr_val": "0x196",
             "size": 34,
             "text": "ラーノスは人数分のク゛ラスに、\nふ゛と゛う酒をそそいた゛。{d}{f}",
-            "translation": "Ranos poured thick liquor in\neveryon's glasses.{d}{f}"
+            "translation": "Ranos poured wine into \nseveral cups. {d}{f}"
         },
         {
             "address": "0x812b0",
@@ -748,7 +748,7 @@
             "ptr_val": "0x1c7",
             "size": 28,
             "text": "ラーノスは、\n自分のク゛ラスを口に運んた゛。{d}{f}",
-            "translation": "Ranos lifts the glass.{d}{f}"
+            "translation": "Ranos lifts the glass to \nhis lips. {d}{f}"
         },
         {
             "address": "0x812db",
@@ -764,7 +764,7 @@
             "ptr_val": "0x200",
             "size": 16,
             "text": "その通りた゛\nそんな事はない{f}",
-            "translation": ""
+            "translation": "Exactly\nThat's wrong {f}"
         },
         {
             "address": "0x81308",
@@ -772,7 +772,7 @@
             "ptr_val": "0x210",
             "size": 17,
             "text": "ラーノスはは゛たりと倒れた。{d}{f}",
-            "translation": ""
+            "translation": "Ranos fell with a thud.{d}{f}"
         },
         {
             "address": "0x81319",
@@ -780,7 +780,7 @@
             "ptr_val": "0x221",
             "size": 55,
             "text": "シク゛ルト゛は{19}{0}たちに\n尾行されているとも知らす゛、\n街はす゛れにある\n１けんの家に入って行った。{d}{f}",
-            "translation": ""
+            "translation": "Unaware he is being followed,\nSigurd enters a house off\nthe main road.{d}{f}"
         },
         {
             "address": "0x81350",
@@ -788,7 +788,7 @@
             "ptr_val": "0x258",
             "size": 26,
             "text": "ショートソート゛とハート゛レサ゛ーを\n見つけた。{d}{f}",
-            "translation": "Found a short sword\nand hard leather. {d}{f}"
+            "translation": "Found a short sword \nand hard leather. {d}{f}"
         },
         {
             "address": "0x8136a",
@@ -796,7 +796,7 @@
             "ptr_val": "0x272",
             "size": 13,
             "text": "詰めよる\n立ち去る{f}",
-            "translation": "Approach.\nLeave.{f}"
+            "translation": "Approach \nLeave{f}"
         },
         {
             "address": "0x81377",
@@ -836,7 +836,7 @@
             "ptr_val": "0x291",
             "size": 15,
             "text": "アヒ゛ィに手を貸す\nやめる{f}",
-            "translation": ""
+            "translation": "Aid Avi\nQuit {f}"
         }
     ],
     "0x81399": [
@@ -846,7 +846,7 @@
             "ptr_val": "0x70",
             "size": 15,
             "text": "依頼を受ける\nことわる{f}",
-            "translation": "Accept.\nRefuse.{f}"
+            "translation": "Accept \nRefuse {f}"
         },
         {
             "address": "0x81418",
@@ -862,7 +862,7 @@
             "ptr_val": "0x92",
             "size": 38,
             "text": "メリー・ヘ゛ルは、\nなみた゛をかくしなか゛ら\n台所へとかけ去った。{d}{f}",
-            "translation": "Marybelle ran into the kitchen\ntrying to hide her tears."
+            "translation": "Mary Bell ran into the kitchen\ntrying to hide her tears. {d}{f}"
         },
         {
             "address": "0x81451",
@@ -870,7 +870,7 @@
             "ptr_val": "0xb8",
             "size": 22,
             "text": "メリー・ヘ゛ルを追いかける\n放っておく{f}",
-            "translation": "Go after Marybelle.\nLeave her{f}"
+            "translation": "Go after Mary Belle\nLeave her{f}"
         },
         {
             "address": "0x81467",
@@ -886,7 +886,7 @@
             "ptr_val": "0xe1",
             "size": 33,
             "text": "台所の方から、\nメリー・ヘ゛ルのひめいか゛聞こえてきた。{d}{f}",
-            "translation": "You can hear Marybelle scream \nfrom the kitchen. {d}{f}"
+            "translation": "You can hear Mary Bell scream\nfrom the kitchen. {d}{f}"
         },
         {
             "address": "0x8149b",
@@ -894,7 +894,7 @@
             "ptr_val": "0x102",
             "size": 27,
             "text": "{19}{0}はメリー・ヘ゛ルに、\nヒールストーンを使った。{d}{f}",
-            "translation": "{19}{0} used a healing stone on\nMarybelle.{d}{f}"
+            "translation": "{19}{0} used a healstone on\nMary Bell.{d}{f}"
         },
         {
             "address": "0x814b6",
@@ -902,7 +902,7 @@
             "ptr_val": "0x11d",
             "size": 36,
             "text": "７種の植物か゛生えている場所の\n地図を受け取った。{d}{f}",
-            "translation": ""
+            "translation": "Took the map showing the \nlocation of the 7 plants. {d}{f}"
         },
         {
             "address": "0x814da",
@@ -910,7 +910,7 @@
             "ptr_val": "0x141",
             "size": 37,
             "text": "カ゛イスたちは、\n{19}{0}たちの姿を見ると\nコソコソと店を出て行った。{d}{f}",
-            "translation": ""
+            "translation": "Geis and the others\nexit whispering after \nseeing the party. {d}{f}"
         },
         {
             "address": "0x814ff",
@@ -926,7 +926,7 @@
             "ptr_val": "0x179",
             "size": 16,
             "text": "そして、一晩か゛すき゛た。{d}{f}",
-            "translation": ""
+            "translation": "The night passed.{d}{f}"
         },
         {
             "address": "0x81522",
@@ -934,7 +934,7 @@
             "ptr_val": "0x189",
             "size": 51,
             "text": "シ゛ョシュアか゛、\nメリー・ヘ゛ルに手渡したのは、\n７色にかか゛やく、うすいケーフ゜た゛った。{d}{f}",
-            "translation": "Joshua handed Marybelle a thin\nseven-coloured cap.{d}{f}\n"
+            "translation": "Joshua handed Mary Bell a light \nseven-colored cape. {d}{f}\n"
         },
         {
             "address": "0x81555",
@@ -942,7 +942,7 @@
             "ptr_val": "0x1bc",
             "size": 57,
             "text": "傷の手当てをなんと゛も\nほと゛こしたにもかかわらす゛、\nメリー・ヘ゛ルは、\nと゛んと゛ん弱っていった……{d}{f}",
-            "translation": "Despite all the efforts to\ntreat her wounds, Marybelle\ngrew steadily weaker."
+            "translation": "Despite all the efforts to \ntreat her wounds, Mary Bell \ngrew steadily weaker. {d}{f}"
         },
         {
             "address": "0x8158e",
@@ -990,7 +990,7 @@
             "ptr_val": "0x223",
             "size": 15,
             "text": "村長の頼みを聞く\nことわる{f}",
-            "translation": "Listen to him\nRefuse.{f}"
+            "translation": "Listen to him\nRefuse {f}"
         },
         {
             "address": "0x815cb",
@@ -1014,7 +1014,7 @@
             "ptr_val": "0x24f",
             "size": 18,
             "text": "洞窟を出て村にもと゛る\nやめる{f}",
-            "translation": ""
+            "translation": "Leave the cave \nQuit {f}"
         },
         {
             "address": "0x815fa",
@@ -1022,7 +1022,7 @@
             "ptr_val": "0x261",
             "size": 19,
             "text": "村長の頼みを聞く\n村をみすてて行く{f}",
-            "translation": ""
+            "translation": "Listen to the chief\nAbandon them {f}"
         },
         {
             "address": "0x8160d",
@@ -1030,7 +1030,7 @@
             "ptr_val": "0x274",
             "size": 22,
             "text": "橋のこちらか゛わにワナをしかける\nやめる{f}",
-            "translation": ""
+            "translation": "Set a trap on this side\nQuit {f}"
         },
         {
             "address": "0x81623",
@@ -1038,7 +1038,7 @@
             "ptr_val": "0x28a",
             "size": 22,
             "text": "待ちふ゛せして通路をくす゛す\nやめる{f}",
-            "translation": ""
+            "translation": "Hide in wait here\nQuit {f}"
         },
         {
             "address": "0x81639",
@@ -1046,7 +1046,7 @@
             "ptr_val": "0x2a0",
             "size": 20,
             "text": "待ちふ゛せして岩を落とす\nやめる{f}",
-            "translation": ""
+            "translation": "Hide and drop the rock \nQuit {f}"
         },
         {
             "address": "0x8164d",
@@ -1054,7 +1054,7 @@
             "ptr_val": "0x2b4",
             "size": 21,
             "text": "向こう岸て゛待ちふ゛せする\nやめる{f}",
-            "translation": ""
+            "translation": "Hide on the other side \nQuit {f}"
         },
         {
             "address": "0x81662",
@@ -1062,7 +1062,7 @@
             "ptr_val": "0x2c9",
             "size": 19,
             "text": "このテレホ゜ーターをふさく゛\nやめる{f}",
-            "translation": ""
+            "translation": "Block teleporter \nQuit {f}"
         },
         {
             "address": "0x81675",
@@ -1086,7 +1086,7 @@
             "ptr_val": "0x2fd",
             "size": 17,
             "text": "やっは゜りワナをしかける\nやめる{f}",
-            "translation": ""
+            "translation": "Set the trap \nQuit {f}"
         },
         {
             "address": "0x816a7",
@@ -1094,7 +1094,7 @@
             "ptr_val": "0x30e",
             "size": 18,
             "text": "村の人に会いに行く\n村をみすてる{f}",
-            "translation": "Meet with villagers\nLeave{f}"
+            "translation": "Meet with villagers\nAbandon{f}"
         },
         {
             "address": "0x816b9",
@@ -1126,7 +1126,7 @@
             "ptr_val": "0x323",
             "size": 10,
             "text": "話を聞く\nことわる{f}",
-            "translation": "Listen.\nRefuse.{f}"
+            "translation": "Listen \nRefuse {f}"
         },
         {
             "address": "0x816c6",
@@ -1134,7 +1134,7 @@
             "ptr_val": "0x32d",
             "size": 16,
             "text": "仕事を引き受ける\nことわる{f}",
-            "translation": ""
+            "translation": "Take the job \nRefuse {f}"
         },
         {
             "address": "0x816d6",
@@ -1142,7 +1142,7 @@
             "ptr_val": "0x33d",
             "size": 16,
             "text": "この品物を買う\n買わない{f}",
-            "translation": ""
+            "translation": "Buy this \nDon't{f}"
         },
         {
             "address": "0x816e6",
@@ -1150,14 +1150,14 @@
             "ptr_val": "0x34d",
             "size": 63,
             "text": "シルハ゛ーチェイン    ４０００カ゛メル\nヘヒ゛ークロスホ゛ウ      ３８０カ゛メル\nロンク゛スヒ゜ア          ２００カ゛メル\n{f}",
-            "translation": ""
+            "translation": "Silver Chain    4000G\nHeavy Crossbow   380G\nLong Spear       200G\n{f}"
         },
         {
             "address": "0x81725",
             "ptr_loc": "0x813e7",
             "ptr_val": "0x38c",
             "size": 20,
-            "text": "細１人              ２５００カ゛メル{f}",
+            "text": "男１人              ２５００カ゛メル{f}",
             "translation": "1 person            2500 gamel{f}"
         },
         {
@@ -1166,7 +1166,7 @@
             "ptr_val": "0x3a0",
             "size": 41,
             "text": "アルニカの花          １００カ゛メル\nラフ゛・ハ゜ッション    ５０００カ゛メル{f}",
-            "translation": ""
+            "translation": "Arnica Flower      100G\nLove Passion      5000G{f}"
         },
         {
             "address": "0x81762",
@@ -1174,7 +1174,7 @@
             "ptr_val": "0x3c9",
             "size": 65,
             "text": "金のフ゛ローチ          ５００カ゛メル\nアメシ゛ストの耳かさ゛り  ７５０カ゛メル\n真し゛ゅのネックレス  １０００カ゛メル\n{f}",
-            "translation": ""
+            "translation": "Gold Broach        500G\nAmethyst Earring   750G\nPearl Necklace    1000G\n{f}"
         },
         {
             "address": "0x817a3",
@@ -1182,7 +1182,7 @@
             "ptr_val": "0x40a",
             "size": 59,
             "text": "フ゛タ                  １００カ゛メル\nニワトリ                ５０カ゛メル\n馬                  ４０００カ゛メル{f}",
-            "translation": ""
+            "translation": "Pig        100G\nChicken     50G\nHorse     4000G{f}"
         },
         {
             "address": "0x817de",
@@ -1190,7 +1190,7 @@
             "ptr_val": "0x445",
             "size": 68,
             "text": "絵画「王国の終り」  １５００カ゛メル\n彫像「たける竜」    １０００カ゛メル\n宝石箱                ８００カ゛メル{f}",
-            "translation": ""
+            "translation": "Painting 'Kingdoms End'  1500G\nStatue 'Rising Dragon'   1000G\nJewel box                 800G{f}"
         },
         {
             "address": "0x81822",
@@ -1198,7 +1198,7 @@
             "ptr_val": "0x489",
             "size": 84,
             "text": "魔よけのルーン      ４０００カ゛メル\n飛行のフ゛ーツ        ３５００カ゛メル\n安らき゛の横笛        ２０００カ゛メル\nえいえんの花束        ５００カ゛メル{f}",
-            "translation": ""
+            "translation": "Antimagic Rune   4000G\nFlying Boots     3500G\nFlute of Calm    2000G\nForever Petals    500G{f}"
         },
         {
             "address": "0x81876",
@@ -1206,7 +1206,7 @@
             "ptr_val": "0x4dd",
             "size": 40,
             "text": "サカナのくんせい        １０カ゛メル\nくた゛もの１カコ゛          １０カ゛メル{f}",
-            "translation": ""
+            "translation": "Smoked Fish      10G\nBasket of fruit  10G{f}"
         },
         {
             "address": "0x8189e",
@@ -1214,7 +1214,7 @@
             "ptr_val": "0x505",
             "size": 16,
             "text": "ケンカをとめに入る\nやめておく{f}",
-            "translation": ""
+            "translation": "Stop the fight \nLeave{f}"
         },
         {
             "address": "0x818ae",
@@ -1222,7 +1222,7 @@
             "ptr_val": "0x515",
             "size": 16,
             "text": "マス゛ルに品物を渡した。{d}{f}",
-            "translation": ""
+            "translation": "Gave item to Muzzle.{d}{f}"
         },
         {
             "address": "0x818be",
@@ -1230,7 +1230,7 @@
             "ptr_val": "0x525",
             "size": 30,
             "text": "ナテイラの店の\n１０００カ゛メルの金券をもらった。{d}{f}",
-            "translation": ""
+            "translation": "Got a voucher for 1000G\nat Natayla's shop.{d}{f}"
         },
         {
             "address": "0x818dc",
@@ -1238,7 +1238,7 @@
             "ptr_val": "0x543",
             "size": 41,
             "text": "ユニコーンの角  ２０００００カ゛メル\nサテュロスの角笛    １０００カ゛メル{f}",
-            "translation": ""
+            "translation": "Unicorn Horn    200000G\nSaturos Flute     1000G{f}"
         },
         {
             "address": "0x81905",
@@ -1246,7 +1246,7 @@
             "ptr_val": "0x56c",
             "size": 21,
             "text": "サテュロスの角笛を買う\n買わない{f}",
-            "translation": ""
+            "translation": "Buy Saturos Flute\nDon't{f}"
         },
         {
             "address": "0x8191a",
@@ -1254,14 +1254,14 @@
             "ptr_val": "0x581",
             "size": 20,
             "text": "サテュロスの角笛を見せる\nことわる{f}",
-            "translation": ""
+            "translation": "Show Saturos Flute\nRefuse {f}"
         },
         {
             "address": "0x8192e",
             "ptr_loc": "0x81401",
             "ptr_val": "0x595",
             "size": 14,
-            "text": "細について行く\nことわる{f}",
+            "text": "男について行く\nことわる{f}",
             "translation": ""
         },
         {
@@ -1270,7 +1270,7 @@
             "ptr_val": "0x5a3",
             "size": 20,
             "text": "サテュロスの角笛を渡す\nことわる{f}",
-            "translation": ""
+            "translation": "Give Saturos Flute\nRefuse {f}"
         },
         {
             "address": "0x81950",
@@ -1278,7 +1278,7 @@
             "ptr_val": "0x5b7",
             "size": 29,
             "text": "{19}{0}たちは、\nマス゛ルを信用して金をあす゛けた。{d}{f}",
-            "translation": ""
+            "translation": "The party trusted Muzzle and \ngave him the money. {d}{f}"
         },
         {
             "address": "0x8196d",
@@ -1286,7 +1286,7 @@
             "ptr_val": "0x5d4",
             "size": 41,
             "text": "マス゛ルに残った金を返して、\nあす゛けてあった金を\n返してもらった。{d}{f}",
-            "translation": ""
+            "translation": "You return the remaining gold, \ntaking back what was borrowed.{d}{f}"
         }
     ],
     "0x81997": [
@@ -1296,7 +1296,7 @@
             "ptr_val": "0x3a",
             "size": 17,
             "text": "剣闘士として戦う\nやめる{f}",
-            "translation": "Fight as a gladiator.\nQuit.{f}"
+            "translation": "Fight as gladiator \nQuit {f}"
         },
         {
             "address": "0x819e2",
@@ -1304,7 +1304,7 @@
             "ptr_val": "0x4b",
             "size": 34,
             "text": "Ａク゛ルーフ゜に賭ける\nＢク゛ルーフ゜に賭ける\n賭けをやめる{f}",
-            "translation": ""
+            "translation": "Bet on Group A\nBet on Group B\nQuit {f}"
         },
         {
             "address": "0x81a04",
@@ -1312,7 +1312,7 @@
             "ptr_val": "0x6d",
             "size": 28,
             "text": "そう言って、\n受付は意味ありけ゛に笑った。{d}{f}",
-            "translation": ""
+            "translation": "The clerk smiles with\nobvious meaning.{d}{f}"
         },
         {
             "address": "0x81a20",
@@ -1320,7 +1320,7 @@
             "ptr_val": "0x89",
             "size": 12,
             "text": "ワイロを渡す\nやめる{f}",
-            "translation": ""
+            "translation": "Give bribe \nQuit {f}"
         },
         {
             "address": "0x81a2c",
@@ -1336,7 +1336,7 @@
             "ptr_val": "0xa4",
             "size": 47,
             "text": "カサ゛ックか゛いるフ゛ロックに出場する\n「地を裂く剣」か゛いるフ゛ロックに出場する{f}",
-            "translation": ""
+            "translation": "Enter in Kazakh's block \nEnter in Earthshatter's block {f}"
         },
         {
             "address": "0x81a6a",
@@ -1344,7 +1344,7 @@
             "ptr_val": "0xd3",
             "size": 14,
             "text": "部屋て゛休む\nやめる{f}",
-            "translation": ""
+            "translation": "Rest here\nQuit {f}"
         },
         {
             "address": "0x81a78",
@@ -1352,7 +1352,7 @@
             "ptr_val": "0xe1",
             "size": 20,
             "text": "試合を見に行く\nこの場て゛待つ{f}",
-            "translation": "Go to the games.\nWait here.{f}"
+            "translation": "Watch the match\nWait here{f}"
         },
         {
             "address": "0x81a8c",
@@ -1360,7 +1360,7 @@
             "ptr_val": "0xf5",
             "size": 70,
             "text": "{19}{0}たちは、\n巨人か゛もと゛ってくるのを\n待つことにした。{d}\n闘技場につめかけた人々の\nカンセイか゛、かすかに聞こえてくる。{d}{f}",
-            "translation": ""
+            "translation": "The party waits for the\ngiant to return.{d}\nYou can faintly hear \nthe cries of spectators.{d}{f}"
         },
         {
             "address": "0x81ad2",
@@ -1375,7 +1375,7 @@
             "ptr_loc": "0x819ab",
             "ptr_val": "0x14a",
             "size": 46,
-            "text": "「地を裂く剣」の牢に\n侵入しかけていた細は、\nあわてて逃け゛出そうとした。{d}{f}",
+            "text": "「地を裂く剣」の牢に\n侵入しかけていた男は、\nあわてて逃け゛出そうとした。{d}{f}",
             "translation": ""
         },
         {
@@ -1383,7 +1383,7 @@
             "ptr_loc": "0x819ad",
             "ptr_val": "0x178",
             "size": 84,
-            "text": "剣闘士を倒した巨人は、\nゆっくりと闘技場から去って行った。{d}\nそのせなかを、増々しけ゛に\n貴實席に座った細か゛\nにらみつけていた……{d}{f}",
+            "text": "剣闘士を倒した巨人は、\nゆっくりと闘技場から去って行った。{d}\nそのせなかを、増々しけ゛に\n貴實席に座った男か゛\nにらみつけていた……{d}{f}",
             "translation": "The giant, having defeated the\ngladiator, left the arena.\nThe man in the vip chair glared at\nhis back with increased intensity.\n"
         },
         {
@@ -1400,7 +1400,7 @@
             "ptr_val": "0x1e0",
             "size": 25,
             "text": "賞金をもらう\n巨人の自由を要求する{f}",
-            "translation": "Take bounty\nDemand giant's freedom.{f}"
+            "translation": "Take bounty\nDemand giant's freedom {f}"
         },
         {
             "address": "0x81b90",
@@ -1408,7 +1408,7 @@
             "ptr_val": "0x1f9",
             "size": 22,
             "text": "{19}{0}たちは\n１００００カ゛メルを得た。{d}{f}",
-            "translation": ""
+            "translation": "{19}{0}'s party gains\n10,000 gamel. {d}{f}"
         },
         {
             "address": "0x81ba6",
@@ -1416,7 +1416,7 @@
             "ptr_val": "0x20f",
             "size": 17,
             "text": "ハ゜ーミアと別れる\n別れない{f}",
-            "translation": ""
+            "translation": "Leave Parmia \nDon't{f}"
         },
         {
             "address": "0x81bb7",
@@ -1439,7 +1439,7 @@
             "ptr_loc": "0x819bb",
             "ptr_val": "0x222",
             "size": 13,
-            "text": "細は気を失った。{d}{f}",
+            "text": "男は気を失った。{d}{f}",
             "translation": ""
         },
         {
@@ -1447,7 +1447,7 @@
             "ptr_loc": "0x819bd",
             "ptr_val": "0x22f",
             "size": 15,
-            "text": "細は武器をかまえた。{d}{f}",
+            "text": "男は武器をかまえた。{d}{f}",
             "translation": ""
         },
         {
@@ -1456,7 +1456,7 @@
             "ptr_val": "0x23e",
             "size": 15,
             "text": "村長を助けに行く\nことわる{f}",
-            "translation": "Help the chief \nRefuse.{f}"
+            "translation": "Help the chief \nRefuse {f}"
         },
         {
             "address": "0x81be4",
@@ -1464,7 +1464,7 @@
             "ptr_val": "0x24d",
             "size": 14,
             "text": "ワナをはす゛す\nやめておく{f}",
-            "translation": ""
+            "translation": "Remove trap\nQuit {f}"
         },
         {
             "address": "0x81bf2",
@@ -1472,7 +1472,7 @@
             "ptr_val": "0x25b",
             "size": 18,
             "text": "老人を連れて行く\nほうっておく{f}",
-            "translation": ""
+            "translation": "Take him with you\nLeave{f}"
         },
         {
             "address": "0x81c04",
@@ -1504,7 +1504,7 @@
             "ptr_val": "0x270",
             "size": 16,
             "text": "扉を攻撃する\nやめておく{f}",
-            "translation": "Attack the door.\nStop.{f}"
+            "translation": "Attack the door \nQuit {f}"
         },
         {
             "address": "0x81c17",
@@ -1512,7 +1512,7 @@
             "ptr_val": "0x280",
             "size": 22,
             "text": "レイカ゛ル・フ゛レート゛を\n手に入れた。{d}{f}",
-            "translation": "Obtained \nRhaegal's blade. {d}{f}"
+            "translation": "Obtained \nRaygal Blade. {d}{f}"
         },
         {
             "address": "0x81c2d",
@@ -1530,7 +1530,7 @@
             "ptr_val": "0x38",
             "size": 35,
             "text": "{19}{0}たちか゛寝ていると、\n部屋の扉を誰かか゛ノックした。{d}{f}",
-            "translation": ""
+            "translation": "Someone knocks at the door \nwhile the party is asleep.{d}{f}"
         },
         {
             "address": "0x81ca4",
@@ -1538,7 +1538,7 @@
             "ptr_val": "0x5b",
             "size": 38,
             "text": "シ゛ャンは、{19}{0}たちに、\nとってきてほしい\n薬草のリストを渡した。{d}{f}",
-            "translation": ""
+            "translation": "Jon gives the party the\nlist of herbs he wants. {d}{f}"
         },
         {
             "address": "0x81cca",
@@ -1546,7 +1546,7 @@
             "ptr_val": "0x81",
             "size": 27,
             "text": "シ゛ャンは、{19}{0}たちに\n５００カ゛メルを渡した。{d}{f}",
-            "translation": ""
+            "translation": "Jon gives the party\n500 gamel.{d}{f}"
         },
         {
             "address": "0x81ce5",
@@ -1554,7 +1554,7 @@
             "ptr_val": "0x9c",
             "size": 13,
             "text": "廃屋へ行く\nことわる{f}",
-            "translation": "To house \nRefuse {f}"
+            "translation": "Go to cabin\nRefuse {f}"
         },
         {
             "address": "0x81cf2",
@@ -1562,7 +1562,7 @@
             "ptr_val": "0xa9",
             "size": 35,
             "text": "と言って、\nシ゛ャンは{19}{0}たちを\n部屋の外へと追い出した。{d}{f}",
-            "translation": ""
+            "translation": "So saying, Jon shoos\nthe party outside.{d}{f}"
         },
         {
             "address": "0x81d15",
@@ -1570,7 +1570,7 @@
             "ptr_val": "0xcc",
             "size": 21,
             "text": "聞き込みをする\nシ゛ャンを信用する{f}",
-            "translation": "Ask around.\nTrust Shan.{f}"
+            "translation": "Ask around \nTrust Jon{f}"
         },
         {
             "address": "0x81d2a",
@@ -1578,7 +1578,7 @@
             "ptr_val": "0xe1",
             "size": 45,
             "text": "{19}{0}たちか゛、部屋に入ると、\nすて゛に彼らの姿は\nかすみのように消えていた。{d}{f}",
-            "translation": ""
+            "translation": "As the party enters the room,\ntheir forms are already \ndisappearing. {d}{f}"
         },
         {
             "address": "0x81d57",
@@ -1586,7 +1586,7 @@
             "ptr_val": "0x10e",
             "size": 36,
             "text": "……と。\n廃屋の方から、\n何かはけ゛しくあらそう音か゛する。{d}{f}",
-            "translation": ""
+            "translation": "Just then, \nsome violent noises come from \nthe cabin.{d}{f}"
         },
         {
             "address": "0x81d7b",
@@ -1594,7 +1594,7 @@
             "ptr_val": "0x132",
             "size": 24,
             "text": "{19}{0}たちは、\n風の精霊石を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "The party gains the\nWind Magistone. {d}{f}"
         },
         {
             "address": "0x81d93",
@@ -1602,7 +1602,7 @@
             "ptr_val": "0x14a",
             "size": 36,
             "text": "レイト゛郊外の森の中に、\n廃屋はひっそりと建っていた。{d}{f}",
-            "translation": "At the edge of Reide forest,\nthe house stands quiet. {d}{f}\n"
+            "translation": "A cabin stands quietly on \nthe outskirts of Raid Forest.{d}{f}\n"
         },
         {
             "address": "0x81db7",
@@ -1610,7 +1610,7 @@
             "ptr_val": "0x16e",
             "size": 14,
             "text": "説得を試みる\n戦う{f}",
-            "translation": "Explain\nFight.{f}"
+            "translation": "Explain\nFight{f}"
         },
         {
             "address": "0x81dc5",
@@ -1618,7 +1618,7 @@
             "ptr_val": "0x17c",
             "size": 23,
             "text": "娘は、その言葉を最前に言切れた。{d}{f}",
-            "translation": ""
+            "translation": "The girl suddenly stops. {d}{f}"
         },
         {
             "address": "0x81ddc",
@@ -1626,7 +1626,7 @@
             "ptr_val": "0x193",
             "size": 30,
             "text": "……と゛こからか、\n高いふくみ笑いか゛聞こえてきた。{d}{f}",
-            "translation": ""
+            "translation": "A deep laughter resounds.{d}{f}"
         },
         {
             "address": "0x81dfa",
@@ -1634,7 +1634,7 @@
             "ptr_val": "0x1b1",
             "size": 61,
             "text": "と、そこて゛笑い声は消え、\n{19}{0}たちの軽には、\n元暗殺者の死体か゛ふたつ、\nむなしく横たわっていた。{d}{f}",
-            "translation": ""
+            "translation": "The laughter fades, and\nthe two former assassin's bodies\nappear next to the party. {d}{f}"
         },
         {
             "address": "0x81e37",
@@ -1642,7 +1642,7 @@
             "ptr_val": "0x1ee",
             "size": 14,
             "text": "イヌサフランを見つけた。{d}{f}",
-            "translation": ""
+            "translation": "Found dog saffron. {d}{f}"
         },
         {
             "address": "0x81e45",
@@ -1650,7 +1650,7 @@
             "ptr_val": "0x1fc",
             "size": 14,
             "text": "ウマコ゛ヤシを見つけた。{d}{f}",
-            "translation": ""
+            "translation": "Found white clover.{d}{f}"
         },
         {
             "address": "0x81e53",
@@ -1658,7 +1658,7 @@
             "ptr_val": "0x20a",
             "size": 14,
             "text": "コウオウソウを見つけた。{d}{f}",
-            "translation": ""
+            "translation": "Found koh herb.{d}{f}"
         },
         {
             "address": "0x81e61",
@@ -1666,7 +1666,7 @@
             "ptr_val": "0x218",
             "size": 15,
             "text": "ヘ゛ラト゛ンナを見つけた。{d}{f}",
-            "translation": ""
+            "translation": "Found belladonna.{d}{f}"
         },
         {
             "address": "0x81e70",
@@ -1674,7 +1674,7 @@
             "ptr_val": "0x227",
             "size": 37,
             "text": "その夜、{19}{0}たちは\n地図に書かれた\n廃屋に行くことにした。{d}{f}",
-            "translation": ""
+            "translation": "The party decided to \ngo to the cottage \nthat night. {d}{f}"
         },
         {
             "address": "0x81e95",
@@ -1706,7 +1706,7 @@
             "ptr_val": "0x24f",
             "size": 13,
             "text": "料金を払う\nやめる{f}",
-            "translation": ""
+            "translation": "Pay fee\nQuit {f}"
         },
         {
             "address": "0x81ea5",
@@ -1722,7 +1722,7 @@
             "ptr_val": "0x25d",
             "size": 23,
             "text": "テ゛ーモン退治を引き受ける\nことわる{f}",
-            "translation": "Accept job to defeat Teamon.\nRefuse."
+            "translation": "Accept demon hunt\nRefuse {f}"
         },
         {
             "address": "0x81ebd",
@@ -1730,7 +1730,7 @@
             "ptr_val": "0x274",
             "size": 15,
             "text": "契約書をもやす\nやめる{f}",
-            "translation": "Burn contract\nRefuse.{f}"
+            "translation": "Burn contract\nQuit {f}"
         },
         {
             "address": "0x81ecc",
@@ -1738,7 +1738,7 @@
             "ptr_val": "0x283",
             "size": 13,
             "text": "オハ゜ールをもらった。{d}{f}",
-            "translation": ""
+            "translation": "Took Opal.{d}{f}"
         },
         {
             "address": "0x81ed9",
@@ -1746,7 +1746,7 @@
             "ptr_val": "0x290",
             "size": 25,
             "text": "{19}{0}たちは\nコ゛ト゛に契約書を渡した。{d}{f}",
-            "translation": ""
+            "translation": "The party handed over\nGodo's contract. {d}{f}"
         }
     ],
     "0x81ef3": [
@@ -1756,7 +1756,7 @@
             "ptr_val": "0x2c",
             "size": 18,
             "text": "コ゛ミを調へ゛てみる\nやめておく{f}",
-            "translation": ""
+            "translation": "Search trash \nQuit {f}"
         },
         {
             "address": "0x81f31",
@@ -1772,7 +1772,7 @@
             "ptr_val": "0x4d",
             "size": 21,
             "text": "ネコをはなしてやる\nそのまま連れて行く{f}",
-            "translation": ""
+            "translation": "Let the cat go \nTake it with you {f}"
         },
         {
             "address": "0x81f55",
@@ -1780,7 +1780,7 @@
             "ptr_val": "0x62",
             "size": 16,
             "text": "１００カ゛メル渡す\nことわる{f}",
-            "translation": "Give 100G \nRefuse.{f}"
+            "translation": "Give 100G\nRefuse {f}"
         },
         {
             "address": "0x81f65",
@@ -1796,7 +1796,7 @@
             "ptr_val": "0x73",
             "size": 24,
             "text": "サ゛ンクから、\n親書を取りもと゛した。{d}{f}",
-            "translation": ""
+            "translation": "Took the letter from \nZank.{d}{f}"
         },
         {
             "address": "0x81f7e",
@@ -1828,7 +1828,7 @@
             "ptr_val": "0x8e",
             "size": 16,
             "text": "身体を休める\nやめておく{f}",
-            "translation": ""
+            "translation": "Rest \nQuit {f}"
         },
         {
             "address": "0x81f91",
@@ -2351,7 +2351,7 @@
             "ptr_loc": "0x8246e",
             "ptr_val": "0x457",
             "size": 64,
-            "text": "        女なお剣の力て゛ある。\n\n  よって、女の時代を「剣の時代」\n剣の力によって支えられたこの世界を{f}",
+            "text": "        今なお剣の力て゛ある。\n\n  よって、今の時代を「剣の時代」\n剣の力によって支えられたこの世界を{f}",
             "translation": ""
         },
         {
@@ -2425,7 +2425,7 @@
             "ptr_loc": "0x82a66",
             "ptr_val": "0x48",
             "size": 65,
-            "text": "そういえは゛、あ{15}{18}ん{16}{17}な{14}たは\nあの遺跡のまわりをうろついていた\n２人の細を見たん{15}{18}た゛ってな{16}{17}て゛すってね{14}。{d}{f}",
+            "text": "そういえは゛、あ{15}{18}ん{16}{17}な{14}たは\nあの遺跡のまわりをうろついていた\n２人の男を見たん{15}{18}た゛ってな{16}{17}て゛すってね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -2433,7 +2433,7 @@
             "ptr_loc": "0x82a68",
             "ptr_val": "0x89",
             "size": 32,
-            "text": "その２人組の細か゛\nと゛うかしたの{15}{18}かい{17}て゛すか{14}？{d}{f}",
+            "text": "その２人組の男か゛\nと゛うかしたの{15}{18}かい{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -2633,7 +2633,7 @@
             "ptr_loc": "0x82a9a",
             "ptr_val": "0x3b7",
             "size": 84,
-            "text": "{15}おれ{18}わし{16}{17}私{14}たちは女、そいつらの行方を\n追ってるところな{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}。\n何か知ってたら教えてくれ{15}{18}ないか{16}ない{17}ませんか{14}？{d}{f}",
+            "text": "{15}おれ{18}わし{16}{17}私{14}たちは今、そいつらの行方を\n追ってるところな{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}。\n何か知ってたら教えてくれ{15}{18}ないか{16}ない{17}ませんか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -2875,7 +2875,7 @@
             "ptr_loc": "0x8300e",
             "ptr_val": "0x29d",
             "size": 40,
-            "text": "他の荷物？  男の予？\nさあ、見つからなかった{15}{18}な{16}わ{17}て゛すね{14}。{d}{f}",
+            "text": "他の荷物？  女の予？\nさあ、見つからなかった{15}{18}な{16}わ{17}て゛すね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -2989,7 +2989,7 @@
             "ptr_loc": "0x832fc",
             "ptr_val": "0x1be",
             "size": 39,
-            "text": "あ！  若い男{15}{16}{17}の人{14}か゛\n流されてい{15}{18}るそ゛{16}るわ{17}ますよ{14}。{d}{f}",
+            "text": "あ！  若い女{15}{16}{17}の人{14}か゛\n流されてい{15}{18}るそ゛{16}るわ{17}ますよ{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -3021,7 +3021,7 @@
             "ptr_loc": "0x83304",
             "ptr_val": "0x253",
             "size": 25,
-            "text": "やっは゜り男は、こわい{15}{18}なぁ{17}て゛すね{14}。{d}{f}",
+            "text": "やっは゜り女は、こわい{15}{18}なぁ{17}て゛すね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -3247,7 +3247,7 @@
             "ptr_loc": "0x837f3",
             "ptr_val": "0x2c1",
             "size": 44,
-            "text": "女のうちに、\n動物たちた゛けて゛も\n村に連れて帰{15}{18}ろう{16}{17}りましょう{14}か？{d}{f}",
+            "text": "今のうちに、\n動物たちた゛けて゛も\n村に連れて帰{15}{18}ろう{16}{17}りましょう{14}か？{d}{f}",
             "translation": ""
         },
         {
@@ -5313,7 +5313,7 @@
             "ptr_loc": "0x86239",
             "ptr_val": "0x372",
             "size": 101,
-            "text": "確かにあのコ゛ーレムは女て゛も\n西に向かって道を切り開いてい{15}{18}た{16}たわ{17}ました{14}。\n１００年以上も軽の命令を\n女た゛に果たしている{15}んた゛{18}んし゛ゃ{16}のね{17}んて゛す{14}。{d}{f}",
+            "text": "確かにあのコ゛ーレムは今て゛も\n西に向かって道を切り開いてい{15}{18}た{16}たわ{17}ました{14}。\n１００年以上も軽の命令を\n今た゛に果たしている{15}んた゛{18}んし゛ゃ{16}のね{17}んて゛す{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -5345,7 +5345,7 @@
             "ptr_loc": "0x86241",
             "ptr_val": "0x441",
             "size": 94,
-            "text": "この遺跡の西側の璧か゛\nこわされているのは\nコ゛ーレムのしわさ゛な{15}んた゛{18}んし゛ゃ{16}のね{17}んて゛す{14}！{d}\nそして、コ゛ーレムは女も\n西に向かって進み続けている……{d}{f}",
+            "text": "この遺跡の西側の璧か゛\nこわされているのは\nコ゛ーレムのしわさ゛な{15}んた゛{18}んし゛ゃ{16}のね{17}んて゛す{14}！{d}\nそして、コ゛ーレムは今も\n西に向かって進み続けている……{d}{f}",
             "translation": ""
         },
         {
@@ -5523,7 +5523,7 @@
             "ptr_loc": "0x86a16",
             "ptr_val": "0xa7",
             "size": 29,
-            "text": "このまま\nあの細を置いて行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "このまま\nあの男を置いて行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -5725,7 +5725,7 @@
             "ptr_loc": "0x86d28",
             "ptr_val": "0x114",
             "size": 52,
-            "text": "それにしても、と゛うして、\nこの細は巨人におそわれす゛に\nいられたん{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
+            "text": "それにしても、と゛うして、\nこの男は巨人におそわれす゛に\nいられたん{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
             "translation": ""
         },
         {
@@ -5741,7 +5741,7 @@
             "ptr_loc": "0x86d2c",
             "ptr_val": "0x160",
             "size": 68,
-            "text": "病をあやつる細と巨人、\nそしてサ゛インの貴族……\n彼らの間には、\nと゛んな関係か゛あるの{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
+            "text": "病をあやつる男と巨人、\nそしてサ゛インの貴族……\n彼らの間には、\nと゛んな関係か゛あるの{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
             "translation": ""
         },
         {
@@ -5837,7 +5837,7 @@
             "ptr_loc": "0x86d44",
             "ptr_val": "0x410",
             "size": 76,
-            "text": "話し声は、２人た゛け{15}{18}た゛った{16}た゛ったわ{17}て゛した{14}。\nということは、\n女は家の中には\n誰もいないはす゛{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
+            "text": "話し声は、２人た゛け{15}{18}た゛った{16}た゛ったわ{17}て゛した{14}。\nということは、\n今は家の中には\n誰もいないはす゛{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -6121,7 +6121,7 @@
             "ptr_loc": "0x88008",
             "ptr_val": "0xd3",
             "size": 54,
-            "text": "もう夜もおそい{15}{18}そ゛{16}わ{17}て゛す{14}。\n女夜は、\nこの村の宿屋に泊ま{15}{18}ろ{16}{17}りましょ{14}う。{d}{f}",
+            "text": "もう夜もおそい{15}{18}そ゛{16}わ{17}て゛す{14}。\n今夜は、\nこの村の宿屋に泊ま{15}{18}ろ{16}{17}りましょ{14}う。{d}{f}",
             "translation": ""
         },
         {
@@ -6257,7 +6257,7 @@
             "ptr_loc": "0x8802a",
             "ptr_val": "0x302",
             "size": 43,
-            "text": "彼男の心か゛、いやしの力を\nこは゛んて゛いるよう{15}{18}た゛な{16}ね{17}て゛すね{14}。{d}{f}",
+            "text": "彼女の心か゛、いやしの力を\nこは゛んて゛いるよう{15}{18}た゛な{16}ね{17}て゛すね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -6265,7 +6265,7 @@
             "ptr_loc": "0x8802c",
             "ptr_val": "0x32d",
             "size": 15,
-            "text": "彼男の心の問題と思",
+            "text": "彼女の心の問題と思",
             "translation": ""
         },
         {
@@ -6305,7 +6305,7 @@
             "ptr_loc": "0x88036",
             "ptr_val": "0x40a",
             "size": 45,
-            "text": "それて゛彼男は、あんなに\n悲しそうな表情をしていたの{15}{18}か{16}ね{17}て゛すね{14}。{d}{f}",
+            "text": "それて゛彼女は、あんなに\n悲しそうな表情をしていたの{15}{18}か{16}ね{17}て゛すね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -6313,7 +6313,7 @@
             "ptr_loc": "0x88038",
             "ptr_val": "0x437",
             "size": 52,
-            "text": "彼男に生きる力を\nとりもと゛させるためには、\nあさ゛やかな色彩て゛、\n彼男の周囲を満",
+            "text": "彼女に生きる力を\nとりもと゛させるためには、\nあさ゛やかな色彩て゛、\n彼女の周囲を満",
             "translation": ""
         },
         {
@@ -6369,7 +6369,7 @@
             "ptr_loc": "0x88046",
             "ptr_val": "0x53d",
             "size": 130,
-            "text": "そう{15}{17}た゛{18}し゛ゃ{16}た゛わ{14}！  \n彼男は、色彩の妖精なのた゛から、\n森の妖精て゛あるエルフか゛、\n樹木と半は゛共生関係にあるように{d}\n色彩の妖精て゛あるメリー・ヘ゛ルは、\n色彩と共生関係にあるのて゛は？{d}{f}",
+            "text": "そう{15}{17}た゛{18}し゛ゃ{16}た゛わ{14}！  \n彼女は、色彩の妖精なのた゛から、\n森の妖精て゛あるエルフか゛、\n樹木と半は゛共生関係にあるように{d}\n色彩の妖精て゛あるメリー・ヘ゛ルは、\n色彩と共生関係にあるのて゛は？{d}{f}",
             "translation": ""
         },
         {
@@ -6571,7 +6571,7 @@
             "ptr_loc": "0x88867",
             "ptr_val": "0xe1",
             "size": 30,
-            "text": "たおれている細を、\nみすてて行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "たおれている男を、\nみすてて行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -6579,7 +6579,7 @@
             "ptr_loc": "0x88869",
             "ptr_val": "0xff",
             "size": 70,
-            "text": "女から助けを求めても\n間に合{15}{18}わない{16}わないわ{17}いません{14}。\nと゛こかに逃け゛出すしか\nないんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "今から助けを求めても\n間に合{15}{18}わない{16}わないわ{17}いません{14}。\nと゛こかに逃け゛出すしか\nないんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -6867,7 +6867,7 @@
             "ptr_loc": "0x888b1",
             "ptr_val": "0x79d",
             "size": 50,
-            "text": "女{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nみんなて゛通路をくす゛す{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
+            "text": "今{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nみんなて゛通路をくす゛す{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
             "translation": ""
         },
         {
@@ -6883,7 +6883,7 @@
             "ptr_loc": "0x888b5",
             "ptr_val": "0x811",
             "size": 51,
-            "text": "女{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nみんなて゛、この岩を落とす{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
+            "text": "今{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nみんなて゛、この岩を落とす{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
             "translation": ""
         },
         {
@@ -6915,7 +6915,7 @@
             "ptr_loc": "0x888bd",
             "ptr_val": "0x8da",
             "size": 31,
-            "text": "女{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nほうりこ{15}{18}め{16}{17}んて゛{14}！{d}{f}",
+            "text": "今{15}{17}た゛{18}し゛ゃ{16}よ{14}！\nほうりこ{15}{18}め{16}{17}んて゛{14}！{d}{f}",
             "translation": ""
         },
         {
@@ -7083,7 +7083,7 @@
             "ptr_loc": "0x888e7",
             "ptr_val": "0xc75",
             "size": 30,
-            "text": "女{15}{17}た゛{18}し゛ゃ{16}よ{14}！  手をはな{15}{18}せ{16}{17}して{14}！{d}{f}",
+            "text": "今{15}{17}た゛{18}し゛ゃ{16}よ{14}！  手をはな{15}{18}せ{16}{17}して{14}！{d}{f}",
             "translation": ""
         },
         {
@@ -7155,7 +7155,7 @@
             "ptr_loc": "0x888f9",
             "ptr_val": "0xda1",
             "size": 48,
-            "text": "あの細と約束したし゛ゃない{15}{18}か{17}て゛すか{14}。\nとなりの村に行{15}{18}こ{16}{17}きましょ{14}う！{d}{f}",
+            "text": "あの男と約束したし゛ゃない{15}{18}か{17}て゛すか{14}。\nとなりの村に行{15}{18}こ{16}{17}きましょ{14}う！{d}{f}",
             "translation": ""
         },
         {
@@ -8207,7 +8207,7 @@
             "ptr_loc": "0x8a981",
             "ptr_val": "0x4b5",
             "size": 62,
-            "text": "あー、よく寝た。\n女日は試合のある日{15}{18}た゛な{16}ね{17}て゛すね{14}。\n試合場へ行{15}{18}こ{16}{17}きましょ{14}うか。{d}{f}",
+            "text": "あー、よく寝た。\n今日は試合のある日{15}{18}た゛な{16}ね{17}て゛すね{14}。\n試合場へ行{15}{18}こ{16}{17}きましょ{14}うか。{d}{f}",
             "translation": ""
         },
         {
@@ -9477,7 +9477,7 @@
             "ptr_loc": "0x8c2cf",
             "ptr_val": "0x681",
             "size": 49,
-            "text": "つかれたから、\n女日はさっさと宿にもと゛って\nね{15}{18}ちまおうせ゛{16}{17}てしまいましょう{14}。{d}{f}",
+            "text": "つかれたから、\n今日はさっさと宿にもと゛って\nね{15}{18}ちまおうせ゛{16}{17}てしまいましょう{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -9783,7 +9783,7 @@
             "ptr_loc": "0x8cb4c",
             "ptr_val": "0x3bb",
             "size": 71,
-            "text": "待って{15}{18}くれ{17}くた゛さい{14}！\nと゛うして女こ゛ろになって、\nあ{15}{18}ん{16}{17}な{14}たたちは目さ゛めた{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
+            "text": "待って{15}{18}くれ{17}くた゛さい{14}！\nと゛うして今こ゛ろになって、\nあ{15}{18}ん{16}{17}な{14}たたちは目さ゛めた{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -10241,7 +10241,7 @@
             "ptr_loc": "0x8d0af",
             "ptr_val": "0x869",
             "size": 51,
-            "text": "もう一度、\nコ゛ト゛のところに行{15}{18}こ{16}{17}きましょ{14}う。\n女度こそ、目を覚まさせないと。{d}{f}",
+            "text": "もう一度、\nコ゛ト゛のところに行{15}{18}こ{16}{17}きましょ{14}う。\n今度こそ、目を覚まさせないと。{d}{f}",
             "translation": ""
         },
         {
@@ -10821,7 +10821,7 @@
             "ptr_loc": "0x8e3aa",
             "ptr_val": "0x8b",
             "size": 68,
-            "text": "おかしい{15}{18}な{16}わね{17}て゛すね{14}。\nここにいるリサ゛ート゛マンは、\n年よりや男予供は゛かり{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。{d}{f}",
+            "text": "おかしい{15}{18}な{16}わね{17}て゛すね{14}。\nここにいるリサ゛ート゛マンは、\n年よりや女予供は゛かり{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -10829,7 +10829,7 @@
             "ptr_loc": "0x8e3ac",
             "ptr_val": "0xcf",
             "size": 34,
-            "text": "細たちは狩りにて゛も\n行ったんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "男たちは狩りにて゛も\n行ったんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -10845,7 +10845,7 @@
             "ptr_loc": "0x8e3b0",
             "ptr_val": "0x112",
             "size": 83,
-            "text": "そういえは゛、\n村の様予か゛変{15}{18}た゛ったな{16}た゛ったわね{17}て゛したね{14}。\n細のリサ゛ート゛マンたちは、\nと゛こに行った{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
+            "text": "そういえは゛、\n村の様予か゛変{15}{18}た゛ったな{16}た゛ったわね{17}て゛したね{14}。\n男のリサ゛ート゛マンたちは、\nと゛こに行った{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -10861,7 +10861,7 @@
             "ptr_loc": "0x8e3b4",
             "ptr_val": "0x16a",
             "size": 45,
-            "text": "細の連中は西の森に、\n魔物を倒しに行った{15}{18}んた゛な{16}のね{17}んて゛すね{14}。{d}{f}",
+            "text": "男の連中は西の森に、\n魔物を倒しに行った{15}{18}んた゛な{16}のね{17}んて゛すね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -11199,7 +11199,7 @@
             "ptr_loc": "0x8eb8b",
             "ptr_val": "0x12e",
             "size": 95,
-            "text": "い{15}{18}{17}や{16}え{14}、ちか゛{15}{18}うそ゛{16}うわ{17}います{14}。\n女、気付いたんた゛けと゛、\nこの部屋そのものか゛、ゆっくりと\n地下におりていってる{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
+            "text": "い{15}{18}{17}や{16}え{14}、ちか゛{15}{18}うそ゛{16}うわ{17}います{14}。\n今、気付いたんた゛けと゛、\nこの部屋そのものか゛、ゆっくりと\n地下におりていってる{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}！{d}{f}",
             "translation": ""
         },
         {
@@ -11367,7 +11367,7 @@
             "ptr_loc": "0x8ebb5",
             "ptr_val": "0x4b3",
             "size": 44,
-            "text": "うん。\n女て゛は正常な大地の精霊力か゛\n感し゛られ{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
+            "text": "うん。\n今て゛は正常な大地の精霊力か゛\n感し゛られ{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -11473,7 +11473,7 @@
             "ptr_loc": "0x8f1dd",
             "ptr_val": "0x132",
             "size": 115,
-            "text": "そう{15}{18}{17}か{16}ね{14}！  それはいい考え{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。\nレイト゛は「傭兵の街」と\n呼は゛れているくらいた゛から{15}{18}な{14}。{d}\nし゛ゃあ、女すく゛\nレイト゛の傭兵キ゛ルト゛に行{15}{18}くか{16}く{17}きますか{14}？{d}{f}",
+            "text": "そう{15}{18}{17}か{16}ね{14}！  それはいい考え{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。\nレイト゛は「傭兵の街」と\n呼は゛れているくらいた゛から{15}{18}な{14}。{d}\nし゛ゃあ、今すく゛\nレイト゛の傭兵キ゛ルト゛に行{15}{18}くか{16}く{17}きますか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -11561,7 +11561,7 @@
             "ptr_loc": "0x8f1f3",
             "ptr_val": "0x453",
             "size": 43,
-            "text": "うーん……\n話か゛大きすき゛て、\n女ひとつ実感か゛わかない{15}{18}{17}な{16}わ{14}……{d}{f}",
+            "text": "うーん……\n話か゛大きすき゛て、\n今ひとつ実感か゛わかない{15}{18}{17}な{16}わ{14}……{d}{f}",
             "translation": ""
         },
         {
@@ -11779,7 +11779,7 @@
             "ptr_loc": "0x8f880",
             "ptr_val": "0x2bc",
             "size": 24,
-            "text": "女の声は、何{15}{18}た゛ろ{16}{17}て゛しょ{14}う？{d}{f}",
+            "text": "今の声は、何{15}{18}た゛ろ{16}{17}て゛しょ{14}う？{d}{f}",
             "translation": ""
         },
         {
@@ -11947,7 +11947,7 @@
             "ptr_loc": "0x8f8aa",
             "ptr_val": "0x72d",
             "size": 67,
-            "text": "{19}{0}！\n一体、何を考えてる{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。\n女度は、ちゃんと答え{15}{18}ろよ{16}てよ{17}てくた゛さいよ{14}！{d}{f}",
+            "text": "{19}{0}！\n一体、何を考えてる{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。\n今度は、ちゃんと答え{15}{18}ろよ{16}てよ{17}てくた゛さいよ{14}！{d}{f}",
             "translation": ""
         }
     ],
@@ -12593,7 +12593,7 @@
             "ptr_loc": "0x90d1d",
             "ptr_val": "0xbe",
             "size": 63,
-            "text": "    アレクラスト大陸を救った\n      {19}{0}たちと共に、\n          アーウ゛ェルは\n  女もと゛こかを旅し続けている。{f}",
+            "text": "    アレクラスト大陸を救った\n      {19}{0}たちと共に、\n          アーウ゛ェルは\n  今もと゛こかを旅し続けている。{f}",
             "translation": ""
         },
         {
@@ -12651,7 +12651,7 @@
             "ptr_loc": "0x90e5d",
             "ptr_val": "0x102",
             "size": 61,
-            "text": "  女日もと゛こかを旅し続けている。\n\n          彼らの冒険は、\n伝説とも呼ふ゛へ゛き物語のひとつとして{f}",
+            "text": "  今日もと゛こかを旅し続けている。\n\n          彼らの冒険は、\n伝説とも呼ふ゛へ゛き物語のひとつとして{f}",
             "translation": ""
         },
         {
@@ -12935,7 +12935,7 @@
             "ptr_loc": "0x9156b",
             "ptr_val": "0x22c",
             "size": 40,
-            "text": "この細か゛、\nトロールたちに\n命令をしていたの{15}{18}か{17}て゛しょうか{14}？{d}{f}",
+            "text": "この男か゛、\nトロールたちに\n命令をしていたの{15}{18}か{17}て゛しょうか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -12985,7 +12985,7 @@
             "ptr_loc": "0x917fe",
             "ptr_val": "0x86",
             "size": 36,
-            "text": "女、{15}おれ{18}わし{16}{17}私{14}をくすく゛った{15}{18}た゛ろ{16}{17}て゛しょ{14}う？{d}{f}",
+            "text": "今、{15}おれ{18}わし{16}{17}私{14}をくすく゛った{15}{18}た゛ろ{16}{17}て゛しょ{14}う？{d}{f}",
             "translation": ""
         }
     ],
@@ -13019,7 +13019,7 @@
             "ptr_loc": "0x918a9",
             "ptr_val": "0xdd",
             "size": 147,
-            "text": "やめてお{15}{18}こ{16}{17}きましょ{14}う。\n{15}おれ{18}わし{16}{17}私{14}たちは先を急か゛なくちゃ\nならない{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}\n女なら霧にまきこまれす゛に\n国境をこえることか゛て゛き{15}{18}る{16}るわ{17}ます{14}。\n放っておけは゛、\n霧もそのうち消える{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
+            "text": "やめてお{15}{18}こ{16}{17}きましょ{14}う。\n{15}おれ{18}わし{16}{17}私{14}たちは先を急か゛なくちゃ\nならない{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}\n今なら霧にまきこまれす゛に\n国境をこえることか゛て゛き{15}{18}る{16}るわ{17}ます{14}。\n放っておけは゛、\n霧もそのうち消える{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
             "translation": ""
         },
         {
@@ -13195,7 +13195,7 @@
             "ptr_loc": "0x918d5",
             "ptr_val": "0x41f",
             "size": 54,
-            "text": "女となっては、\n何もわか{15}{18}らないよ{16}らないわ{17}りません{14}。\n先を急{15}{18}こ゛{16}{17}き゛ましょ{14}う……{d}{f}",
+            "text": "今となっては、\n何もわか{15}{18}らないよ{16}らないわ{17}りません{14}。\n先を急{15}{18}こ゛{16}{17}き゛ましょ{14}う……{d}{f}",
             "translation": ""
         },
         {
@@ -13203,7 +13203,7 @@
             "ptr_loc": "0x918d7",
             "ptr_val": "0x455",
             "size": 34,
-            "text": "女まて゛のは、\n全部幻覚た゛ったの{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "今まて゛のは、\n全部幻覚た゛ったの{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -13299,7 +13299,7 @@
             "ptr_loc": "0x918ef",
             "ptr_val": "0x614",
             "size": 27,
-            "text": "しかし、なせ゛、女こ゛ろになって\nこんなことを？{d}{f}",
+            "text": "しかし、なせ゛、今こ゛ろになって\nこんなことを？{d}{f}",
             "translation": ""
         },
         {
@@ -13649,7 +13649,7 @@
             "ptr_loc": "0x92359",
             "ptr_val": "0x58f",
             "size": 94,
-            "text": "もう、別のコ゛ーレムか゛\n現れることはないわけ{15}た゛{18}し゛ゃ{16}ね{17}て゛すね{14}。\nより道になってしまった{15}{18}{17}か゛{16}けと゛{14}、\n女度こそサ゛インに向か{15}{18}お{16}{17}いましょ{14}う。{d}{f}",
+            "text": "もう、別のコ゛ーレムか゛\n現れることはないわけ{15}た゛{18}し゛ゃ{16}ね{17}て゛すね{14}。\nより道になってしまった{15}{18}{17}か゛{16}けと゛{14}、\n今度こそサ゛インに向か{15}{18}お{16}{17}いましょ{14}う。{d}{f}",
             "translation": ""
         },
         {
@@ -14045,7 +14045,7 @@
             "ptr_loc": "0x92eae",
             "ptr_val": "0x1f7",
             "size": 57,
-            "text": "待{15}{18}てよ{16}って{17}ってくた゛さい{14}。\nまた゛あの細の身体を\n探ってい{15}{18}ないそ゛{16}ないわ{17}ません{14}。{d}{f}",
+            "text": "待{15}{18}てよ{16}って{17}ってくた゛さい{14}。\nまた゛あの男の身体を\n探ってい{15}{18}ないそ゛{16}ないわ{17}ません{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -14213,7 +14213,7 @@
             "ptr_loc": "0x92ed8",
             "ptr_val": "0x526",
             "size": 75,
-            "text": "い{15}{18}や{16}{17}え{14}。\n女はまた゛、しょうこか゛たり{15}{18}ない{16}ないわ{17}ません{14}。\nそれに、黒マクか゛いるようなことを\n言っていたし{15}{18}な{16}{17}ね{14}。{d}{f}",
+            "text": "い{15}{18}や{16}{17}え{14}。\n今はまた゛、しょうこか゛たり{15}{18}ない{16}ないわ{17}ません{14}。\nそれに、黒マクか゛いるようなことを\n言っていたし{15}{18}な{16}{17}ね{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -14391,7 +14391,7 @@
             "ptr_loc": "0x93555",
             "ptr_val": "0x146",
             "size": 92,
-            "text": "メリー・ヘ゛ルのこと{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。\n彼男は、あ{15}{18}ん{16}{17}な{14}たか゛生活のために\nふて゛を荒らしていることを、\nひと゛く悲しんて゛い{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
+            "text": "メリー・ヘ゛ルのこと{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。\n彼女は、あ{15}{18}ん{16}{17}な{14}たか゛生活のために\nふて゛を荒らしていることを、\nひと゛く悲しんて゛い{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
             "translation": ""
         },
         {
@@ -14585,7 +14585,7 @@
             "ptr_loc": "0x938d2",
             "ptr_val": "0x2a3",
             "size": 252,
-            "text": "聞きたいことか゛ある{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}。\n{15}おれ{18}わし{16}{17}私{14}たちは旅の途中て゛\n巨人たちに何度か\n会ったことか゛ある{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}\nサ゛インて゛は、巨人といっしょにいる\n細か゛いた。その細は、\nサ゛インの貴族と手を組んて゛、\n街に疫病をはやらせてい{15}{18}た{16}たの{17}ました{14}。{d}\nそして、その細は\n「自由人たちの街道」のそんさ゛いを\nひと゛く増んて゛い{15}{18}{17}た{16}たわ{14}……\nなせ゛な{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
+            "text": "聞きたいことか゛ある{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}。\n{15}おれ{18}わし{16}{17}私{14}たちは旅の途中て゛\n巨人たちに何度か\n会ったことか゛ある{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}\nサ゛インて゛は、巨人といっしょにいる\n男か゛いた。その男は、\nサ゛インの貴族と手を組んて゛、\n街に疫病をはやらせてい{15}{18}た{16}たの{17}ました{14}。{d}\nそして、その男は\n「自由人たちの街道」のそんさ゛いを\nひと゛く増んて゛い{15}{18}{17}た{16}たわ{14}……\nなせ゛な{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -14689,7 +14689,7 @@
             "ptr_loc": "0x938ec",
             "ptr_val": "0x72d",
             "size": 122,
-            "text": "そっちこそ、気をつけ{15}{18}ろよ{16}てね{17}てくた゛さい{14}。\nあ{15}{18}ん{16}{17}な{14}たを勝たせまいとしている\n何者かか゛いるよう{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}\nそういえは゛、\n女回のトーナメントて゛は、\n武器は使えないの{15}{18}か{17}て゛すか{14}？{d}{f}",
+            "text": "そっちこそ、気をつけ{15}{18}ろよ{16}てね{17}てくた゛さい{14}。\nあ{15}{18}ん{16}{17}な{14}たを勝たせまいとしている\n何者かか゛いるよう{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}\nそういえは゛、\n今回のトーナメントて゛は、\n武器は使えないの{15}{18}か{17}て゛すか{14}？{d}{f}",
             "translation": ""
         },
         {
@@ -14753,7 +14753,7 @@
             "ptr_loc": "0x938fc",
             "ptr_val": "0x8d4",
             "size": 34,
-            "text": "（さっき、巨人をにらみつけていた\n細{15}{18}{17}た゛な{16}ね{14}……）{d}{f}",
+            "text": "（さっき、巨人をにらみつけていた\n男{15}{18}{17}た゛な{16}ね{14}……）{d}{f}",
             "translation": ""
         },
         {
@@ -15443,7 +15443,7 @@
             "ptr_loc": "0x952a1",
             "ptr_val": "0x4d",
             "size": 75,
-            "text": "何{15}{18}た゛{16}{17}て゛す{14}って！\n女のク゛ラスランナー{15}{18}か{14}？\n追いかけ{15}{18}るそ゛{16}るわよ{17}ますよ{14}。{d}\nそこのク゛ラスランナー、\n待てーっ！{d}{f}",
+            "text": "何{15}{18}た゛{16}{17}て゛す{14}って！\n今のク゛ラスランナー{15}{18}か{14}？\n追いかけ{15}{18}るそ゛{16}るわよ{17}ますよ{14}。{d}\nそこのク゛ラスランナー、\n待てーっ！{d}{f}",
             "translation": ""
         },
         {
@@ -16073,7 +16073,7 @@
             "ptr_loc": "0x95e37",
             "ptr_val": "0x406",
             "size": 26,
-            "text": "あの時は、力になれなくて……\n女も残念に思",
+            "text": "あの時は、力になれなくて……\n今も残念に思",
             "translation": ""
         },
         {
@@ -16251,7 +16251,7 @@
             "ptr_loc": "0x962de",
             "ptr_val": "0x3c0",
             "size": 40,
-            "text": "かまいませんか゛……\nハ゛レン師は、\n女まて゛何をなさってたんて゛すか？{d}{f}",
+            "text": "かまいませんか゛……\nハ゛レン師は、\n今まて゛何をなさってたんて゛すか？{d}{f}",
             "translation": ""
         },
         {
@@ -16573,7 +16573,7 @@
             "ptr_loc": "0x98000",
             "ptr_val": "0x1d2",
             "size": 70,
-            "text": "君か゛見たという細たちのことを、\nせ゛ひとも聞かせてほしいんた゛。{d}\nそいつらの人相なと゛を\n覚えていたら、教えてくれないか？{d}{f}",
+            "text": "君か゛見たという男たちのことを、\nせ゛ひとも聞かせてほしいんた゛。{d}\nそいつらの人相なと゛を\n覚えていたら、教えてくれないか？{d}{f}",
             "translation": ""
         },
         {
@@ -16589,7 +16589,7 @@
             "ptr_loc": "0x98004",
             "ptr_val": "0x22f",
             "size": 83,
-            "text": "ああ。\nきみたちか゛入る軽に\nあの遺跡のまわりをうろついていた\n２人組の細というのか゛、{d}\nたふ゛ん、あの遺跡にあった\nぬけ穴をほったんた゛ろう。{d}{f}",
+            "text": "ああ。\nきみたちか゛入る軽に\nあの遺跡のまわりをうろついていた\n２人組の男というのか゛、{d}\nたふ゛ん、あの遺跡にあった\nぬけ穴をほったんた゛ろう。{d}{f}",
             "translation": ""
         },
         {
@@ -16605,7 +16605,7 @@
             "ptr_loc": "0x98008",
             "ptr_val": "0x2be",
             "size": 200,
-            "text": "そうた゛。\n女のところ手か゛かりはないか゛、\nその２人組か゛怪しい。{d}\nもし、そいつらか゛暗殺者なら\nオランから逃け゛た゛そうと\nするかもしれない。{d}\n隊長に報告して、\n街の主要な出入口を\n警備してもらわねは゛……\nて゛は、私はこれて゛失礼する。{d}\nもしかしたら\n協力を頼むかもしれないのて゛、\nしは゛らくここて゛待っていてくれないか。\nすく゛にもと゛るよ。{d}{f}",
+            "text": "そうた゛。\n今のところ手か゛かりはないか゛、\nその２人組か゛怪しい。{d}\nもし、そいつらか゛暗殺者なら\nオランから逃け゛た゛そうと\nするかもしれない。{d}\n隊長に報告して、\n街の主要な出入口を\n警備してもらわねは゛……\nて゛は、私はこれて゛失礼する。{d}\nもしかしたら\n協力を頼むかもしれないのて゛、\nしは゛らくここて゛待っていてくれないか。\nすく゛にもと゛るよ。{d}{f}",
             "translation": ""
         },
         {
@@ -16709,7 +16709,7 @@
             "ptr_loc": "0x98022",
             "ptr_val": "0x6bb",
             "size": 21,
-            "text": "そうか！\nて゛、奴らは女、と゛こに？{d}{f}",
+            "text": "そうか！\nて゛、奴らは今、と゛こに？{d}{f}",
             "translation": ""
         },
         {
@@ -16949,7 +16949,7 @@
             "ptr_loc": "0x9805e",
             "ptr_val": "0x9f0",
             "size": 57,
-            "text": "急く゛旅た゛か゛、このままあの細を\n見すてるわけにはいかない。\nやはり、山賊のアシ゛トに向かおう。{d}{f}",
+            "text": "急く゛旅た゛か゛、このままあの男を\n見すてるわけにはいかない。\nやはり、山賊のアシ゛トに向かおう。{d}{f}",
             "translation": ""
         },
         {
@@ -17213,7 +17213,7 @@
             "ptr_loc": "0x980a0",
             "ptr_val": "0xcd5",
             "size": 94,
-            "text": "わけか゛あって、\n騎士の資格をはくた゛つされたんた゛。\n女は、名誉を回復させるための\n使命の途中た゛。{d}\nこちらは、\n私に協力してくれている\n冒険者たちた゛。{d}{f}",
+            "text": "わけか゛あって、\n騎士の資格をはくた゛つされたんた゛。\n今は、名誉を回復させるための\n使命の途中た゛。{d}\nこちらは、\n私に協力してくれている\n冒険者たちた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -17293,7 +17293,7 @@
             "ptr_loc": "0x980b4",
             "ptr_val": "0xe04",
             "size": 79,
-            "text": "そうた゛な。早く出発したいのは\nやまやまなんた゛か゛、\nと゛うも女回の巨人さわき゛には\n裏か゛あるような気もするしな。{d}\nと゛うする、{19}{0}？{d}{f}",
+            "text": "そうた゛な。早く出発したいのは\nやまやまなんた゛か゛、\nと゛うも今回の巨人さわき゛には\n裏か゛あるような気もするしな。{d}\nと゛うする、{19}{0}？{d}{f}",
             "translation": ""
         },
         {
@@ -17389,7 +17389,7 @@
             "ptr_loc": "0x980cc",
             "ptr_val": "0xfa2",
             "size": 35,
-            "text": "いちおうオランの生まれて゛すか゛、\n女は冒険者をやっています。{d}{f}",
+            "text": "いちおうオランの生まれて゛すか゛、\n今は冒険者をやっています。{d}{f}",
             "translation": ""
         },
         {
@@ -17517,7 +17517,7 @@
             "ptr_loc": "0x980ec",
             "ptr_val": "0x11fd",
             "size": 45,
-            "text": "そうた゛な。\nとりあえす゛、この細は\n騎士団の詰所にあす゛かってもらおう。{d}{f}",
+            "text": "そうた゛な。\nとりあえす゛、この男は\n騎士団の詰所にあす゛かってもらおう。{d}{f}",
             "translation": ""
         },
         {
@@ -17637,7 +17637,7 @@
             "ptr_loc": "0x9810a",
             "ptr_val": "0x145a",
             "size": 73,
-            "text": "……そうた゛な。サ゛インにいた巨人と\n病をあやつる細か゛、なせ゛\n「自由人たちの街道」のそんさ゛いを\n増むようになったのか……{d}{f}",
+            "text": "……そうた゛な。サ゛インにいた巨人と\n病をあやつる男か゛、なせ゛\n「自由人たちの街道」のそんさ゛いを\n増むようになったのか……{d}{f}",
             "translation": ""
         },
         {
@@ -18981,7 +18981,7 @@
             "ptr_loc": "0x9a87d",
             "ptr_val": "0x3ad",
             "size": 75,
-            "text": "ええ、\nあなたのしそんか゛住む村て゛す。{d}\n私たちは\nあなたの名軽のついた村て゛くらし、\n女て゛もあなたの成しとけ゛たことを、\nほこりに思",
+            "text": "ええ、\nあなたのしそんか゛住む村て゛す。{d}\n私たちは\nあなたの名軽のついた村て゛くらし、\n今て゛もあなたの成しとけ゛たことを、\nほこりに思",
             "translation": ""
         },
         {
@@ -19815,7 +19815,7 @@
             "ptr_loc": "0x9b97e",
             "ptr_val": "0x104",
             "size": 43,
-            "text": "いや、それは……\n私にはかいもく……\nとりあえす゛、女は\n村人を救ってほしい。{d}{f}",
+            "text": "いや、それは……\n私にはかいもく……\nとりあえす゛、今は\n村人を救ってほしい。{d}{f}",
             "translation": ""
         },
         {
@@ -19855,7 +19855,7 @@
             "ptr_loc": "0x9b988",
             "ptr_val": "0x1fc",
             "size": 84,
-            "text": "品種かいりょうした中て゛、\n少い知特をもった１匹か゛、\n女まて゛育ててきた\nマント゛レイクたちを集めて、{d}\nあっというまに村を支配したんた゛。{d}{f}",
+            "text": "品種かいりょうした中て゛、\n少い知特をもった１匹か゛、\n今まて゛育ててきた\nマント゛レイクたちを集めて、{d}\nあっというまに村を支配したんた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -19863,7 +19863,7 @@
             "ptr_loc": "0x9b98a",
             "ptr_val": "0x250",
             "size": 109,
-            "text": "女回の一件は、\n私の研究の行きすき゛か゛原因た゛。\nめいわくをかけてすまなかった。{d}\nマント゛レイクのリータ゛ーを\nやっつけたから、\nもし生き残りか゛いても、\n私か゛薬て゛しょふ゛んて゛きるよ。{d}{f}",
+            "text": "今回の一件は、\n私の研究の行きすき゛か゛原因た゛。\nめいわくをかけてすまなかった。{d}\nマント゛レイクのリータ゛ーを\nやっつけたから、\nもし生き残りか゛いても、\n私か゛薬て゛しょふ゛んて゛きるよ。{d}{f}",
             "translation": ""
         },
         {
@@ -19871,7 +19871,7 @@
             "ptr_loc": "0x9b98c",
             "ptr_val": "0x2bd",
             "size": 189,
-            "text": "マント゛レイクたちには\nもう手は出さんよ。\nた゛か゛、新しい薬か゛て゛きれは゛、\nそれた゛け助かる人間も多くなる。{d}\nそのためにも、\nふつうの薬草の研究は\n続けていくか゛ね。{d}\nて゛きれは゛、マント゛レイクたちを\nとらなくてもいいような\n薬をつくってみせるよ。{d}\n女回のような事件を\n二度と起こさないためにも……\nこれは、お礼の薬草た゛。{d}{f}",
+            "text": "マント゛レイクたちには\nもう手は出さんよ。\nた゛か゛、新しい薬か゛て゛きれは゛、\nそれた゛け助かる人間も多くなる。{d}\nそのためにも、\nふつうの薬草の研究は\n続けていくか゛ね。{d}\nて゛きれは゛、マント゛レイクたちを\nとらなくてもいいような\n薬をつくってみせるよ。{d}\n今回のような事件を\n二度と起こさないためにも……\nこれは、お礼の薬草た゛。{d}{f}",
             "translation": ""
         },
         {
@@ -19969,7 +19969,7 @@
             "ptr_loc": "0x9bd1f",
             "ptr_val": "0x265",
             "size": 88,
-            "text": "そうか。\nそうしてくれれは゛ありか゛たい。\n……というのはな、アーウ゛ェル。{d}\n私か゛女日ここに来たのは\n女かかえている任務の事て゛\n冒険者に協力をたのもうと\n思",
+            "text": "そうか。\nそうしてくれれは゛ありか゛たい。\n……というのはな、アーウ゛ェル。{d}\n私か゛今日ここに来たのは\n今かかえている任務の事て゛\n冒険者に協力をたのもうと\n思",
             "translation": ""
         },
         {
@@ -19977,7 +19977,7 @@
             "ptr_loc": "0x9bd21",
             "ptr_val": "0x2c8",
             "size": 116,
-            "text": "そうた゛。\n最近、街の近くに巨人か゛現れ、\n人をおそっているんた゛。{d}\nそして、その巨人に命令していた\nあやしい細か゛いたという。\n私の任務というのは、その巨人を{d}\n見つけて、退治することなんた゛。{d}{f}",
+            "text": "そうた゛。\n最近、街の近くに巨人か゛現れ、\n人をおそっているんた゛。{d}\nそして、その巨人に命令していた\nあやしい男か゛いたという。\n私の任務というのは、その巨人を{d}\n見つけて、退治することなんた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -20105,7 +20105,7 @@
             "ptr_loc": "0x9bd41",
             "ptr_val": "0x6dc",
             "size": 68,
-            "text": "そうた゛。ラーノス伯爵は、\nこのサ゛インの貴族た゛。\nた゛か゛、なせ゛この細か゛、\nこんなものを持っているんた゛ろう……{d}{f}",
+            "text": "そうた゛。ラーノス伯爵は、\nこのサ゛インの貴族た゛。\nた゛か゛、なせ゛この男か゛、\nこんなものを持っているんた゛ろう……{d}{f}",
             "translation": ""
         },
         {
@@ -20121,7 +20121,7 @@
             "ptr_loc": "0x9bd45",
             "ptr_val": "0x749",
             "size": 65,
-            "text": "協力を感謝するよ。\n君たちのおかけ゛て゛、\nこの細と巨人を倒すことか゛て゛きた。\nこれは約束の報酬た゛。{d}{f}",
+            "text": "協力を感謝するよ。\n君たちのおかけ゛て゛、\nこの男と巨人を倒すことか゛て゛きた。\nこれは約束の報酬た゛。{d}{f}",
             "translation": ""
         },
         {
@@ -20129,7 +20129,7 @@
             "ptr_loc": "0x9bd47",
             "ptr_val": "0x78a",
             "size": 108,
-            "text": "た゛か゛……\nこの細か゛持っていた指輪は\nこのサ゛インの貴族、\nラーノス伯爵のものた゛った。{d}\n街に疫病をもたらしたこの細と、\nラーノス伯爵……\nと゛んなつなか゛りか゛あるのた゛ろう。{d}{f}",
+            "text": "た゛か゛……\nこの男か゛持っていた指輪は\nこのサ゛インの貴族、\nラーノス伯爵のものた゛った。{d}\n街に疫病をもたらしたこの男と、\nラーノス伯爵……\nと゛んなつなか゛りか゛あるのた゛ろう。{d}{f}",
             "translation": ""
         },
         {
@@ -20137,7 +20137,7 @@
             "ptr_loc": "0x9bd49",
             "ptr_val": "0x7f6",
             "size": 193,
-            "text": "サ゛インは女、内乱の危機を\nはらんて゛いるんた゛。{d}\nラーノス伯爵は\n旧王家の血を引く人た゛から、\nひょっとしたらサ゛イン王家に対して\n反乱をくわた゛てているのかもしれない。{d}\n疫病て゛サ゛インの街か゛混乱すれは゛、\nすきか゛生し゛るからな。\nそれに、疫病て゛サ゛インか゛封鎖されれは゛\n外国からかいにゅうされることもない。{d}{f}",
+            "text": "サ゛インは今、内乱の危機を\nはらんて゛いるんた゛。{d}\nラーノス伯爵は\n旧王家の血を引く人た゛から、\nひょっとしたらサ゛イン王家に対して\n反乱をくわた゛てているのかもしれない。{d}\n疫病て゛サ゛インの街か゛混乱すれは゛、\nすきか゛生し゛るからな。\nそれに、疫病て゛サ゛インか゛封鎖されれは゛\n外国からかいにゅうされることもない。{d}{f}",
             "translation": ""
         },
         {
@@ -20273,7 +20273,7 @@
             "ptr_loc": "0x9bd6b",
             "ptr_val": "0xbfe",
             "size": 51,
-            "text": "いや。\n女はまた゛しょうこか゛たりない。\nそれに、黒マクか゛いるようなことを\n言っていたしな。{d}{f}",
+            "text": "いや。\n今はまた゛しょうこか゛たりない。\nそれに、黒マクか゛いるようなことを\n言っていたしな。{d}{f}",
             "translation": ""
         },
         {
@@ -20313,7 +20313,7 @@
             "ptr_loc": "0x9bd75",
             "ptr_val": "0xcc5",
             "size": 38,
-            "text": "そうた゛な。\nとりあえす゛、この細は\n詰所にふ゛ちこんて゛おこう。{d}{f}",
+            "text": "そうた゛な。\nとりあえす゛、この男は\n詰所にふ゛ちこんて゛おこう。{d}{f}",
             "translation": ""
         },
         {
@@ -20515,7 +20515,7 @@
             "ptr_loc": "0x9ccf0",
             "ptr_val": "0x14f",
             "size": 64,
-            "text": "本当にありか゛とうこ゛さ゛いました。\nこんなにたくさんの\nオオカミか゛現れたことは、\n女まて゛なかったんて゛すか゛。{d}{f}",
+            "text": "本当にありか゛とうこ゛さ゛いました。\nこんなにたくさんの\nオオカミか゛現れたことは、\n今まて゛なかったんて゛すか゛。{d}{f}",
             "translation": ""
         },
         {
@@ -20685,7 +20685,7 @@
             "ptr_loc": "0x9cf08",
             "ptr_val": "0x25c",
             "size": 69,
-            "text": "すみません、つい声を荒け゛てしまって。\n女夜は、\nこの家に泊っていってくた゛さい。\n色々と話をしたいこともありますし。{d}{f}",
+            "text": "すみません、つい声を荒け゛てしまって。\n今夜は、\nこの家に泊っていってくた゛さい。\n色々と話をしたいこともありますし。{d}{f}",
             "translation": ""
         },
         {
@@ -20749,7 +20749,7 @@
             "ptr_loc": "0x9cf18",
             "ptr_val": "0x363",
             "size": 73,
-            "text": "……ここの絵は、メリー・ヘ゛ルか゛、\nここにいることて゛保たれていたんて゛す。{d}\nしかし彼男は、\nほ゛くか゛最近金持ちたちを\n満",
+            "text": "……ここの絵は、メリー・ヘ゛ルか゛、\nここにいることて゛保たれていたんて゛す。{d}\nしかし彼女は、\nほ゛くか゛最近金持ちたちを\n満",
             "translation": ""
         },
         {
@@ -20893,7 +20893,7 @@
             "ptr_loc": "0x9cf3c",
             "ptr_val": "0x653",
             "size": 79,
-            "text": "ここの絵のかか゛やくような色は、\nメリー・ヘ゛ルの力によって\n保たれていたんて゛す。{d}\nしかし、そのメリー・ヘ゛ルか゛、\n女、死にかけている……{d}{f}",
+            "text": "ここの絵のかか゛やくような色は、\nメリー・ヘ゛ルの力によって\n保たれていたんて゛す。{d}\nしかし、そのメリー・ヘ゛ルか゛、\n今、死にかけている……{d}{f}",
             "translation": ""
         },
         {
@@ -20901,7 +20901,7 @@
             "ptr_loc": "0x9cf3e",
             "ptr_val": "0x6a2",
             "size": 142,
-            "text": "……た゛めて゛す。あの色は、\n女、私か゛使っている\n絵の具て゛は出せません。{d}\nあれは、連奇石にかかる虹の光に\nてらされた植物からとった\n染料て゛ないと出せない色なんて゛す。{d}\nそして、\nその染料はほそ゛んか゛きかないのて゛、\nここにはないんて゛す。{d}{f}",
+            "text": "……た゛めて゛す。あの色は、\n今、私か゛使っている\n絵の具て゛は出せません。{d}\nあれは、連奇石にかかる虹の光に\nてらされた植物からとった\n染料て゛ないと出せない色なんて゛す。{d}\nそして、\nその染料はほそ゛んか゛きかないのて゛、\nここにはないんて゛す。{d}{f}",
             "translation": ""
         },
         {
@@ -20973,7 +20973,7 @@
             "ptr_loc": "0x9cf50",
             "ptr_val": "0x8ac",
             "size": 38,
-            "text": "ええ。彼男のためにも、\n心を入れかえて\nやり直すつもりて゛す……{d}{f}",
+            "text": "ええ。彼女のためにも、\n心を入れかえて\nやり直すつもりて゛す……{d}{f}",
             "translation": ""
         },
         {
@@ -21113,7 +21113,7 @@
             "ptr_loc": "0x9d92e",
             "ptr_val": "0x138",
             "size": 70,
-            "text": "まあ、いいわ。\n女に始まったことし゛ゃないし。{d}\nねえ、あんたたち。\n地下墓地に行くんなら、\nあたしたちといっしょに行かない？{d}{f}",
+            "text": "まあ、いいわ。\n今に始まったことし゛ゃないし。{d}\nねえ、あんたたち。\n地下墓地に行くんなら、\nあたしたちといっしょに行かない？{d}{f}",
             "translation": ""
         },
         {
@@ -22105,7 +22105,7 @@
             "ptr_loc": "0x9ea54",
             "ptr_val": "0x69",
             "size": 124,
-            "text": "ああ、いいとも。\n１人はとても小か゛らな細て゛、\n魔術師の杖を持っていた。{d}\nもう１人は、額に傷のある\n目つきの悪い細た゛ったよ。{d}\nそれから、\n何に使うつもりか知らないか゛\n２人とも大きなシャヘ゛ルを\n持っていたなあ。{d}{f}",
+            "text": "ああ、いいとも。\n１人はとても小か゛らな男て゛、\n魔術師の杖を持っていた。{d}\nもう１人は、額に傷のある\n目つきの悪い男た゛ったよ。{d}\nそれから、\n何に使うつもりか知らないか゛\n２人とも大きなシャヘ゛ルを\n持っていたなあ。{d}{f}",
             "translation": ""
         },
         {
@@ -22421,7 +22421,7 @@
             "ptr_loc": "0x9f1e8",
             "ptr_val": "0x52",
             "size": 51,
-            "text": "ふむ……\nところて゛、アーウ゛ェルよ。\n女日、おまえを呼んた゛\n理由はわかっていような。{d}{f}",
+            "text": "ふむ……\nところて゛、アーウ゛ェルよ。\n今日、おまえを呼んた゛\n理由はわかっていような。{d}{f}",
             "translation": ""
         },
         {
@@ -22445,7 +22445,7 @@
             "ptr_loc": "0x9f1ee",
             "ptr_val": "0xe9",
             "size": 192,
-            "text": "となれは゛、もちろん\nロト゛ーリルの罪は問わねは゛ならん。\nた゛か゛、女はその時て゛はないのた゛。{d}\n女、ロト゛ーリルに対して\n戦いをしかけれは゛、\n我か゛オランは負けてしまうた゛ろう。{d}\nよって、\nまた゛真相をかくしておくへ゛きた゛と\n余は考えたのた゛。{d}\nところか゛、おまえたちは\n余のもくろみをふ゛ちこわしにした。\nいそ゛んあるか、アーウ゛ェル？{d}{f}",
+            "text": "となれは゛、もちろん\nロト゛ーリルの罪は問わねは゛ならん。\nた゛か゛、今はその時て゛はないのた゛。{d}\n今、ロト゛ーリルに対して\n戦いをしかけれは゛、\n我か゛オランは負けてしまうた゛ろう。{d}\nよって、\nまた゛真相をかくしておくへ゛きた゛と\n余は考えたのた゛。{d}\nところか゛、おまえたちは\n余のもくろみをふ゛ちこわしにした。\nいそ゛んあるか、アーウ゛ェル？{d}{f}",
             "translation": ""
         },
         {
@@ -22543,7 +22543,7 @@
             "ptr_loc": "0x9f596",
             "ptr_val": "0x1a",
             "size": 34,
-            "text": "う……うう……やられた……\n山賊か゛、荷物と男たちを……{d}{f}",
+            "text": "う……うう……やられた……\n山賊か゛、荷物と女たちを……{d}{f}",
             "translation": ""
         },
         {
@@ -22551,7 +22551,7 @@
             "ptr_loc": "0x9f598",
             "ptr_val": "0x3c",
             "size": 52,
-            "text": "おれは、た゛いし゛ょうふ゛た゛……\nそれよりも、荷物と男たちを\n取りもと゛してくれ……頼む。{d}{f}",
+            "text": "おれは、た゛いし゛ょうふ゛た゛……\nそれよりも、荷物と女たちを\n取りもと゛してくれ……頼む。{d}{f}",
             "translation": ""
         },
         {
@@ -23103,7 +23103,7 @@
             "ptr_loc": "0xa032a",
             "ptr_val": "0x4f",
             "size": 44,
-            "text": "裏山？\n以軽は人も住んて゛たけと゛な。\n女は誰も足をふみいれないよ。{d}{f}",
+            "text": "裏山？\n以軽は人も住んて゛たけと゛な。\n今は誰も足をふみいれないよ。{d}{f}",
             "translation": ""
         },
         {
@@ -23433,7 +23433,7 @@
             "ptr_loc": "0xa09f4",
             "ptr_val": "0x1b9",
             "size": 56,
-            "text": "君たちか゛来るのに気つ゛いて\n逃け゛出したんた゛ろう。\n彼男のかわりくらい、\nすく゛に見つけるよ。{d}{f}",
+            "text": "君たちか゛来るのに気つ゛いて\n逃け゛出したんた゛ろう。\n彼女のかわりくらい、\nすく゛に見つけるよ。{d}{f}",
             "translation": ""
         },
         {
@@ -23657,7 +23657,7 @@
             "ptr_loc": "0xa1049",
             "ptr_val": "0x6",
             "size": 60,
-            "text": "と゛うかね、女夜うちて゛\n泊まって行かないか？\n道中の話を聞かせてくれれは゛、\n宿代なんかいらないよ。{d}{f}",
+            "text": "と゛うかね、今夜うちて゛\n泊まって行かないか？\n道中の話を聞かせてくれれは゛、\n宿代なんかいらないよ。{d}{f}",
             "translation": ""
         },
         {
@@ -24035,7 +24035,7 @@
             "ptr_loc": "0xa1806",
             "ptr_val": "0x15",
             "size": 22,
-            "text": "あ〜あ、\n男の１人旅ってつかれるわ。{d}{f}",
+            "text": "あ〜あ、\n女の１人旅ってつかれるわ。{d}{f}",
             "translation": ""
         },
         {
@@ -24169,7 +24169,7 @@
             "ptr_loc": "0xa1911",
             "ptr_val": "0x209",
             "size": 41,
-            "text": "女、２階は客か゛いっは゜いなんた゛。\nすまんか゛、上か゛らないて゛くれ。{d}{f}",
+            "text": "今、２階は客か゛いっは゜いなんた゛。\nすまんか゛、上か゛らないて゛くれ。{d}{f}",
             "translation": ""
         },
         {
@@ -24799,7 +24799,7 @@
             "ptr_loc": "0xa258f",
             "ptr_val": "0x295",
             "size": 254,
-            "text": "まさか、地下２階にも部屋か゛\nあったなんて……先代の主人は、\n愛人て゛ある男特を妻に見つかった\nというのて゛殺したそうて゛す。{d}\nそして、地下２階の部屋に\n死体をかくし、化けて出ないように\n封印をほと゛こしていたとか。{d}\nシ゛ャイアントアントか゛封印を\nやふ゛ったため、彼男は幽霊となって\n出てきたのて゛しょう……{d}\nとにかく、あなたたちのおかけ゛て゛\n事件は解決しました。\nと゛うもありか゛とう。\nこれは幽霊を退治してくれた報酬て゛す。{d}{f}",
+            "text": "まさか、地下２階にも部屋か゛\nあったなんて……先代の主人は、\n愛人て゛ある女特を妻に見つかった\nというのて゛殺したそうて゛す。{d}\nそして、地下２階の部屋に\n死体をかくし、化けて出ないように\n封印をほと゛こしていたとか。{d}\nシ゛ャイアントアントか゛封印を\nやふ゛ったため、彼女は幽霊となって\n出てきたのて゛しょう……{d}\nとにかく、あなたたちのおかけ゛て゛\n事件は解決しました。\nと゛うもありか゛とう。\nこれは幽霊を退治してくれた報酬て゛す。{d}{f}",
             "translation": ""
         },
         {
@@ -24825,7 +24825,7 @@
             "ptr_loc": "0xa2958",
             "ptr_val": "0x16",
             "size": 161,
-            "text": "犯人を捕まえるまて゛、\n外に出てはならんそ゛。{d}\n女、サ゛インて゛は疫病か゛流行していて\n街道か゛封鎖されているのた゛か゛、\n密入国する者も多くてな。{d}\n我々は、そういう奴らを\nとりしまるのにいそか゛しいのた゛。\nしは゛らく捜査にはかかれんか゛、\nこの宿屋から出てはならんそ゛。{d}{f}",
+            "text": "犯人を捕まえるまて゛、\n外に出てはならんそ゛。{d}\n今、サ゛インて゛は疫病か゛流行していて\n街道か゛封鎖されているのた゛か゛、\n密入国する者も多くてな。{d}\n我々は、そういう奴らを\nとりしまるのにいそか゛しいのた゛。\nしは゛らく捜査にはかかれんか゛、\nこの宿屋から出てはならんそ゛。{d}{f}",
             "translation": ""
         },
         {
@@ -24897,7 +24897,7 @@
             "ptr_loc": "0xa296a",
             "ptr_val": "0x194",
             "size": 61,
-            "text": "先代の主人に殺された男特か゛、\nスヘ゜クターになったんた゛。\nうらみのあまり\n死にきれなかったんた゛ろう。{d}{f}",
+            "text": "先代の主人に殺された女特か゛、\nスヘ゜クターになったんた゛。\nうらみのあまり\n死にきれなかったんた゛ろう。{d}{f}",
             "translation": ""
         },
         {
@@ -25013,7 +25013,7 @@
             "ptr_loc": "0xa2ba4",
             "ptr_val": "0x219",
             "size": 23,
-            "text": "とにかく、\n女ここにある車輪をくれ。{d}{f}",
+            "text": "とにかく、\n今ここにある車輪をくれ。{d}{f}",
             "translation": ""
         },
         {
@@ -25069,7 +25069,7 @@
             "ptr_loc": "0xa2bb2",
             "ptr_val": "0x385",
             "size": 22,
-            "text": "とにかく、\n女ここにある手綱をくれ。{d}{f}",
+            "text": "とにかく、\n今ここにある手綱をくれ。{d}{f}",
             "translation": ""
         },
         {
@@ -25249,7 +25249,7 @@
             "ptr_loc": "0xa32d6",
             "ptr_val": "0x138",
             "size": 34,
-            "text": "そうか。\nすまないか゛、女の話は\n聞かなかったことにしてくれ。{d}{f}",
+            "text": "そうか。\nすまないか゛、今の話は\n聞かなかったことにしてくれ。{d}{f}",
             "translation": ""
         },
         {
@@ -25337,7 +25337,7 @@
             "ptr_loc": "0xa32ec",
             "ptr_val": "0x3bb",
             "size": 55,
-            "text": "女夜の見張り当番は、\n馬車キ゛ルト゛のはす゛た゛。\n何かあったら、\n協力してもらうように。{d}{f}",
+            "text": "今夜の見張り当番は、\n馬車キ゛ルト゛のはす゛た゛。\n何かあったら、\n協力してもらうように。{d}{f}",
             "translation": ""
         },
         {
@@ -25395,7 +25395,7 @@
             "ptr_loc": "0xa3843",
             "ptr_val": "0x139",
             "size": 34,
-            "text": "そうか。\nすまないか゛、女の話は\n聞かなかったことにしてくれ。{d}{f}",
+            "text": "そうか。\nすまないか゛、今の話は\n聞かなかったことにしてくれ。{d}{f}",
             "translation": ""
         },
         {
@@ -25483,7 +25483,7 @@
             "ptr_loc": "0xa3859",
             "ptr_val": "0x3bb",
             "size": 55,
-            "text": "女夜の見張り当番は、\n馬車キ゛ルト゛のはす゛た゛。\n何かあったら、\n協力してもらうように。{d}{f}",
+            "text": "今夜の見張り当番は、\n馬車キ゛ルト゛のはす゛た゛。\n何かあったら、\n協力してもらうように。{d}{f}",
             "translation": ""
         },
         {
@@ -25645,7 +25645,7 @@
             "ptr_loc": "0xa3dca",
             "ptr_val": "0x443",
             "size": 21,
-            "text": "奴なら女こ゛ろ、ここにいる細の……{d}{f}",
+            "text": "奴なら今こ゛ろ、ここにいる男の……{d}{f}",
             "translation": ""
         },
         {
@@ -25823,7 +25823,7 @@
             "ptr_loc": "0xa45c1",
             "ptr_val": "0xa",
             "size": 63,
-            "text": "それはありか゛たい。\n倉庫のほうも、女夜のうちにまた、\nやとった盗賊と゛もか゛\n品物を入れかえているはす゛。{d}{f}",
+            "text": "それはありか゛たい。\n倉庫のほうも、今夜のうちにまた、\nやとった盗賊と゛もか゛\n品物を入れかえているはす゛。{d}{f}",
             "translation": ""
         },
         {
@@ -25893,7 +25893,7 @@
             "ptr_loc": "0xa46e7",
             "ptr_val": "0x6",
             "size": 70,
-            "text": "この先のサ゛インは疫病か゛はやっていて、\n国境の手軽て゛封鎖されているんた゛。\n女から行ってもムタ゛になるた゛けた゛。{d}{f}",
+            "text": "この先のサ゛インは疫病か゛はやっていて、\n国境の手軽て゛封鎖されているんた゛。\n今から行ってもムタ゛になるた゛けた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -26133,7 +26133,7 @@
             "ptr_loc": "0xa4a5f",
             "ptr_val": "0x4",
             "size": 104,
-            "text": "我々ノ仲間ハ、イママテ゛人間ニ\nサンサ゛ン苦シメラレテキタ。{d}\nアマツサエ、コノヨウナモノテ゛、\n死ヌタメタ゛ケニ生マレテコサセラレル。\n女度ハ我々カ゛\nソノ、オカエシヲスル番タ゛！{d}{f}",
+            "text": "我々ノ仲間ハ、イママテ゛人間ニ\nサンサ゛ン苦シメラレテキタ。{d}\nアマツサエ、コノヨウナモノテ゛、\n死ヌタメタ゛ケニ生マレテコサセラレル。\n今度ハ我々カ゛\nソノ、オカエシヲスル番タ゛！{d}{f}",
             "translation": ""
         },
         {
@@ -26169,7 +26169,7 @@
             "ptr_loc": "0xa4b7b",
             "ptr_val": "0x14",
             "size": 59,
-            "text": "おい。街を出てはいかんそ゛。\n疫病か゛はやっているのて゛\nサ゛インの街は女、\n封鎖されているのた゛。{d}{f}",
+            "text": "おい。街を出てはいかんそ゛。\n疫病か゛はやっているのて゛\nサ゛インの街は今、\n封鎖されているのた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -26177,7 +26177,7 @@
             "ptr_loc": "0xa4b7d",
             "ptr_val": "0x4f",
             "size": 86,
-            "text": "さあな。\nとにかく、女は出てはいかん。{d}\n神殿の司祭たちも\nキュアー・テ゛ィシ゛ース゛の呪文て゛\n病人たちをいやしているか゛、\nとても追いつかんのた゛。{d}{f}",
+            "text": "さあな。\nとにかく、今は出てはいかん。{d}\n神殿の司祭たちも\nキュアー・テ゛ィシ゛ース゛の呪文て゛\n病人たちをいやしているか゛、\nとても追いつかんのた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -26373,7 +26373,7 @@
             "ptr_loc": "0xa4e5f",
             "ptr_val": "0x8b",
             "size": 31,
-            "text": "へえ！\nそれはすこ゛いわ。\nて゛、女度は何の用なの？{d}{f}",
+            "text": "へえ！\nそれはすこ゛いわ。\nて゛、今度は何の用なの？{d}{f}",
             "translation": ""
         },
         {
@@ -26599,7 +26599,7 @@
             "ptr_loc": "0xa5306",
             "ptr_val": "0x5a",
             "size": 61,
-            "text": "す゛いふ゛んと\nたくさん買ってくれたよ。\n黒いかみと灰色のひとみの、\nひたいに傷のある若い細た゛ったな。{d}{f}",
+            "text": "す゛いふ゛んと\nたくさん買ってくれたよ。\n黒いかみと灰色のひとみの、\nひたいに傷のある若い男た゛ったな。{d}{f}",
             "translation": ""
         },
         {
@@ -27155,7 +27155,7 @@
             "ptr_loc": "0xa5d94",
             "ptr_val": "0x8a",
             "size": 33,
-            "text": "女まて゛オオカミなんて、\n出たことなかったのに……ハァハァ。{d}{f}",
+            "text": "今まて゛オオカミなんて、\n出たことなかったのに……ハァハァ。{d}{f}",
             "translation": ""
         },
         {
@@ -27203,7 +27203,7 @@
             "ptr_loc": "0xa5da0",
             "ptr_val": "0x175",
             "size": 106,
-            "text": "ありか゛とうこ゛さ゛います。\n女のところ？？頭、\n助けていたた゛きました。{d}\n？？頭は残念て゛したか゛……\nあと？？頭、と゛こかにいるはす゛て゛す。\nほ゛くもか゛んは゛りますからお願いします。{d}{f}",
+            "text": "ありか゛とうこ゛さ゛います。\n今のところ？？頭、\n助けていたた゛きました。{d}\n？？頭は残念て゛したか゛……\nあと？？頭、と゛こかにいるはす゛て゛す。\nほ゛くもか゛んは゛りますからお願いします。{d}{f}",
             "translation": ""
         },
         {
@@ -27475,7 +27475,7 @@
             "ptr_loc": "0xa634f",
             "ptr_val": "0x17e",
             "size": 118,
-            "text": "あたしは、\nシ゛ョシュアか゛生活のために\n絵をかいていることか゛悲しいの。{d}\n女の彼の絵には、昔のあさ゛やかな\n色彩のかか゛やきはないわ。\nあたしはそれか゛悲しいの……\nいっしょにいると、時々つらくなるわ。{d}{f}",
+            "text": "あたしは、\nシ゛ョシュアか゛生活のために\n絵をかいていることか゛悲しいの。{d}\n今の彼の絵には、昔のあさ゛やかな\n色彩のかか゛やきはないわ。\nあたしはそれか゛悲しいの……\nいっしょにいると、時々つらくなるわ。{d}{f}",
             "translation": ""
         },
         {
@@ -27677,7 +27677,7 @@
             "ptr_loc": "0xa686a",
             "ptr_val": "0x1e",
             "size": 188,
-            "text": "私は、村長に頼まれて\n巨人たちの動きを\n見張っていた者て゛す。{d}\n実は、巨人たちか゛北に向かうさいに、\n先頭に立っている男特か゛、\n「人間たちの街道を封鎖するために、\nます゛は強き力を手に入れるのた゛」{d}\nと言っているのを聞いたのて゛す。\nひょっとしたら、巨人たちは\n再ひ゛、この村にもと゛ってくるのて゛は\nないかと心配て゛……{d}{f}",
+            "text": "私は、村長に頼まれて\n巨人たちの動きを\n見張っていた者て゛す。{d}\n実は、巨人たちか゛北に向かうさいに、\n先頭に立っている女特か゛、\n「人間たちの街道を封鎖するために、\nます゛は強き力を手に入れるのた゛」{d}\nと言っているのを聞いたのて゛す。\nひょっとしたら、巨人たちは\n再ひ゛、この村にもと゛ってくるのて゛は\nないかと心配て゛……{d}{f}",
             "translation": ""
         },
         {
@@ -27851,7 +27851,7 @@
             "ptr_loc": "0xa6c75",
             "ptr_val": "0x252",
             "size": 118,
-            "text": "大変て゛す！\nこの細の話によると\n巨人たちは街道を\n封鎖するつもりのようて゛す！{d}\n……え？\nすて゛に倒してしまったて゛すって？\nあれた゛けの巨人を倒してしまうとは…{d}\n冒険者というのは\nたいしたお方て゛すな。{d}{f}",
+            "text": "大変て゛す！\nこの男の話によると\n巨人たちは街道を\n封鎖するつもりのようて゛す！{d}\n……え？\nすて゛に倒してしまったて゛すって？\nあれた゛けの巨人を倒してしまうとは…{d}\n冒険者というのは\nたいしたお方て゛すな。{d}{f}",
             "translation": ""
         },
         {
@@ -28027,7 +28027,7 @@
             "ptr_loc": "0xa7221",
             "ptr_val": "0x8e",
             "size": 29,
-            "text": "なら、そこて゛ウロウロしている細に\n話しかけてみな。{d}{f}",
+            "text": "なら、そこて゛ウロウロしている男に\n話しかけてみな。{d}{f}",
             "translation": ""
         },
         {
@@ -28077,7 +28077,7 @@
             "ptr_loc": "0xa72f3",
             "ptr_val": "0xe2",
             "size": 286,
-            "text": "タ゛ンナ様は\nロマールて゛買物なさるのを\nそれはもう、\n楽しみにしてらしたんて゛す。{d}\nところか゛急用か゛て゛きてしまい、\n明日にも\n旅立たねは゛ならなくなりました。{d}\nまた゛おみやけ゛も何も、\n買ってらっしゃらないというのに……\nそこて゛、て゛す。{d}\n女から闇市に行って、\nタ゛ンナ様か゛気に入りそうな品物を\n買い集めていたた゛きたい。\n私はこのような買物にはなれてないし、{d}\nあなたたち冒険者のほうか゛、\n品物を見る目はあるて゛しょうからね。\nもちろん元手となる金は渡しますし、\n報酬もおします゛さしあけ゛ましょう。{d}{f}",
+            "text": "タ゛ンナ様は\nロマールて゛買物なさるのを\nそれはもう、\n楽しみにしてらしたんて゛す。{d}\nところか゛急用か゛て゛きてしまい、\n明日にも\n旅立たねは゛ならなくなりました。{d}\nまた゛おみやけ゛も何も、\n買ってらっしゃらないというのに……\nそこて゛、て゛す。{d}\n今から闇市に行って、\nタ゛ンナ様か゛気に入りそうな品物を\n買い集めていたた゛きたい。\n私はこのような買物にはなれてないし、{d}\nあなたたち冒険者のほうか゛、\n品物を見る目はあるて゛しょうからね。\nもちろん元手となる金は渡しますし、\n報酬もおします゛さしあけ゛ましょう。{d}{f}",
             "translation": ""
         },
         {
@@ -28125,7 +28125,7 @@
             "ptr_loc": "0xa72ff",
             "ptr_val": "0x326",
             "size": 198,
-            "text": "３０代に入ったは゛かりて゛、\n剣術にたけておられます。\n体格は人なみ以上、{d}\n知織もほうふて゛いらっしゃって、\n私たちお仕えする者のほこりて゛す。\n……た゛からこそ、生半可なものは\nおくれなくてこまるんて゛すけと゛ねえ。{d}\n１か月前に\n結婚か゛決まっているのて゛すか゛、\n婚約者の男特か゛こ゛病気て゛倒れられて、\n急いて゛帰ることになりまして。{d}{f}",
+            "text": "３０代に入ったは゛かりて゛、\n剣術にたけておられます。\n体格は人なみ以上、{d}\n知織もほうふて゛いらっしゃって、\n私たちお仕えする者のほこりて゛す。\n……た゛からこそ、生半可なものは\nおくれなくてこまるんて゛すけと゛ねえ。{d}\n１か月前に\n結婚か゛決まっているのて゛すか゛、\n婚約者の女特か゛こ゛病気て゛倒れられて、\n急いて゛帰ることになりまして。{d}{f}",
             "translation": ""
         },
         {
@@ -28479,7 +28479,7 @@
             "ptr_loc": "0xa7e45",
             "ptr_val": "0xd3",
             "size": 86,
-            "text": "もちろんて゛さあ。\nこれは古代王国時代から、\nす゛っとす゛っと\nさき続けてる花束て゛すよ。{d}\n男特におくれは゛、\nさそ゛よろこは゛れるて゛しょう。{d}{f}",
+            "text": "もちろんて゛さあ。\nこれは古代王国時代から、\nす゛っとす゛っと\nさき続けてる花束て゛すよ。{d}\n女特におくれは゛、\nさそ゛よろこは゛れるて゛しょう。{d}{f}",
             "translation": ""
         }
     ],
@@ -28643,7 +28643,7 @@
             "ptr_loc": "0xa82ca",
             "ptr_val": "0x4",
             "size": 77,
-            "text": "いいこと教えてあけ゛るわ。\n宝石店て゛売ってる\nアメシ゛ストの耳かさ゛り、\nあれ、ステキよねえ。{d}\n男特か゛もらったらよろこふ゛わあ。{d}{f}",
+            "text": "いいこと教えてあけ゛るわ。\n宝石店て゛売ってる\nアメシ゛ストの耳かさ゛り、\nあれ、ステキよねえ。{d}\n女特か゛もらったらよろこふ゛わあ。{d}{f}",
             "translation": ""
         },
         {
@@ -28783,7 +28783,7 @@
             "ptr_loc": "0xa8444",
             "ptr_val": "0x242",
             "size": 134,
-            "text": "男と冒険者た゛そ゛、\nと言って前を追わせたら、\nこいつら、\nあんたたちとまちか゛えたようた゛な。{d}\nまったく頭か゛悪いんて゛こまるよ。\nさあ、ユニコーンの角は\n返していたた゛こうか。{d}\n事実を知ったからには、\n生きて帰すわけにもいかないか゛ね。{d}{f}",
+            "text": "女と冒険者た゛そ゛、\nと言って前を追わせたら、\nこいつら、\nあんたたちとまちか゛えたようた゛な。{d}\nまったく頭か゛悪いんて゛こまるよ。\nさあ、ユニコーンの角は\n返していたた゛こうか。{d}\n事実を知ったからには、\n生きて帰すわけにもいかないか゛ね。{d}{f}",
             "translation": ""
         },
         {
@@ -29013,7 +29013,7 @@
             "ptr_loc": "0xa8a3a",
             "ptr_val": "0x309",
             "size": 137,
-            "text": "おお、そうか！  それはそれは。\nし゛ゃあ、さっそく説明といこうか。\n女回のトーナメントには、\n２つのフ゛ロックか゛あるんた゛。{d}\nひとつは、剣闘士と冒険者か゛\n出場するフ゛ロック。\nそして、もうひとつは\n主にモンスター同士か゛戦うフ゛ロックた゛。{d}{f}",
+            "text": "おお、そうか！  それはそれは。\nし゛ゃあ、さっそく説明といこうか。\n今回のトーナメントには、\n２つのフ゛ロックか゛あるんた゛。{d}\nひとつは、剣闘士と冒険者か゛\n出場するフ゛ロック。\nそして、もうひとつは\n主にモンスター同士か゛戦うフ゛ロックた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -29045,7 +29045,7 @@
             "ptr_loc": "0xa8a42",
             "ptr_val": "0x508",
             "size": 34,
-            "text": "女日は試合か゛ある日た゛。\n試合場へ行ってくれ。{d}{f}",
+            "text": "今日は試合か゛ある日た゛。\n試合場へ行ってくれ。{d}{f}",
             "translation": ""
         },
         {
@@ -29081,7 +29081,7 @@
             "ptr_loc": "0xa8fa7",
             "ptr_val": "0x4",
             "size": 79,
-            "text": "女、行進してるのは\n我か゛ロマールのほこる\n「はけ゛たかの傭兵隊」さ。{d}\n南にある、\nト゛ゥーテ゛ントとかいう街を\nやっつけてきたんた゛。{d}{f}",
+            "text": "今、行進してるのは\n我か゛ロマールのほこる\n「はけ゛たかの傭兵隊」さ。{d}\n南にある、\nト゛ゥーテ゛ントとかいう街を\nやっつけてきたんた゛。{d}{f}",
             "translation": ""
         },
         {
@@ -29171,7 +29171,7 @@
             "ptr_loc": "0xa91d3",
             "ptr_val": "0x3e",
             "size": 56,
-            "text": "なんせ、そいつは\n女度のトーナメントの主催者、\nテ゛ュナス卿おかかえの\n剣闘士なんた゛から。{d}{f}",
+            "text": "なんせ、そいつは\n今度のトーナメントの主催者、\nテ゛ュナス卿おかかえの\n剣闘士なんた゛から。{d}{f}",
             "translation": ""
         }
     ],
@@ -29339,7 +29339,7 @@
             "ptr_loc": "0xa9425",
             "ptr_val": "0x2a8",
             "size": 82,
-            "text": "おれは、女からすく゛に\nト゛ゥーテ゛ントにもと゛るつもりた゛。\n侵略された故郷か゛と゛うなっているか、\n心配た゛からな。……て゛は、さらは゛た゛。{d}{f}",
+            "text": "おれは、今からすく゛に\nト゛ゥーテ゛ントにもと゛るつもりた゛。\n侵略された故郷か゛と゛うなっているか、\n心配た゛からな。……て゛は、さらは゛た゛。{d}{f}",
             "translation": ""
         },
         {
@@ -29515,7 +29515,7 @@
             "ptr_loc": "0xa9451",
             "ptr_val": "0x753",
             "size": 112,
-            "text": "なんとかな……\nあのトーナメントの前、\n見張りの目を盗んて゛\n闘技場から逃け゛出したんた゛。{d}\nト゛ゥーテ゛ントに\nたと゛りつくまて゛は苦労したか゛、\n女て゛は傷も回復して元気になったよ。{d}{f}",
+            "text": "なんとかな……\nあのトーナメントの前、\n見張りの目を盗んて゛\n闘技場から逃け゛出したんた゛。{d}\nト゛ゥーテ゛ントに\nたと゛りつくまて゛は苦労したか゛、\n今て゛は傷も回復して元気になったよ。{d}{f}",
             "translation": ""
         },
         {
@@ -29635,7 +29635,7 @@
             "ptr_loc": "0xa946f",
             "ptr_val": "0xa73",
             "size": 84,
-            "text": "我々、巨人たちは\nト゛ゥーテ゛ント半島の南はしを\n最前の聖域として守ってゆく。{d}\n女度こそ、外の世界の者を\n入れるわけにはいかん……{d}{f}",
+            "text": "我々、巨人たちは\nト゛ゥーテ゛ント半島の南はしを\n最前の聖域として守ってゆく。{d}\n今度こそ、外の世界の者を\n入れるわけにはいかん……{d}{f}",
             "translation": ""
         },
         {
@@ -29745,7 +29745,7 @@
             "ptr_loc": "0xaa06f",
             "ptr_val": "0xb5",
             "size": 118,
-            "text": "女の戦いのかけりつは、\n巨人対剣闘士て゛２対４た゛。{d}\n巨人か゛勝ったから、\nかけ金は２倍になって\n帰ってくることになるな。{d}\n剣闘士の方は\nテ゛ュナス卿おかかえの\nつわものた゛ったんた゛か゛……{d}{f}",
+            "text": "今の戦いのかけりつは、\n巨人対剣闘士て゛２対４た゛。{d}\n巨人か゛勝ったから、\nかけ金は２倍になって\n帰ってくることになるな。{d}\n剣闘士の方は\nテ゛ュナス卿おかかえの\nつわものた゛ったんた゛か゛……{d}{f}",
             "translation": ""
         },
         {
@@ -29861,7 +29861,7 @@
             "ptr_loc": "0xaa261",
             "ptr_val": "0x25a",
             "size": 99,
-            "text": "東から来た冒険者、\n{19}{0}の一行か゛\nみこ゛と勝利しました！{d}\n……さて、女回のトーナメントて゛は、\n優勝者に対して、\n１００００カ゛メルもの賞金か゛\nもらえるのて゛すか゛……{d}{f}",
+            "text": "東から来た冒険者、\n{19}{0}の一行か゛\nみこ゛と勝利しました！{d}\n……さて、今回のトーナメントて゛は、\n優勝者に対して、\n１００００カ゛メルもの賞金か゛\nもらえるのて゛すか゛……{d}{f}",
             "translation": ""
         },
         {
@@ -30777,7 +30777,7 @@
             "ptr_loc": "0xab425",
             "ptr_val": "0x508",
             "size": 117,
-            "text": "我々、自由人のまつえいは、\n大陸の各地にちらは゛って、\n現在も道を造り続けている。{d}\nその仲間の１人から聞いたんた゛か゛、\nオランは女、\nひょっとしたら戦争に\n巻きこまれるかもしれないんた゛ろう。{d}{f}",
+            "text": "我々、自由人のまつえいは、\n大陸の各地にちらは゛って、\n現在も道を造り続けている。{d}\nその仲間の１人から聞いたんた゛か゛、\nオランは今、\nひょっとしたら戦争に\n巻きこまれるかもしれないんた゛ろう。{d}{f}",
             "translation": ""
         },
         {
@@ -31061,7 +31061,7 @@
             "ptr_loc": "0xabe4d",
             "ptr_val": "0x224",
             "size": 82,
-            "text": "……それについては、\nここて゛はもうし上け゛か゛たいことて゛す。{d}\nもし、よろしけれは゛、\n女夜、郊外の廃屋まて゛\n来ていたた゛けないて゛しょうか？{d}{f}",
+            "text": "……それについては、\nここて゛はもうし上け゛か゛たいことて゛す。{d}\nもし、よろしけれは゛、\n今夜、郊外の廃屋まて゛\n来ていたた゛けないて゛しょうか？{d}{f}",
             "translation": ""
         },
         {
@@ -31103,7 +31103,7 @@
             "ptr_loc": "0xac124",
             "ptr_val": "0x23",
             "size": 21,
-            "text": "は゛かな！  あの細か゛追っ手とは！{d}{f}",
+            "text": "は゛かな！  あの男か゛追っ手とは！{d}{f}",
             "translation": ""
         }
     ],
@@ -31113,7 +31113,7 @@
             "ptr_loc": "0xac15b",
             "ptr_val": "0xa",
             "size": 51,
-            "text": "なんて゛もライオンか゛１頭、\n近くの村をおそったらしくてな。\n女、山狩りの最中た゛。{d}{f}",
+            "text": "なんて゛もライオンか゛１頭、\n近くの村をおそったらしくてな。\n今、山狩りの最中た゛。{d}{f}",
             "translation": ""
         },
         {
@@ -31171,7 +31171,7 @@
             "ptr_loc": "0xac20f",
             "ptr_val": "0x4b",
             "size": 59,
-            "text": "あの小細といっしょにいた娘た゛。\nト゛レックノールの暗殺者て゛、\nシャト゛ーニート゛ルって呼は゛れてる。{d}{f}",
+            "text": "あの小男といっしょにいた娘た゛。\nト゛レックノールの暗殺者て゛、\nシャト゛ーニート゛ルって呼は゛れてる。{d}{f}",
             "translation": ""
         },
         {
@@ -31179,7 +31179,7 @@
             "ptr_loc": "0xac211",
             "ptr_val": "0x86",
             "size": 45,
-            "text": "女こ゛ろは、\nお頭直属のしゅうけ゛き隊か゛\n血祭りに上け゛ているころさ。{d}{f}",
+            "text": "今こ゛ろは、\nお頭直属のしゅうけ゛き隊か゛\n血祭りに上け゛ているころさ。{d}{f}",
             "translation": ""
         }
     ],
@@ -31503,7 +31503,7 @@
             "ptr_loc": "0xac84e",
             "ptr_val": "0x48",
             "size": 130,
-            "text": "そいつらは、いったん\n街道の近くから姿を消した。\n女はと゛のあたりにいるかわからん。{d}\nそれをつきとめないと、\n街道を行く人々の安全は\n保証て゛きんのた゛。{d}\n捜査しているところた゛から、\nしは゛らくは街から出ないて゛くれ。{d}{f}",
+            "text": "そいつらは、いったん\n街道の近くから姿を消した。\n今はと゛のあたりにいるかわからん。{d}\nそれをつきとめないと、\n街道を行く人々の安全は\n保証て゛きんのた゛。{d}\n捜査しているところた゛から、\nしは゛らくは街から出ないて゛くれ。{d}{f}",
             "translation": ""
         },
         {
@@ -31519,7 +31519,7 @@
             "ptr_loc": "0xac852",
             "ptr_val": "0x10a",
             "size": 50,
-            "text": "女、巨人と゛もの行方を\n捜査しているところた゛。\nしは゛らくは街から出ないて゛くれ。{d}{f}",
+            "text": "今、巨人と゛もの行方を\n捜査しているところた゛。\nしは゛らくは街から出ないて゛くれ。{d}{f}",
             "translation": ""
         },
         {
@@ -31553,7 +31553,7 @@
             "ptr_loc": "0xac9e2",
             "ptr_val": "0x64",
             "size": 29,
-            "text": "フロは細男別た゛からね。\nわかれて入っとくれよ。{d}{f}",
+            "text": "フロは男女別た゛からね。\nわかれて入っとくれよ。{d}{f}",
             "translation": ""
         },
         {
@@ -31749,7 +31749,7 @@
             "ptr_loc": "0xace4e",
             "ptr_val": "0x31",
             "size": 93,
-            "text": "１週間くらい軽し゛ゃないかな。\n長のコ゛ト゛様か゛、\nいきなりテ゛ーモンたちを\n連れてきたんた゛。{d}\n女日からこの村て゛くらすから、\nおとなしく命令を聞くようにってね。{d}{f}",
+            "text": "１週間くらい軽し゛ゃないかな。\n長のコ゛ト゛様か゛、\nいきなりテ゛ーモンたちを\n連れてきたんた゛。{d}\n今日からこの村て゛くらすから、\nおとなしく命令を聞くようにってね。{d}{f}",
             "translation": ""
         },
         {
@@ -31813,7 +31813,7 @@
             "ptr_loc": "0xace5e",
             "ptr_val": "0x1d4",
             "size": 47,
-            "text": "テエムか゛一度死んて゛るって？\nうそた゛ろう。\n女はヒ゜ンヒ゜ンしてるし゛ゃないか。{d}{f}",
+            "text": "テエムか゛一度死んて゛るって？\nうそた゛ろう。\n今はヒ゜ンヒ゜ンしてるし゛ゃないか。{d}{f}",
             "translation": ""
         }
     ],
@@ -31871,7 +31871,7 @@
             "ptr_loc": "0xad0b7",
             "ptr_val": "0x14",
             "size": 71,
-            "text": "……確かに私、\n工事現場て゛事故にあいました。{d}\nて゛もほら、\n女はこうして元気て゛すよ。\nみんな、夫のおかけ゛て゛す。{d}{f}",
+            "text": "……確かに私、\n工事現場て゛事故にあいました。{d}\nて゛もほら、\n今はこうして元気て゛すよ。\nみんな、夫のおかけ゛て゛す。{d}{f}",
             "translation": ""
         },
         {
@@ -31969,7 +31969,7 @@
             "ptr_loc": "0xad185",
             "ptr_val": "0x17d",
             "size": 50,
-            "text": "やめてくれ！  テエムは女、\nこのとおり生きてるんた゛。\nそれをもう一度、死ねと言うのか？{d}{f}",
+            "text": "やめてくれ！  テエムは今、\nこのとおり生きてるんた゛。\nそれをもう一度、死ねと言うのか？{d}{f}",
             "translation": ""
         },
         {
@@ -32239,7 +32239,7 @@
             "ptr_loc": "0xad810",
             "ptr_val": "0x17f",
             "size": 51,
-            "text": "村の東側か゛工事現場た゛よ。\n女は事故のせいて゛、\n工事は中断してるけと゛ね。{d}{f}",
+            "text": "村の東側か゛工事現場た゛よ。\n今は事故のせいて゛、\n工事は中断してるけと゛ね。{d}{f}",
             "translation": ""
         },
         {
@@ -32337,7 +32337,7 @@
             "ptr_loc": "0xada05",
             "ptr_val": "0x13a",
             "size": 71,
-            "text": "女日た゛って、取った物を返せって\n言ってきた奴らに、下水道にすてたと\nウソをついたは゛かりさ。\n女こ゛ろ、奴ら下水道て゛……{d}{f}",
+            "text": "今日た゛って、取った物を返せって\n言ってきた奴らに、下水道にすてたと\nウソをついたは゛かりさ。\n今こ゛ろ、奴ら下水道て゛……{d}{f}",
             "translation": ""
         },
         {
@@ -32379,7 +32379,7 @@
             "ptr_loc": "0xadbac",
             "ptr_val": "0x4e",
             "size": 61,
-            "text": "奴の名はリンフ゜。{d}\nそうた゛な、女し゛ふ゛んなら\n「よいと゛れエルフ亭」て゛\nムタ゛ク゛チたたいてるた゛ろう。{d}{f}",
+            "text": "奴の名はリンフ゜。{d}\nそうた゛な、今し゛ふ゛んなら\n「よいと゛れエルフ亭」て゛\nムタ゛ク゛チたたいてるた゛ろう。{d}{f}",
             "translation": ""
         },
         {
@@ -32465,7 +32465,7 @@
             "ptr_loc": "0xadd56",
             "ptr_val": "0x2",
             "size": 31,
-            "text": "オレはもうタ゛メた゛〜\n彼男にフラレちゃったんた゛よ〜{d}{f}",
+            "text": "オレはもうタ゛メた゛〜\n彼女にフラレちゃったんた゛よ〜{d}{f}",
             "translation": ""
         }
     ],
@@ -32647,7 +32647,7 @@
             "ptr_loc": "0xade9c",
             "ptr_val": "0x17d",
             "size": 43,
-            "text": "覚えててくれたかい。\nあの親書をなくした時の\nあんたらのあわてよう、\n女思",
+            "text": "覚えててくれたかい。\nあの親書をなくした時の\nあんたらのあわてよう、\n今思",
             "translation": ""
         },
         {
@@ -32747,7 +32747,7 @@
             "ptr_loc": "0xae22c",
             "ptr_val": "0x4f",
             "size": 76,
-            "text": "ふむ。\nた゛いたいの話は\nハ゜ーミアから聞いている。{d}\nその親書とやらを、\nゆっくり、はいけんするとしよう。\n女夜はゆっくりお休みなされ。{d}{f}",
+            "text": "ふむ。\nた゛いたいの話は\nハ゜ーミアから聞いている。{d}\nその親書とやらを、\nゆっくり、はいけんするとしよう。\n今夜はゆっくりお休みなされ。{d}{f}",
             "translation": ""
         },
         {
@@ -32771,7 +32771,7 @@
             "ptr_loc": "0xae232",
             "ptr_val": "0xcd",
             "size": 125,
-            "text": "ふむ。\n聞かなけれは゛ならない話か゛\nたくさんあるようた゛な。\nし゛ゃか゛女夜はゆっくりお休みなされ。{d}\n親書とやらは、明日にて゛も\nゆっくり、はいけんするとしよう。\nハ゜ーミアも、大陸て゛見てきたことを、\nいろいろ話してほしい。{d}{f}",
+            "text": "ふむ。\n聞かなけれは゛ならない話か゛\nたくさんあるようた゛な。\nし゛ゃか゛今夜はゆっくりお休みなされ。{d}\n親書とやらは、明日にて゛も\nゆっくり、はいけんするとしよう。\nハ゜ーミアも、大陸て゛見てきたことを、\nいろいろ話してほしい。{d}{f}",
             "translation": ""
         },
         {
@@ -32819,7 +32819,7 @@
             "ptr_loc": "0xae23e",
             "ptr_val": "0x2dd",
             "size": 47,
-            "text": "女はそのことを\n探くなやむ時て゛はない。\nアーウ゛ェルと゛の、\n頼まれてくれるな？{d}{f}",
+            "text": "今はそのことを\n探くなやむ時て゛はない。\nアーウ゛ェルと゛の、\n頼まれてくれるな？{d}{f}",
             "translation": ""
         },
         {
@@ -33573,7 +33573,7 @@
             "ptr_loc": "0xaf443",
             "ptr_val": "0x293",
             "size": 20,
-            "text": "女た゛。\n魔法陣に乗るんた゛！{d}{f}",
+            "text": "今た゛。\n魔法陣に乗るんた゛！{d}{f}",
             "translation": ""
         },
         {
