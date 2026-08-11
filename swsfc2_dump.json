@@ -716,7 +716,7 @@
             "ptr_val": "0x151",
             "size": 39,
             "text": "{19}{0}たちは\n男を詰所にかんきんした後、\n冒険者の店にもと゛った。{d}{f}",
-            "translation": ""
+            "translation": "The party returned to the\nadventurer's inn after\nimprisoning the man.{d}{f}"
         },
         {
             "address": "0x81270",
@@ -870,7 +870,7 @@
             "ptr_val": "0xb8",
             "size": 22,
             "text": "メリー・ヘ゛ルを追いかける\n放っておく{f}",
-            "translation": "Go after Mary Belle\nLeave her{f}"
+            "translation": "Go after Mary Bell \nLeave her{f}"
         },
         {
             "address": "0x81467",
@@ -910,7 +910,7 @@
             "ptr_val": "0x141",
             "size": 37,
             "text": "カ゛イスたちは、\n{19}{0}たちの姿を見ると\nコソコソと店を出て行った。{d}{f}",
-            "translation": "Geis and the others\nexit whispering after \nseeing the party. {d}{f}"
+            "translation": "Geis and the others\nexit, whispering, after \nseeing the party. {d}{f}"
         },
         {
             "address": "0x814ff",
@@ -1262,7 +1262,7 @@
             "ptr_val": "0x595",
             "size": 14,
             "text": "男について行く\nことわる{f}",
-            "translation": ""
+            "translation": "Follow him \nRefuse {f}"
         },
         {
             "address": "0x8193c",
@@ -1376,7 +1376,7 @@
             "ptr_val": "0x14a",
             "size": 46,
             "text": "「地を裂く剣」の牢に\n侵入しかけていた男は、\nあわてて逃け゛出そうとした。{d}{f}",
-            "translation": ""
+            "translation": "The man who broke into \nEarthshatter's cell runs \noff in fright.{d}{f}"
         },
         {
             "address": "0x81b0f",
@@ -1384,7 +1384,7 @@
             "ptr_val": "0x178",
             "size": 84,
             "text": "剣闘士を倒した巨人は、\nゆっくりと闘技場から去って行った。{d}\nそのせなかを、増々しけ゛に\n貴實席に座った男か゛\nにらみつけていた……{d}{f}",
-            "translation": "The giant, having defeated the\ngladiator, left the arena.\nThe man in the vip chair glared at\nhis back with increased intensity.\n"
+            "translation": "The giant slowly leaves the arena\nafter defeating the gladiator.{d}\nThe man in the high-class\nspectator chair glares at him.{d}{f}"
         },
         {
             "address": "0x81b63",
@@ -1440,7 +1440,7 @@
             "ptr_val": "0x222",
             "size": 13,
             "text": "男は気を失った。{d}{f}",
-            "translation": ""
+            "translation": "He fainted.{d}{f}"
         },
         {
             "address": "0x81bc6",
@@ -1448,7 +1448,7 @@
             "ptr_val": "0x22f",
             "size": 15,
             "text": "男は武器をかまえた。{d}{f}",
-            "translation": ""
+            "translation": "He readies his weapon. {d}{f}"
         },
         {
             "address": "0x81bd5",
@@ -1836,7 +1836,7 @@
             "ptr_val": "0x9e",
             "size": 18,
             "text": "カカ゛ミを持って行く\nやめておく{f}",
-            "translation": ""
+            "translation": "Take the mirror\nQuit {f}"
         },
         {
             "address": "0x81fa3",
@@ -1868,7 +1868,7 @@
             "ptr_val": "0xb3",
             "size": 33,
             "text": "マンティコアのひとみか゛\n怪しいかか゛やきを放ち始めた！{d}{f}",
-            "translation": ""
+            "translation": "The manticore's eye began\nemitting a strange light! {d}{f}"
         },
         {
             "address": "0x81fc7",
@@ -1884,7 +1884,7 @@
             "ptr_val": "0xd5",
             "size": 33,
             "text": "ハ゜ーミアはふらふらと、\nマンティコアの方に歩いて行った。{d}{f}",
-            "translation": ""
+            "translation": "Parmia walks shakily toward\nthe manticore.{d}{f}"
         },
         {
             "address": "0x81fe9",
@@ -1892,7 +1892,7 @@
             "ptr_val": "0xf6",
             "size": 29,
             "text": "マンティコアの姿か゛、\n霧のようにうすれていった。{d}{f}",
-            "translation": ""
+            "translation": "The manticore begins to fade,\nlike mist.{d}{f}"
         },
         {
             "address": "0x82006",
@@ -1900,7 +1900,7 @@
             "ptr_val": "0x113",
             "size": 42,
             "text": "マンティコアの姿は霧となり、\nやか゛て、\nかき消すように消えてしまった。{d}{f}",
-            "translation": ""
+            "translation": "The manticore becomes mist,\nand eventually disappears.{d}{f}"
         },
         {
             "address": "0x82030",
@@ -1908,7 +1908,7 @@
             "ptr_val": "0x13d",
             "size": 26,
             "text": "土か゛いっしゅん、きらめく光に\nつつまれた。{d}{f}",
-            "translation": ""
+            "translation": "The dirt is surrounded,\nbriefly, with light.{d}{f}"
         },
         {
             "address": "0x8204a",
@@ -1916,7 +1916,7 @@
             "ptr_val": "0x157",
             "size": 18,
             "text": "「よこしまな土」を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "Obtained Wicked Earth. {d}{f}"
         },
         {
             "address": "0x8205c",
@@ -1924,7 +1924,7 @@
             "ptr_val": "0x169",
             "size": 51,
             "text": "「よこしまな土」を取り出すと、\nそれは太陽の光をあひ゛て、\nさらさらとくす゛れていった。{d}{f}",
-            "translation": ""
+            "translation": "The Wicked Earth crumbles to\ndust as it is bathed in \nsunlight. {d}{f}"
         }
     ],
     "0x82090": [
@@ -1934,7 +1934,7 @@
             "ptr_val": "0x44",
             "size": 13,
             "text": "下見を続ける\nもういい{f}",
-            "translation": ""
+            "translation": "Look around more \nDone {f}"
         },
         {
             "address": "0x820e1",
@@ -1942,7 +1942,7 @@
             "ptr_val": "0x51",
             "size": 12,
             "text": "傭兵を使う\nやめる{f}",
-            "translation": ""
+            "translation": "Use mercenary\nQuit {f}"
         },
         {
             "address": "0x820ed",
@@ -1950,7 +1950,7 @@
             "ptr_val": "0x5d",
             "size": 37,
             "text": "{19}{0}たちは\nハ゛レンへの手紙をしたためると、\n受付に手渡した。{d}{f}",
-            "translation": ""
+            "translation": "You write Valen a letter \nand hand it over. {d}{f}"
         },
         {
             "address": "0x82112",
@@ -1958,7 +1958,7 @@
             "ptr_val": "0x82",
             "size": 40,
             "text": "{19}{0}たちは\n傭兵キ゛ルト゛に傭兵をもと゛し、\n所持金にかえた。{d}{f}",
-            "translation": ""
+            "translation": "{19}{0}'s party\nreturns the mercenary \nto the guild. {d}{f}"
         },
         {
             "address": "0x8213a",
@@ -1990,7 +1990,7 @@
             "ptr_val": "0xad",
             "size": 40,
             "text": "「地を裂く剣」は、\n持っていた巨大な剣を\n{19}{0}たちに手渡した。{d}{f}",
-            "translation": ""
+            "translation": "Earthshatter hands over\nhis giant sword to\nthe party.{d}{f}"
         },
         {
             "address": "0x82165",
@@ -1998,7 +1998,7 @@
             "ptr_val": "0xd5",
             "size": 34,
             "text": "儀式をやめさせてほしいと答える\nその必要はないと答える{f}",
-            "translation": ""
+            "translation": "Say to stop the ceremony \nSay it's fine{f}"
         },
         {
             "address": "0x82187",
@@ -2006,7 +2006,7 @@
             "ptr_val": "0xf7",
             "size": 34,
             "text": "自分たちた゛けて゛戦うと答える\n戦う気はないと答える{f}",
-            "translation": ""
+            "translation": "Say you'll fight alone \nSay you won't fight{f}"
         },
         {
             "address": "0x821a9",
@@ -2014,7 +2014,7 @@
             "ptr_val": "0x119",
             "size": 40,
             "text": "ト゛ゥーテ゛ントの気持ちは分ると答える\nそんなことは知らないと答える{f}",
-            "translation": ""
+            "translation": "Say you understand Dudent \nSay you don't know {f}"
         },
         {
             "address": "0x821d1",
@@ -2022,7 +2022,7 @@
             "ptr_val": "0x141",
             "size": 92,
             "text": "「優しき巨人」は、上位古代語て゛\n何事かをとなえた。{d}\nすると、\n{19}{0}たちの持っていた\n「地を裂く剣」の剣か゛かか゛やき、\nみるみるうちにちち゛んて゛いった。{d}{f}",
-            "translation": ""
+            "translation": "The gentle giant chanted some- \nthing in Upper Ancient. {d}\nEarthshatters' sword begins\nto glow and shrink before your\neyes. {d}{f}"
         },
         {
             "address": "0x8222d",
@@ -2030,7 +2030,7 @@
             "ptr_val": "0x19d",
             "size": 27,
             "text": "{19}{0}たちは\nレイカ゛ル・フ゛レート゛を手に入れた。{d}{f}",
-            "translation": ""
+            "translation": "The party receives \nthe Raygal Blade. {d}{f}"
         },
         {
             "address": "0x82248",
@@ -2062,7 +2062,7 @@
             "ptr_val": "0x1bb",
             "size": 27,
             "text": "ハ゛レンは、２０人の傭兵を\nしたか゛えていた。{d}{f}",
-            "translation": ""
+            "translation": "Valen is leading 20\nmercenaries.{d}{f}"
         },
         {
             "address": "0x82266",
@@ -2070,7 +2070,7 @@
             "ptr_val": "0x1d6",
             "size": 31,
             "text": "ハ゛レンは、２０人の傭兵を\n{19}{0}たちに引き渡した。{d}{f}",
-            "translation": ""
+            "translation": "Valen gave over the 20 \nmercenaries to you. {d}{f}"
         },
         {
             "address": "0x82285",
@@ -2078,7 +2078,7 @@
             "ptr_val": "0x1f5",
             "size": 35,
             "text": "巨人像の口か゛ゆっくりと動き、\n{19}{0}たちに話しかけてきた。{d}{f}",
-            "translation": ""
+            "translation": "The giant statue's mouth opens,\nand it begins to speak. {d}{f}"
         },
         {
             "address": "0x822a8",
@@ -2086,7 +2086,7 @@
             "ptr_val": "0x218",
             "size": 29,
             "text": "巨人像は\n答えを待つように口を閉さ゛した。{d}{f}",
-            "translation": ""
+            "translation": "Awaiting a response, the \ngiant closes its mouth. {d}{f}"
         },
         {
             "address": "0x822c5",
@@ -2094,7 +2094,7 @@
             "ptr_val": "0x235",
             "size": 40,
             "text": "生命をささけ゛る\n精神をささけ゛る\n瞳をささけ゛る\n何も、ささけ゛ない{f}",
-            "translation": ""
+            "translation": "Offer life \nOffer spirit \nOffer eye\nOffer nothing{f}"
         },
         {
             "address": "0x822ed",
@@ -2102,7 +2102,7 @@
             "ptr_val": "0x25d",
             "size": 24,
             "text": "と゛こからともなく、\n声か゛聞こえてくる。{d}{f}",
-            "translation": ""
+            "translation": "A voice emanating from \nnowhere speaks. {d}{f}"
         },
         {
             "address": "0x82305",
@@ -2110,7 +2110,7 @@
             "ptr_val": "0x275",
             "size": 17,
             "text": "水の宝珠を取る\nやめておく{f}",
-            "translation": ""
+            "translation": "Take Water Jewel\nQuit {f}"
         },
         {
             "address": "0x82316",
@@ -2118,7 +2118,7 @@
             "ptr_val": "0x286",
             "size": 17,
             "text": "水の宝珠を置く\nやめておく{f}",
-            "translation": ""
+            "translation": "Place Water Jewel\nQuit {f}"
         },
         {
             "address": "0x82327",
@@ -2126,7 +2126,7 @@
             "ptr_val": "0x297",
             "size": 15,
             "text": "まるい物を取る\nやめておく{f}",
-            "translation": ""
+            "translation": "Take round thing \nQuit {f}"
         },
         {
             "address": "0x82336",
