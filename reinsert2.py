@@ -113,9 +113,6 @@ for f in js:
             newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), U8ToSWSFC(w['translation']), False))
         if w['text'] == "{f}":
             newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), U8ToSWSFC(w['text']), False))
-        #else:
-            # TESTING: will this fix the pointer array length
-            #newf.lines.append(TLWord(int(w['address'], 16), int(w['size']), rom[int(w['address'],16):int(w['address'],16)+int(w['size'])], True))
     scr_files.append(newf)
 
 
@@ -237,7 +234,7 @@ while i < len(all_cmb):
         ind = 0x1000
     if(all_cmb[i].count > 1):
         multi += 1
-    #print(hex(all_cmb[i].index), all_cmb[i].txt)
+    #print(hex(all_cmb[i].index), all_cmb[i].txt) # shows the new combos 
     i += 1
 # IF YOU SKIP INDEXES, YOU HAVE TO SKIP GRAPHIC INSERTION AS WELL
 
@@ -392,39 +389,24 @@ for f in scr_files:
 print("OK.")
 
 # replace sjis version strings with their equivalent
-for f in scr_files:
-    i = 0
-    while i < len(f.lines):
-        if f.lines[i].sjis == True:
-            nw = []
-            for w in f.lines[i].translation: 
-                for b in jdict:
-                    if (ord(w) == int(b[0], 16)):
-                        _b = bytes(b[1], encoding="sjis")
-                        nw.append(_b)
-                        break
-            f.lines[i].translation = []
-            for l in nw:
-                for b in l:
-                    f.lines[i].translation.append(b)
-        i += 1
+## I DONT THINK THIS WORKS
+#for f in scr_files:
+#    i = 0
+#    while i < len(f.lines):
+#        if f.lines[i].sjis == True:
+#            nw = []
+#            for w in f.lines[i].translation: 
+#                for b in jdict:
+#                    if (ord(w) == int(b[0], 16)):
+#                        _b = bytes(b[1], encoding="sjis")
+#                        nw.append(_b)
+#                        break
+#            f.lines[i].translation = []
+#            for l in nw:
+#                for b in l:
+#                    f.lines[i].translation.append(b)
+#        i += 1
 
-def EncodeRaw(s):
-    out = []
-    for w in s:
-        for b in jdict:
-            if(ord(w) == int(b[0], 16)):
-                _b = bytes(b[1], encoding="sjis")
-                out.append(_b)
-                break 
-    inn = []
-    for l in out:
-        for b in l:
-            inn.append(b)
-    return inn
-####
-
-#print(EncodeRaw("Adventure On "))
 
 # fix captials
 addr = 0xB1180 # testing for sfc2 b1180 == 0x30 = A
@@ -481,9 +463,8 @@ for f in scr_files:
             _p = 0
             while _p < len(f.table.ptrs):
                 st_add = f.table.loc 
-                #rom = rom[:st_add + (2*_p)] + bytes([(f.table.ptrs[_p].val & 0xff),((f.table.ptrs[_p].val & 0xff00) >> 8)]) + rom[st_add+2+(2*_p):]
+                rom = rom[:st_add + (2*_p)] + bytes([(f.table.ptrs[_p].val & 0xff),((f.table.ptrs[_p].val & 0xff00) >> 8)]) + rom[st_add+2+(2*_p):]
                 _p += 1
-        
 print("pointer tables updated.")
 
 print("Writing new script...", end="")
@@ -500,19 +481,55 @@ for f in scr_files:
             while len(s) < word.len:
                 s += b'\x20'
             rom = rom[:word.loc] + s + rom[word.loc+len(s):]
-        else: # if its an sjis conversion, leave it alone
-            s = bytes(word.translation)
-            while len(s) < word.len:
-                s += b'\x81\x40'
-                if len(s) > word.len:
-                    s = s[:len(s)-2] + b'\x0f'
-            if len(s) > word.len:
-                print("Too long! truncated")
-                print(word.original, len(s), word.len)
-                s = s[:s]
-            rom = rom[:word.loc] + s + rom[word.loc+len(s):]
+        #else: # if its an sjis conversion, leave it alone
+        #    s = bytes(word.translation)
+        #    while len(s) < word.len:
+        #        s += b'\x81\x40'
+        #        if len(s) > word.len:
+        #            s = s[:len(s)-2] + b'\x0f'
+        #    if len(s) > word.len:
+        #        print("Too long! truncated")
+        #        print(word.original, len(s), word.len)
+        #        s = s[:s]
+        #    rom = rom[:word.loc] + s + rom[word.loc+len(s):]
 print(" OK.")
 
+# now try the manual / sjis strings...
+print("Inserting SJIS strings back-converted...")
+ii = 0
+for w in scr_files[0].lines:
+    # back convert 
+    _o = []
+    #print(bytes(w.translation, encoding="utf-8"))
+    _c = 0
+    while _c < len(w.translation):
+        to = ord(w.translation[_c])
+        if to == 0x10:
+            #print("f")
+            to = 0x1000 + ord(w.translation[_c+1])
+            _c += 1
+        for b in jdict:
+            if int(b[0],16) == to: # which jp table entry are we?
+                #print(b[0], b[1], hex(to))
+                sj = b[1].encode("sjis")
+                for s in sj:
+                    _o.append(s)
+                break
+        _c += 1
+    if len(_o) <= w.len:
+        ob = bytes(_o)
+        while len(ob) < w.len:
+            ob = ob + b'\x81\x40'
+        if len(ob) <= w.len:
+            rom = rom[:w.loc] + ob + rom[w.loc+len(ob):]
+            #print("inserted: ", w.translation)
+            ii += 1
+        else:
+            print("offset pushed us over!", hex(w.loc)) 
+    else:
+        print("too big!", hex(w.loc)) 
+####
+print(ii, "sjis strings of", len(scr_files[0].lines),"inserted")
 
 f = open("swsfc2-e_out.sfc", "wb")
 f.write(rom)

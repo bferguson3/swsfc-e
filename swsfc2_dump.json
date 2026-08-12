@@ -2102,7 +2102,7 @@
             "ptr_val": "0x25d",
             "size": 24,
             "text": "と゛こからともなく、\n声か゛聞こえてくる。{d}{f}",
-            "translation": "A voice emanating from \nnowhere...{d}{f}"
+            "translation": "A voice emanates from\nnowhere.{d}{f}"
         },
         {
             "address": "0x82305",
