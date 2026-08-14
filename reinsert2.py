@@ -232,6 +232,8 @@ while i < len(all_cmb):
         ind += 2
     if(ind > 0xff)and(ind < 0x1000):
         ind = 0x1000
+    if(ind == 0x103c): # skip 103e and 103f TESTING BUGFIX?
+        ind += 4
     if(all_cmb[i].count > 1):
         multi += 1
     #print(hex(all_cmb[i].index), all_cmb[i].txt) # shows the new combos 
@@ -428,6 +430,9 @@ while i < len(output_chr):
         addr += 0x30 # skip c0 and c1
     if(addr == 0xb1fc0):
         addr += 0x30 # skip c8 and c9
+    # 103e-f ?? 
+    if(addr == 0xb2aa0):
+        addr += 0x60
     i += 1
 
 #print(hex(addr - 0xb1000),"of max",hex(0xb7000 - 0xb1000))
@@ -436,6 +441,7 @@ print("New charmap inserted.")
 # TODO:
 # Pointer table adjustment here, if possible!
 print("Adjusting pointer tables...")
+pt = 0
 for f in scr_files:
     #print(hex(f.table.loc))
     if len(f.table.ptrs) != 0:
@@ -443,7 +449,7 @@ for f in scr_files:
             #print("fail: not enough lines for", len(f.table.ptrs), len(f.lines))
             continue
         else:
-            print("adjusting",hex(f.table.loc))
+            #print("adjusting",hex(f.table.loc))
             _p = 1
             if f.table.ptrs[0].val != len(f.table.ptrs)*2:
                 print("error! pointer table doesnt make sense!")
@@ -459,25 +465,28 @@ for f in scr_files:
 
 for f in scr_files:
     if len(f.table.ptrs) > 0:
-        if(len(f.table.ptrs) == len(f.lines)):
+        if(len(f.table.ptrs) == len(f.lines))and(f.table.loc != 0x8244a): # skip intro block
             _p = 0
+            pt += 1
             while _p < len(f.table.ptrs):
                 st_add = f.table.loc 
-                rom = rom[:st_add + (2*_p)] + bytes([(f.table.ptrs[_p].val & 0xff),((f.table.ptrs[_p].val & 0xff00) >> 8)]) + rom[st_add+2+(2*_p):]
+                #rom = rom[:st_add + (2*_p)] + bytes([(f.table.ptrs[_p].val & 0xff),((f.table.ptrs[_p].val & 0xff00) >> 8)]) + rom[st_add+2+(2*_p):]
                 _p += 1
-print("pointer tables updated.")
+print(pt, "pointer tables updated.")
 
-print("Writing new script...", end="")
+print("Writing new script...")
 for f in scr_files:
     for word in f.lines:
         if word.sjis != True:
             s = word.translation.encode("raw_unicode_escape")
             if len(s) > word.len:
-                if len(f.table.ptrs) != len(f.lines):
-                    print("too long! truncated ", end="")
-                    print(word.original, len(s), word.len)
-                    s = s[:word.len] # 
-                    
+                #if len(f.table.ptrs) != len(f.lines): # only if we didnt use pointer math 
+                # and we want to skip the intro text, as it hard uses ptrs
+                print("too long! truncated ")
+                print(word.original)#, len(s), word.len)
+                print(hex(word.loc))
+                s = s[:word.len] # 
+                
             while len(s) < word.len:
                 s += b'\x20'
             rom = rom[:word.loc] + s + rom[word.loc+len(s):]
@@ -505,7 +514,8 @@ for w in scr_files[0].lines:
     while _c < len(w.translation):
         to = ord(w.translation[_c])
         if to == 0x10:
-            #print("f")
+            if _c == len(w.translation)-1:
+                print(hex(w.loc), w.len, w.original)
             to = 0x1000 + ord(w.translation[_c+1])
             _c += 1
         for b in jdict:
@@ -527,7 +537,7 @@ for w in scr_files[0].lines:
         else:
             print("offset pushed us over!", hex(w.loc)) 
     else:
-        print("too big!", hex(w.loc)) 
+        print("too big!", hex(w.loc), len(_o), w.len) 
 ####
 print(ii, "sjis strings of", len(scr_files[0].lines),"inserted")
 

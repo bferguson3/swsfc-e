@@ -425,7 +425,7 @@ while i < len(filelist):
             sf.ptr_val = hex(_ofs) 
             sf.address = _ofs + filelist[i] 
             b = sf.address
-            while rom[b] != 0xf:
+            while rom[b] != 0xf or (rom[b] == 0xf and rom[b-1] == 0x10):
                 sf.bytes.append(rom[b])
                 b += 1
             sf.bytes.append(0xf)
