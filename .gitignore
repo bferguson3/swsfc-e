@@ -10,3 +10,7 @@ roma
 sfcdump
 sfc2dump
 __pycache__/
+old2.json
+old2b.json
+.DS_Store
+
