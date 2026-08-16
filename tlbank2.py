@@ -34,15 +34,7 @@ words = [
 ####
  # NON-SJIS smalls at: 
 # THESE MUST BE PATCHED INLINE WITH TABLE CODES.
-    #TLWord(0x00014657, 5, "FGHTR", sjis=False),
-    #TLWord(0x00023ef9, 5, "FGHTR", sjis=False),
-    #TLWord(0x00024073, 5, "FGHTR", sjis=False),
-    #thief
-    #rangr
-    #bard
-    #sorcr
-    #shamn
-    #pries
+    # did I do these...? v
 # still need to do this row: this is small in char creation
 #TLWord(0x0003B66B, 10, "Fighter", sjis=True),  
 # also in char creation 
@@ -58,7 +50,7 @@ words = [
     # a2b0 - location names
     TLWord(0x0000A2B3, 12, "World Map", sjis=True),
     TLWord(0x0000A2C0, 16, "Gate to AncKng", sjis=True),
-    TLWord(0x0000A2D1, 20, "Our Lovely Home", sjis=True),
+    TLWord(0x0000A2D1, 20, "Our Lovely Home ", sjis=True),
     TLWord(0x0000A2E6, 16, "Magic Guild", sjis=True),
     TLWord(0x0000A2F7, 14, "Thief Guild", sjis=True),
     TLWord(0x0000A306, 12, "Pharis Tpl", sjis=True),
@@ -85,7 +77,7 @@ words = [
     TLWord(0x0000A3ED, 12, "Norn Manor", sjis=True),
     TLWord(0x0000A3FA, 6, "Slum ", sjis=True),
     TLWord(0x0000A401, 14, "Bandit Base ", sjis=True),
-    TLWord(0x0000A410, 10, "Cyril Rvr", sjis=True),
+    TLWord(0x0000A410, 10, "Cyril Riv", sjis=True),
     TLWord(0x0000A41B, 8, "Cap'ns ", sjis=True),
     TLWord(0x0000A424, 4, "Bch", sjis=True),
     TLWord(0x0000A429, 4, "Can", sjis=True),
@@ -111,8 +103,6 @@ words = [
     TLWord(0x0000D246, 14, "handed over.", sjis=True),
     
     
-    
-    
     # : 
     # e700 magicians guild
     TLWord(0x0000E701, 28, "This is the mage's guild.", sjis=True),
@@ -136,7 +126,7 @@ words = [
     TLWord(0x0000EA62, 20, "How can I help?", sjis=True),
     TLWord(0x0000EA7E, 26, "With Rahda's wisdom.", sjis=True),
     TLWord(0x0000EACE, 20, "How can I help?", sjis=True),
-    TLWord(0x0000EAEA, 40, "With the blessings of Cha-Za.", sjis=True),
+    TLWord(0x0000EAEA, 40, "Go, with Cha-Za's blessing. ", sjis=True),
     TLWord(0x0000EB48, 20, "Is anything wrong? ", sjis=True),
     TLWord(0x0000EB64, 36, "Go with Marfa's blessings. ", sjis=True),
     TLWord(0x0000EBA2, 24, "Raising mental power ", sjis=True),
@@ -144,9 +134,6 @@ words = [
     TLWord(0x0000EBDC, 32, "Magistone will recover expended", sjis=True),
     TLWord(0x0000EBFD, 22, "mental energy.", sjis=True),
     TLWord(0x0000EC14, 32, "Definitely bring some with you.", sjis=True),
-    
-    
-    
     
     
     # e920 other guilds, temples 
@@ -161,7 +148,7 @@ words = [
     TLWord(0x00012727, 12, "Toss this? ", sjis=True),
     TLWord(0x00012764, 26, "Nothing to toss! ", sjis=True),
     TLWord(0x0001281C, 10, "Record ", sjis=True),
-    TLWord(0x00012827, 8, "Formtn.", sjis=True),
+    TLWord(0x00012827, 8, "Form ", sjis=True),
     TLWord(0x00012830, 22, "Message history", sjis=True),
     TLWord(0x00012847, 14, "Toss items ", sjis=True),
     TLWord(0x00012858, 4, "help", sjis=True),
@@ -181,6 +168,113 @@ words = [
     
     # DO THESE
     # 128d0 ~ 13060
+    TLWord(0x00012B4A, 12, "Speed", sjis=True),
+    TLWord(0x00012B59, 16, "Battle speed ", sjis=True),
+    TLWord(0x00012B6C, 20, "Hard Ware options ", sjis=True),
+    TLWord(0x00012B85, 18, "Dice battle", sjis=True),
+    TLWord(0x00012F1D, 16, "Dice battle", sjis=True),
+    TLWord(0x00012B98, 18, "Text battle", sjis=True),
+    TLWord(0x00012F30, 16, "Text battle", sjis=True),
+    TLWord(0x00012BAB, 18, "Action battle", sjis=True),
+    TLWord(0x00012F43, 18, "Action battle", sjis=True),
+    TLWord(0x00012F5A, 20, "Battle icon help ", sjis=True),
+    
+
+    TLWord(0x00012D2C, 16, "Move speed ", sjis=True),
+    TLWord(0x00012D3F, 28, "Dialogue speed ", sjis=True),
+    TLWord(0x00012D5E, 28, "Battle message speed ", sjis=True),
+    TLWord(0x00012D7F, 12, "Button wait", sjis=True),
+    TLWord(0x00012D94, 14, "Show window", sjis=True),
+    TLWord(0x0001301C, 10, "Auto pass", sjis=True),
+    TLWord(0x00013027, 10, "Auto fail", sjis=True),
+    TLWord(0x00013032, 18, "Critical hit ", sjis=True),
+    TLWord(0x00013045, 8, "No efct", sjis=True),
+    TLWord(0x0001304E, 2, "po", sjis=True),
+    TLWord(0x00013051, 4, "sick", sjis=True),
+    TLWord(0x00013056, 4, "curs", sjis=True),
+    TLWord(0x00014928, 20, "Save your game?", sjis=True),
+    TLWord(0x0001496D, 20, "Save your game?", sjis=True),
+    TLWord(0x00014986, 8, "Load ", sjis=True),
+    TLWord(0x0001499F, 8, "Save ", sjis=True),
+    TLWord(0x000149F8, 20, "Game saved!", sjis=True),
+    TLWord(0x00014A35, 20, " can't save!", sjis=True),
+    TLWord(0x00014A8C, 20, "Game loaded! ", sjis=True),
+    TLWord(0x00014AC9, 20, " can't load!", sjis=True),
+    
+    TLWord(0x00015E1E, 20, "Exchange who?", sjis=True),
+    TLWord(0x00015E47, 32, "Can't reform when alone! ", sjis=True),
+    TLWord(0x00017BB7, 26, "Reading past messages", sjis=True),
+    TLWord(0x00017BE6, 24, "No past messages ", sjis=True),
+    TLWord(0x00017BFF, 12, "to read!", sjis=True),
+    TLWord(0x00018295, 20, " can't be used now! ", sjis=True),
+    TLWord(0x000182B0, 20, "can't use in battle!", sjis=True),
+    TLWord(0x000182CB, 24, "is not a usable item! ", sjis=True),
+    TLWord(0x000182EA, 22, " can't be used here!", sjis=True),
+    TLWord(0x00019447, 26, "Not holding items! ", sjis=True),
+    TLWord(0x00019D06, 24, "x items held. ", sjis=True),
+    TLWord(0x00019D1F, 16, "Toss which one?", sjis=True),
+    TLWord(0x00019D51, 12, "Toss this ?", sjis=True),
+    TLWord(0x00019D8E, 30, "Nothing to toss! ", sjis=True),
+    TLWord(0x0001A145, 10, "Items", sjis=True),
+    TLWord(0x0001A150, 20, "bag is full! ", sjis=True),
+    TLWord(0x0001A179, 16, "Toss an item?", sjis=True),
+    TLWord(0x0001A1DC, 20, "bag is full! ", sjis=True),
+    TLWord(0x0001A289, 14, "found.", sjis=True),
+    TLWord(0x0001A29B, 12, "obtained. ", sjis=True),
+    TLWord(0x0001A2AB, 16, "left behind.", sjis=True),
+    TLWord(0x0001A34B, 6, "equip ", sjis=True),
+    TLWord(0x0001A352, 20, "bag is full!", sjis=True),
+    TLWord(0x0001A37B, 16, "Toss something?", sjis=True),
+    TLWord(0x0001A457, 10, "Items", sjis=True),
+    TLWord(0x0001A462, 20, "bag is full!", sjis=True),
+    TLWord(0x0001C105, 2, "  ", sjis=True),
+    TLWord(0x0001C108, 22, "not enough MP! ", sjis=True),
+    TLWord(0x0001C6A6, 14, " tripped! ", sjis=True),
+    TLWord(0x0001C7FA, 10, "More tgts", sjis=True),
+    TLWord(0x0001C806, 10, "Expand ", sjis=True),
+    TLWord(0x0001C812, 20, "Fixed damage ", sjis=True),
+    TLWord(0x0001C828, 14, "Extend time", sjis=True),
+    TLWord(0x0001C838, 12, "Add chance ", sjis=True),
+    TLWord(0x0001C846, 12, "Mentl given", sjis=True),
+    TLWord(0x0001C861, 6, "Cost ", sjis=True),
+    TLWord(0x0001CB80, 6, "cost", sjis=True),
+    TLWord(0x0001CB89, 14, "stones used", sjis=True),
+    TLWord(0x0001CDCD, 24, "No instrument equipped!", sjis=True),
+    TLWord(0x0001CDE7, 28, "No mages staff equipped! ", sjis=True),
+    TLWord(0x0001CE05, 28, "Both hands are full! ", sjis=True),
+    TLWord(0x0001CE23, 28, "Restricted by armor! ", sjis=True),
+    TLWord(0x0001CE41, 26, "No spells usable now!", sjis=True),
+    TLWord(0x0001D00C, 20, "Has no arrows! ", sjis=True),
+
+    TLWord(0x0001E09A, 6, "AttkP", sjis=True),
+    TLWord(0x0001E0A3, 6, "StrkP", sjis=True),
+    TLWord(0x0001E0AC, 8, "CritNum", sjis=True),
+    TLWord(0x0001E0B7, 8, "XtraDmg", sjis=True),
+    TLWord(0x0001E0C2, 6, "Evade", sjis=True),
+    TLWord(0x0001E0CB, 6, "Def  ", sjis=True),
+    TLWord(0x0001E2E3, 18, "Not equipped!", sjis=True),
+    TLWord(0x0001E313, 4, "Bth", sjis=True),
+    TLWord(0x0001E325, 4, "R H", sjis=True),
+    TLWord(0x0001E337, 4, "L H", sjis=True),
+    TLWord(0x0001E349, 4, "Bdy", sjis=True),
+    TLWord(0x0001E35B, 4, "Acc", sjis=True),
+    TLWord(0x0001E697, 8, "Can't", sjis=True),
+    TLWord(0x0001E6a0, 28, "change armor in combat! ", sjis=True),
+    TLWord(0x0001EAD8, 22, "Items are full,", sjis=True),
+    TLWord(0x0001EAEF, 16, "can't remove! ", sjis=True),
+    TLWord(0x0001F797, 20, "Automapping", sjis=True),
+
+    TLWord(0x00021DC4, 16, "What to do?", sjis=True),
+    TLWord(0x00021E62, 8, " gained.", sjis=True),
+    TLWord(0x00021EDF, 22, "gamel gained. ", sjis=True),
+    TLWord(0x00021F26, 20, "gamel given.", sjis=True),
+    TLWord(0x00021F9F, 12, "obtained. ", sjis=True),
+    TLWord(0x00021FF2, 12, "obtained. ", sjis=True),
+    TLWord(0x00023CED, 32, "Who will level up? ", sjis=True),
+    TLWord(0x00023D29, 30, "can't level up! ", sjis=True),
+    TLWord(0x00023E06, 22, "Gain skills", sjis=True),
+    TLWord(0x00023E1D, 16, "Improve stats", sjis=True),
+    TLWord(0x000243D3, 30, "Raise which skill? ", sjis=True),
 
     # TLWord(0x23ced, 32, "Who will level up? ", sjis=True),
     TLWord(0x13298, 10, "Races", sjis=True),
@@ -214,10 +308,21 @@ words = [
     TLWord(0x00014119, 8, "No jobs", sjis=True),
 
     #
+    # CRASH?
     TLWord(0x136bd, 4, "Hum", sjis=True),
     TLWord(0x136c2, 6, "Elf", sjis=True),
+    TLWord(0x000136C9, 10, "Dwarf", sjis=True),
+    TLWord(0x000136D4, 16, "Grassrunner", sjis=True),
+    TLWord(0x000136E5, 22, "Half-Elf (Human) ", sjis=True),
+    TLWord(0x000136FC, 24, "Half-Elf (Elven) ", sjis=True),
     # more 
-    # above doesnt seem to affect anything??
+    # above is for help screen
+
+    #13750 - NOT SJIS! ENCODED!
+    #TLWord(0x00013755, 20, "Average but can", sjis=False),
+    #TLWord(0x0001376A, 18, "learn all jobs", sjis=False),
+    # ^ help menu uses BackToNative() (ie sjis=False)
+    
 
     TLWord(0x000138D3, 10, "Fighter", sjis=True),
     TLWord(0x000138DE, 6, "Thief", sjis=True),
@@ -227,10 +332,6 @@ words = [
     TLWord(0x00013908, 10, "Sorcerer ", sjis=True),
     TLWord(0x00013913, 10, "Shaman ", sjis=True),
     TLWord(0x0001391E, 12, "Priest ", sjis=True),
-    TLWord(0x000136C9, 10, "Dwarf", sjis=True),
-    TLWord(0x000136D4, 16, "Grassrunner", sjis=True),
-    TLWord(0x000136E5, 22, "Half-Elf/Human", sjis=True),
-    TLWord(0x000136FC, 24, "Half-Elf/Elven", sjis=True),
     TLWord(0x0001405E, 8, "Level", sjis=True),
     TLWord(0x00014067, 6, "AttkP", sjis=True),
     TLWord(0x0001406E, 6, "StrkP", sjis=True),
@@ -260,12 +361,77 @@ words = [
     TLWord(0x242f4, 6, "Mentl", sjis=True),
     # help screen text ?^　
     
-    #24690 - level up?
+    #24690 - level up large text
     TLWord(0x000246D7, 10, "Fighter", sjis=True), # not small / status 
+    TLWord(0x00024694, 8, "level ", sjis=True),
+    TLWord(0x000246A2, 16, "increase? ", sjis=True),
+    TLWord(0x000246E2, 6, "Thief", sjis=True),
+    TLWord(0x000246E9, 12, "Ranger ", sjis=True),
+    TLWord(0x000246F6, 8, "Sage ", sjis=True),
+    TLWord(0x000246FF, 10, "Bard ", sjis=True),
+    TLWord(0x0002470A, 10, "Sorcerer ", sjis=True),
+    TLWord(0x00024715, 10, "Shaman ", sjis=True),
+    TLWord(0x00024720, 12, "Priest ", sjis=True),
+    TLWord(0x0002476E, 6, "Skill", sjis=True),
+    TLWord(0x00024775, 22, "level at maximum! ", sjis=True),
+    TLWord(0x000247D2, 16, " is at maximum! ", sjis=1),
+    TLWord(0x00024811, 22, "Not enough exp!", sjis=1),
+    TLWord(0x00024871, 16, " raise? ", sjis=1),
+    TLWord(0x000248A2, 6, "Dex  ", sjis=1),
+    TLWord(0x000248A9, 6, "Agil ", sjis=1),
+    TLWord(0x000248B0, 4, "Int", sjis=1),
+    TLWord(0x000248B5, 4, "Str", sjis=1),
+    TLWord(0x000248BA, 6, "Life ", sjis=1),
+    TLWord(0x000248c1, 6, "Mentl", sjis=1),
+    TLWord(0x00024943, 28, "Raise which stat?", sjis=1),
+    TLWord(0x00024BA7, 24, "Select bard song ", sjis=1),
+    # 24be0 - bardic song names 
 
-    # ??
 
-   
+    #＃　3a4e0 - NAME ENTRY!!
+    TLWord(0x0003AFB1, 6, "Roll ", sjis=1),
+    TLWord(0x0003AFBC, 32, "Hold A button before the", sjis=1),
+    TLWord(0x0003AFDF, 32, "dice are rolled to extend ", sjis=1),
+    TLWord(0x0003B002, 24, "the roll. ", sjis=1),
+    TLWord(0x0003B01E, 8, "Subattr", sjis=1),
+    TLWord(0x0003B02B, 30, "Sub attributes A to H", sjis=1),
+    TLWord(0x0003B04C, 30, "are modified by your race ", sjis=1),
+    TLWord(0x0003B06D, 24, "and automatically added.", sjis=1),
+    TLWord(0x0003B089, 4, "Hum", sjis=1),
+    TLWord(0x0003B0F1, 6, "Elf", sjis=1),
+    TLWord(0x0003B177, 10, "Dwarf", sjis=1),
+    TLWord(0x0003B201, 16, "Grassrunner", sjis=1),
+    TLWord(0x0003B291, 12, "Half Elf", sjis=1),
+    TLWord(0x0003BB3A, 8, "Pharis ", sjis=1),
+    TLWord(0x0003BB47, 8, "Goddess", sjis=1),
+    TLWord(0x0003BB52, 24, "of justice and order", sjis=1),
+    TLWord(0x0003BB6D, 26, "Fought the dark one. ", sjis=1),
+    TLWord(0x0003BB8B, 8, "Myrii", sjis=1),
+    TLWord(0x0003BB96, 30, "God of battle. Likes", sjis=1),
+    TLWord(0x0003BBB5, 34, "just combat, but rebukes", sjis=1),
+    TLWord(0x0003BBD8, 28, "acts of cowardice.", sjis=1),
+    TLWord(0x0003BBF8, 8, "Rahda", sjis=1),
+    TLWord(0x0003Bc03, 12, "God of ", sjis=1),
+    TLWord(0x0003BC10, 30, "knowledge. Dislikes ", sjis=1),
+    TLWord(0x0003BC2F, 16, "barbarism.", sjis=1),
+    TLWord(0x0003BC43, 10, "Cha-Za ", sjis=1),
+   TLWord(0x0003BC50, 12, "God of ", sjis=1),
+   TLWord(0x0003BC5D, 30, "commerce. Forbids acts of", sjis=1),
+   TLWord(0x0003BC7C, 18, "malice. ", sjis=1),
+   TLWord(0x0003BC92, 8, "Marfa", sjis=1),
+   TLWord(0x0003BC9D, 12, "Earthmother", sjis=1),
+   TLWord(0x0003BCAA, 32, "that prefers humans in", sjis=1),
+   TLWord(0x0003BCCB, 10, "the wild. ", sjis=1),
+   TLWord(0x0003BCEB, 26, "Select bard songs", sjis=1),
+   TLWord(0x0003BD0D, 4, "help", sjis=1),
+   #TLWord(0x0003BDA2, 60, "Morale:{4}Bestows courage for\x04frontline fighters. ", sjis=1),
+   TLWord(0x0003BDA2, 8, "Morale:", sjis=1),
+   TLWord(0x0003BDAB, 30, "Bestows courage for", sjis=1),
+   TLWord(0x0003BDCA, 20, "frontline fighters. ", sjis=1),
+   TLWord(0x0003BDE2, 8, "Peace",sjis=1),
+   TLWord(0x0003BDED, 30, "Reduce aggression and attack ", sjis=1),
+   TLWord(0x0003BE0C, 14, "power.", sjis=1),
+
     # char creation
     TLWord(0x3a4cf, 26, "Enter a name.          ", sjis=True),
     TLWord(0x3aa54, 26, "Select gender.         ", sjis=True),
@@ -303,7 +469,7 @@ words = [
     TLWord(0x3ada0, 10, "Manual ", sjis=True),
     TLWord(0x3adad, 4, "help", sjis=True),
     TLWord(0x3adc8, 6, "Auto ", sjis=True),
-    TLWord(0x3add3, 30, "Auto-roll for stats, ", sjis=True),
+    TLWord(0x3add3, 30, "Auto roll for stats, ", sjis=True),
     TLWord(0x3adf4, 24, "birth, money, etc.", sjis=True),
     TLWord(0x3ab68, 4, "help", sjis=True),
     TLWord(0x3ae10, 10, "Manual ", sjis=True),
@@ -332,7 +498,7 @@ words = [
     TLWord(0x0003B463, 6, "Mentl", sjis=True),
     TLWord(0x0003B46D, 6, "Money", sjis=True),
     TLWord(0x0003B47D, 8, "Skills ", sjis=True),
-    TLWord(0x0003B488, 18, "Is this ok?  ", sjis=True),
+    TLWord(0x0003B488, 18, "This OK? ", sjis=True),
     TLWord(0x0003B4B2, 6, "Birth", sjis=True),
     TLWord(0x0003B4D2, 4, "Brb", sjis=True),
     TLWord(0x0003B4D7, 8, "Wizard ", sjis=True),
@@ -358,7 +524,7 @@ words = [
     TLWord(0x0003C073, 8, "Record ", sjis=True),
     TLWord(0x0003C07C, 8, "Remake ", sjis=True),
     TLWord(0x0003C087, 4, "M  ", sjis=True),
-    TLWord(0x0003C08F, 4, "F", sjis=True),
+    TLWord(0x0003C08F, 4, "F  ", sjis=True),
 
     TLWord(0x0003B739, 32, "Can equip up to Str. ", sjis=True),
     TLWord(0x0003B72C, 10, "Fighter", sjis=True),
@@ -390,11 +556,8 @@ words = [
     TLWord(0x0003B9D6, 20, "Uses holy magic. ", sjis=True),
     TLWord(0x0003B9ED, 12, "No restrict", sjis=True),
 
-    TLWord(0x00024694, 8, "level ", sjis=True),
-    TLWord(0x000246A2, 16, "increase? ", sjis=True),
-    TLWord(0x000246E2, 6, "Thief", sjis=True),
-
-    
+    TLWord(0x0003BAB7, 28, "Pick a diety.", sjis=1),
+    TLWord(0x0003BB10, 4, "help", sjis=1),
     
     # TLWord(0x6cd07, 4, "Wt ", sjis=True),
     # TLWord(0x6cd0e, 8, "Items  ", sjis=True),

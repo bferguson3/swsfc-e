@@ -203,6 +203,7 @@ while i < len(all_cmb):
         ind = 0x1000
     if(all_cmb[i].count > 1):
         multi += 1
+    print(hex(all_cmb[i].index), all_cmb[i].txt)
     i += 1
 print(" OK.\nMax index: ", hex(ind), "of",ct,"(max 960)/ duplicated",multi,"combinations")
 
@@ -352,7 +353,7 @@ print("OK.")
 #名前を入力してください
 #E nter  your  name :
 print("Loading rom...", end="")
-f = open("swsfc-e.sfc", "rb")
+f = open("swsfc1j_edited.sfc", "rb")
 rom = f.read()
 f.close()
 print(" OK.")

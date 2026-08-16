@@ -4,7 +4,7 @@
             "address": "0x41ef9",
             "size": 70,
             "text": "仲間をさか゛しているの？\n私はエリテ゛ィン。\n戦士なんた゛けと゛、{6}\n仲間か゛たりないんた゛ったら\n私を加えてみない？{6}{f}",
-            "translation": "Looking for mates? \nI'm Eridin.\nI'm a warrior, {6}\nbut I'm short of allies.\nCan I join?{6}{f}"
+            "translation": "Looking for mates? \nI'm Eridin.\nI'm a warrior, {6}\nbut I'm short on allies. \nCan I join?{6}{f}"
         },
         {
             "address": "0x41f3f",
@@ -112,7 +112,7 @@
             "address": "0x41cfa",
             "size": 26,
             "text": "あまり多人数た゛と\nかえって危険し゛ゃ。{6}{f}",
-            "translation": "Too many people\nis dangerous.{6}{f}"
+            "translation": "Too many people\nis dangerous. {6}{f}"
         },
         {
             "address": "0x41d14",
@@ -592,7 +592,7 @@
             "address": "0x40ad6",
             "size": 3,
             "text": "？{6}{f}",
-            "translation": ""
+            "translation": "? {6}{f}"
         },
         {
             "address": "0x40ad9",
@@ -898,7 +898,7 @@
             "address": "0x41104",
             "size": 4,
             "text": "......{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x41108",
@@ -1468,7 +1468,7 @@
             "address": "0x4253d",
             "size": 52,
             "text": "{3}\n我の名は闇。\n光を払い、母なる混沌にかえすもの。{3}{0}{6}\n{3}\n我に触れよ。{3}{0}{6}{f}",
-            "translation": "{3}\nI am dark. \nI void light and return to \nmother chaos. {3}{0}{6}\n{3}\nTouch me.{3}{0}{6}{f}"
+            "translation": "{3}\nI am dark. \nVoid light and return to \nmother chaos. {3}{0}{6}\n{3}\nTouch me.{3}{0}{6}{f}"
         },
         {
             "address": "0x42571",
@@ -1774,7 +1774,7 @@
             "address": "0x42a7c",
             "size": 37,
             "text": "{3}\nエクセリア号はカソ゛フをはなれると\n西へ進路をとった。{3}{0}{6}{f}",
-            "translation": "{3}\nThe Exelia left Kasov and\nheaded west.{3}{0}{6}{f}"
+            "translation": "{3}\nThe Exelia left Kasof and\nheaded west.{3}{0}{6}{f}"
         },
         {
             "address": "0x42aa1",
@@ -4384,7 +4384,7 @@
             "address": "0x47156",
             "size": 4,
             "text": "......{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x4715a",
@@ -4624,13 +4624,13 @@
             "address": "0x481eb",
             "size": 40,
             "text": "こんなサ゛コ、いくら倒してもた゛め{8}た゛{b}し゛ゃ{9}た゛わ{a}て゛す{7}。\n親玉",
-            "translation": ""
+            "translation": "There's no end to them!{6}{f}"
         },
         {
             "address": "0x48226",
             "size": 25,
             "text": "と゛うやら、あの服をきたスケルトンか゛\n親玉",
-            "translation": ""
+            "translation": "That skeleton must be their\nleader. {6}{f}"
         },
         {
             "address": "0x4828e",
@@ -4852,7 +4852,7 @@
             "address": "0x4890a",
             "size": 21,
             "text": "神殿か゛...い{8}{b}{a}や{9}え{7}、\nこの島",
-            "translation": ""
+            "translation": "This temple... {6}{f}"
         },
         {
             "address": "0x48955",
@@ -5242,7 +5242,7 @@
             "address": "0x494bb",
             "size": 29,
             "text": "それから、ヒューという男も{8}{b}な{9}{a}ね{7}。\nとりつく島",
-            "translation": ""
+            "translation": "And that Hugh character...{6}{f}"
         },
         {
             "address": "0x494f9",
@@ -5260,7 +5260,7 @@
             "address": "0x495a7",
             "size": 22,
             "text": "ツインテール・キャット？{6}\nはるか東の島",
-            "translation": ""
+            "translation": "Twintail cat?{6}\nFar east.{6}{f}"
         },
         {
             "address": "0x495ee",
@@ -5692,7 +5692,7 @@
             "address": "0x4a0fe",
             "size": 16,
             "text": "三ツ目のカ゛イコツか゛、\n目玉",
-            "translation": ""
+            "translation": "3-eyed skeleton {6}{f}"
         },
         {
             "address": "0x4a134",
@@ -6190,7 +6190,7 @@
             "address": "0x4b1d2",
             "size": 74,
             "text": "ここて゛の仕事はないか゛、\nカソ゛フから話か゛きてるよ。\n盗賊キ゛ルト゛からた゛。{6}\nやる気か゛あるなら\n行ってみてはと゛うた゛？{6}{f}",
-            "translation": "No work here, but there's\nsomething from Kasov. \nIf you're interested,{6}\ngo ask about it at\nthe thieves' guild. {6}{f}"
+            "translation": "No work here, but there's\nsomething from Kasof. \nIf you're interested,{6}\ngo ask about it at\nthe thieves' guild. {6}{f}"
         },
         {
             "address": "0x4b21c",
@@ -6322,7 +6322,7 @@
             "address": "0x4b635",
             "size": 74,
             "text": "ここて゛の仕事はないか゛、\nカソ゛フから話か゛きてるよ。\n盗賊キ゛ルト゛からた゛。{6}\nやる気か゛あるなら\n行ってみてはと゛うた゛？{6}{f}",
-            "translation": "No work here, but there's\nsomething from Kasov. \nIf you're interested,{6}\ngo ask about it at\nthe thieves' guild. {6}{f}"
+            "translation": "No work here, but there's\nsomething from Kasof. \nIf you're interested,{6}\ngo ask about it at\nthe thieves' guild. {6}{f}"
         },
         {
             "address": "0x4b67f",
@@ -7456,7 +7456,7 @@
             "address": "0x4de6d",
             "size": 53,
             "text": "スラムて゛取り引きの場所を\n見つけたのか。{6}\nわかった。何人か送っておこう。\nなに、親玉",
-            "translation": ""
+            "translation": "So you found the exchange\nspot in the slums. All{6}\nright, I'll send someone. {6}{f}"
         },
         {
             "address": "0x4dec1",
@@ -7858,7 +7858,7 @@
             "address": "0x4eb1b",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": "......{6}{f}"
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x4eb29",
@@ -7912,7 +7912,7 @@
             "address": "0x4ecad",
             "size": 4,
             "text": "......{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x4ecb1",
@@ -7954,7 +7954,7 @@
             "address": "0x4edcd",
             "size": 77,
             "text": "オランの「奇跡の店」から\nこられたのか？{6}\nたしかに「神像のオノ」を\n持っていたか゛、今は鉱山の奥て゛\nと゛うすることもて゛きない。{6}{f}",
-            "translation": "You've come from Oran's\nmiracle shop?{6}\nIt's true I had the Idol Axe, \nbut you see, the mines... {6}{f}"
+            "translation": "You've come from Oran's \nmiracle shop? {6}\nIt's true I had the Idol Axe, \nbut you see, the mines... {6}{f}"
         },
         {
             "address": "0x4ee1a",
@@ -8158,7 +8158,7 @@
             "address": "0x4f33c",
             "size": 80,
             "text": "おのれ、まもなく神の復活の時か゛\nくるという時に...\nた゛か゛、まあよかろう。{6}\nこの地の魔力はすへ゛て\nきゅうしゅうした。{6}\nあとはこの宝玉",
-            "translation": ""
+            "translation": "Curses, and our dark god's \nresurrection is so near!\nNo matter. {6}\nI've absorbed all the\nmagic in these lands. {6}{f}"
         },
         {
             "address": "0x4f3b3",
@@ -8236,7 +8236,7 @@
             "address": "0x4f566",
             "size": 5,
             "text": "おお、島",
-            "translation": ""
+            "translation": "Oh.{6}{f}"
         },
         {
             "address": "0x4f5e4",
@@ -8416,7 +8416,7 @@
             "address": "0x500ae",
             "size": 4,
             "text": "......{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x500b2",
@@ -8668,7 +8668,7 @@
             "address": "0x50863",
             "size": 4,
             "text": "......{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x50867",
@@ -9166,7 +9166,7 @@
             "address": "0x519c4",
             "size": 111,
             "text": "「神狩りの竜」とは、\n神々の大戦争にもて゛てくる、\n強大な力を持った竜のことた゛。{6}\n太古、竜は神すら殺すほと゛の\n力を持っていた。{6}\n現在、世界にはひ゛こる\nトカケ゛の親玉",
-            "translation": ""
+            "translation": "The God-Hunting Dragon showed\nitself during the gods' war.\nIt was a powerful beast. {6}\nDragons had the power to \nkill gods, back then. {6}\nNowadays they are more \nlike big lizards. {6}{f}"
         },
         {
             "address": "0x51b3e",
@@ -10072,7 +10072,7 @@
             "address": "0x53325",
             "size": 34,
             "text": "うむ、\nあのしかけの力は、\nカソ゛フまて゛およふ゛かもしれん。{6}{f}",
-            "translation": "That mechanism's power \ncould reach as far as Kasov. {6}{f}"
+            "translation": "That mechanism's power \ncould reach as far as Kasof. {6}{f}"
         },
         {
             "address": "0x53347",
@@ -11650,7 +11650,7 @@
             "address": "0x5581d",
             "size": 150,
             "text": "盗賊の男て゛ナイトシェート゛と\n名のった...としか知らないわ。{6}\nたた゛、村の人か゛言うには、\nナイトシェート゛はむかし、\nカソ゛フにいた有名な盗賊て゛、{6}\nここ１０年は゛かり\n出てこなかったけれと゛、{6}\n最近になって、またもや悪事を\nはたらいているらしい...って。{6}{f}",
-            "translation": "All I know is that that man\ncalled himself Nightshade.{6}\nBut the villagers said that\nNightshade used to be a\nfamous thief from Kasov, {6}\nand nobody's seen him in\nover ten years... {6}\nUntil recently, when he's\nbeen particularly villainous. {6}{f}"
+            "translation": "All I know is that that man\ncalled himself Nightshade.{6}\nBut the villagers said that\nNightshade used to be a\nfamous thief from Kasof, {6}\nand nobody's seen him in\nover ten years... {6}\nUntil recently, when he's\nbeen particularly villainous. {6}{f}"
         },
         {
             "address": "0x558b3",
@@ -13768,7 +13768,7 @@
             "address": "0x5a266",
             "size": 23,
             "text": "ここ、アレクラストから\n南の「呪われた島",
-            "translation": ""
+            "translation": "Headed to Cursed Isle.{6}{f}"
         },
         {
             "address": "0x5a2c7",
@@ -13786,7 +13786,7 @@
             "address": "0x5a325",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5a32a",
@@ -13822,7 +13822,7 @@
             "address": "0x5a422",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5a42e",
@@ -13954,7 +13954,7 @@
             "address": "0x5a74b",
             "size": 29,
             "text": "そうた゛。\n先日、オランの南の海て゛、\n奇怪な島",
-            "translation": ""
+            "translation": "A few days ago a strange \nisland was spotted. {6}{f}"
         },
         {
             "address": "0x5a7b5",
@@ -13990,7 +13990,7 @@
             "address": "0x5a920",
             "size": 18,
             "text": "そうて゛あろう。\nおそらく、あの島",
-            "translation": ""
+            "translation": "That island... {6}{f}"
         },
         {
             "address": "0x5a94b",
@@ -14002,13 +14002,13 @@
             "address": "0x5a955",
             "size": 8,
             "text": "「死者の島",
-            "translation": ""
+            "translation": "DeadIsl{6}{f}"
         },
         {
             "address": "0x5a9c2",
             "size": 52,
             "text": "この大役をやれるのは、\nおまえたち以外にはない。{6}\nおまえたちに命す゛るそ゛。\n「死者の島",
-            "translation": ""
+            "translation": "You're the only ones that\nI can trust with this. {6}\nI entreat you. {6}{f}"
         },
         {
             "address": "0x5aa01",
@@ -14374,7 +14374,7 @@
             "address": "0x5baae",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5bab3",
@@ -14776,13 +14776,13 @@
             "address": "0x5c92d",
             "size": 3,
             "text": "！{6}{f}",
-            "translation": ""
+            "translation": "! {6}{f}"
         },
         {
             "address": "0x5c930",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5c935",
@@ -15010,7 +15010,7 @@
             "address": "0x5d23b",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5d240",
@@ -15094,7 +15094,7 @@
             "address": "0x5d70f",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5d714",
@@ -15238,7 +15238,7 @@
             "address": "0x5dbb6",
             "size": 55,
             "text": "数ヶ月前から、\nオランの街をさわか゛している\n謎の集団て゛す。{6}\n三ツ目のカ゛イコツか゛、\n目玉",
-            "translation": ""
+            "translation": "A few months ago,\nOran was in an uproar\ndue to them.{6}{f}"
         },
         {
             "address": "0x5dc09",
@@ -15784,19 +15784,19 @@
             "address": "0x5ef4a",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5ef52",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5ef5a",
             "size": 5,
             "text": ".........{6}{f}",
-            "translation": ""
+            "translation": "....{6}{f}"
         },
         {
             "address": "0x5ef64",
@@ -15958,13 +15958,13 @@
             "address": "0x5f43e",
             "size": 65,
             "text": "カソ゛フの街は、ほとんと゛か゛\n港て゛しめられているのよ。{6}\nた゛から、と゛こへ行っても\n潮のかおりか゛するて゛しょ？{6}{f}",
-            "translation": "The city of Kasov is mostly\na port. {6}\nAnywhere you can go you\ncan smell the ocean, right? {6}{f}"
+            "translation": "The city of Kasof is mostly\na port. {6}\nAnywhere you can go you\ncan smell the ocean, right? {6}{f}"
         },
         {
             "address": "0x5f47f",
             "size": 52,
             "text": "ナイトシェート゛っていう女盗賊か゛、\nカソ゛フをナワハ゛リにして\nかせき゛まくってるらしいわよ。{6}{f}",
-            "translation": "Seems a female bandit named\nNightshade has taken over\nKasov. {6}{f}"
+            "translation": "Seems a female bandit named\nNightshade has taken over\nKasof. {6}{f}"
         },
         {
             "address": "0x5f4b3",

@@ -312,7 +312,7 @@
             "ptr_val": "0x61",
             "size": 19,
             "text": "霧を調へ゛に行く\n先を急く゛{f}",
-            "translation": "Investigate fog\nMove on{f}"
+            "translation": "Investigate the fog\nMove on{f}"
         },
         {
             "address": "0x80ead",
@@ -570,7 +570,7 @@
             "ptr_val": "0x191",
             "size": 36,
             "text": "宝珠をはめこむと、\n周囲にはふしき゛な力か゛感し゛られた。{d}{f}",
-            "translation": "You can feel a strange power in\nthe vicinity. {d}{f}"
+            "translation": "You can feel a strange power in\nthe vicinity after inserting\nthe jewel.{d}{f}"
         },
         {
             "address": "0x810f5",
@@ -910,7 +910,7 @@
             "ptr_val": "0x141",
             "size": 37,
             "text": "カ゛イスたちは、\n{19}{0}たちの姿を見ると\nコソコソと店を出て行った。{d}{f}",
-            "translation": "Geis and the others\nexit, whispering, as the\nparty enters. {d}{f}"
+            "translation": "Geis and the others\nexit, whispering. {d}{f}"
         },
         {
             "address": "0x814ff",
@@ -1278,7 +1278,7 @@
             "ptr_val": "0x5b7",
             "size": 29,
             "text": "{19}{0}たちは、\nマス゛ルを信用して金をあす゛けた。{d}{f}",
-            "translation": "You trust Muzzle and \ngive him the money. {d}{f}"
+            "translation": "You trust him and\nhand over the money.{d}{f}"
         },
         {
             "address": "0x8196d",
@@ -1578,7 +1578,7 @@
             "ptr_val": "0xe1",
             "size": 45,
             "text": "{19}{0}たちか゛、部屋に入ると、\nすて゛に彼らの姿は\nかすみのように消えていた。{d}{f}",
-            "translation": "As the party enters the room,\ntheir forms are already \ndisappearing. {d}{f}"
+            "translation": "Their forms are fading as\nthe party enters the room.{d}{f}"
         },
         {
             "address": "0x81d57",
@@ -2748,7 +2748,7 @@
             "ptr_val": "0xa4",
             "size": 84,
             "text": "いくつもの足跡か゛\n南の方に続いてい{15}{18}るそ゛{16}るわ{17}ます{14}。\nこれをたと゛れは゛、\n山賊と゛ものアシ゛トに着くはす゛{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
-            "translation": "A bunch of footprints continue \nto the south. \nIf we follow these we should \nreach the bandit hideout. {d}{f}"
+            "translation": "A bunch of footprints continue \ntowards the south.\nIf we follow these we should \nreach the bandit's hideout. {d}{f}"
         },
         {
             "address": "0x830de",
@@ -2828,7 +2828,7 @@
             "ptr_val": "0x1d8",
             "size": 69,
             "text": "この部屋は何{15}{18}た゛ろ{16}{17}て゛しょ{14}う？\n祭壇みたいな所に、\nサイクロフ゜スの像か゛置かれてい{15}{18}るそ゛{16}るわ{17}ます{14}。{d}{f}",
-            "translation": "What is this room? \nA cyclops statue is on that\naltar thing.{d}{f}"
+            "translation": "What exactly is this room? \nA cyclops statue is on that\naltar thing.{d}{f}"
         },
         {
             "address": "0x83203",
@@ -2836,7 +2836,7 @@
             "ptr_val": "0x21d",
             "size": 41,
             "text": "あれか゛、\n山賊たちか゛盗んた゛荷物{15}{18}かな{16}かしら{17}て゛しょうか{14}？{d}{f}",
-            "translation": "Is that what the bandits \nstole?{d}{f}"
+            "translation": "Could those be the belongings\nthat the bandits stole? {d}{f}"
         },
         {
             "address": "0x8322c",
@@ -2868,7 +2868,7 @@
             "ptr_val": "0x276",
             "size": 39,
             "text": "さっきの洞窟には\nなかったと思{15}{18}うか゛{16}うけと゛{17}いますか゛{14}……{d}{f}",
-            "translation": "Wasn't in the cave, though...{d}{f}\n"
+            "translation": "Wasn't in the cave, though,\nI don't think... {d}{f}\n"
         },
         {
             "address": "0x83283",
@@ -2876,7 +2876,7 @@
             "ptr_val": "0x29d",
             "size": 40,
             "text": "他の荷物？  女の子？\nさあ、見つからなかった{15}{18}な{16}わ{17}て゛すね{14}。{d}{f}",
-            "translation": "Other things? A girl?\nNo, nothing like that. {d}{f}"
+            "translation": "Other belongings? A girl?\nNo, we didn't see anything \nelse. {d}{f}"
         },
         {
             "address": "0x832ab",
@@ -2902,7 +2902,7 @@
             "ptr_val": "0x42",
             "size": 14,
             "text": "何か、あったんて゛すか？{d}{f}",
-            "translation": "Something happen?{d}{f}"
+            "translation": "Did something happen?{d}{f}"
         },
         {
             "address": "0x83336",
@@ -2910,7 +2910,7 @@
             "ptr_val": "0x50",
             "size": 62,
             "text": "そうて゛す。\n{15}おれ{18}わし{16}{17}私{14}たちは、西への旅を\nいそいて゛いるのて゛すか゛、\nこれて゛は、お手上け゛て゛すね。{d}{f}",
-            "translation": "Yes. We are in a hurry to the \nwest, and can't afford to.{d}{f}"
+            "translation": "Yes. We are in a hurry to the \nwest, and can't afford to \nwaste time. {d}{f}"
         },
         {
             "address": "0x83374",
@@ -2934,7 +2934,7 @@
             "ptr_val": "0x9e",
             "size": 45,
             "text": "川か゛はんらんして、こまっているのは\nおたか゛いさまて゛す。\n引き受けましょう。{d}{f}",
-            "translation": "The river is flooded, and\neveryone's inconvenienced.\nLet's go.{d}{f}"
+            "translation": "The river is flooded, and\neveryone's inconvenienced.\nLet's leave for now. {d}{f}"
         },
         {
             "address": "0x833b1",
@@ -2942,7 +2942,7 @@
             "ptr_val": "0xcb",
             "size": 30,
             "text": "わかりました。\nて゛きるた゛け早くなんとかしましょう。{d}{f}",
-            "translation": "I see. \nLet's do what we can.{d}{f}"
+            "translation": "I see. \nLet's do what we can,\nas quickly as possible. {d}{f}"
         },
         {
             "address": "0x833cf",
@@ -2958,7 +2958,7 @@
             "ptr_val": "0x134",
             "size": 30,
             "text": "一体、いくらになる{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}？{d}{f}",
-            "translation": "How much do you want?{d}{f}"
+            "translation": "And exactly how much do\nyou want? {d}{f}"
         },
         {
             "address": "0x83438",
@@ -2974,7 +2974,7 @@
             "ptr_val": "0x16c",
             "size": 49,
             "text": "これた゛ったら、\n村長の依頼を引き受けた方か゛\nいいんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": "Maybe it's best if we take the \nchief's request?{d}{f}"
+            "translation": "Maybe it's best if we take the \nchief's request after all?{d}{f}"
         },
         {
             "address": "0x83483",
@@ -3168,7 +3168,7 @@
             "ptr_val": "0x8e",
             "size": 84,
             "text": "{15}{18}{17}おや{16}あら{14}、山のほうに村か゛あ{15}{18}るそ゛{16}るわ{17}りますよ{14}。\nテントか゛はってあるところを見ると\nサーカスて゛も来てるの{15}{18}かな{16}かしら{17}て゛しょうか{14}？{d}{f}",
-            "translation": "Oh, there's a village near the \nmountains. I can see tents. \nWonder if there's a circus?{d}{f}"
+            "translation": "Oh, there's a village near the \nmountains. I can see tents. \nI wonder if the circus is\nin town?{d}{f}"
         },
         {
             "address": "0x838c1",
@@ -3184,7 +3184,7 @@
             "ptr_val": "0x122",
             "size": 53,
             "text": "あと２日て゛エレミア{15}た゛{18}し゛ゃ{16}よ{17}て゛すよ{14}。\nそこて゛ゆっくり休{15}{18}もう{16}{17}みましょう{14}。{d}{f}",
-            "translation": "It's two days to Eremia.\nLet's rest there.{d}{f}"
+            "translation": "It's still two days to Eremia.\nLet's rest up there. {d}{f}"
         },
         {
             "address": "0x83936",
@@ -3200,7 +3200,7 @@
             "ptr_val": "0x17e",
             "size": 67,
             "text": "団長か゛{15}おれ{18}わし{16}{17}私{14}たちに\n用か゛あるそうし゛ゃない{15}{18}か{16}の{17}て゛すか{14}。\nそれて゛も出て行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": "The leader has business to \ndiscuss. Are you still going\nto leave? {d}{f}"
+            "translation": "Their leader still has business\nto discuss with us. Are you sure \nyou want to leave now?{d}{f}"
         },
         {
             "address": "0x839a0",
@@ -3208,7 +3208,7 @@
             "ptr_val": "0x1c1",
             "size": 71,
             "text": "団長から依頼を受けた{15}{18}た゛ろう{16}{17}て゛しょう{14}？\nいそいて゛裏山に行って\n動物たちを連れもと゛{15}{18}そう{16}{17}しましょう{14}。{d}{f}",
-            "translation": "Didn't we take a request?\nLet's hurry to the back\nmountain and get the animals. {d}{f}"
+            "translation": "Don't we have to complete the\nchief's request? We should hurry\nto the back mountain and\nretrieve the animals. {d}{f}"
         },
         {
             "address": "0x839e7",
@@ -3224,7 +3224,7 @@
             "ptr_val": "0x23b",
             "size": 35,
             "text": "レイナって……さっきの娘さん{15}た゛な{18}し゛ゃな{16}ね{17}て゛すね{14}。{d}{f}",
-            "translation": "Reina was that girl before?{d}{f}"
+            "translation": "Reina was that girl\nfrom before?{d}{f}"
         },
         {
             "address": "0x83a3d",
@@ -3232,7 +3232,7 @@
             "ptr_val": "0x25e",
             "size": 25,
             "text": "動物たちしかいない{15}{18}そ゛{16}わ{17}て゛すよ{14}。{d}{f}",
-            "translation": "Nobody but the animals.{d}{f}"
+            "translation": "Nobody here but the animals. {d}{f}"
         },
         {
             "address": "0x83a56",
@@ -3264,7 +3264,7 @@
             "ptr_val": "0x30e",
             "size": 22,
             "text": "あたりを捜してみ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": "Let's look around. {d}{f}"
+            "translation": "Let's look around the area.{d}{f}"
         },
         {
             "address": "0x83b03",
@@ -3272,7 +3272,7 @@
             "ptr_val": "0x324",
             "size": 49,
             "text": "レイナは見つからない{15}{18}な{16}わね{17}て゛すね{14}。\nとりあえす゛村に帰{15}{18}ろ{16}{17}りましょ{14}うか？{d}{f}",
-            "translation": "We didn't find Reina. Should we\ngo back to town?{d}{f}"
+            "translation": "We didn't find Reina. Should we\nhead back to town for now?{d}{f}"
         },
         {
             "address": "0x83b34",
@@ -3280,7 +3280,7 @@
             "ptr_val": "0x355",
             "size": 38,
             "text": "{15}{18}{17}よし{16}いいわ{14}、動物たちを捕まえ{15}{18}るそ゛{16}るわ{17}ましょう{14}。{d}{f}",
-            "translation": "Okay.\nLet's get these animals. {d}{f}"
+            "translation": "All right. \nLet's get these animals. {d}{f}"
         },
         {
             "address": "0x83b5a",
@@ -3296,7 +3296,7 @@
             "ptr_val": "0x38f",
             "size": 45,
             "text": "{15}{18}ええい{16}{17}もぉー{14}、何をやってる{16}の{17}んて゛す{14}。\n早く眠らせ{15}{18}ろ{16}{17}て{14}！{d}{f}",
-            "translation": "What are you doing?\nPut them to bed! {d}{f}"
+            "translation": "What are you doing?\nMake them go to sleep\nalready!{d}{f}"
         },
         {
             "address": "0x83b9b",
@@ -3336,7 +3336,7 @@
             "ptr_val": "0x45a",
             "size": 16,
             "text": "て゛も、また゛レイナか゛……{d}{f}",
-            "translation": "But, Reina... {d}{f}"
+            "translation": "But Reina is still missing...{d}{f}"
         },
         {
             "address": "0x83c49",
@@ -3352,7 +3352,7 @@
             "ptr_val": "0x4a2",
             "size": 40,
             "text": "{15}{18}{17}よし{16}いいわ{14}。\nもう一度、裏山に行ってみ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": "Okay. Let's head back to the \nmountain. {d}{f}"
+            "translation": "Okay. Let's return to the\nback mountain.{d}{f}"
         },
         {
             "address": "0x83ca9",
@@ -3400,7 +3400,7 @@
             "ptr_val": "0x5ad",
             "size": 29,
             "text": "あの犬の後を\n追いかけてみ{15}{18}よ{16}{17}ましょ{14}う！{d}{f}",
-            "translation": "Let's follow the dog!{d}{f}"
+            "translation": "Let's follow that dog! {d}{f}"
         },
         {
             "address": "0x83da9",
@@ -3520,7 +3520,7 @@
             "ptr_val": "0x810",
             "size": 35,
             "text": "イタス゛ラにしては悪質{15}た゛な{18}し゛ゃな{16}た゛わ{17}て゛すね{14}。{d}{f}",
-            "translation": "It's a bit much for just a \nprank.{d}{f}"
+            "translation": "This is a bit much for just a\nprank.{d}{f}"
         },
         {
             "address": "0x84012",
@@ -3600,7 +3600,7 @@
             "ptr_val": "0x9a7",
             "size": 37,
             "text": "{15}{18}ちくしょう{16}{17}もーっ{14}、\n落とし穴のつもり{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": "Darnit!\nSupposed to be a bit trap? {d}{f}"
+            "translation": "Darnit!\nIs this supposed to be a \npit trap? {d}{f}"
         },
         {
             "address": "0x841ab",
@@ -3680,7 +3680,7 @@
             "ptr_val": "0xbb9",
             "size": 55,
             "text": "な{15}{18}んた゛よ{16}によ{17}んて゛す{14}、えらそうに、\n{15}おれ{18}わし{16}{17}私{14}たちはあ{15}{18}ん{16}{17}な{14}たを助けに……{d}{f}",
-            "translation": "That's some thanks.\nWe're here to rescue you.{d}{f}"
+            "translation": "How about some thanks? \nWe're here to rescue you.{d}{f}"
         },
         {
             "address": "0x843cf",
@@ -3762,7 +3762,7 @@
             "ptr_val": "0xd5",
             "size": 17,
             "text": "完全に道に迷ったかな？{d}{f}",
-            "translation": "Are we lost? {d}{f}"
+            "translation": "Are we completely lost?{d}{f}"
         },
         {
             "address": "0x845a5",
@@ -3858,7 +3858,7 @@
             "ptr_val": "0x244",
             "size": 40,
             "text": "……言われてみれは゛、\n子供の姿か゛見えない{15}{18}な{16}わね{17}て゛すね{14}。{d}{f}",
-            "translation": "Now you mention it,\nI don't see any kids.{d}{f}"
+            "translation": "Now that you mention it, \nI don't see any children.{d}{f}"
         },
         {
             "address": "0x8472b",
@@ -3866,7 +3866,7 @@
             "ptr_val": "0x26c",
             "size": 54,
             "text": "確かに……\nセンス・オーラて゛\n調へ゛てみれは゛、\n何かわかるかもしれない{15}{18}な{16}わね{17}て゛すね{14}。{d}{f}",
-            "translation": "We may find something if we\ntry Sense Aura.{d}{f}"
+            "translation": "We may find something if we\ntry Sense Aura and \nsearch around.{d}{f}"
         },
         {
             "address": "0x84761",
@@ -3874,7 +3874,7 @@
             "ptr_val": "0x2a2",
             "size": 48,
             "text": "気をつけ{15}{18}ろ{16}{17}て{14}！\nこいつら、\nみんなアンテ゛ット゛{15}た゛{18}し゛ゃ{16}よ{17}て゛すよ{14}！{d}{f}",
-            "translation": ""
+            "translation": "Be careful!\nThey're all undead!! {d}{f}"
         },
         {
             "address": "0x84791",
@@ -3882,7 +3882,7 @@
             "ptr_val": "0x2d2",
             "size": 19,
             "text": "何{15}{18}た゛って{16}{17}て゛すって{14}！？{d}{f}",
-            "translation": ""
+            "translation": "What!? {d}{f}"
         },
         {
             "address": "0x847a4",
@@ -3890,7 +3890,7 @@
             "ptr_val": "0x2e5",
             "size": 14,
             "text": "またハーヒ゜ィ{15}{18}か{14}？{d}{f}",
-            "translation": ""
+            "translation": "Harpies again? {d}{f}"
         },
         {
             "address": "0x847b2",
@@ -3898,7 +3898,7 @@
             "ptr_val": "0x2f3",
             "size": 32,
             "text": "まさか、\nきのうと同し゛ことを\nくり返してるんし゛ゃ……{d}{f}",
-            "translation": ""
+            "translation": "Couldn't be the same \nthing as yesterday, right?{d}{f}"
         },
         {
             "address": "0x847d2",
@@ -3906,7 +3906,7 @@
             "ptr_val": "0x313",
             "size": 24,
             "text": "これは幻覚{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}！{d}{f}",
-            "translation": ""
+            "translation": "It's an illusion!{d}{f}"
         },
         {
             "address": "0x847ea",
@@ -3914,7 +3914,7 @@
             "ptr_val": "0x32b",
             "size": 46,
             "text": "そんなことより、\nモンスターか゛\nうし゛ゃうし゛ゃ出てき{15}{18}たせ゛{16}たわよ{17}ましたよ{14}！{d}{f}",
-            "translation": ""
+            "translation": "Watch out, \nmonsters are coming!{d}{f}"
         },
         {
             "address": "0x84818",
@@ -3922,7 +3922,7 @@
             "ptr_val": "0x359",
             "size": 44,
             "text": "塚に、何か文字か゛\nほってあるみたい{15}{18}た゛か゛{16}た゛けと゛{17}て゛すか゛{14}……{d}{f}",
-            "translation": ""
+            "translation": "Looks like text is \ndug into the mound... {d}{f}"
         },
         {
             "address": "0x84844",
@@ -3930,7 +3930,7 @@
             "ptr_val": "0x385",
             "size": 86,
             "text": "すりへっていて、\nよく読めないん{15}{18}た゛か゛{16}た゛けと゛{17}て゛すか゛{14}……{d}\n「志半は゛にして倒れた同志よ。\n安らかに眠れ。\n……ハ゜ルマー・ローリー」{d}{f}",
-            "translation": ""
+            "translation": "It's worn away, but...{d}\n'My allies in failure,\nrest in peace.\n...Palma Lory.' {d}{f}"
         },
         {
             "address": "0x8489a",
@@ -3938,7 +3938,7 @@
             "ptr_val": "0x3db",
             "size": 59,
             "text": "それし゛ゃあ、\nあのアンテ゛ット゛たちは\nこの地て゛倒れた自由人\nた゛ったって言うの{15}{18}か{17}て゛すか{14}！？{d}{f}",
-            "translation": ""
+            "translation": "So that means these undead \nare the 'free men' who\ndied here?{d}{f}"
         },
         {
             "address": "0x848d5",
@@ -3946,7 +3946,7 @@
             "ptr_val": "0x416",
             "size": 32,
             "text": "{15}{18}た゛か゛{16}{17}て゛も{14}、なせ゛\nアンテ゛ット゛なんかに……{d}{f}",
-            "translation": ""
+            "translation": "But why did they become\nundead...?{d}{f}"
         },
         {
             "address": "0x848f5",
@@ -3954,7 +3954,7 @@
             "ptr_val": "0x436",
             "size": 12,
             "text": "ここは、一体……？{d}{f}",
-            "translation": ""
+            "translation": "What in the world...?{d}{f}"
         },
         {
             "address": "0x84901",
@@ -3962,7 +3962,7 @@
             "ptr_val": "0x442",
             "size": 81,
             "text": "全部というわけし゛ゃ\nないみたい{15}た゛{18}し゛ゃ{16}ね{17}て゛すね{14}。\n見{15}{18}ろ{16}て{17}てくた゛さい{14}。\n亡霊たちか゛そこら中にい{15}{18}るそ゛{16}るわ{17}ますよ{14}。{d}{f}",
-            "translation": ""
+            "translation": "I can't say that that is \neverything, though. \nLook around. \nThere are ghosts everywhere. {d}{f}"
         },
         {
             "address": "0x84952",
@@ -3970,7 +3970,7 @@
             "ptr_val": "0x493",
             "size": 164,
             "text": "自由人たちの街道は、オランの国境\nあたりて゛一度、中断しかけたことか゛\nあったらしい{16}のよ{17}のて゛す{14}。\nと゛こからのえんし゛ょも受けられす゛にね。{d}\nて゛も、自由人たちのウワサを\n聞きつけた人たちによって\n続行され、５０年もの年月を\nかけて完成した{15}んた゛{18}んし゛ゃ{16}のよ{17}のて゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "The Free People's Highway seems\nto have stopped around the\nborder of Oran. It wasn't\nmaintained, either. {d}\nThose that have heard of the \nFree People continued the work, \nand it took nearly 50 \nyears to finish.{d}{f}"
         },
         {
             "address": "0x849f6",
@@ -3978,7 +3978,7 @@
             "ptr_val": "0x537",
             "size": 47,
             "text": "オランの国境付近て゛\n命を落とした者たちの\n亡霊{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "They must be the ghosts of \nthose that lost their lives \nnear the Oran border. {d}{f}"
         },
         {
             "address": "0x84a25",
@@ -3986,7 +3986,7 @@
             "ptr_val": "0x566",
             "size": 83,
             "text": "{15}{18}おい{16}{17}ねぇ{14}、森から出たら、\n２度とここには来られなくなるかも\nしれない{15}{18}そ゛{16}わよ{17}て゛すよ{14}。\n事件を解決してからにし{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "Hey, once we leave the forest, \nwe might not be able to come\nback here again. We should\nfinish our business, first. {d}{f}"
         },
         {
             "address": "0x84a78",
@@ -3994,7 +3994,7 @@
             "ptr_val": "0x5b9",
             "size": 61,
             "text": "このまま行ったんし゛ゃ、\nなんの解決にもならない{15}{18}そ゛{16}わよ{17}て゛すよ{14}。\nそれて゛も行くの{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "If we keep going then we \nwon't be able to finish what\nwe came here for. Are you\nsure you want to leave? {d}{f}"
         },
         {
             "address": "0x84ab5",
@@ -4002,7 +4002,7 @@
             "ptr_val": "0x5f6",
             "size": 21,
             "text": "わか{15}{18}ったよ{16}ったわよ{17}りました{14}。{d}{f}",
-            "translation": ""
+            "translation": "Understood.{d}{f}"
         },
         {
             "address": "0x84aca",
@@ -4010,7 +4010,7 @@
             "ptr_val": "0x60b",
             "size": 29,
             "text": "そうこなくちゃ。\nさ、奥に行{15}{18}こ{16}{17}きましょ{14}う！{d}{f}",
-            "translation": ""
+            "translation": "Naturally! \nLet's head deeper in.{d}{f}"
         },
         {
             "address": "0x84ae7",
@@ -4018,7 +4018,7 @@
             "ptr_val": "0x628",
             "size": 56,
             "text": "北の方の丘の上に、\n塚みたいなのか゛見え{15}{18}る{16}るわ{17}ます{14}。\nそこへ行ってみ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "There's some sort of mound at\nthe top of the north hill.\nLet's head over there. {d}{f}"
         },
         {
             "address": "0x84b1f",
@@ -4026,7 +4026,7 @@
             "ptr_val": "0x660",
             "size": 6,
             "text": "奴って？{d}{f}",
-            "translation": ""
+            "translation": "Who? {d}{f}"
         },
         {
             "address": "0x84b25",
@@ -4034,7 +4034,7 @@
             "ptr_val": "0x666",
             "size": 26,
             "text": "あの亡霊、やっかい{15}{18}た゛な{16}ね{17}て゛すね{14}。{d}{f}",
-            "translation": ""
+            "translation": "That ghost is formidible.{d}{f}"
         },
         {
             "address": "0x84b3f",
@@ -4042,7 +4042,7 @@
             "ptr_val": "0x680",
             "size": 42,
             "text": "迷いのしゅうねんか゛強すき゛て、\n正気を失ってい{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
-            "translation": ""
+            "translation": "It's too far gone. \nIt's completely lost its sense \nof self.{d}{f}"
         },
         {
             "address": "0x84b69",
@@ -4050,7 +4050,7 @@
             "ptr_val": "0x6aa",
             "size": 60,
             "text": "それは、わか{15}{18}らない{16}らないわ{17}りません{14}。\nもう１人の亡霊に\n会ってみるしかない{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "We don't know that for sure. \nWe have to find at least one \nother ghost.{d}{f}"
         },
         {
             "address": "0x84ba5",
@@ -4058,7 +4058,7 @@
             "ptr_val": "0x6e6",
             "size": 18,
             "text": "ためす{15}{18}た゛{16}{17}て゛す{14}って？{d}{f}",
-            "translation": ""
+            "translation": "'Test'? {d}{f}"
         },
         {
             "address": "0x84bb7",
@@ -4066,7 +4066,7 @@
             "ptr_val": "0x6f8",
             "size": 15,
             "text": "そのハーヒ゜ィは、一体？{d}{f}",
-            "translation": ""
+            "translation": "What was with that harpy?{d}{f}"
         },
         {
             "address": "0x84bc6",
@@ -4074,7 +4074,7 @@
             "ptr_val": "0x707",
             "size": 40,
             "text": "怒らせたみたい{15}{18}た゛な{16}ね{17}て゛すね{14}。\nと゛うし{15}{18}よ{16}{17}ましょ{14}う？{d}{f}",
-            "translation": ""
+            "translation": "Looks like we made it mad. \nWhat should we do? {d}{f}"
         },
         {
             "address": "0x84bee",
@@ -4082,7 +4082,7 @@
             "ptr_val": "0x72f",
             "size": 32,
             "text": "せめて、あなたた゛けて゛も\n安らかに送らせてくた゛さい。{d}{f}",
-            "translation": ""
+            "translation": "We will at least give you\nyour deserved rest. {d}{f}"
         },
         {
             "address": "0x84c0e",
@@ -4090,7 +4090,7 @@
             "ptr_val": "0x74f",
             "size": 17,
             "text": "ハーヒ゜ィの歌か゛聞こえる。{d}{f}",
-            "translation": ""
+            "translation": "That's a harpy's song. {d}{f}"
         },
         {
             "address": "0x84c1f",
@@ -4098,7 +4098,7 @@
             "ptr_val": "0x760",
             "size": 76,
             "text": "思っているのは、\nオラン{15}{18}た゛ろうか{16}かしら{17}て゛しょうか{14}？\n見ることのかなわなかった\nハ゜ルマーの村{15}{18}た゛ろうか{16}かしら{17}て゛しょうか{14}？{d}{f}",
-            "translation": ""
+            "translation": "Is Oran what they're thinking \nof? Palma is a hamlet\nin comparison.{d}{f}"
         },
         {
             "address": "0x84c6b",
@@ -4106,7 +4106,7 @@
             "ptr_val": "0x7ac",
             "size": 25,
             "text": "たふ゛ん、両方{15}{18}た゛ろ{16}{17}て゛しょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "Probably both. {d}{f}"
         },
         {
             "address": "0x84c84",
@@ -4114,7 +4114,7 @@
             "ptr_val": "0x7c5",
             "size": 44,
             "text": "さっきの丘か゛気にな{15}{18}る{16}るわ{17}ります{14}。\n調へ゛てみ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "That hill is suspicious. \nWe should check it out.{d}{f}"
         }
     ],
     "0x84cb1": [
@@ -4124,7 +4124,7 @@
             "ptr_val": "0x58",
             "size": 24,
             "text": "ほ゛ーっと、して{15}{18}るな{16}るわね{17}ますね{14}。{d}{f}",
-            "translation": ""
+            "translation": "They're staring off into space.{d}{f}"
         },
         {
             "address": "0x84d21",
@@ -4132,7 +4132,7 @@
             "ptr_val": "0x70",
             "size": 18,
             "text": "一体、何か゛あったんて゛すか？{d}{f}",
-            "translation": ""
+            "translation": "What could have happened?{d}{f}"
         },
         {
             "address": "0x84d33",
@@ -4140,7 +4140,7 @@
             "ptr_val": "0x82",
             "size": 26,
             "text": "ヤート゛さん。\n一体、何か゛あったんて゛すか？{d}{f}",
-            "translation": ""
+            "translation": "Mr. Yard,\nwhat exactly happened?{d}{f}"
         },
         {
             "address": "0x84d4d",
@@ -4148,7 +4148,7 @@
             "ptr_val": "0x9c",
             "size": 43,
             "text": "……？精神の精霊のはたらきか゛\nちょっと変{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "...?\nThe spirits activity \nis awfully strange. {d}{f}"
         },
         {
             "address": "0x84d78",
@@ -4156,7 +4156,7 @@
             "ptr_val": "0xc7",
             "size": 42,
             "text": "よほと゛、\n恐ろしい目に会った{15}んた゛な{18}んし゛ゃな{16}のね{17}んて゛すね{14}。{d}{f}",
-            "translation": ""
+            "translation": "Something very terrible\nmust have happened. {d}{f}"
         },
         {
             "address": "0x84da2",
@@ -4164,7 +4164,7 @@
             "ptr_val": "0xf1",
             "size": 57,
             "text": "おかしい{15}{18}な{16}わね{17}て゛すね{14}。\n呪文か゛きいたのかと゛うか\nよくわか{15}{18}らない{16}らないわ{17}りません{14}。{d}{f}",
-            "translation": ""
+            "translation": "That's strange.\nI can't really tell if the \nspell worked or not.{d}{f}"
         },
         {
             "address": "0x84ddb",
@@ -4172,7 +4172,7 @@
             "ptr_val": "0x12a",
             "size": 23,
             "text": "不調なんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "You didn't mess it up? {d}{f}"
         },
         {
             "address": "0x84df2",
@@ -4180,7 +4180,7 @@
             "ptr_val": "0x141",
             "size": 27,
             "text": "他にも生き残りか゛いたの{15}{18}か{17}て゛すか{14}！{d}{f}",
-            "translation": ""
+            "translation": "There are other survivors! {d}{f}"
         },
         {
             "address": "0x84e0d",
@@ -4188,7 +4188,7 @@
             "ptr_val": "0x15c",
             "size": 76,
             "text": "{15}おれ{18}わし{16}{17}私{14}たちは、\nあ{15}{18}ん{16}{17}な{14}たたちか゛全滅したって聞いて、\nこの鉱山の調査に来た{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "We came here to the mine \nbecause we heard that everyone\nhere had been killed. {d}{f}"
         },
         {
             "address": "0x84e59",
@@ -4196,7 +4196,7 @@
             "ptr_val": "0x1a8",
             "size": 13,
             "text": "ヤート゛た゛けと゛……{d}{f}",
-            "translation": ""
+            "translation": "But, Yard...{d}{f}"
         },
         {
             "address": "0x84e66",
@@ -4204,7 +4204,7 @@
             "ptr_val": "0x1b5",
             "size": 73,
             "text": "{15}おれ{18}わし{16}{17}私{14}たちか゛\nその怪物を退治するから、\nあ{15}{18}ん{16}{17}な{14}たたちも、\nもうた゛いし゛ょうふ゛{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "Don't worry. \nWe'll take care of the \nmonster, so you all will\nbe all right. {d}{f}"
         },
         {
             "address": "0x84eaf",
@@ -4236,7 +4236,7 @@
             "ptr_val": "0x201",
             "size": 21,
             "text": "見{15}{18}ろよ{16}て{17}てくた゛さい{14}、これ！{d}{f}",
-            "translation": ""
+            "translation": "Take a look at this! {d}{f}"
         },
         {
             "address": "0x84ec7",
@@ -4244,7 +4244,7 @@
             "ptr_val": "0x216",
             "size": 26,
             "text": "な{15}んた゛{18}んし゛ゃ{16}によ{17}んて゛す{14}、これは？{d}{f}",
-            "translation": ""
+            "translation": "What is this?{d}{f}"
         },
         {
             "address": "0x84ee1",
@@ -4252,7 +4252,7 @@
             "ptr_val": "0x230",
             "size": 88,
             "text": "たふ゛ん、\nツルハシた゛と思うん{15}{18}た゛か゛{16}た゛けと゛{17}て゛すか゛{14}、\nかんし゛んの金属の部分か゛、\nホ゛ロホ゛ロになってる{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "It looks like a mattock, but \nthe metal digging part has\nbeen rusted away. {d}{f}"
         },
         {
             "address": "0x84f39",
@@ -4260,7 +4260,7 @@
             "ptr_val": "0x288",
             "size": 25,
             "text": "奥にいる怪物のしわさ゛{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "Did the monsters do this?{d}{f}"
         },
         {
             "address": "0x84f52",
@@ -4268,7 +4268,7 @@
             "ptr_val": "0x2a1",
             "size": 24,
             "text": "たふ゛ん、そう{15}{18}た゛ろう{16}よ{17}て゛すよ{14}。{d}{f}",
-            "translation": ""
+            "translation": "Yeah, probably.{d}{f}"
         },
         {
             "address": "0x84f6a",
@@ -4276,7 +4276,7 @@
             "ptr_val": "0x2b9",
             "size": 29,
             "text": "あの黒いのか゛、\nそうし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "That black one, too? {d}{f}"
         },
         {
             "address": "0x84f87",
@@ -4284,7 +4284,7 @@
             "ptr_val": "0x2d6",
             "size": 56,
             "text": "ヤート゛か゛言ってた通り{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛すね{14}。\n気持ちの悪い奴{15}{18}め{16}ね{17}て゛すね{14}。{d}{f}",
-            "translation": ""
+            "translation": "It's just as Yard said. \nThis just keeps getting worse. {d}{f}"
         },
         {
             "address": "0x84fbf",
@@ -4292,7 +4292,7 @@
             "ptr_val": "0x30e",
             "size": 14,
             "text": "あの怪物は、確か……{d}{f}",
-            "translation": ""
+            "translation": "So then that monster...{d}{f}"
         },
         {
             "address": "0x84fcd",
@@ -4300,7 +4300,7 @@
             "ptr_val": "0x31c",
             "size": 41,
             "text": "考え込んて゛るヒマはない{15}{18}そ゛{16}わよ{17}て゛すよ{14}！{d}\n………来た{16}わ{14}！{d}{f}",
-            "translation": ""
+            "translation": "We don't have time to think\nit over!\nIt's here! {d}{f}"
         },
         {
             "address": "0x84ff6",
@@ -4332,7 +4332,7 @@
             "ptr_val": "0x348",
             "size": 18,
             "text": "{15}{18}おまえ{16}{17}あなた{14}たちは？！{d}{f}",
-            "translation": ""
+            "translation": "Who are you!?{d}{f}"
         },
         {
             "address": "0x8500b",
@@ -4340,7 +4340,7 @@
             "ptr_val": "0x35a",
             "size": 34,
             "text": "人間そっくりに化けるなんて、\n何て奴{15}{17}た゛{18}し゛ゃ{16}なの{14}！{d}{f}",
-            "translation": ""
+            "translation": "How could it mimic human \nappearance so accurately? {d}{f}"
         },
         {
             "address": "0x8502d",
@@ -4348,7 +4348,7 @@
             "ptr_val": "0x37c",
             "size": 90,
             "text": "これは、確か\nシンク゛とかいう魔法生物{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。\n古代王国期にすてられたものか゛\n野性化したものた゛と聞いてい{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
-            "translation": ""
+            "translation": "It must be a magic beast called\na 'sing'. They were abandoned\nby the ancient kingdoms and \nbecame wild.{d}{f}"
         },
         {
             "address": "0x85087",
@@ -4356,7 +4356,7 @@
             "ptr_val": "0x3d6",
             "size": 46,
             "text": "もしかすると、\n宿にいるヤート゛も\nこいつらの仲間なんし゛ゃない{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "Could Yard be one\nof them?{d}{f}"
         },
         {
             "address": "0x850b5",
@@ -4364,7 +4364,7 @@
             "ptr_val": "0x404",
             "size": 33,
             "text": "やっは゜り、\nシンク゛の仲間た゛った{15}{18}{17}んた゛な{16}のね{14}！{d}{f}",
-            "translation": ""
+            "translation": "He's one of the sings! {d}{f}"
         },
         {
             "address": "0x850d6",
@@ -4372,7 +4372,7 @@
             "ptr_val": "0x425",
             "size": 48,
             "text": "大変な{15}んた゛{18}んし゛ゃ{16}の{17}んて゛す{14}！\n上か゛らせてもら{15}{18}うよ{16}うわよ{17}いますよ{14}！{d}{f}",
-            "translation": ""
+            "translation": "This isn't good! \nLet's get out of here! {d}{f}"
         },
         {
             "address": "0x85106",
@@ -4380,7 +4380,7 @@
             "ptr_val": "0x455",
             "size": 15,
             "text": "いえ、何て゛もありません。{d}{f}",
-            "translation": ""
+            "translation": "No, it's nothing.{d}{f}"
         },
         {
             "address": "0x85115",
@@ -4388,7 +4388,7 @@
             "ptr_val": "0x464",
             "size": 13,
             "text": "と゛うも、すいません。{d}{f}",
-            "translation": ""
+            "translation": "Thank you. {d}{f}"
         },
         {
             "address": "0x85122",
@@ -4396,7 +4396,7 @@
             "ptr_val": "0x471",
             "size": 50,
             "text": "{15}おれ{18}わし{16}{17}私{14}たちのと゛こか゛、\n強盗に見える{15}んた゛よ{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "How exactly do we look like\nthieves, to you?{d}{f}"
         },
         {
             "address": "0x85154",
@@ -4404,7 +4404,7 @@
             "ptr_val": "0x4a3",
             "size": 18,
             "text": "顔{15}{18}た゛ろ{16}{17}て゛しょう{14}？{d}{f}",
-            "translation": ""
+            "translation": "Your face? {d}{f}"
         },
         {
             "address": "0x85166",
@@ -4412,7 +4412,7 @@
             "ptr_val": "0x4b5",
             "size": 7,
             "text": "あ、いえ。{d}{f}",
-            "translation": ""
+            "translation": "Er, no.{d}{f}"
         },
         {
             "address": "0x8516d",
@@ -4420,7 +4420,7 @@
             "ptr_val": "0x4bc",
             "size": 22,
             "text": "あ、いや、その……\n失礼しましたー！{d}{f}",
-            "translation": ""
+            "translation": "Ah, er...\nSorry! {d}{f}"
         },
         {
             "address": "0x85183",
@@ -4428,7 +4428,7 @@
             "ptr_val": "0x4d2",
             "size": 76,
             "text": "シンク゛の外見か゛\nと゛んなに人間そっくりて゛も、\nセンスオーラて゛調へ゛れは゛、\n必す゛ちか゛いか゛あるはす゛{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "No matter how close the sing \nlooks to a human, with sense\naura we will be able to tell\nthe difference. {d}{f}"
         },
         {
             "address": "0x851cf",
@@ -4436,7 +4436,7 @@
             "ptr_val": "0x51e",
             "size": 29,
             "text": "これは！\nおまえか゛、シンク゛{15}{18}{17}た゛な{16}なのね{14}！{d}{f}",
-            "translation": ""
+            "translation": "Wait!\nYou're a sing! {d}{f}"
         },
         {
             "address": "0x851ec",
@@ -4444,7 +4444,7 @@
             "ptr_val": "0x53b",
             "size": 31,
             "text": "この人は、ちか゛うみたい{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "This person is different.{d}{f}"
         },
         {
             "address": "0x8520b",
@@ -4452,7 +4452,7 @@
             "ptr_val": "0x55a",
             "size": 21,
             "text": "そうか……\nと゛うも失礼しました。{d}{f}",
-            "translation": ""
+            "translation": "I see... \nSorry. {d}{f}"
         },
         {
             "address": "0x85220",
@@ -4460,7 +4460,7 @@
             "ptr_val": "0x56f",
             "size": 27,
             "text": "また゛帰るには早い{15}{18}そ゛{16}わよ{17}て゛すよ{14}。{d}{f}",
-            "translation": ""
+            "translation": "It's still too early to\nhead back, yet. {d}{f}"
         },
         {
             "address": "0x8523b",
@@ -4468,7 +4468,7 @@
             "ptr_val": "0x58a",
             "size": 41,
             "text": "２階へ逃け゛{15}{18}たそ゛{16}たわ{17}ました{14}。\n追いかけ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "It fled to the second floor. \nLet's follow it. {d}{f}"
         }
     ],
     "0x85265": [
@@ -4478,7 +4478,7 @@
             "ptr_val": "0x52",
             "size": 8,
             "text": "やれやれ……{d}{f}",
-            "translation": ""
+            "translation": "Eesh...{d}{f}"
         },
         {
             "address": "0x852bf",
@@ -4486,7 +4486,7 @@
             "ptr_val": "0x5a",
             "size": 41,
             "text": "うーん……むにゃむにゃ\nまた゛夜明け前し゛ゃない{15}{18}か{16}の{17}て゛すか{14}。{d}{f}",
-            "translation": ""
+            "translation": "Mm... (mumble mumble)\nIt's still before dawn.{d}{f}"
         },
         {
             "address": "0x852e8",
@@ -4494,7 +4494,7 @@
             "ptr_val": "0x83",
             "size": 21,
             "text": "とにかく行ってみ{15}{18}よ{16}{17}ましょ{14}う。{d}{f}",
-            "translation": ""
+            "translation": "Let's go check it out. {d}{f}"
         },
         {
             "address": "0x852fd",
@@ -4502,7 +4502,7 @@
             "ptr_val": "0x98",
             "size": 24,
             "text": "もう少し、くわしく話して\nもらえませんか？{d}{f}",
-            "translation": ""
+            "translation": "Do you mind telling us \nthe details?{d}{f}"
         },
         {
             "address": "0x85315",
@@ -4510,7 +4510,7 @@
             "ptr_val": "0xb0",
             "size": 12,
             "text": "黒こけ゛になって？{d}{f}",
-            "translation": ""
+            "translation": "Charred? {d}{f}"
         },
         {
             "address": "0x85321",
@@ -4518,7 +4518,7 @@
             "ptr_val": "0xbc",
             "size": 24,
             "text": "ファイアホ゛ールの呪文\nかもしれない……{d}{f}",
-            "translation": ""
+            "translation": "Could've been a fireball \nspell.{d}{f}"
         },
         {
             "address": "0x85339",
@@ -4526,7 +4526,7 @@
             "ptr_val": "0xd4",
             "size": 29,
             "text": "鍵は閉まっていた{15}{18}んた゛な{16}のね{17}んて゛すね{14}？{d}{f}",
-            "translation": ""
+            "translation": "It's locked, isn't it? {d}{f}"
         },
         {
             "address": "0x85356",
@@ -4534,7 +4534,7 @@
             "ptr_val": "0xf1",
             "size": 29,
             "text": "し゛ゃあ、密室というわけ{15}{18}か{16}ね{17}て゛すか{14}……{d}{f}",
-            "translation": ""
+            "translation": "So a secret room, then...{d}{f}"
         },
         {
             "address": "0x85373",
@@ -4542,7 +4542,7 @@
             "ptr_val": "0x10e",
             "size": 20,
             "text": "ちょっと現場を見せてくた゛さい。{d}{f}",
-            "translation": ""
+            "translation": "Show us where it happened. {d}{f}"
         },
         {
             "address": "0x85387",
@@ -4550,7 +4550,7 @@
             "ptr_val": "0x122",
             "size": 20,
             "text": "と゛の辺から聞こえてきたんて゛す？{d}{f}",
-            "translation": ""
+            "translation": "Where did it come from?{d}{f}"
         },
         {
             "address": "0x8539b",
@@ -4558,7 +4558,7 @@
             "ptr_val": "0x136",
             "size": 23,
             "text": "黒こけ゛になって死んて゛いる{16}わ{14}……{d}{f}",
-            "translation": ""
+            "translation": "They've been burned to death...{d}{f}"
         },
         {
             "address": "0x853b2",
@@ -4566,7 +4566,7 @@
             "ptr_val": "0x14d",
             "size": 49,
             "text": "やはり、\nと゛うみてもファイアホ゛ールの呪文を\nかけられたん{15}{18}た゛ろう{16}{17}て゛しょう{14}。{d}{f}",
-            "translation": ""
+            "translation": "This definitely looks like \na fireball spell was cast here. {d}{f}"
         },
         {
             "address": "0x853e3",
@@ -4574,7 +4574,7 @@
             "ptr_val": "0x17e",
             "size": 39,
             "text": "…ということは、\n犯人は魔法使い{15}{18}た゛ろうか{16}かしら{17}て゛しょうか{14}？{d}{f}",
-            "translation": ""
+            "translation": "That means the suspect is\na magic-user, right?{d}{f}"
         },
         {
             "address": "0x8540a",
@@ -4582,7 +4582,7 @@
             "ptr_val": "0x1a5",
             "size": 87,
             "text": "そこて゛{15}おれ{18}わし{16}{17}私{14}を見ないて゛{15}{18}くれ{16}よ{17}くた゛さい{14}。\nきのうの夜はす゛っと、\n{15}{18}おまえ{16}{17}あなた{14}たちと\nいっしょた゛った{15}{18}た゛ろ{16}{17}て゛しょ{14}う？{d}{f}",
-            "translation": ""
+            "translation": "Don't look at me like that.\nI was with you all \nthe entire night last night.{d}{f}"
         },
         {
             "address": "0x85461",
@@ -4590,7 +4590,7 @@
             "ptr_val": "0x1fc",
             "size": 52,
             "text": "タックさん。\n確か、あ{15}{18}ん{16}{17}な{14}たは\n魔法か゛使えるん{15}{18}た゛った{16}た゛ったわ{17}て゛した{14}ね。{d}{f}",
-            "translation": ""
+            "translation": "Tack.\nIf I recall, you are capable\nof casting magic, are you not?{d}{f}"
         },
         {
             "address": "0x85495",
@@ -4598,7 +4598,7 @@
             "ptr_val": "0x230",
             "size": 89,
             "text": "ケルウ゛ィンさんは、\n黒こけ゛になって殺されてた{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。\nと゛うやら、ファイアホ゛ールの呪文て゛\n殺されたらしい{15}{18}な{16}わね{17}て゛すね{14}。{d}{f}",
-            "translation": ""
+            "translation": "Kelvin was burned to death.\nSeems a fireball spell was \nwhat killed him.{d}{f}"
         },
         {
             "address": "0x854ee",
@@ -4606,7 +4606,7 @@
             "ptr_val": "0x289",
             "size": 30,
             "text": "い{15}{18}や{16}{17}え{14}。\nそういうわけし゛ゃ{15}{18}ないか゛{14}……{d}{f}",
-            "translation": ""
+            "translation": "No.\nNot exactly... {d}{f}"
         },
         {
             "address": "0x8550c",
@@ -4614,7 +4614,7 @@
             "ptr_val": "0x2a7",
             "size": 16,
             "text": "何{15}{18}た゛{16}{17}て゛す{14}って！{d}{f}",
-            "translation": ""
+            "translation": "What!{d}{f}"
         },
         {
             "address": "0x8551c",
@@ -4622,7 +4622,7 @@
             "ptr_val": "0x2b7",
             "size": 39,
             "text": "……ん？\nこのシキモノか゛\nと゛うも気にな{15}{18}るな{16}るわね{17}りますね{14}。{d}{f}",
-            "translation": ""
+            "translation": "...Hm?\nThere's something off about this \ncarpet. {d}{f}"
         },
         {
             "address": "0x85543",
@@ -4630,7 +4630,7 @@
             "ptr_val": "0x2de",
             "size": 23,
             "text": "まさか。\nよして{15}{18}くれ{17}くた゛さい{14}よ。{d}{f}",
-            "translation": ""
+            "translation": "No way.\nStop it. {d}{f}"
         },
         {
             "address": "0x8555a",
@@ -4638,7 +4638,7 @@
             "ptr_val": "0x2f5",
             "size": 17,
             "text": "何か、心当たりて゛も……？{d}{f}",
-            "translation": ""
+            "translation": "Any ideas...?{d}{f}"
         },
         {
             "address": "0x8556b",
@@ -4646,7 +4646,7 @@
             "ptr_val": "0x306",
             "size": 39,
             "text": "あれ？  この人、\n手に聖印をにき゛りしめて{15}{18}るそ゛{16}るわ{17}ますよ{14}。{d}{f}",
-            "translation": ""
+            "translation": "Huh? They are holding some\nkind of holy symbol.{d}{f}"
         },
         {
             "address": "0x85592",
@@ -4654,7 +4654,7 @@
             "ptr_val": "0x32d",
             "size": 63,
             "text": "ファイアホ゛ールの呪文を\nかけられたというのに……\nと゛ういうつもりた゛った{15}{18}んた゛ろう{16}のかしら{17}んて゛しょう{14}？{d}{f}",
-            "translation": ""
+            "translation": "They were struck by the\nfireball spell... \nWhat's going on, I wonder?{d}{f}"
         },
         {
             "address": "0x855d1",
@@ -4662,7 +4662,7 @@
             "ptr_val": "0x36c",
             "size": 92,
             "text": "この宿屋には、\n最近、幽霊か゛出るって\n言ってた{15}{18}た゛ろう{16}{17}て゛しょう{14}？{d}\nこの人は、幽霊を目撃して\nターン・アンテ゛ット゛を\nかけるつもりた゛ったのかも……{d}{f}",
-            "translation": ""
+            "translation": "We heard that poltergeists have\nbeen appearing lately in this \ninn.{d}\nMaybe they saw one of them,\nand were trying a turn\nundead spell? {d}{f}"
         },
         {
             "address": "0x8562d",
@@ -4670,7 +4670,7 @@
             "ptr_val": "0x3c8",
             "size": 32,
             "text": "し゛ゃあ、\n幽霊か゛犯人た゛と言うの{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "Then do we think the culprit \nis a poltergeist now? {d}{f}"
         },
         {
             "address": "0x8564d",
@@ -4678,7 +4678,7 @@
             "ptr_val": "0x3e8",
             "size": 20,
             "text": "さあ。\nそれは、わからないけと゛……{d}{f}",
-            "translation": ""
+            "translation": "No idea, to be honest. {d}{f}"
         },
         {
             "address": "0x85661",
@@ -4686,7 +4686,7 @@
             "ptr_val": "0x3fc",
             "size": 34,
             "text": "やっは゜り、黒こけ゛になって\n殺されてい{15}{18}る{16}るわ{17}ます{14}。{d}{f}",
-            "translation": ""
+            "translation": "They've been burned to death,\ntoo.{d}{f}"
         },
         {
             "address": "0x85683",
@@ -4694,7 +4694,7 @@
             "ptr_val": "0x41e",
             "size": 35,
             "text": "ファイアホ゛ールの呪文{15}{18}た゛ろうか{16}かしら{17}て゛しょうか{14}？{d}{f}",
-            "translation": ""
+            "translation": "A fireball spell, I think. {d}{f}"
         },
         {
             "address": "0x856a6",
@@ -4702,7 +4702,7 @@
             "ptr_val": "0x441",
             "size": 35,
             "text": "うーん……\nて゛も、少し引っかか{15}{18}るな{16}るわね{17}りますね{14}。{d}{f}",
-            "translation": ""
+            "translation": "Hmm... \nThis worries me a bit. {d}{f}"
         },
         {
             "address": "0x856c9",
@@ -4710,7 +4710,7 @@
             "ptr_val": "0x464",
             "size": 7,
             "text": "というと？{d}{f}",
-            "translation": ""
+            "translation": "Meaning? {d}{f}"
         },
         {
             "address": "0x856d0",
@@ -4718,7 +4718,7 @@
             "ptr_val": "0x46b",
             "size": 61,
             "text": "こんなせまい部屋て゛\nファイアホ゛ールを使えは゛、\n呪文をかけた本人た゛って\nまきそ゛えをくらってしまう……{d}{f}",
-            "translation": ""
+            "translation": "Casting a fireball spell \nin such a small area would\nmean the caster was caught\nin the blast, too.{d}{f}"
         },
         {
             "address": "0x8570d",
@@ -4726,7 +4726,7 @@
             "ptr_val": "0x4a8",
             "size": 63,
             "text": "あれは……\n吟遊詩人のルカス{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}。\n何をしてる{15}{18}んた゛ろう{16}のかしら{17}んて゛しょう{14}？{d}{f}",
-            "translation": ""
+            "translation": "That's that traveling bard,\nLucas. \nWhat's he doing? {d}{f}"
         },
         {
             "address": "0x8574c",
@@ -4734,7 +4734,7 @@
             "ptr_val": "0x4e7",
             "size": 36,
             "text": "何を言う{15}{18}んた゛{16}の{17}んて゛す{14}。\n{15}おれ{18}わし{16}{17}私{14}たちは……{d}{f}",
-            "translation": ""
+            "translation": "What are you saying? \nWe're... {d}{f}"
         },
         {
             "address": "0x85770",
@@ -4742,7 +4742,7 @@
             "ptr_val": "0x50b",
             "size": 43,
             "text": "そんなは゛かな。\n{15}おれ{18}わし{16}{17}私{14}たちは無実{15}た゛{18}し゛ゃ{16}よ{17}て゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "Don't be foolish.\nWe have nothing to do with \nthis. {d}{f}"
         },
         {
             "address": "0x8579b",
@@ -4750,7 +4750,7 @@
             "ptr_val": "0x536",
             "size": 47,
             "text": "{15}おれ{18}わし{16}{17}私{14}たちし゛ゃないって、\nやっと、わかってくれたの{15}{18}か{16}ね{17}て゛すね{14}。{d}{f}",
-            "translation": ""
+            "translation": "So you finally realize \nwe're innocent? {d}{f}"
         },
         {
             "address": "0x857ca",
@@ -4758,7 +4758,7 @@
             "ptr_val": "0x565",
             "size": 34,
             "text": "スヘ゜クター……\nそいつか゛みんなを殺したの{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "A spectre killed them all? {d}{f}"
         },
         {
             "address": "0x857ec",
@@ -4766,7 +4766,7 @@
             "ptr_val": "0x587",
             "size": 50,
             "text": "そうた゛ったの{15}{18}{17}か……\n{15}おれ{18}わし{16}{17}私{14}たちか゛、もっと宿屋を\n捜していれは゛……{d}{f}",
-            "translation": ""
+            "translation": "I see... \nIf we could search the inn \nsome more...{d}{f}"
         },
         {
             "address": "0x8581e",
@@ -4774,7 +4774,7 @@
             "ptr_val": "0x5b9",
             "size": 39,
             "text": "……ん？\nあのシキモノか゛\nと゛うも気にな{15}{18}るな{16}るわね{17}りますね{14}。{d}{f}",
-            "translation": ""
+            "translation": "Hm?\nThere's something off about\nthat carpet.{d}{f}"
         },
         {
             "address": "0x85845",
@@ -4782,7 +4782,7 @@
             "ptr_val": "0x5e0",
             "size": 45,
             "text": "階段{15}た゛{18}し゛ゃ{16}た゛わ{17}て゛す{14}！\n下に続いてい{15}{18}るそ゛{16}るわ{17}ますよ{14}。{d}{f}",
-            "translation": ""
+            "translation": "A set of stairs! \nThey lead down.{d}{f}"
         },
         {
             "address": "0x85872",
@@ -4790,7 +4790,7 @@
             "ptr_val": "0x60d",
             "size": 61,
             "text": "こんな場所に、\nそうしょく用のシキモノか゛あるなんて、\n怪しいと思った{15}んた゛{18}んし゛ゃ{16}のよ{17}んて゛す{14}。{d}{f}",
-            "translation": ""
+            "translation": "I thought it was strange to\nhave a decorative rug in a\nplace like this.{d}{f}"
         },
         {
             "address": "0x858af",
@@ -4798,7 +4798,7 @@
             "ptr_val": "0x64a",
             "size": 36,
             "text": "つかれたから、\n銀キ゛ツネ亭て゛一泊し{15}{18}よ{16}{17}ましょ{14}うよ。{d}{f}",
-            "translation": ""
+            "translation": "If you're tired, we can\nrest at the Golden Fox. {d}{f}"
         }
     ],
     "0x858d4": [
@@ -4832,7 +4832,7 @@
             "ptr_val": "0x5f",
             "size": 19,
             "text": "と゛うかしたの{15}{18}か{17}て゛すか{14}？{d}{f}",
-            "translation": ""
+            "translation": "What's the matter? {d}{f}"
         },
         {
             "address": "0x85946",
@@ -4840,7 +4840,7 @@
             "ptr_val": "0x72",
             "size": 57,
             "text": "車輪か゛こわれた{15}{18}んた゛な{16}のね{17}んて゛すね{14}。\n取りかえるしかない{15}{18}た゛ろう{16}わね{17}て゛しょう{14}。{d}{f}",
-            "translation": ""
+            "translation": "Looks like the wheel is broken.\nIt needs to be replaced. {d}{f}"
         },
         {
             "address": "0x8597f",
@@ -19438,7 +19438,7 @@
             "ptr_val": "0x8",
             "size": 68,
             "text": "あたしはフ゜ラムっていうの。\n盗賊としてのウテ゛には\nちょっとは゛かり自信か゛あるわ。\nと゛う、あたしを仲間にしてみない？{d}{f}",
-            "translation": ""
+            "translation": "I'm Plum!\nI'm pretty confident in\nmy skills as a thief. \nWanna take me with you?{d}{f}"
         },
         {
             "address": "0x9b21c",
@@ -19446,7 +19446,7 @@
             "ptr_val": "0x4c",
             "size": 15,
             "text": "やったあ！\nよろしくねっ。{d}{f}",
-            "translation": ""
+            "translation": "Yay! \nNice ta meetcha. {d}{f}"
         },
         {
             "address": "0x9b22b",
@@ -19454,7 +19454,7 @@
             "ptr_val": "0x5b",
             "size": 7,
             "text": "ちぇっ……{d}{f}",
-            "translation": ""
+            "translation": "Tsk... {d}{f}"
         },
         {
             "address": "0x9b232",
@@ -19462,7 +19462,7 @@
             "ptr_val": "0x62",
             "size": 24,
             "text": "ねぇねぇ、\nハ゜ーティか゛いっは゜いた゛よ。{d}{f}",
-            "translation": ""
+            "translation": "Um,\nyour party's full.{d}{f}"
         }
     ],
     "0x9b24b": [
@@ -19506,7 +19506,7 @@
             "ptr_val": "0x8",
             "size": 58,
             "text": "私の名はシンシア。\n賢者の学院の魔術師て゛す。\n冒険に出られるのなら\nこ゛いっしょさせてくた゛さい。{d}{f}",
-            "translation": ""
+            "translation": "My name is Cynthia. \nI'm a magician from a\nsage's school. May I join \nyour adventure? {d}{f}"
         },
         {
             "address": "0x9b311",
@@ -19514,7 +19514,7 @@
             "ptr_val": "0x42",
             "size": 14,
             "text": "よろしくお願いします。{d}{f}",
-            "translation": ""
+            "translation": "Nice to meet you.{d}{f}"
         },
         {
             "address": "0x9b31f",
@@ -19522,7 +19522,7 @@
             "ptr_val": "0x50",
             "size": 19,
             "text": "そうて゛すか……\n残念て゛す。{d}{f}",
-            "translation": ""
+            "translation": "I see... \nToo bad. {d}{f}"
         },
         {
             "address": "0x9b332",
@@ -19530,7 +19530,7 @@
             "ptr_val": "0x63",
             "size": 23,
             "text": "ハ゜ーティか゛\nいっは゜いのようて゛すね。{d}{f}",
-            "translation": ""
+            "translation": "Seems your party is full.{d}{f}"
         }
     ],
     "0x9b34a": [
@@ -19540,7 +19540,7 @@
             "ptr_val": "0x8",
             "size": 71,
             "text": "私はカ゛イウスという。\nファリスの正義を伝えるため\n各地を旅している。{d}\nともに旅をする仲間を\n探しているのた゛か゛……{d}{f}",
-            "translation": ""
+            "translation": "I am Gaius. \nI travel to spread the \ngreat justice of Pharis. {d}\nI'm searching for allies \nfor my journey... {d}{f}"
         },
         {
             "address": "0x9b399",
@@ -19548,7 +19548,7 @@
             "ptr_val": "0x4f",
             "size": 9,
             "text": "感謝する。{d}{f}",
-            "translation": ""
+            "translation": "Thanks.{d}{f}"
         },
         {
             "address": "0x9b3a2",
@@ -19556,7 +19556,7 @@
             "ptr_val": "0x58",
             "size": 29,
             "text": "そうか。\n気か゛向いたら、\nまた声をかけてくれ。{d}{f}",
-            "translation": ""
+            "translation": "I see. \nCome back if you \nchange your mind. {d}{f}"
         },
         {
             "address": "0x9b3bf",
@@ -19564,7 +19564,7 @@
             "ptr_val": "0x75",
             "size": 26,
             "text": "ハ゜ーティの人数か゛\n多すき゛るようし゛ゃ。{d}{f}",
-            "translation": ""
+            "translation": "Too many people\nin your party.{d}{f}"
         }
     ],
     "0x9b3da": [
@@ -22072,7 +22072,7 @@
             "ptr_val": "0xdb",
             "size": 25,
             "text": "た゛めた゛ね。\n仲間をふやしてから来てくれ。{d}{f}",
-            "translation": ""
+            "translation": "Nope.\nCome back with more allies.{d}{f}"
         }
     ],
     "0x9ea4e": [
@@ -22082,7 +22082,7 @@
             "ptr_val": "0x12",
             "size": 38,
             "text": "つい最近、\n古代王国の遺跡か゛\n見つかったんた゛ってな。{d}{f}",
-            "translation": ""
+            "translation": "Seems they found an\nancient ruin recently.{d}{f}"
         },
         {
             "address": "0x9ea86",
@@ -22364,7 +22364,7 @@
             "ptr_val": "0x9f",
             "size": 77,
             "text": "盗賊キ゛ルト゛には、\nシーフ技能を持った者か゛いないと\n入れてもらえないそ゛。{d}\n冒険するならシーフ技能は\n必要た゛と思うか゛な。{d}{f}",
-            "translation": "Thieves' Guild won't let\nyou in unless you have\nsomeone with the Thief skill. {d}\nIt's a useful skill to have. {d}{f}"
+            "translation": "Thieves' Guild won't let\nyou in unless you have\nsomeone with the Thief skill. {d}\nIt's a useful skill to have\nfor adventurers, I think. {d}{f}"
         },
         {
             "address": "0x9f129",
@@ -22372,7 +22372,7 @@
             "ptr_val": "0xec",
             "size": 49,
             "text": "この街の公衆浴場は有名なんて゛\n行きたいんた゛か゛、\nと゛こにあるんた゛ろうね？{d}{f}",
-            "translation": "This town is famous for its\npublic baths. \nWhere are they, though?{d}{f}"
+            "translation": "This town is famous for its\npublic baths. I can't seem \nto find them, though. {d}{f}"
         },
         {
             "address": "0x9f15a",
@@ -22380,7 +22380,7 @@
             "ptr_val": "0x11d",
             "size": 61,
             "text": "サ゛インに行きたいんた゛けと゛、\n疫病さわき゛て゛入国て゛きないらしいね。\nあんた方、よくここまて゛来れたな。{d}{f}",
-            "translation": "Zain isn't letting anyone in \nbecause of the pandemic. You're \nlucky to have gotten here.{d}{f}"
+            "translation": "Zain isn't letting anyone in \nbecause of the pandemic. You're \nlucky to have made it this far. {d}{f}"
         },
         {
             "address": "0x9f197",
@@ -22388,7 +22388,7 @@
             "ptr_val": "0x15a",
             "size": 43,
             "text": "ト゛レックノールの盗賊キ゛ルト゛には、\nさからわないほうか゛身のためた゛よ。{d}{f}",
-            "translation": "You'd do well to not cross the \nDrecknoll Thieves' Guild. {d}{f}"
+            "translation": "You'd do well to not cross \nDrecknoll's Thieves' Guild. {d}{f}"
         },
         {
             "address": "0x9f1c2",
@@ -22396,7 +22396,7 @@
             "ptr_val": "0x185",
             "size": 33,
             "text": "す゛いふ゛ん危険な旅のようた゛ね。\n顔に書いてあるよ。{d}{f}",
-            "translation": "You must've had quite the\njourney. I can tell.{d}{f}"
+            "translation": "You must've had quite the\njourney. It's written all \nover your faces.{d}{f}"
         }
     ],
     "0x9f1e4": [
@@ -24060,7 +24060,7 @@
             "ptr_val": "0x62",
             "size": 49,
             "text": "神殿には行った？\nケカ゛をなおしてくれたり、\n死んた゛人まて゛生き返らせてくれるのよ。{d}{f}",
-            "translation": ""
+            "translation": "Have you been to a temple? \nThey can heal your wounds\nand revive allies.{d}{f}"
         }
     ],
     "0xa1898": [
